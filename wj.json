@@ -142,7 +142,23 @@
       "quickSearch": 1,
       "filterable": 0
     },    
-    {
+      {
+      "key": "jpys",
+      "name": "金牌影视py",
+      "type": 3,
+      "api": "./py/金牌.py",
+      "style": {
+               "type": "rect",
+               "ratio": 1.567
+           },
+           "ext": {
+               "site": "https://m.fjvtw.com/,
+                        https://cqzuoer.com,
+		        https://m.hhduc.com,
+	                https://www.hellorlgzf7sn.com"
+	   }
+       },
+    {	  
       "key": "音乐仓",
       "name": "音乐仓库",
       "type": 3,
