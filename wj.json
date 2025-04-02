@@ -137,7 +137,7 @@
         },    
         {
             "key": "短剧网",
-            "name": "短剧网短剧",
+            "name": "短剧网XBPQ",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "./lib/短剧网.json"
@@ -175,7 +175,18 @@
             "filterable": 1,
             "playerType": 2
         },	  
-	  {
+        {
+            "key": "猎手影视",
+            "name": "猎手py",
+            "type": 3,
+            "api": "./py/猎手影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },	  
+     {	  
       "key": "红果网页",
       "name": "红果网页py",
       "type": 3,
