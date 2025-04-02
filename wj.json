@@ -217,8 +217,45 @@
       "quickSearch": 1,
       "filterable": 0
     },
-  
-    {
+        {
+            "key": "天天弹幕",
+            "name": "天天弹幕",
+            "type": 3,
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 1,
+            "ext": {
+                "danmu": true,
+                "site": "aHR0cDovL3R0LnlzZHFqcy5jbg=="
+            }
+        },
+        {
+            "key": "热播弹幕",
+            "name": "热播弹幕",
+            "type": 3,
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 1,
+            "ext": {
+                "danmu": true,
+                "site": "aHR0cDovL3YucmJvdHYuY24="
+            }
+        },  
+           {
+            "key": "GUAZI",
+            "name": "瓜子APP",
+            "type": 3,
+            "api": "csp_AppGZ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="
+        }, 
+	  {
       "key": "bilibilimd",
       "name": "哔哩PY",
       "type": 3,
