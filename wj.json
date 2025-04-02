@@ -198,7 +198,7 @@
       "key": "首映网",
       "name": "首映网py",
       "type": 3,
-      "api": "./py首映网.py",
+      "api": "./py/py首映网.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
