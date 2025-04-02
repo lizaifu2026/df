@@ -124,7 +124,58 @@
             "order_num": 0,
             "ext": "./lib/河狸影视[V2].js"
         },	
-      {
+         {
+            "key": "爱看短剧",
+            "name": "爱看短剧py",
+            "type": 3,
+            "api": "./PY/爱看短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },    
+        {
+            "key": "短剧网",
+            "name": "短剧网短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./lib/短剧网.json"
+        },	 
+        {
+            "key": "火车影视",
+            "name": "火车py",
+            "type": 3,
+            "api": "./PY/火车影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "美帕影视",
+            "name": "美帕py",
+            "type": 3,
+            "api": "./PY/美帕影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "嗨皮影视",
+            "name": "嗨皮py",
+            "type": 3,
+            "api": "./PY/嗨皮影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },	  
+	  {
       "key": "红果网页",
       "name": "红果网页py",
       "type": 3,
