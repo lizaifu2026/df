@@ -219,7 +219,7 @@
     },
         {
             "key": "天天弹幕",
-            "name": "天天弹幕",
+            "name": "天天",
             "type": 3,
             "api": "csp_TianTian",
             "searchable": 1,
@@ -233,7 +233,7 @@
         },
         {
             "key": "热播弹幕",
-            "name": "热播弹幕",
+            "name": "热播",
             "type": 3,
             "api": "csp_TianTian",
             "searchable": 1,
