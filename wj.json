@@ -148,7 +148,7 @@
       "key": "红果网页",
       "name": "红果网页py",
       "type": 3,
-      "api": "./lib/红果网页.py",
+      "api": "./py/红果网页.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -157,7 +157,7 @@
       "key": "甜圈短剧",
       "name": "甜圈短剧py",
       "type": 3,
-      "api": "./lib/甜圈短剧.py",
+      "api": "./py/甜圈短剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -189,7 +189,7 @@
       "key": "py_hitv",
       "name": "HitvPY",
       "type": 3,
-      "api": "./lib/py_hitv.py",
+      "api": "./py/py_hitv.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -198,7 +198,7 @@
       "key": "首映网",
       "name": "首映网py",
       "type": 3,
-      "api": "./lib/首映网.py",
+      "api": "./py首映网.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -207,7 +207,7 @@
       "key": "映播.py",
       "name": "映播PY",
       "type": 3,
-      "api": "./lib/映播.py",
+      "api": "./py/映播.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -216,7 +216,7 @@
       "key": "py_荐片py",
       "name": "荐片PY",
       "type": 3,
-      "api": "./lib/荐片.py",
+      "api": "./py/荐片.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -225,7 +225,7 @@
             "key": "酷云py",
             "name": "酷云PY",
             "type": 3,
-            "api": "./lib/酷云.py",
+            "api": "./py/酷云.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -234,7 +234,7 @@
             "key": "光速py",
             "name": "光速PY",
             "type": 3,
-            "api": "./lib/光速.py",
+            "api": "./py/光速.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -331,7 +331,7 @@
            "quickSearch": 1,
            "searchable": 1,
            "type": 3,
-           "api": "./lib/剧多短剧.py"
+           "api": "./py/剧多短剧.py"
        },   
     {
       "key": "面包影视",
