@@ -217,18 +217,10 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "bilibili",
-      "name": "哔哩(1)PY",
-      "type": 3,
-      "api": "./py/bilibili.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },	  
+  
     {
       "key": "bilibilimd",
-      "name": "哔哩(2)PY",
+      "name": "哔哩PY",
       "type": 3,
       "api": "./py/bilibilimd.py",
       "searchable": 1,
