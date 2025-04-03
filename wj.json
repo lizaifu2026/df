@@ -483,16 +483,7 @@
       "filterable": 1,
       "ext": "./lib/蓝莓短剧.js"
     },
-    {	  
-      "key": "js_yt",
-      "name": "影腾影视",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/影腾.js"
-    },   
+ 
     {	  
       "key": "布蕾",
       "name": "布蕾影视",
