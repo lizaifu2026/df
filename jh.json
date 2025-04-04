@@ -5,10 +5,6 @@
       "url": "https://fmbox.cc"
     },   
     {
-      "name": "肥猫线路",
-      "url": "http://肥猫.com"
-    },     
-    {
       "name": "巧计线路",
       "url": "http://cdn.qiaoji8.com/tvbox.json"
     },      
@@ -41,7 +37,8 @@
       "url": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json"
     }     
   ] 
-  }        
+  }     
+      
 
           
  
