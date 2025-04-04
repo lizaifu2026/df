@@ -42,6 +42,18 @@
 { "key": "素白白", "name": "素白白XBPQ", "type":3,"api":"csp_XBPQ", "ext": { "简介" :"剧情介绍:+yp_context\">&&</div>","线路数组":"javascript:void(0);\">&&</a>","播放数组":"paly_list_btn\">&&</div>","分类url":"https://www.subaibai.com/{cateId}/page/{catePg}[https://www.subaibai.com/{cateId}]","分类":"电视剧$tv-drama#国产剧$domestic-drama#欧美剧$american-drama#日韩剧$korean-drama#电影$new-movie#热门电影$hot-month#高分电影$high-movie#动漫电影$cartoon-movie#香港电影$cartoon-movie#动漫剧$anime-drama"}},      
 {"key": "菲克","name": "菲克秒播XBPQ","type": 3,"api": "csp_XBPQ", "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click()","ext": {"请求头":"手机","首页":"0",
 "分类url": "https://freeok.one/vodshow/by/hits/id/{cateId}/page/{catePg}/year/{year}.html;;rcm0","分类": "国产剧$guochanju#电影$dianying#动漫$dongman#短剧$shuangju#综艺$zhongyi#纪录片$jilupian"}},	  
+    {
+      "key": "海纳TV",
+      "name": "海纳XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "https://hainatv.net/",
+        "分类url": "https://hainatv.net/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$59#解说$64"
+      }
+    },	
+  {"key":"iysdq2","name":"影院大全XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}--------{catePg}---.html","分类":"空白$2#电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 
 	  {	 
             "key": "旺旺采集资源",
             "name": "旺旺短剧",
