@@ -54,6 +54,14 @@
       }
     },	
   {"key":"iysdq2","name":"影院大全XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}--------{catePg}---.html","分类":"空白$2#电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 
+  {"key": "臻品","name": "臻品影视","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.zpcxb.com/zptop/area/{area}/{cateId}/page/{catePg}/year/{year}.html","分类":"国产剧$gcj#电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}},
+	
+{"key": "花姐","name": "花姐影视","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.hjietv.com/aa/area/{area}/{cateId}/page/{catePg}/year/{year}.html","分类":"国产剧$gcj#电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}},
+	
+{"key": "小白","name": "小白影视","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.xbaiys.com/xbys/area/{area}/{cateId}/page/{catePg}/year/{year}.html","分类":"国产剧$gcj#电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}},
+	
+{"key": "晴天","name": "晴天影视","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.qinttv.com/qttv/area/{area}/{cateId}/page/{catePg}/year/{year}.html","分类":"国产剧$gcj#电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}},
+		 
 	  {	 
             "key": "旺旺采集资源",
             "name": "旺旺短剧",
