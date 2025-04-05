@@ -66,7 +66,10 @@
 {"key": "小白","name": "小白影视XBPQ","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.xbaiys.com/xbys/area/{area}/{cateId}/page/{catePg}/year/{year}.html","分类":"国产剧$gcj#电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}},
 {"key":"csp_红狐狸","name":"狐狸影视XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},	
 {"key": "晴天","name": "晴天影视XBPQ","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.qinttv.com/qttv/area/{area}/{cateId}/page/{catePg}/year/{year}.html","分类":"国产剧$gcj#电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}},
-{"key":"zj","name":"追剧影视XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$dy#电视剧$dsj#综艺$zy#动漫$dm"}},		 
+{"key": "月亮","name": "月亮影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+      "ext": {"分类url": "https://www.zqzdzj.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电视剧$2#电影$1#综艺$3#动漫$4","数组": "class=\"pack-ykpack\">&&pack-subtitle cor3 hidden","简介": "胜寒提醒:请勿信广告+id=\"cText\">&&</a>",
+        "线路数组": "channelname swiper-slide\">&&</a>","线路标题": "专享+&nbsp;&&<[排序:超清>极速蓝光][不包含:FF线路#蓝光2#蓝光9#蓝光7#XL线路#YH线路#HN线路]"}},	 
 {"key": "花姐影院","name": "花姐影院XBPQ","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"数组": "<li class=\"fed-list-item&&</li>","搜索url": "http://iyiwang.com/search.php?searchword={wd}",
         "分类url":"http://iyiwang.com//search.php?searchtype=5&area={area}&class={class}&by={by}&year={year}&tid={cateId}&yuyan={lang}&page={catePg}","分类": "国产剧&电视剧&电影&综艺&动漫","分类值": "13&2&1&3&4&40"}},	  
 	  {	 
