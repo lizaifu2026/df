@@ -593,36 +593,35 @@
         ]
       }
     },
-{"name":"XY","type":1,"url":"http://121.41.93.205/xiaye.php?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},    
-            {
-                "name": "急速蓝光",
-                "type": "1",
-                "url": "http://121.62.61.51:6888/api/?key=Ktix9ammfJh3QRqCXt&url=",
-                "ext": {
-            	"flags": [
-        "youku",
-        "qq",
-        "QQ",
-        "iqiyi",
-        "qiyi",
-        "letv",
-        "sohu",
-        "pptv",
-        "PPTV",
-        "mgtv",
-        "wasu",
-        "bilibili",
-        "m1905",
-        "seven",
-        "m78"
-        ]
-      }
-    },    
-   {	  	 
-      "name": "解析三",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
-    },
+        {
+            "name": "羊羊",
+            "type": 1,
+            "url": "http://117.50.184.199:94/api.php/?key=1&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
     {	  
       "name": "巧技一",
       "type": 1,
@@ -712,11 +711,35 @@
       "type": 1,
       "url": "http://jxyun.yunqiji.vip/api/?key=DR6KVJNPjkIQpkiyNH&url="
     }, 	 
-    {	  
-      "name": "4K测试2",
-      "type": "1",
-      "url": "http://yunhai.qijiyun.vip/home/api?type=ys&uid=312821&key=acghiotBEGKMOQUX49&url="
-    },	
+        {
+            "name": "夏夜",
+            "type": "1",
+            "url": "http://8.155.50.80/xiaye.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
     {	  
       "name": "虾米",
       "url": "http://drpys.6516789.xyz/parse/虾米?url=",
