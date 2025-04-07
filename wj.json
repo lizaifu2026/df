@@ -75,6 +75,25 @@
     { "key": "优优影视", "name": "优优影视XBPQ", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+剧情简介：</b>&&</p>","数组":"col-md-6 col-sm-4 col-xs-3\">&&</li>","图片":"data-original=\"https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=&&\"","分类url":"https://www.uukan.cc/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$20#电视剧$2#电影$1#动漫$4#综艺$3"}}, 
     { "key": "可可电影", "name": "可可电影XBPQ", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+show-desc\" style=*>&&</div>","副标题":"module-item-note\">&&</div>","图片":"data-original=\"&&\"[替换:amp;>>空]","分类url":"https://www.keke.my/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$20#电视剧$2#电影$1#动漫$4#综艺$3"}},
 {"key": "大师兄","name": "师兄影视XBPQ", "type": 3, "api": "csp_XBPQ", "ext": {"简介": "剧情介绍：&&</p >", "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},	  
+        {
+            "key": "菲儿影视",
+            "name": "菲菲影视",
+            "type": 3,
+            "api": "csp_AppFerr",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn/M3t4AXAKTrZj3tfhm1t/gMT3dOrHqIzUNqLUEOIDMvllTbX6e1hMhB2mfpOaCmHNOL1yBB3SmxNyqXlai90EIpdnwOOgCR9Z+YwCTj6ySjzJ2VBiH3eXeOGcavcNeVRA=="
+        },	  
+        {
+            "key": "私人影视",
+            "name": "私人影视",
+            "type": 3,
+            "api": "csp_Siren"
+        },
+        {
+            "key": "云播影视",
+            "name": "云播影视",
+            "type": 3,
+            "api": "csp_Tvyb"
+        },	  
 	  {	 
             "key": "旺旺采集资源",
             "name": "旺旺短剧",
