@@ -378,7 +378,8 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"	 
-   {	  
+        },
+    {			  
       "key": "bilibilimd",
       "name": "哔哩PY",
       "type": 3,
