@@ -532,7 +532,14 @@
       "api": "./js/drpy2.min.js",
       "ext": "./lib/AQYDM.js"
     },
-    {	  
+    {
+      "key": "步步",
+      "name": "步步1080P",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./lib/ceshi.js"
+    },    
+	  {	  
       "key": "js_蓝莓短剧",
       "name": "蓝莓短剧",
       "type": 3,
