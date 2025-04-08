@@ -18,7 +18,24 @@
       "api": "csp_Douban",
       "searchable": 0
     },
-	  
+    {
+      "key": "天天",
+      "name": "天天1080P",
+      "type": 3,
+      "jar": "./0408.jar;md5;a088e2c45008c883c90894ad94f01356",
+      "quickSearch": 1,	    
+      "api": "csp_AppRJGuard",
+      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
+    },
+    {
+      "key": "热热",
+      "name": "热热1080P",
+      "type": 3,
+      "jar": "./0408.jar;md5;a088e2c45008c883c90894ad94f01356",
+      "quickSearch": 1,	    
+      "api": "csp_AppRJGuard",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
+    },	  
         {
             "key": "菲儿影视",
             "name": "菲菲影视",
@@ -47,28 +64,15 @@
             "searchable": 1,
             "changeable": 1
           },
-          {
-            "key": "热播之家",
-            "name": "热播影视XBPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "主页url": "https://www.rebovod.com/",
-                "数组": "class=\"vod_item mdui-col&&</a>",
-                "标题": "title=\"&&\"",
-                "图片": "data-original=\"&&\"",
-                "链接": "href=\"/index.php/vod/detail/&&.html\"",
-                "链接前缀": "https://www.rebovod.com/index.php/vod/play/",
-                "链接后缀": "/sid/1/nid/1.html",
-                "搜索url": "https://www.rebovod.com/index.php/vod/search.html?wd={wd}",
-                "分类url": "https://www.rebovod.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-                "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他||內地&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&新加坡&其他||內地&港台&日韩&欧美||国产&日本&欧美&其他"
-            }
-        },
+    {
+      "key": "csp_Wwys",
+      "name": "农民1080P",
+      "type": 3,
+      "quickSearch": 1,
+      "jar": "./0408.jar;md5;a088e2c45008c883c90894ad94f01356",
+      "api": "csp_WwysGuard",	    
+      "ext": "https://www.wwgz.cn"
+    },
     {   
       "key": "lmdj",
       "name": "蓝莓短剧py",
@@ -299,7 +303,29 @@
 { "key": "素白白", "name": "素白白XBPQ", "type":3,"api":"csp_XBPQ", "ext": { "简介" :"剧情介绍:+yp_context\">&&</div>","线路数组":"javascript:void(0);\">&&</a>","播放数组":"paly_list_btn\">&&</div>","分类url":"https://www.subaibai.com/{cateId}/page/{catePg}[https://www.subaibai.com/{cateId}]","分类":"电视剧$tv-drama#国产剧$domestic-drama#欧美剧$american-drama#日韩剧$korean-drama#电影$new-movie#热门电影$hot-month#高分电影$high-movie#动漫电影$cartoon-movie#香港电影$cartoon-movie#动漫剧$anime-drama"}},      
 {"key": "菲克","name": "菲克秒播XBPQ","type": 3,"api": "csp_XBPQ", "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click()","ext": {"请求头":"手机","首页":"0",
 "分类url": "https://freeok.one/vodshow/by/hits/id/{cateId}/page/{catePg}/year/{year}.html;;rcm0","分类": "国产剧$guochanju#电影$dianying#动漫$dongman#短剧$shuangju#综艺$zhongyi#纪录片$jilupian"}},	  
-    {
+          {
+            "key": "热播之家",
+            "name": "热播影视XBPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "主页url": "https://www.rebovod.com/",
+                "数组": "class=\"vod_item mdui-col&&</a>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"/index.php/vod/detail/&&.html\"",
+                "链接前缀": "https://www.rebovod.com/index.php/vod/play/",
+                "链接后缀": "/sid/1/nid/1.html",
+                "搜索url": "https://www.rebovod.com/index.php/vod/search.html?wd={wd}",
+                "分类url": "https://www.rebovod.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+                "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他||內地&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&新加坡&其他||內地&港台&日韩&欧美||国产&日本&欧美&其他"
+            }
+        },   
+     {	  
       "key": "海纳TV",
       "name": "海纳XBPQ",
       "type": 3,
