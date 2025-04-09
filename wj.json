@@ -56,6 +56,13 @@
       "filterable": 0,
       "ext": "maHR0cHM6Ly93d3cuc3ViYWliYWkuY29tLw=="
     },	  
+    {
+      "key": "哔哩视频",
+      "name": "哔哩4K",
+      "type": 3,
+      "api":"./js/drpy2.min.js",
+      "ext":"./lib/哔哩视频.js"
+    },	  
 	  {
             "key": "菲儿影视",
             "name": "菲菲影视",
