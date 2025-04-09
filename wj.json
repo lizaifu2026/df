@@ -424,7 +424,16 @@
       "searchable": 1,
       "changeable": 1
     },	 
-       {
+    {
+      "key": "咕咕",
+      "name": "番剧1080P",
+      "type": 3,
+      "quickSearch": 1,
+      "jar": "./0408.jar;md5;a088e2c45008c883c90894ad94f01356",
+      "api": "csp_AppGetGuard",	    
+      "ext": "sHR2rlsfjI4L3t4RXQMknxpaIJpWVf3QzJplZjkP8PMRCMAhDX6EuvKn3nmHvaAsNUZGiKejIkSYz7ryONX2fTpbNlJxpW1MZZY7Zt3lbwTJw/1s2QIhPpqxOmR/0EWAwYNShA0Asl0C1lkcmCbV6PsNna5kYEh7as/WabRCm9KrPTGJu6URWhPGeAaWchMgMYJlwNXFIeA2neoQGplg4A=="
+    },       
+	  {
             "key": "曼波动漫",
             "name": "曼波动漫app",
             "type": 3,
