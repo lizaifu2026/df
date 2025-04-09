@@ -44,6 +44,18 @@
       "quickSearch": 1,	    
       "api": "csp_Gz360Guard"
     },        
+    {
+      "key": "csp_sbb",
+      "name": "素白白影视",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "jar": "./fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f",
+      "searchable": 1,	    
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "maHR0cHM6Ly93d3cuc3ViYWliYWkuY29tLw=="
+    },	  
 	  {
             "key": "菲儿影视",
             "name": "菲菲影视",
