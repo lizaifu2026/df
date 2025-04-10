@@ -10,4 +10,12 @@
       "api": "csp_Douban",
       "searchable": 0
     },
-    
+      {	  
+      "key": "红果网页",
+      "name": "红果网页py",
+      "type": 3,
+      "api": "./py/红果网页.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },     
