@@ -28,4 +28,12 @@
             "searchable": 1,
             "changeable": 1
           },
-    
+     {   
+      "key": "lmdj",
+      "name": "蓝莓短剧py",
+      "type": 3,
+      "api": "./py/蓝莓短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },    
