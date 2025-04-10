@@ -2,3 +2,12 @@
   "spider": "./spider.jar",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "./logo.gif",
+  "sites": [
+    {
+      "key": "豆瓣",
+      "name": "热门短剧欢迎您收视",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
+    
