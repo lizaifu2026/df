@@ -181,10 +181,10 @@
       "changeable": 0
     },	   
       {
-      "key": "nmys",
-      "name": "农民影视py",
+      "key": "gwj",
+      "name": "国外影视py",
       "type": 3,
-      "api": "./py/农民.py",
+      "api": "./py/国外剧APP.py",
       "searchable": 1,        
       "changeable": 1,       
       "quickSearch": 1,       
