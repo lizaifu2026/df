@@ -63,7 +63,16 @@
       "api":"./js/drpy2.min.js",
       "ext":"./lib/哔哩视频.js"
     },	  
-        {
+        
+	{
+	"key": "萝卜影视",
+	"name": "萝卜影视",
+	"type": 3,
+	"api": "csp_Xdai",
+	"playerType": 1,
+	"ext": "jaHR0cHM6Ly9hcGlhcHBsYnlzLmxieXMuY2M6NTY3OHxhcGlhcHBsYnlza2V5MTY4fGFwaWFwcGxieXNrZXkxNjg"
+},
+  {
             "key": "糯米影视",
             "name": "糯米影视",
             "type": 3,
