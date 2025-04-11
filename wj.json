@@ -542,27 +542,23 @@
   ],
   "parses": [
     {
-      "name": "超级解析",
-      "type": "1",
-      "url": "Auto",
+      "name": "巧技三",
+      "type": 1,
+      "url": "https://zy.qiaoji8.com/xiafan.php?url=",
       "ext": {
-        "flags": [
-          "youku",
-          "qq",
-          "QQ",
-          "iqiyi",
-          "qiyi",
-          "letv",
-          "sohu",
-          "pptv",
-          "PPTV",
-          "mgtv",
-          "wasu",
-          "bilibili",
-          "m1905",
-          "seven",
-          "m78"
-        ]
+        "flag": [
+          "QD4K",
+          "iyf",
+          "duanju",
+          "gzcj",
+          "GTV",
+          "GZYS",
+          "weggz",
+          "Ace"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
       }
     },
         {
