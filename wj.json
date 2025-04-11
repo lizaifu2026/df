@@ -105,6 +105,15 @@
             "filterable": 0,
             "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"	 
         },	  
+    {
+      "key": "4k",
+      "name": "QD4K高清",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716",
+      "playerType": 2,	    
+      "ext": "7lj763gg0939795i0678i48hk312jji7g4k69h089ij36j71031154l2k91k151k138612h68842ji"
+    },	  
 	  {
             "key": "菲儿影视",
             "name": "菲菲影视",
