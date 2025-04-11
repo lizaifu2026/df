@@ -171,7 +171,25 @@
       "filterable": 0,
       "changeable": 0
     },	   
-         {
+      {
+      "key": "nmys",
+      "name": "农民影视py",
+      "type": 3,
+      "api": "./py/农民.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },          
+      {
+      "key": "xh",
+      "name": "小红影视py",
+      "type": 3,
+      "api": "./py/小红影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }, 	  
+	  {
             "key": "hipy_js_河狸影视[V2]",
             "name": "河狸影视",
             "type": 3,
