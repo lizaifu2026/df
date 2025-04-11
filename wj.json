@@ -63,7 +63,23 @@
       "api":"./js/drpy2.min.js",
       "ext":"./lib/哔哩视频.js"
     },	  
-        
+{
+        "key": "xjz",
+        "name": "新橘子app",
+        "type": 3,"playerType":2,
+        "api": "./lib/AppYsV2.js",
+        "ext": {
+          "host": "https://aa.ququkan.cc/api.php/v1.vod/",
+          "*": [
+            "http://43.248.118.166:6888/api/?key=ZD7Ucz5WKTWvaOdYtY&url=NBY-XMYAES66b28379265baf44c853954178c1706f391ddeb98d84b78918fb4d95f69e7c5a3d51ee1275a6a89a6425c15e6f6cb740%7Cbee530f66cc7189609f919d694000a22&playerkey=NBY",
+            "http://110.40.137.168:5000/api/jiexi/common?Key=UvRgpXWl9KqGxC8AiQ&url=Ace_Net-6cd6518ba7632adc76987cd3ccd1104215fec246f5b5bdc0a48ececd43652fd298be8d86802762b6cd11fe84a89ec7c856fa61c39dc7d83ed467f89fd1327d2243253e5710cb3948b6fd94b528b35a9cfb21e9&playerkey=Ace",
+	    "http://110.40.40.242:2233/api/?key=7a5478c0dc7c413e83fe0b678761ba98&url="
+	  ],
+          "header": {
+          "User-Agent": "okhttp/3.12.11"
+        }
+        }       
+      },        
 	{
 	"key": "萝卜影视",
 	"name": "萝卜影视",
