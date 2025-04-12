@@ -274,20 +274,20 @@
       "playerType": 2   
     }, 	 
     {
-      "key": "爱瓜TV",
-      "name": "爱瓜TVpy",
+      "key": "悠悠TV",
+      "name": "悠悠py",
       "type": 3,
-      "api": "./py/爱瓜TVAPP.py",
+      "api": "./py/悠悠APP.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0
     },
     {
-      "key": "视觉",
-      "name": "视觉py",
+      "key": "云端",
+      "name": "云端py",
       "type": 3,
-      "api": "./py/视觉APP.py",
+      "api": "./py/云端APP.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
