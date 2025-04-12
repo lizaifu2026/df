@@ -274,37 +274,34 @@
       "playerType": 2   
     }, 	 
     {
-      "key": "绝对影视",
-      "name": "绝对影视py",
+      "key": "爱瓜TV",
+      "name": "爱瓜TVpy",
       "type": 3,
-      "api": "./py/绝对影视.py",
+      "api": "./py/爱瓜TVAPP.py",
       "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
     },
     {
-      "key": "旺旺",
-      "name": "旺旺py",
+      "key": "视觉",
+      "name": "视觉py",
       "type": 3,
-      "api": "./py/旺旺.py",
+      "api": "./py/视觉APP.py",
       "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
     },
     {
-      "key": "哇哇影视",
-      "name": "哇哇py",
+      "key": "火车太顺",
+      "name": "火车太顺py",
       "type": 3,
-      "api": "./py/哇哇APP.py",
+      "api": "./py/火车太顺APP.py",
       "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
     },
     {
       "key": "若惜影视",
