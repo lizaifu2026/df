@@ -274,10 +274,10 @@
       "playerType": 2   
     }, 	 
     {
-      "key": "悠悠TV",
-      "name": "悠悠py",
+      "key": "MiFun",
+      "name": "米饭py",
       "type": 3,
-      "api": "./py/悠悠APP.py",
+      "api": "./py/MiFunAPP.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
