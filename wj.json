@@ -253,6 +253,83 @@
       "filterable": 1,      
       "playerType": 2   
     }, 	 
+    {
+      "key": "绝对影视",
+      "name": "绝对影视py",
+      "type": 3,
+      "api": "./py/绝对影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "旺旺",
+      "name": "旺旺py",
+      "type": 3,
+      "api": "./py/旺旺.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "哇哇影视",
+      "name": "哇哇py",
+      "type": 3,
+      "api": "./py/哇哇APP.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "若惜影视",
+      "name": "若惜py",
+      "type": 3,
+      "api": "./py/若惜追剧APP.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "魔方影视",
+      "name": "魔方py",
+      "type": 3,
+      "api": "./py/魔方影视APP.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "恋鱼影视",
+      "name": "恋鱼py",
+      "type": 3,
+      "api": "./py/恋鱼影视APP.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "边缘影视",
+      "name": "边缘py",
+      "type": 3,
+      "api": "./py/边缘影视APP.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },	  
 	  {
             "key": "hipy_js_河狸影视[V2]",
             "name": "河狸影视",
