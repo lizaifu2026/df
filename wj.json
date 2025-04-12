@@ -242,6 +242,17 @@
       "filterable": 1,      
       "playerType": 2   
     }, 	  
+      {
+      "key": "awdm",
+      "name": "嗷呜动漫py",
+      "type": 3,
+      "api": "./py/嗷呜动漫.py",
+      "searchable": 1,        
+      "changeable": 1,       
+      "quickSearch": 1,       
+      "filterable": 1,      
+      "playerType": 2   
+    }, 	 
 	  {
             "key": "hipy_js_河狸影视[V2]",
             "name": "河狸影视",
