@@ -849,7 +849,12 @@
       "type": 1,
       "url": "http://jxyun.yunqiji.vip/api/?key=DR6KVJNPjkIQpkiyNH&url="
     }, 	 
-        {
+    {
+                "name": "YIYI影视",
+                "type": "1",
+                "url": "http://tv.mianliu1.top/addons/lvdoubox/api.index?id=3&url="
+    }, 	 
+	    {
             "name": "夏夜",
             "type": "1",
             "url": "http://8.155.50.80/xiaye.php?url=",
