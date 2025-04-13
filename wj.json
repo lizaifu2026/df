@@ -174,8 +174,6 @@
       "filterable": 1,
       "ext": "http://cmsff.lyyytv.cn/api.php/app/"
     },	 
-	{ "key": "drpyS_抖短剧APP[短]", "name": "抖音短剧", "type": 4, "api": "https://zhxy.eu.org/api/抖短剧APP[短]", "searchable": 2, "filterable": 1, "quickSearch": 1, "ext": "" },	  
-{ "key": "drpyS_123短剧[搜]", "name": "123短剧[搜索]", "type": 4, "api": "https://zhxy.eu.org/api/123短剧[搜]", "searchable": 1, "filterable": 0, "quickSearch": 1, "ext": "" },	  
 	  {
             "key": "菲儿影视",
             "name": "菲菲影视",
