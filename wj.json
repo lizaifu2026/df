@@ -852,9 +852,8 @@
     {
                 "name": "YIYI影视",
                 "type": "1",
-                "url": "http://tv.mianliu1.top/addons/lvdoubox/api.index?id=3&url=",
-                "ext": ""
-    }, 	 
+                "url": "http://tv.mianliu1.top/addons/lvdoubox/api.index?id=3&url="
+ }, 	 
 	    {
             "name": "夏夜",
             "type": "1",
