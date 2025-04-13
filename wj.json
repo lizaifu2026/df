@@ -176,6 +176,16 @@
       "filterable": 1,
       "ext": "http://cmsff.lyyytv.cn/api.php/app/"
     },	 
+        {
+            "key": "YIYI影视",
+            "name": "YIYI影视TV",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://134.175.165.203:4562/api.php/app/"
+        },	  
 	  {
             "key": "菲儿影视",
             "name": "菲菲影视",
