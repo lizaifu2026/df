@@ -13,7 +13,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "娱乐影视欢迎您收视",
+      "name": "娱乐影视提醒您，不要相信视频中的广告，造成损失，后果自负。",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
