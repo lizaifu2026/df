@@ -57,12 +57,14 @@
       "ext": "maHR0cHM6Ly93d3cuc3ViYWliYWkuY29tLw=="
     },	  
     {
-      "key": "哔哩视频",
-      "name": "哔哩4K",
+      "key": "Wexbiliys",
+      "name": "哔哔影视",
       "type": 3,
-      "api":"./js/drpy2.min.js",
-      "ext":"./lib/哔哩视频.js"
-    },	  
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744383359519/wex.txt;md5;ddddbf25aab88866c674f04d226f279c",  
+      "api": "csp_WexbiliysGuard",	    
+      "searchable": 1,
+      "changeable": 1
+    },  
 {
            "key": "采集影视",
            "name": "采集4K",
