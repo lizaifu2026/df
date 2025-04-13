@@ -359,10 +359,10 @@
             "ext": "./lib/河狸影视[V2].js"
         },  
          {
-            "key": "火车影视",
-            "name": "火车py",
+            "key": "tqdj",
+            "name": "甜圈短剧py",
             "type": 3,
-            "api": "./py/火车影视.py",
+            "api": "./py/甜圈短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
