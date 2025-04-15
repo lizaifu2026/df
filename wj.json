@@ -56,7 +56,18 @@
       "filterable": 0,
       "ext": "maHR0cHM6Ly93d3cuc3ViYWliYWkuY29tLw=="
     },	  
-   {"key":"csp_CZSPP","name":"厂长直连","type":3,"api":"csp_Czsapp","jar": "./fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942463j9j9jh346968hg5ll845ki38473"},    
+    {
+      "key": "csp_CZSPP",
+      "name": "厂长影视",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "jar": "http://cdn.qiaoji8.com/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896",
+      "searchable": 1,	    
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "7lj763gg402i7942463j9j9jh346968hg5ll845ki38473"
+    },
    {	  
       "key": "Wexbiliys",
       "name": "哔哔影视",
@@ -179,7 +190,7 @@
     },	 
 {"key":"采集","name":"SR采集","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"https://app.zzzmxxkj.com/api.php/app/"},	  
 {"key":"小慧","name":"SR小慧","type":1,"api":"http://cms.xiaohui.cyou:1002/api.php/provide/vod/?ac=list","playUrl": "json:http://xiaohui.cyou:1000/api/?key=7ee73e22b404453adc116a403a32e9c8&url="},	  
-{"key":"电影天堂","name":"SR天堂资源","type":1,"api":"http://dyttzy1.tv/api.php/provide/vod/at/json/"},	  
+	  
 {"key": "https://www.ryzyw.com/help/",  "name": "如意资源网",  "type": 0,  "api": "https://cj.rycjapi.com/api.php/provide/vod/at/xml/",  "searchable": 1,  "changeable": 1},	  
 {"key": "https://okzyw9.com/",  "name": "OK资源站",  "type": 1,  "api": "https://okzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "changeable": 1},	 
 {"key": "https://shandianzy.com/",  "name": "闪电资源",  "type": 0,  "api": "https://xsd.sdzyapi.com/api.php/provide/vod/from/sdm3u8/at/xml",  "searchable": 1,  "changeable": 1},	  
