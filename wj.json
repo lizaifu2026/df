@@ -56,7 +56,8 @@
       "filterable": 0,
       "ext": "maHR0cHM6Ly93d3cuc3ViYWliYWkuY29tLw=="
     },	  
-    {
+   {"key":"csp_CZSPP","name":"厂长直连","type":3,"api":"csp_Czsapp","jar": "./fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942463j9j9jh346968hg5ll845ki38473"},    
+   {	  
       "key": "Wexbiliys",
       "name": "哔哔影视",
       "type": 3,
