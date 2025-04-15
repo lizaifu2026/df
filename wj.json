@@ -179,6 +179,19 @@
     },	 
 {"key":"采集","name":"SR采集","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"https://app.zzzmxxkj.com/api.php/app/"},	  
 {"key":"小慧","name":"SR小慧","type":1,"api":"http://cms.xiaohui.cyou:1002/api.php/provide/vod/?ac=list","playUrl": "json:http://xiaohui.cyou:1000/api/?key=7ee73e22b404453adc116a403a32e9c8&url="},	  
+{"key":"电影天堂","name":"SR天堂资源","type":1,"api":"http://dyttzy1.tv/api.php/provide/vod/at/json/"},	  
+{"key": "https://www.ryzyw.com/help/",  "name": "如意资源网",  "type": 0,  "api": "https://cj.rycjapi.com/api.php/provide/vod/at/xml/",  "searchable": 1,  "changeable": 1},	  
+{"key": "https://okzyw9.com/",  "name": "OK资源站",  "type": 1,  "api": "https://okzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "changeable": 1},	 
+{"key": "https://shandianzy.com/",  "name": "闪电资源",  "type": 0,  "api": "https://xsd.sdzyapi.com/api.php/provide/vod/from/sdm3u8/at/xml",  "searchable": 1,  "changeable": 1},	  
+         {
+            "key": "豆瓣采集资源",
+            "name": "豆瓣 | 采集",
+            "type": 1,
+            "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1
+        },	 
 	  {
             "key": "菲儿影视",
             "name": "菲菲影视",
