@@ -168,26 +168,29 @@
       "playerType":2,
       "ext": "http://zhangbokeji.top:291/api.php/app/"
    },	 
-    {
-      "key": "csp_appys_影盒",
-      "name": "影探4K",
+        {
+      "key": "旺旺",
+      "name": "旺旺┃弹幕",
+      "jar": "./custom_spider.jar",
+      "type": 3,		
+      "api": "csp_HBwwgg"
+    },
+        {
+      "key": "奇迹",
+      "name": "奇迹┃弹幕",
       "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cmsyt114.lyyytv.cn/api.php/app/"
-    },	  
+      "jar": "./custom_spider.jar",
+      "api": "csp_HBqiJi",		
+      "ext": "https://www.fjvtw.com"
+    },
     {
-      "key": "csp_appys_网采",
-      "name": "蓝光秒播",
+      "key": "jarcai",
+      "name": "文才┃弹幕",
       "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cmsff.lyyytv.cn/api.php/app/"
-    },	 
+      "jar": "./custom_spider.jar",
+      "api": "csp_Wcai",	    
+      "ext": "https://www.gs4x7nq4.com"
+    },
 {"key":"采集","name":"SR采集","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"https://app.zzzmxxkj.com/api.php/app/"},	  
 {"key":"小慧","name":"SR小慧","type":1,"api":"http://cms.xiaohui.cyou:1002/api.php/provide/vod/?ac=list","playUrl": "json:http://xiaohui.cyou:1000/api/?key=7ee73e22b404453adc116a403a32e9c8&url="},	  
 	  
