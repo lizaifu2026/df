@@ -170,14 +170,14 @@
    },	 
         {
       "key": "旺旺",
-      "name": "旺旺┃弹幕",
+      "name": "旺旺影视",
       "jar": "./custom_spider.jar",
       "type": 3,		
       "api": "csp_HBwwgg"
     },
         {
       "key": "奇迹",
-      "name": "奇迹┃弹幕",
+      "name": "奇迹影视",
       "type": 3,
       "jar": "./custom_spider.jar",
       "api": "csp_HBqiJi",		
@@ -185,7 +185,7 @@
     },
     {
       "key": "jarcai",
-      "name": "文才┃弹幕",
+      "name": "文才影视",
       "type": 3,
       "jar": "./custom_spider.jar",
       "api": "csp_Wcai",	    
