@@ -603,18 +603,13 @@
             "filterable": 0,
             "ext": "jaHR0cHM6Ly94ZmFwcC0xMzA1MzkwMDY1LmNvcy5hcC1ndWFuZ3pob3UubXlxY2xvdWQuY29tL2dldGFwcC50eHR8MXlaMlNwbjlrcm56VktvQ3wxeVoyU3BuOWtybnpWS29DfDEwMA=="
         }, 
-       {
-      "key": "你好帅",
-      "name": "你好短剧XBPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./xmbjm.jar",
-      "ext": {
-        "分类url": "https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html",
-        "分类": "穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan",
-        "播放数组": "<div class=\"sort-item\"&&</div>"
-      }
-    },     
+        {
+            "key": "短剧网",
+            "name": "短剧网XBPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./lib/短剧网.json"
+        },    
     {
       "key": "鬼片之家②",
       "name": "鬼片之家XBPQ",
