@@ -648,7 +648,18 @@
            "type": 3,
            "api": "./py/剧多短剧.py"
        },   
-    {
+   {
+            "key": "河马短剧",
+            "name": "河马短剧",
+            "type": 3,
+            "jar": "./hm2.jar",
+	   "api": "csp_AppHMDJ",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="
+        },   
+    {	 
       "key": "面包影视",
       "name": "面包影视XBPQ",
       "type": 3,
