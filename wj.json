@@ -283,8 +283,30 @@
       "filterable": 1,      
       "playerType": 2         
     },          
+          {
+      "key": "gwj",
+      "name": "国外影视py",
+      "type": 3,
+      "api": "./py/国外剧APP.py",
+      "searchable": 1,        
+      "changeable": 1,       
+      "quickSearch": 1,       
+      "filterable": 1,      
+      "playerType": 2         
+    },            
       {
-      "key": "xh",
+      "key": "gwj",
+      "name": "国外影视py",
+      "type": 3,
+      "api": "./py/国外剧APP.py",
+      "searchable": 1,        
+      "changeable": 1,       
+      "quickSearch": 1,       
+      "filterable": 1,      
+      "playerType": 2         
+    },          	  
+   {   
+      "key": "xh",	      
       "name": "小红影视py",
       "type": 3,
       "api": "./py/小红影视.py",
