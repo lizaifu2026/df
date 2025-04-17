@@ -284,10 +284,10 @@
       "playerType": 2         
     },          
           {
-      "key": "gwj",
-      "name": "国外影视py",
+      "key": "hmdj",
+      "name": "河马短剧py",
       "type": 3,
-      "api": "./py/国外剧APP.py",
+      "api": "./py/河马短剧.py",
       "searchable": 1,        
       "changeable": 1,       
       "quickSearch": 1,       
@@ -295,10 +295,10 @@
       "playerType": 2         
     },            
       {
-      "key": "gwj",
-      "name": "国外影视py",
+      "key": "tldj",
+      "name": "偷乐短剧py",
       "type": 3,
-      "api": "./py/国外剧APP.py",
+      "api": "./py/偷乐短剧.py",
       "searchable": 1,        
       "changeable": 1,       
       "quickSearch": 1,       
