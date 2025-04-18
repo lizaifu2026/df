@@ -68,15 +68,15 @@
       "filterable": 0,
       "ext": "7lj763gg402i7942463j9j9jh346968hg5ll845ki38473"
     },
-   {	  
-      "key": "Wexbiliys",
-      "name": "哔哔影视",
-      "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744383359519/wex.txt;md5;ddddbf25aab88866c674f04d226f279c",  
-      "api": "csp_WexbiliysGuard",	    
+    {
+      "key": "xml_魔爪",
+      "name": "魔爪资源",
+      "type": 1,
+      "api": "https://mozhuazy.com/api.php/provide/vod/",
       "searchable": 1,
-      "changeable": 1
-    },  
+      "quickSearch": 1,
+      "filterable": 1
+    }, 
 {
            "key": "采集影视",
            "name": "采集4K",
