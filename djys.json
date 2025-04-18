@@ -19,6 +19,46 @@
       "quickSearch": 1,
       "filterable": 0
     },     
+    {
+      "key": "drpyS_河马短剧[短]",
+      "name": "河马短剧",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/河马短剧[短]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_南风短剧[短]",
+      "name": "南风短剧",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/南风短剧[短]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_聚合短剧[短]",
+      "name": "聚合短剧",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/聚合短剧[短]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_蓝莓短剧[短]",
+      "name": "蓝莓短剧",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/蓝莓短剧[短]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },	  
 	  {	 
             "key": "旺旺采集资源",
             "name": "旺旺短剧",
