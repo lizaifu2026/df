@@ -738,7 +738,7 @@
     },
 	  {
             "key": "河马短剧",
-            "name": "河马短剧",
+            "name": "河马短剧(壹)",
             "type": 3,
             "jar": "./hm2.jar",
 	   "api": "csp_AppHMDJ",
@@ -789,7 +789,17 @@
       "api": "./js/drpy2.min.js",
       "ext": "./lib/ceshi.js"
     },    
-    {	  	  
+    {
+      "key": "drpyS_河马短剧[短]",
+      "name": "河马短剧(贰)",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/河马短剧[短]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },    
+   {	  	  	  
       "key": "js_蓝莓短剧",
       "name": "蓝莓短剧(贰)",
       "type": 3,
