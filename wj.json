@@ -178,14 +178,24 @@
 	"filterable": 1,
 	"ext": "https://www.rrys.lv/api.php/app/"
 },   
-	  {
+    {
+      "key": "csp_appys_影盒",
+      "name": "影探4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://csyt.lyyytv.cn/api.php/app/"
+    },	  
+   {	  
       "key": "旺旺",
       "name": "旺旺影视",
       "jar": "./custom_spider.jar",
       "type": 3,		
       "api": "csp_HBwwgg"
     },
-        {
+    {      
       "key": "奇迹",
       "name": "奇迹影视",
       "type": 3,
@@ -696,7 +706,37 @@
            "type": 3,
            "api": "./py/剧多短剧.py"
        },   
-   {
+      {
+      "key": "drpyS_南风短剧[短]",
+      "name": "南风短剧",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/南风短剧[短]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_聚合短剧[短]",
+      "name": "聚合短剧",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/聚合短剧[短]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_蓝莓短剧[短]",
+      "name": "蓝莓短剧",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/蓝莓短剧[短]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+	  {
             "key": "河马短剧",
             "name": "河马短剧",
             "type": 3,
