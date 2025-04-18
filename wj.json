@@ -728,7 +728,7 @@
     },
     {
       "key": "drpyS_蓝莓短剧[短]",
-      "name": "蓝莓短剧",
+      "name": "蓝莓短剧(壹)",
       "type": 4,
       "api": "https://zhxy.eu.org/api/蓝莓短剧[短]",
       "searchable": 2,
@@ -791,7 +791,7 @@
     },    
     {	  	  
       "key": "js_蓝莓短剧",
-      "name": "蓝莓短剧",
+      "name": "蓝莓短剧(贰)",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "searchable": 1,
