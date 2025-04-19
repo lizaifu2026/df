@@ -131,7 +131,9 @@
 { "key": "素白白", "name": "素白白XBPQ", "type":3,"api":"csp_XBPQ", "ext": { "简介" :"剧情介绍:+yp_context\">&&</div>","线路数组":"javascript:void(0);\">&&</a>","播放数组":"paly_list_btn\">&&</div>","分类url":"https://www.subaibai.com/{cateId}/page/{catePg}[https://www.subaibai.com/{cateId}]","分类":"电视剧$tv-drama#国产剧$domestic-drama#欧美剧$american-drama#日韩剧$korean-drama#电影$new-movie#热门电影$hot-month#高分电影$high-movie#动漫电影$cartoon-movie#香港电影$cartoon-movie#动漫剧$anime-drama"}},      
 {"key": "菲克","name": "菲克秒播XBPQ","type": 3,"api": "csp_XBPQ", "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click()","ext": {"请求头":"手机","首页":"0",
 "分类url": "https://freeok.one/vodshow/by/hits/id/{cateId}/page/{catePg}/year/{year}.html;;rcm0","分类": "国产剧$guochanju#电影$dianying#动漫$dongman#短剧$shuangju#综艺$zhongyi#纪录片$jilupian"}},	  
-          {
+  {"key":"绿洲","name":"绿洲影视","type":3,"api":"csp_XBPQ","searchable":1,"ext":{"播放链接":"https://www.wclz8888.com/vdplay/+/vdplay/&&.html","播放标题":"+>&&</a>","线路标题":"[排序:DB>HN>SN]","分类url":"https://www.wclz8888.com/vd_show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电视剧&电影&综艺&动漫&网剧","分类值":"2&1&4&3&29"}},        
+ { "key": "随客影视", "name": "随客影视", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+detail-content\" style=*>&&</span>","数组":"stui-vodlist__box\">&&</div>","线路数组":"直接观看</span>&&</h3>","播放数组":"stui-content__playlist&&</ul>", "分类url":"https://www.suike100.com/l-{cateId}-{catePg}--time-{year}-{area}--0.html","分类":"电视剧$2#电影$1#动漫$3#综艺$4"}},    	 
+	  {
             "key": "热播之家",
             "name": "热播影视XBPQ",
             "type": 3,
