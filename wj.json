@@ -865,14 +865,6 @@
       "filterable": 1,
       "ext": "./lib/蓝莓短剧.js"
     },
-    {
-      "key": "享趣",
-      "name": "享趣1080P",
-      "type": 3,
-      "jar": "./0408.jar;md5;a088e2c45008c883c90894ad94f01356",
-      "api": "csp_AppGetGuard",	    
-      "ext": "sHR2rlsfjI4L3t4RXQMknzdNfEmX+jzXPZb/mKHyGEy2TNjdEVXKnEaZcfRUBxi7/nuHzmnprt8K+u6bJZhSGnE60tMgmxrHuYgcW7vPq9rk2vuaIUDPSHUm/i4T6w079JPylMWG75rjEhWmZO6BNHpX+SyayDRv9fun7Lu6t0sxMhXSR3ErwCmwbxtmx0SI"
-    }, 
     {	  
       "key": "布蕾",
       "name": "布蕾影视",
@@ -1502,7 +1494,8 @@
     "cms.qdwght.com",
     "https://material-pro-video-1255975723.cos.ap-beijing.myqcloud.com/group/web/dynamic/video/5434223/tzv5ke/1/1719458980254.mp4"
   ]
-} 	 
+} 
+	 
   
       
 
