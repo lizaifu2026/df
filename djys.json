@@ -90,6 +90,28 @@
       "ext": "./lib/河马短剧.js"
     },    
 	  {
+            "key": "甜圈短剧",
+            "name": "甜圈短剧py",
+            "type": 3,
+            "api": "./py/甜圈短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        }, 	  
+	  {
+            "key": "好帅短剧",
+            "name": "好帅短剧py",
+            "type": 3,
+            "api": "./py/好帅短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        }, 	 
+	  {
             "key": "爱看短剧",
             "name": "爱看短剧py",
             "type": 3,
