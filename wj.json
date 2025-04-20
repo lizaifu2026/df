@@ -638,10 +638,10 @@
       "filterable": 0
     },	  
 	  {
-            "key": "酷云py",
-            "name": "酷云PY",
+            "key": "saohuo",
+            "name": "骚火电影PY",
             "type": 3,
-            "api": "./py/酷云.py",
+            "api": "./py/骚火电影.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
