@@ -619,15 +619,15 @@
       "quickSearch": 1,
       "filterable": 0
     },   
-    {
-      "key": "py_荐片py",
-      "name": "荐片PY",
-      "type": 3,
-      "api": "./py/荐片.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },	
+            {
+            "key": "骚火影视",
+            "name": "骚火影视",
+            "type": 3,
+            "api": "csp_SaoHuo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
     {			  
       "key": "bilibilimd",
       "name": "哔哩PY",
