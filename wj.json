@@ -342,14 +342,13 @@
       "filterable": 0,
       "playUrl": "json:https://jx.zyzqcb.cc/api/?key=QASAA7Ru7XM9PQ4yEj&url="
     } ,   
-     {
+    {
       "key": "相随",
       "name": "相随影视",
       "type": 3,
-      "jar": "./custom_spider.jar",
-      "api": "csp_ApplvDV2",	     
-      "ext": "YUhSMGNEb3ZMelF6TGpJME9DNHhNREF1TVRNMU9qYzJPRGN2WVhCcExuQm9jQzloY0hBdkl5TWphSFIwY0hNNkx5OXNkbVJ2ZFRndU16UTFOamMyTG5oNWVpOWhaR1J2Ym5NdmJIWmtiM1ZpYjNndllYQnBMbWx1WkdWNFAybGtQVFFtZFhKc1BTTWpJMmgwZEhCek9pOHZiSFprYjNVNExqTTBOVFkzTmk1NGVYb3ZZV1JrYjI1ekwyeDJaRzkxWW05NEwyRndhUzVwYm1SbGVEOXBaRDAxSm5WeWJEMD0="
-    },   
+      "api": "csp_ApplvDV2",
+      "ext": "0###WH5hCFZ2WEJ1TGJCeVh+BHZ1B0B4dnZBdGJ+CXpYVAZ2clBObGp1RHVYcVdWcQ5cWn5yTnxLel5YfmEIVnp6AnVPCktRX2VCXWJUTXhIZgV3XFAKeVxfAVxfClBvdWVCW1h+Tld6bV9bBWVRVwFQQmBucUh5X1tBY3FlDGUAW19pYmJVUWp9R2llflJ8AF8EXX5xQnpbD0JbfmlTVwFiAHVcfgh7Zm4Hd18GDFBqWEJgYWFTVwACTnUESwpvdQ4FYFsKDHkAcUNYZQZIV19lWFxyCkhvdgcFc1hlQVd2Bwk="
+    },
     {
       "key": "py_UpFuHn",
       "name": "Hi视频(T4)",
