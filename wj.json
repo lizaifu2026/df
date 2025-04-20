@@ -346,7 +346,8 @@
       "key": "相随",
       "name": "相随影视",
       "type": 3,
-      "api": "csp_ApplvDV2",
+      "jar": "./custom_spider.jar",
+      "api": "csp_ApplvDV2",	   
       "ext": "0###WH5hCFZ2WEJ1TGJCeVh+BHZ1B0B4dnZBdGJ+CXpYVAZ2clBObGp1RHVYcVdWcQ5cWn5yTnxLel5YfmEIVnp6AnVPCktRX2VCXWJUTXhIZgV3XFAKeVxfAVxfClBvdWVCW1h+Tld6bV9bBWVRVwFQQmBucUh5X1tBY3FlDGUAW19pYmJVUWp9R2llflJ8AF8EXX5xQnpbD0JbfmlTVwFiAHVcfgh7Zm4Hd18GDFBqWEJgYWFTVwACTnUESwpvdQ4FYFsKDHkAcUNYZQZIV19lWFxyCkhvdgcFc1hlQVd2Bwk="
     },
     {
