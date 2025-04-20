@@ -782,6 +782,17 @@
       "ext": ""
     },
 	  {
+            "key": "甜圈短剧",
+            "name": "甜圈短剧py",
+            "type": 3,
+            "api": "./py/甜圈短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        }, 	  
+	  {
             "key": "河马短剧",
             "name": "河马短剧(壹)",
             "type": 3,
