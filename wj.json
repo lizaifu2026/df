@@ -180,7 +180,7 @@
 },   
     {
       "key": "影坛",
-      "name": "影坛|弹幕",
+      "name": "影探4K",
       "type": 3,
       "jar": "./custom_spider.jar",
       "api": "csp_ApplvDV2",	    
