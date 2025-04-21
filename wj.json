@@ -179,15 +179,13 @@
 	"ext": "https://www.rrys.lv/api.php/app/"
 },   
     {
-      "key": "csp_appys_影盒",
-      "name": "影探4K",
+      "key": "影坛",
+      "name": "影坛|弹幕",
       "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://csyt.lyyytv.cn/api.php/app/"
-    },	  
+      "jar": "./custom_spider.jar",
+      "api": "csp_ApplvDV2",	    
+      "ext": "0###WH5hCFZ2WEJ1BH1CVFxmQVt+Xw1QamUGdVt9TXkAcUNYZQZPVHp2QmBucU95S3pecARbCFF6dgJ1TwpQVnp1AVtlBktQalsBXX5qTWwAA0JgbnFIeQBbQWNxZQxlAXVcWlh9VFYCW19pYnZVbGp1Q1hhYgF4ZnZDdHJyVVFfW19jYQpuVl9ADQ=="
+    }, 
    {	  
       "key": "旺旺",
       "name": "旺旺影视",
