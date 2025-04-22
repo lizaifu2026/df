@@ -494,7 +494,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
-	"api": "./py/yt4k.py",
+	"api": "./py/yj4k.py",
 	"ext": "http://csjt.lyyytv.cn"
 },
 	  {
