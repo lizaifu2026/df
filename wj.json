@@ -1018,97 +1018,11 @@
       "name": "解析2",
       "type": 1,
       "url": "https://www.tcsbl.cn/api/lib/shuo.php?url="
-    },  
-    {
-      "name": "测试1",
-      "type": 1,
-      "url": "https://dl.love0997.top/ysd.php?key=8P0hrXo2XYJ&url="
-    },     
+    },   
     {
       "name": "测试2",
       "type": 1,
       "url": "http://43.248.100.135:9874/?url="
-    }, 	  
-    {
-      "name": "测试3",
-      "type": 1,
-      "url": "http://jxyun.yunqiji.vip/api/?key=DR6KVJNPjkIQpkiyNH&url="
-    }, 	 
-    {
-                "name": "YIYI影视",
-                "type": "1",
-                "url": "http://tv.mianliu1.top/addons/lvdoubox/api.index?id=3&url="
-     }, 	 
-	    {
-            "name": "夏夜",
-            "type": "1",
-            "url": "http://8.155.50.80/xiaye.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "bilibili",
-                    "1905"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
-    {	  
-      "name": "虾米",
-      "url": "http://drpys.6516789.xyz/parse/虾米?url=",
-      "type": 1,
-      "ext": {
-        "flag": [
-          "qiyi",
-          "imgo",
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "qq 预告及花絮",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "mgtv",
-          "芒果",
-          "sohu",
-          "xigua",
-          "fun",
-          "风行"
-        ]
-      },
-      "header": {
-        "User-Agent": "Mozilla/5.0"
-      }
-    },
-    {
-      "name": "臻享",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
     }
   ],
   "flags": [
