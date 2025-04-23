@@ -282,19 +282,7 @@
                "搜索副标题": "标签:&&</label>",
                "搜索链接": "href=\"&&\""
            }
-       },	  
-{
-      "key": "csp_晴天",
-      "name": "晴天App",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "api": "./py/Appapi.js",
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "aHR0cHM6Ly9hcHBjbXMuc3VuNGsudG9wfGIwMjVkY2Q5YzI4OWNiYjN8YjAyNWRjZDljMjg5Y2JiMw=="
-    },	  
+        }, 
 	  {
             "key": "豆瓣采集资源",
             "name": "豆瓣采集",
