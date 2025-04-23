@@ -137,15 +137,16 @@
             "filterable": 0,
             "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"	 
         },	  
-    {
-      "key": "4k",
-      "name": "QD4K高清",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "./fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716",
-      "playerType": 2,	    
-      "ext": "7lj763gg0939795i0678i48hk312jji7g4k69h089ij36j71031154l2k91k151k138612h68842ji"
-    },	  
+        {
+            "key": "QD4K",
+            "name": "QD4K影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://172.83.156.150:1010/api.php/app/"
+        },	  
     {
       "key": "超前全网",
       "name": "全网采集4K",
@@ -283,6 +284,14 @@
                "搜索链接": "href=\"&&\""
            }
         }, 
+        {
+            "key": "晴天",
+            "name": "晴天APP",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 2,
+            "ext": "jaHR0cHM6Ly9hcHBjbXMuc3VuNGsudG9wfGIwMjVkY2Q5YzI4OWNiYjN8YjAyNWRjZDljMjg5Y2JiMw=="
+        },	 
 	  {
             "key": "豆瓣采集资源",
             "name": "豆瓣采集",
@@ -897,7 +906,7 @@
   ],
   "parses": [
     {
-      "name": "巧技三",
+      "name": "QD4K",
       "type": 1,
       "url": "https://zy.qiaoji8.com/xiafan.php?url=",
       "ext": {
@@ -917,7 +926,7 @@
       }
     },
     {	  
-      "name": "巧技一",
+      "name": "巧技",
       "type": 1,
       "url": "http://zy.qiaoji8.com/neibu.php?url=",
       "ext": {
@@ -991,7 +1000,7 @@
       "url": "https://www.tcsbl.cn/api/lib/shuo.php?url="
     },   
     {
-      "name": "测试2",
+      "name": "娱乐",
       "type": 1,
       "url": "http://43.248.100.135:9874/?url="
     }
