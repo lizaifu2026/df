@@ -768,26 +768,7 @@
            "type": 3,
            "api": "./py/剧多短剧.py"
        },   
-      {
-      "key": "drpyS_南风短剧[短]",
-      "name": "南风短剧",
-      "type": 4,
-      "api": "./lib/南风短剧[短].json",
-      "searchable": 2,
-      "filterable": 0,
-      "quickSearch": 1,
-      "ext": ""
-    },
-    {
-      "key": "drpyS_聚合短剧[短]",
-      "name": "聚合短剧",
-      "type": 4,
-      "api": "./lib/聚合短剧[短].json",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 0,
-      "ext": ""
-    },
+
     {
       "key": "drpyS_蓝莓短剧[短]",
       "name": "蓝莓短剧(壹)",
