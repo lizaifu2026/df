@@ -771,7 +771,17 @@
            "type": 3,
            "api": "./py/剧多短剧.py"
        },   
-
+    {
+      "key": "AppXY",
+      "name": "枫斗短剧",
+      "type": 3.0,
+      "api": "csp_AppXY",
+      "jar": "./枫斗.jar",
+      "playerType": 2.0,	    
+      "searchable": 1.0,
+      "quickSearch": 1.0,
+      "changeable": 1.0
+    },
     {
       "key": "drpyS_蓝莓短剧[短]",
       "name": "蓝莓短剧(壹)",
