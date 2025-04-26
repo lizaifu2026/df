@@ -179,7 +179,17 @@
 	"filterable": 1,
 	"ext": "https://www.rrys.lv/api.php/app/"
 },   
-
+{
+	"key": "csp_yt4k",
+	"name": "影探4K",
+	"type": 3,
+	"api": "csp_yt4k",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "http://csjt.lyyytv.cn/api.php/app/",
+	"jar": "./yt4k.jar"
+}
    {	  
       "key": "旺旺",
       "name": "旺旺影视",
