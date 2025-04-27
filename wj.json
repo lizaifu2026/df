@@ -771,7 +771,14 @@
            "type": 3,
            "api": "./py/剧多短剧.py"
        },   
-
+    {
+      "key": "享趣",
+      "name": "享趣1080P",
+      "type": 3,
+      "jar": "./0426.jar;md5;469b6d2c3b78d1cfa899704f650a916b",
+      "api": "csp_AppGetGuard",	    
+      "ext": "sHR2rlsfjI4L3t4RXQMknzdNfEmX+jzXPZb/mKHyGEy2TNjdEVXKnEaZcfRUBxi7/nuHzmnprt8K+u6bJZhSGnE60tMgmxrHuYgcW7vPq9rk2vuaIUDPSHUm/i4T6w079JPylMWG75rjEhWmZO6BNHpX+SyayDRv9fun7Lu6t0sxMhXSR3ErwCmwbxtmx0SI"
+    },
     {
       "key": "drpyS_蓝莓短剧[短]",
       "name": "蓝莓短剧(壹)",
