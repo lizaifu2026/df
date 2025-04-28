@@ -287,22 +287,14 @@
                "搜索链接": "href=\"&&\""
            }
         }, 
-       {
-      "key": "统一影视",
-      "name": "统一|影视",
+    {
+      "key": "再看",
+      "name": "再看1080P",
       "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-    "数组": "public-list-exp&&</a >",
-    "图片": "data-src=\"&&\"",
-    "标题": "alt=\"&&\"[替换:封面图>>]",
-    "简介": "text cor3\">&&</div>",
-    "线路数组": "fa ds-dianying&&</a >[替换:（点击切换1080P）>>蓝光1080P]",
-    "线路标题": "&nbsp;&&<",
-    "分类url": "https://www.tyys2.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "短剧$41#电影$2#电视剧$1#动漫$3#综艺$4"
-}
-    },   
+      "jar": "./0426.jar;md5;469b6d2c3b78d1cfa899704f650a916b",
+      "api": "csp_AppGetGuard",	    
+      "ext": "sHR2rlsfjI4L3t4RXQMknz+i4ffRorIRZjjcJiBr38z7bvJQDA/gj8tVTCLdlHvgssqNDyUkkSbMM+DLFI84xCpUE24hJxHHQxh/6e5bg7jQ0uWTdELk4IH4xxKtfyyKWbccPYruj7hX+lPSpaWNjk1ibLuC4+KKQSKp68VHdSOka6yGYqgO2DLVooXxfsgtQ79Hg5Uc8KtD5/Oa6cAfcQ=="
+    },
 {
 	"key": "纯净苍穹",
 	"name": "纯净苍穹",
@@ -452,6 +444,13 @@
       "playerType": 2   
     }, 	 
     {
+      "key": "牛牛",
+      "name": "牛牛1080P",
+      "type": 3,
+      "api": "./py/mioaying.py",
+      "ext": ""
+    },    
+    {	  
       "key": "MiFun",
       "name": "米饭py",
       "type": 3,
@@ -798,12 +797,12 @@
            "api": "./py/剧多短剧.py"
        },   
     {
-      "key": "享趣",
-      "name": "享趣1080P",
+      "key": "彼岸",
+      "name": "比岸1080P",
       "type": 3,
       "jar": "./0426.jar;md5;469b6d2c3b78d1cfa899704f650a916b",
       "api": "csp_AppGetGuard",	    
-      "ext": "sHR2rlsfjI4L3t4RXQMknzdNfEmX+jzXPZb/mKHyGEy2TNjdEVXKnEaZcfRUBxi7/nuHzmnprt8K+u6bJZhSGnE60tMgmxrHuYgcW7vPq9rk2vuaIUDPSHUm/i4T6w079JPylMWG75rjEhWmZO6BNHpX+SyayDRv9fun7Lu6t0sxMhXSR3ErwCmwbxtmx0SI"
+      "ext": "sHR2rlsfjI4L3t4RXQMkn0ZmfVTKTXBPRcz0emJNw7ofdKrXcYSsYxd+Wx33O1guTCJnhWT9y6xEgCyBMIw94CLlNGtq6BJEkOVCq9ttOaO9qtIDqVoKWaP64OiREdtupLxA0J7QhaW/aVzqLTYtiBkkFECFOVZMtS4js16Zy5VuzNx7tiA9XJkfVM7fTrZdcY2aXPM6zXmgejmIvi3mUw=="
     },
     {
       "key": "drpyS_蓝莓短剧[短]",
@@ -1017,6 +1016,11 @@
       "url": "https://www.tcsbl.cn/api/lib/shuo.php?url="
     },   
     {
+      "name": "纯净苍穹",
+      "type": 1,
+      "url": "http://156.225.30.142:1001/api/index?parsesId=9&appid=10000&videoUrl="
+    },    
+   {	 
       "name": "娱乐",
       "type": 1,
       "url": "http://43.248.100.135:9874/?url="
