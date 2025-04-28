@@ -359,17 +359,6 @@
       "api": "csp_WwysGuard",	    
       "ext": "https://www.wwgz.cn"
     },
-      {
-      "key": "lonma",
-      "name": "龙马影视",
-      "type": 1,
-      "api": "http://ys.ysystfys.top/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 0,
-      "playUrl": "json:https://jx.zyzqcb.cc/api/?key=QASAA7Ru7XM9PQ4yEj&url="
-    } ,   
     {
       "key": "相随",
       "name": "相随影视",
