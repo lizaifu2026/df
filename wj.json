@@ -287,7 +287,33 @@
                "搜索链接": "href=\"&&\""
            }
         }, 
-        {
+       {
+      "key": "统一影视",
+      "name": "统一|影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+    "数组": "public-list-exp&&</a >",
+    "图片": "data-src=\"&&\"",
+    "标题": "alt=\"&&\"[替换:封面图>>]",
+    "简介": "text cor3\">&&</div>",
+    "线路数组": "fa ds-dianying&&</a >[替换:（点击切换1080P）>>蓝光1080P]",
+    "线路标题": "&nbsp;&&<",
+    "分类url": "https://www.tyys2.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "短剧$41#电影$2#电视剧$1#动漫$3#综艺$4"
+}
+    },   
+{
+	"key": "纯净苍穹",
+	"name": "纯净苍穹",
+	"type": 3,
+	"api": "csp_AppYsV2",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "http:/156.225.30.142:88/api.php/app/"
+},	  
+	  {
             "key": "晴天",
             "name": "晴天APP",
             "type": 3,
