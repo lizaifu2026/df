@@ -966,13 +966,4 @@ NewTV中国功夫,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV
 重庆卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 重庆卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 重温经典,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
-台湾测试,#genre#
-凤凰卫视,http://zb.kklive.top/live/fh/index.m3u8
-凤凰资讯,http://zb.kklive.top/live/zx/index.m3u8
-探索亚洲,http://zb.kklive.top/live/discovery/index.m3u8
-龙祥电影,http://zb.kklive.top/live/lxdy/index.m3u8
-HBOHD,http://zb.kklive.top/live/hbo/index.m3u8
-探索动力,http://zb.kklive.top/live/dmax/index.m3u8
-东森洋片,http://zb.kklive.top/live/dsyp/index.m3u8
-MTV,http://zb.kklive.top/live/mtv/index.m3u8
-中天新闻,http://zb.kklive.top/live/ztxw/index.m3u8
+
