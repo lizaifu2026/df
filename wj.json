@@ -178,14 +178,17 @@
       "type": 3,		
       "api": "csp_HBwwgg"
     },
-    {      
-      "key": "奇迹",
-      "name": "奇迹影视",
+      {
+      "key": "qjys",
+      "name": "奇迹py",
       "type": 3,
-      "jar": "./custom_spider.jar",
-      "api": "csp_HBqiJi",		
-      "ext": "https://www.fjvtw.com"
-    },
+      "api": "./py/奇迹APP.py",
+      "searchable": 1,        
+      "changeable": 1,       
+      "quickSearch": 1,       
+      "filterable": 1,      
+      "playerType": 2         
+    }, 
     {
       "key": "jarcai",
       "name": "文才影视",
