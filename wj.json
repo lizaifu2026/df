@@ -112,14 +112,6 @@
                "动画片"
            ]
        },      
-	{
-	"key": "萝卜影视",
-	"name": "萝卜影视",
-	"type": 3,
-	"api": "csp_Xdai",
-	"playerType": 1,
-	"ext": "jaHR0cHM6Ly9hcGlhcHBsYnlzLmxieXMuY2M6NTY3OHxhcGlhcHBsYnlza2V5MTY4fGFwaWFwcGxieXNrZXkxNjg"
-},
   {
             "key": "糯米影视",
             "name": "糯米影视",
@@ -147,17 +139,6 @@
             "filterable": 1,
             "ext": "http://172.83.156.150:1010/api.php/app/"
         },	  
-    {
-      "key": "超前全网",
-      "name": "全网采集4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-       "filterable": 1,
-      "playerType":2,
-      "ext": "http://zhangbokeji.top:290/api.php/app/"
-   },
    {                    
       "key": "超前全片源",
       "name": "超前全网资源",
