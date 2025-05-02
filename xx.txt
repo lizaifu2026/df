@@ -1,7 +1,7 @@
 {
   "lives": [{
       "name": "小云",
-      "url": "file://tvbus/xyyg.txt",
+      "url": "./xyzb.txt",
       "core": {
         "auth": "local://tvbus",
         "name": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
