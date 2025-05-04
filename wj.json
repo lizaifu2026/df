@@ -858,6 +858,13 @@
       "ext": "./lib/ceshi.js"
     },    
     {
+      "key": "guazi",
+      "name": "瓜子短剧",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./lib/瓜子短剧.js"
+    },      
+    {	  
       "key": "drpyS_河马短剧[短]",
       "name": "河马短剧(贰)",
       "type": 4,
