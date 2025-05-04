@@ -865,14 +865,7 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./lib/ceshi.js"
-    },    
-    {
-      "key": 4K",
-      "name": "AK-av",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./lib/4k-av.js"
-    },   
+    },      
     {	  
       "key": "guazi",
       "name": "瓜子短剧",
