@@ -615,16 +615,7 @@
         "分类": "电影$20#电视剧$39#动漫$46#综艺$47",
         "分类url": "https://www.xyxy.live/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html[]"
       }
-    },
-    {	  
-      "key": "py_hitv",
-      "name": "HitvPY",
-      "type": 3,
-      "api": "./py/py_hitv.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },    
+    },  
     {
       "key": "首映网",
       "name": "首映网py",
