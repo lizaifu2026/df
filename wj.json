@@ -993,12 +993,7 @@
       "name": "解析2",
       "type": 1,
       "url": "https://www.tcsbl.cn/api/lib/shuo.php?url="
-    },   
-    {
-      "name": "纯净苍穹",
-      "type": 1,
-      "url": "http://156.225.30.142:1001/api/index?parsesId=9&appid=10000&videoUrl="
-    },    
+    },      
     {
 	"name": "4k解析",
 	"type": 1,
