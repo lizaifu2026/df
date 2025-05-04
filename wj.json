@@ -643,7 +643,16 @@
       "quickSearch": 1,
       "filterable": 0
     },   
-            {
+    {
+      "key": "柯南.py",
+      "name": "柯南PY",
+      "type": 3,
+      "api": "./py/柯南影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },            
+	  {
             "key": "骚火影视",
             "name": "骚火影视",
             "type": 3,
@@ -858,6 +867,13 @@
       "ext": "./lib/ceshi.js"
     },    
     {
+      "key": 4K",
+      "name": "AK-av",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./lib/4k-av.js"
+    },   
+    {	  
       "key": "guazi",
       "name": "瓜子短剧",
       "type": 3,
