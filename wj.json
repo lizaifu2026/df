@@ -295,22 +295,7 @@
 	"filterable": 1,
 	"ext": "http:/156.225.30.142:88/api.php/app/"
 },	  
-{
-            "key": "橘子",
-            "name": "橘子APP",
-            "type": 3,
-            "quickSearch": 1,
-            "jar": "./fix250411.jar",
-	    "api": "csp_AppGet",
-            "ext": {
-                "url": "https://api1.bffree.cn",
-                "dataKey": "2015692015692015",
-                "dataIv": "2015692015692015",
-                "deviceId": "",
-                "version": "300"
-            }
-        },
-	  {
+        {
             "key": "晴天",
             "name": "晴天APP",
             "type": 3,
