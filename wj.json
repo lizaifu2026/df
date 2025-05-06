@@ -300,7 +300,8 @@
             "name": "橘子APP",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppGet",
+            "jar": "./fix250411.jar",
+	    "api": "csp_AppGet",
             "ext": {
                 "url": "https://api1.bffree.cn",
                 "dataKey": "2015692015692015",
