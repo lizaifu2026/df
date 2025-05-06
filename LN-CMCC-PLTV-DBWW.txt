@@ -315,7 +315,9 @@ CHC影迷电影,http://cmcc.jun1985.vip/PLTV/11/224/3221227490/index.m3u8
 中国教育-3,http://cmcc.jun1985.vip/PLTV/11/224/3221226950/index.m3u8
 中国教育-4,http://cmcc.jun1985.vip/PLTV/11/224/3221226940/index.m3u8
 4K/8K,#genre#
-北京卫视4K,http://cmcc.jun1985.vip/PLTV/11/224/3221227001/index.m3u8
-咪咕视频01-4K,http://cmcc.jun1985.vip/PLTV/11/224/3221227393/index.m3u8
-咪咕视频02-4K,http://cmcc.jun1985.vip/PLTV/11/224/3221227311/index.m3u8
+北京卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227532/index.m3u8
+北京卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227001/index.m3u8
+北京卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227410/index.m3u8
+至臻视界-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227393/index.m3u8
+咪咕音乐-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227311/index.m3u8
 
