@@ -266,6 +266,7 @@ CGTN,http://cmcc.jun1985.vip/PLTV/11/224/3221226172/index.m3u8
 辽宁影视剧,http://cmcc.jun1985.vip/PLTV/11/224/3221226738/index.m3u8
 辽宁影视剧,http://cmcc.jun1985.vip/PLTV/11/224/3221227331/index.m3u8
 阜新教育,http://cmcc.jun1985.vip/PLTV/11/224/3221227498/index.m3u8
+阜新新闻综合,http://cmcc.jun1985.vip/PLTV/11/224/3221227407/index.m3u8
 盘锦都市,http://cmcc.jun1985.vip/PLTV/11/224/3221227495/index.m3u8
 盘锦新闻综合,http://cmcc.jun1985.vip/PLTV/11/224/3221227529/index.m3u8
 沈阳新闻综合,http://cmcc.jun1985.vip/PLTV/11/224/3221226895/index.m3u8
