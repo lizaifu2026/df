@@ -83,7 +83,15 @@
       "quickSearch": 1,
       "filterable": 1
     }, 
-{
+ {
+	"key": "xinjuzi4k",
+	"name": "新橘子",
+	"type": 3,
+	"jar": "./custom_spider.jar",
+	"api": "csp_HBmoou", 
+	"ext": "DyoqWQIrBwMuGysCIwtMEC8rCwAvNQVIIgg9WSwrBw0vCycDICFAAygWJhoGKTxGIQtAHyw7CwwuCycBIBtMES47IQAvNSMFIQg9WiwFMQ8uGCNbJ0kZGQwgPwEJJTxDJxs1Ay8sXAwuCy9bJxs1EzsFA0U4DCBZIDYbWTg7Dw0vNisFJxs1AyxdMUAsJjRbNzYtWi8oLUEvNShZISNFVA"
+}, 
+	  {
            "key": "采集影视",
            "name": "采集4K",
            "type": 1,
