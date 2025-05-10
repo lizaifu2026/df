@@ -83,13 +83,14 @@
       "quickSearch": 1,
       "filterable": 1
     }, 
- {
+{
 	"key": "xinjuzi4k",
-	"name": "新橘子",
+	"name": "新橘子┃App",
 	"type": 3,
-	"jar": "./custom_spider.jar",
-	"api": "csp_HBmoou", 
-	"ext": "DyoqWQIrBwMuGysCIwtMEC8rCwAvNQVIIgg9WSwrBw0vCycDICFAAygWJhoGKTxGIQtAHyw7CwwuCycBIBtMES47IQAvNSMFIQg9WiwFMQ8uGCNbJ0kZGQwgPwEJJTxDJxs1Ay8sXAwuCy9bJxs1EzsFA0U4DCBZIDYbWTg7Dw0vNisFJxs1AyxdMUAsJjRbNzYtWi8oLUEvNShZISNFVA"
+	"api": "csp_Muou",
+	"playerType": 2,
+	"ext": "7lj763gg0939795i0678i481k40hi2i3ghlg840i98j9667000134jg7k591gjjk9j5lg53255g2i7gl2749l3j1h8gi ",
+	"jar": "http://cdn.qiaoji8.com/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896"
 }, 
 	  {
            "key": "采集影视",
