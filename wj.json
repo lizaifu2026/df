@@ -350,14 +350,6 @@
       "ext": "https://www.wwgz.cn"
     },
     {
-      "key": "相随",
-      "name": "相随影视",
-      "type": 3,
-      "jar": "./custom_spider.jar",
-      "api": "csp_ApplvDV2",	    
-      "ext": "0###DyoqWQIrBwMuGz9LIggxWS4sXA0vJS9EIzY1WC4FC0ctJQ1HNzo6GS0BKhoBIldZDSo5HygWJR8DKTwBDSYXHy0VOQ8uCycBISFMESwrKQAvNSMAIQgTXS8VOVoGOSRCPjE1AyhdAEUGKS8HIhtAWSwWXAwsJQlEIzY5Hi0FLQ8sNQEEISYbWTFcPgwAJV5bJxs2BgUnOgItCFZHICYbHCw7IQ0uCysCIBtMES4rIUMvNTtGIAtBGAQnDwABJgZGPlEuEAMrWEg="
-    },
-    {
       "key": "py_UpFuHn",
       "name": "Hi视频(T4)",
       "type": 4,
