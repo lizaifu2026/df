@@ -208,7 +208,15 @@
 {"key": "https://www.ryzyw.com/help/",  "name": "如意资源网",  "type": 0,  "api": "https://cj.rycjapi.com/api.php/provide/vod/at/xml/",  "searchable": 1,  "changeable": 1},	  
 {"key": "https://okzyw9.com/",  "name": "OK资源站",  "type": 1,  "api": "https://okzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "changeable": 1},	 
 {"key": "https://shandianzy.com/",  "name": "闪电资源",  "type": 0,  "api": "https://xsd.sdzyapi.com/api.php/provide/vod/from/sdm3u8/at/xml",  "searchable": 1,  "changeable": 1},	  
-      {
+ {
+	"key": "xinjuzi4k",
+	"name": "新橘子",
+	"type": 3,
+	"jar": "./custom_spider.jar",
+	 "api": "csp_HBmoou",
+	"ext": "DyoqWQIrBwMuGysCIwtMEC8rCwAvNQVIIgg9WSwrBw0vCycDICFAAygWJhoGKTxGIQtAHyw7CwwuCycBIBtMES47IQAvNSMFIQg9WiwFMQ8uGCNbJ0kZGQwgPwEJJTxDJxs1Ay8sXAwuCy9bJxs1EzsFA0U4DCBZIDYbWTg7Dw0vNisFJxs1AyxdMUAsJjRbNzYtWi8oLUEvNShZISNFVA"
+}     
+    {	  
       "key": "ldys",
       "name": "零度影视py",
       "type": 3,
