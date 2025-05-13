@@ -817,17 +817,18 @@
             "filterable": 1,
             "playerType": 2
         }, 	 
-	  {
-            "key": "河马短剧",
-            "name": "河马短剧(壹)",
-            "type": 3,
-            "jar": "./hm2.jar",
-	   "api": "csp_AppHMDJ",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="
-        },   
+    {
+      "key": "csp_追忆",
+      "name": "追忆app",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "api": "./lib/appsharkzhuiyi.js",
+      "playerType": 2,
+      "filterable": 1,
+      "ext":  "aHR0cDovL3p5LnF4cTYuY29tL2FwcC9zeWFwaS50eHQ="
+    },  
     {	 
       "key": "面包影视",
       "name": "面包影视XBPQ",
