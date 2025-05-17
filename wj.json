@@ -132,15 +132,17 @@
             "api": "csp_Wwys",
             "ext": "https://www.wwgz.cn"
         },	  
-	  {
+        {
             "key": "浪酷影视",
-            "name": "浪酷影视",
+            "name": "浪酷｜APP",
             "type": 3,
             "api": "csp_AppRJ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"	 
+            "ext": {
+                "url": "http://v.lkuys.cn"
+            }
         },	  
         {
             "key": "QD4K",
