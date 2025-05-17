@@ -176,17 +176,17 @@
 	"ext": "https://www.rrys.lv/api.php/app/"
 },   
         {
-            "key": "牛马",
-            "name": "牛马｜APP",
+            "key": "橘子",
+            "name": "橘子APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "http://nm.xxxc137.top",
-                "dataKey": "a006661b01bdebbd",
-                "dataIv": "a006661b01bdebbd",
+                "url": "https://api1.bffree.cn",
+                "dataKey": "2015692015692015",
+                "dataIv": "2015692015692015",
                 "deviceId": "",
-                "version": ""
+                "version": "300"
             }
         },
    {	  
@@ -289,14 +289,20 @@
                "搜索链接": "href=\"&&\""
            }
         }, 
-    {
-      "key": "再看",
-      "name": "再看1080P",
-      "type": 3,
-      "jar": "./0426.jar;md5;469b6d2c3b78d1cfa899704f650a916b",
-      "api": "csp_AppGetGuard",	    
-      "ext": "sHR2rlsfjI4L3t4RXQMknz+i4ffRorIRZjjcJiBr38z7bvJQDA/gj8tVTCLdlHvgssqNDyUkkSbMM+DLFI84xCpUE24hJxHHQxh/6e5bg7jQ0uWTdELk4IH4xxKtfyyKWbccPYruj7hX+lPSpaWNjk1ibLuC4+KKQSKp68VHdSOka6yGYqgO2DLVooXxfsgtQ79Hg5Uc8KtD5/Oa6cAfcQ=="
-    },
+        {
+            "key": "在看",
+            "name": "在看APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://149.88.64.161:9525",
+                "dataKey": "123456789ABCDEFG",
+                "dataIv": "123456789ABCDEFG",
+                "deviceId": "",
+                "version": ""
+            }
+        },
 {
 	"key": "纯净苍穹",
 	"name": "纯净苍穹",
