@@ -794,14 +794,20 @@
            "type": 3,
            "api": "./py/剧多短剧.py"
        },   
-    {
-      "key": "彼岸",
-      "name": "比岸1080P",
-      "type": 3,
-      "jar": "./0426.jar;md5;469b6d2c3b78d1cfa899704f650a916b",
-      "api": "csp_AppGetGuard",	    
-      "ext": "sHR2rlsfjI4L3t4RXQMkn0ZmfVTKTXBPRcz0emJNw7ofdKrXcYSsYxd+Wx33O1guTCJnhWT9y6xEgCyBMIw94CLlNGtq6BJEkOVCq9ttOaO9qtIDqVoKWaP64OiREdtupLxA0J7QhaW/aVzqLTYtiBkkFECFOVZMtS4js16Zy5VuzNx7tiA9XJkfVM7fTrZdcY2aXPM6zXmgejmIvi3mUw=="
-    },
+        {
+            "key": "彼岸",
+            "name": "彼岸APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://172.247.44.217:30012",
+                "dataKey": "JLa1oRdL6+eK7@M)",
+                "dataIv": "JLa1oRdL6+eK7@M)",
+                "deviceId": "",
+                "version": ""
+            }
+        },
     {
       "key": "drpyS_蓝莓短剧[短]",
       "name": "蓝莓短剧(壹)",
