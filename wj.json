@@ -317,9 +317,15 @@
             "key": "晴天",
             "name": "晴天APP",
             "type": 3,
-            "api": "csp_Xdai",
-            "playerType": 2,
-            "ext": "jaHR0cHM6Ly9hcHBjbXMuc3VuNGsudG9wfGIwMjVkY2Q5YzI4OWNiYjN8YjAyNWRjZDljMjg5Y2JiMw=="
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://appcms.sun4k.top",
+                "dataKey": "b025dcd9c289cbb3",
+                "dataIv": "b025dcd9c289cbb3",
+                "deviceId": "",
+                "version": ""
+            }
         },	 
 	  {
             "key": "豆瓣采集资源",
@@ -330,12 +336,16 @@
             "searchable": 1,
             "changeable": 1
         },	 
-	  {
+        {
             "key": "菲儿影视",
-            "name": "菲菲影视",
+            "name": "菲儿APP",
             "type": 3,
             "api": "csp_AppFerr",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn/M3t4AXAKTrZj3tfhm1t/gMT3dOrHqIzUNqLUEOIDMvllTbX6e1hMhB2mfpOaCmHNOL1yBB3SmxNyqXlai90EIpdnwOOgCR9Z+YwCTj6ySjzJ2VBiH3eXeOGcavcNeVRA=="
+            "ext": {
+                "url": "https://appcms.freehd.vip",
+                "dataKey": "be5348dfb0c3c283",
+                "dataIv": "5f5449dd14313217"
+            }
         },	  
         {
             "key": "私人影视",
@@ -705,35 +715,48 @@
       "searchable": 1,
       "changeable": 1
     },	 
-    {
-      "key": "咕咕",
-      "name": "番剧1080P",
-      "type": 3,
-      "quickSearch": 1,
-      "jar": "./0408.jar;md5;a088e2c45008c883c90894ad94f01356",
-      "api": "csp_AppGetGuard",	    
-      "ext": "sHR2rlsfjI4L3t4RXQMknxpaIJpWVf3QzJplZjkP8PMRCMAhDX6EuvKn3nmHvaAsNUZGiKejIkSYz7ryONX2fTpbNlJxpW1MZZY7Zt3lbwTJw/1s2QIhPpqxOmR/0EWAwYNShA0Asl0C1lkcmCbV6PsNna5kYEh7as/WabRCm9KrPTGJu6URWhPGeAaWchMgMYJlwNXFIeA2neoQGplg4A=="
-    },       
-	  {
-            "key": "曼波动漫",
-            "name": "曼波动漫app",
-            "type": 3,
-            "api": "csp_Xdai",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "jaHR0cHM6Ly9hcHAub21vZnVuMS50b3AvYXBpLnBocHw2NmRjMzA5Y2JlZWNhNDU0fDY2ZGMzMDljYmVlY2E0NTR8MTAw"
-        },
         {
-            "key": "稀饭动漫",
-            "name": "稀饭动漫app",
+            "key": "咕咕动漫",
+            "name": "咕咕动漫",
             "type": 3,
-            "api": "csp_Xdai",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "jaHR0cHM6Ly94ZmFwcC0xMzA1MzkwMDY1LmNvcy5hcC1ndWFuZ3pob3UubXlxY2xvdWQuY29tL2dldGFwcC50eHR8MXlaMlNwbjlrcm56VktvQ3wxeVoyU3BuOWtybnpWS29DfDEwMA=="
-        }, 
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.gugu3.com",
+                "dataKey": "nKfZ8KX6JTNWRzTD",
+                "dataIv": "nKfZ8KX6JTNWRzTD",
+                "deviceId": "",
+                "version": ""
+            }
+        },      
+       {
+            "key": "曼波动漫",
+            "name": "曼波动漫",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://app.omofun1.top",
+                "dataKey": "66dc309cbeeca454",
+                "dataIv": "66dc309cbeeca454",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+       {
+            "key": "稀饭动漫",
+            "name": "稀饭动漫",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://pzoap.moedot.net",
+                "dataKey": "1yZ2Spn9krnzVKoC",
+                "dataIv": "1yZ2Spn9krnzVKoC",
+                "deviceId": "",
+                "version": ""
+            }
+        },
         {
             "key": "短剧网",
             "name": "短剧网XBPQ",
