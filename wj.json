@@ -475,20 +475,25 @@
                 "jxurl": "https://qqiqiyiyoukumgtvapiappdyyztvjsoni8n2o0z1ws2n7b6v3x8.68.gy:56789"
             }
         },
-        {
-            "key": "主角",
-            "name": "主角APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppMuou",
-            "ext": {
-                "url": "https://vodapp.feiwang.cc",
-                "dataKey": "25f9e794323b4538",
-                "dataIv": "25f9e794323b4538",
-                "jxurl": "https://vod.feiwang.cc"
-            }
-        },
-        {
+    {
+      "key": "主角",
+      "name": "主角App",
+      "type": 3,
+      "api": "csp_Muou",
+      "jar": "./fix250411.jar",
+      "playerType": 2,	    
+      "ext": "7lj763gg402i794qiaoji25i3l85i6h14i9ijilkg1i45gj99j2g6l514l077h26igjkk7ji13806611gh51986l53klijg4"
+    },
+    {
+      "key": "时常",
+      "name": "时常App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./fix250411.jar",
+      "playerType": 2,	    
+      "ext": "7lj763gg0939795i007hi482k80ii2i3ghl084099ij36j70031107l2kg105816139i56g38h03i1j06k4gkk9ll7kl1lk4k8687k55l0g19ggk72j06gg073li1j11"
+    }        
+	  {
             "key": "永夜",
             "name": "永夜APP",
             "type": 3,
