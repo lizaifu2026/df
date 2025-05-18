@@ -134,7 +134,7 @@
         },	  
         {
             "key": "浪酷影视",
-            "name": "浪酷｜APP",
+            "name": "浪酷APP",
             "type": 3,
             "api": "csp_AppRJ",
             "searchable": 1,
@@ -231,17 +231,20 @@
       "filterable": 1,      
       "playerType": 2         
     },	  
-      {
-      "key": "jpp",
-      "name": "剧粑粑py",
-      "type": 3,
-      "api": "./py/剧粑粑.py",
-      "searchable": 1,        
-      "changeable": 1,       
-      "quickSearch": 1,       
-      "filterable": 1,      
-      "playerType": 2         
-    },         
+        {
+            "key": "玉米",
+            "name": "玉米APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.zjc.app",
+                "dataKey": "ab4e9a421675f14b",
+                "dataIv": "ab4e9a421675f14b",
+                "deviceId": "",
+                "version": "442"
+            }
+        },        
 {
            "key": "4K",
            "name": "4K在线",
@@ -303,16 +306,20 @@
                 "version": ""
             }
         },
-{
-	"key": "纯净苍穹",
-	"name": "纯净苍穹",
-	"type": 3,
-	"api": "csp_AppYsV2",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "http:/156.225.30.142:88/api.php/app/"
-},	  
+        {
+            "key": "米兔",
+            "name": "米兔APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://v.tkbot.fun",
+                "dataKey": "d032c12876bc6848",
+                "dataIv": "d032c12876bc6848",
+                "deviceId": "",
+                "version": "200"
+            }
+        },	  
         {
             "key": "晴天",
             "name": "晴天APP",
