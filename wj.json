@@ -480,7 +480,7 @@
       "name": "主角App",
       "type": 3,
       "api": "csp_Muou",
-      "jar": "./fix250411.jar",
+      "jar": "http://cdn.qiaoji8.com/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716",
       "playerType": 2,	    
       "ext": "7lj763gg402i794qiaoji25i3l85i6h14i9ijilkg1i45gj99j2g6l514l077h26igjkk7ji13806611gh51986l53klijg4"
     },
