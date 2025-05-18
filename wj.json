@@ -477,7 +477,7 @@
         },
     {
       "key": "主角",
-      "name": "主角┃App",
+      "name": "主角App",
       "type": 3,
       "api": "csp_Muou",
       "jar": "./fix250410.jar;md5;bb362e424047eec85220dc5aa1066896",
