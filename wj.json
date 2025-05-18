@@ -477,19 +477,19 @@
         },
     {
       "key": "主角",
-      "name": "主角App",
+      "name": "主角┃App",
       "type": 3,
       "api": "csp_Muou",
-      "jar": "http://cdn.qiaoji8.com/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716",
-      "playerType": 2,	    
-      "ext": "7lj763gg402i794qiaoji25i3l85i6h14i9ijilkg1i45gj99j2g6l514l077h26igjkk7ji13806611gh51986l53klijg4"
+      "jar": "./fix250410.jar;md5;bb362e424047eec85220dc5aa1066896",
+      "playerType": 2,    
+      "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
     },
     {
       "key": "时常",
       "name": "时常App",
       "type": 3,
       "api": "csp_Xdai",
-      "jar": "./fix250411.jar",
+      "jar": "./fix250410.jar;md5;bb362e424047eec85220dc5aa1066896",
       "playerType": 2,	    
       "ext": "7lj763gg0939795i007hi482k80ii2i3ghl084099ij36j70031107l2kg105816139i56g38h03i1j06k4gkk9ll7kl1lk4k8687k55l0g19ggk72j06gg073li1j11"
     },        
