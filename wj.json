@@ -700,15 +700,20 @@
       "quickSearch": 1,
       "filterable": 0
     },    
-    {
-      "key": "映播.py",
-      "name": "映播PY",
-      "type": 3,
-      "api": "./py/映播.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },   
+        {
+            "key": "外剧",
+            "name": "外剧APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://guowaiju.com",
+                "dataKey": "7xv16h7qgkrs9b1p",
+                "dataIv": "7xv16h7qgkrs9b1p",
+                "deviceId": "",
+                "version": ""
+            }
+        },   
     {
       "key": "柯南.py",
       "name": "柯南PY",
@@ -863,15 +868,15 @@
       "quickSearch": 1,
       "filterable": 1
     }, 
-    {
-           "key": "py_剧多",
-           "name": "剧多短剧py",
-           "filterable": 1,
-           "quickSearch": 1,
-           "searchable": 1,
-           "type": 3,
-           "api": "./py/剧多短剧.py"
-       },   
+        {
+            "key": "1905",
+            "name": "1905影视",
+            "type": 3,
+            "api": "csp_Web1905",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        },  
         {
             "key": "彼岸",
             "name": "彼岸APP",
