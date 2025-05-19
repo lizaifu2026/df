@@ -221,8 +221,7 @@
 {"key": "https://okzyw9.com/",  "name": "OK资源站",  "type": 1,  "api": "https://okzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "changeable": 1},	 
 {"key": "https://shandianzy.com/",  "name": "闪电资源",  "type": 0,  "api": "https://xsd.sdzyapi.com/api.php/provide/vod/from/sdm3u8/at/xml",  "searchable": 1,  "changeable": 1},	  
 { "key": "素白白", "name": "素白白XBPQ", "type":3,"api":"csp_XBPQ", "ext": { "简介" :"剧情介绍:+yp_context\">&&</div>","线路数组":"javascript:void(0);\">&&</a>","播放数组":"paly_list_btn\">&&</div>","分类url":"https://www.subaibai.com/{cateId}/page/{catePg}[https://www.subaibai.com/{cateId}]","分类":"电视剧$tv-drama#国产剧$domestic-drama#欧美剧$american-drama#日韩剧$korean-drama#电影$new-movie#热门电影$hot-month#高分电影$high-movie#动漫电影$cartoon-movie#香港电影$cartoon-movie#动漫剧$anime-drama"}},           
-{"key": "花姐影院","name": "花姐影院XBPQ","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"数组": "<li class=\"fed-list-item&&</li>","搜索url": "http://iyiwang.com/search.php?searchword={wd}","分类url":"http://iyiwang.com//search.php?searchtype=5&area={area}&class={class}&by={by}&year={year}&tid={cateId}&yuyan={lang}&page={catePg}","分类": "国产剧&电视剧&电影&综艺&动漫","分类值": "13&2&1&3&4&40"}},
-    {	  	  
+   {	  	  
       "key": "ldys",
       "name": "零度影视py",
       "type": 3,
