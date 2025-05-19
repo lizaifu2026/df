@@ -150,10 +150,7 @@
    {"key":"MX动漫","name":"MX动漫XBPQ","type":3,"api":"csp_XBPQ","ext":{"简介":"简介：&&</p >","链接": "href=\"&&\"", "搜索模式": "1","搜索url": "https://www.mxdm9.cc/search/{wd}----------{pg}---.html","分类url":"https://www.mxdm9.cc/show/{cateId}--{class}------{catePg}---{year}.html","分类":"国漫&日漫&动漫电影&欧美动漫","分类值":"guoman&riman&dmdianying&oman"}}, 
   {"key": "小枫","name": "小枫影视XBPQ","type": 3,"api": "csp_XBPQ","ext": {"二次截取": "module-items\"&&id=\"page[替换:module-footer>>module-item]","数组": "module-item-pic&&module-item\"","图片":"data-src=\"&&\"","副标题":"module-item-text\">&&</div>","线路数组":"data-dropdown-value=&&</div>[不包含:视频]","线路标题":"<span>&&</small>[替换:</span><small>>>【]+集】","分类url": "https://kekedy.icu/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类": "电影$1#国产剧$2#综艺$6#短剧$8#纪录片$9"}},      
 {"key": "奇迹","name": "奇迹1080XBPQ","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"二次截取": "module-items\"&&id=\"page[替换:module-footer>>module-item]","数组": "module-item-pic&&module-item module-item-go w16","图片":"data-src=\"&&\"","副标题":"module-item-text\">&&</div>","线路数组":"data-dropdown-value=&&</div>","线路标题":"<span>&&</small>[替换:</span><small>>>【]+集】","播放数组":"scroll-content&&</div>","播放列表":"<a&&</a>","播放标题":"<span>&&</span>","简介":"剧情：&&</div>","分类url": "https://qiji.91by.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html", "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$20"}},	 
-{ "key": "素白白", "name": "素白白XBPQ", "type":3,"api":"csp_XBPQ", "ext": { "简介" :"剧情介绍:+yp_context\">&&</div>","线路数组":"javascript:void(0);\">&&</a>","播放数组":"paly_list_btn\">&&</div>","分类url":"https://www.subaibai.com/{cateId}/page/{catePg}[https://www.subaibai.com/{cateId}]","分类":"电视剧$tv-drama#国产剧$domestic-drama#欧美剧$american-drama#日韩剧$korean-drama#电影$new-movie#热门电影$hot-month#高分电影$high-movie#动漫电影$cartoon-movie#香港电影$cartoon-movie#动漫剧$anime-drama"}},      
-{"key": "菲克","name": "菲克秒播XBPQ","type": 3,"api": "csp_XBPQ", "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click()","ext": {"请求头":"手机","首页":"0",
-"分类url": "https://freeok.one/vodshow/by/hits/id/{cateId}/page/{catePg}/year/{year}.html;;rcm0","分类": "国产剧$guochanju#电影$dianying#动漫$dongman#短剧$shuangju#综艺$zhongyi#纪录片$jilupian"}},	  
-  {"key":"绿洲","name":"绿洲影视","type":3,"api":"csp_XBPQ","searchable":1,"ext":{"播放链接":"https://www.wclz8888.com/vdplay/+/vdplay/&&.html","播放标题":"+>&&</a>","线路标题":"[排序:DB>HN>SN]","分类url":"https://www.wclz8888.com/vd_show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电视剧&电影&综艺&动漫&网剧","分类值":"2&1&4&3&29"}},        
+{ "key": "素白白", "name": "素白白XBPQ", "type":3,"api":"csp_XBPQ", "ext": { "简介" :"剧情介绍:+yp_context\">&&</div>","线路数组":"javascript:void(0);\">&&</a>","播放数组":"paly_list_btn\">&&</div>","分类url":"https://www.subaibai.com/{cateId}/page/{catePg}[https://www.subaibai.com/{cateId}]","分类":"电视剧$tv-drama#国产剧$domestic-drama#欧美剧$american-drama#日韩剧$korean-drama#电影$new-movie#热门电影$hot-month#高分电影$high-movie#动漫电影$cartoon-movie#香港电影$cartoon-movie#动漫剧$anime-drama"}},            
    {
             "key": "七味影院",
             "name": "七味┃影院",
@@ -187,7 +184,7 @@
         },	 
 {
       "key": "随客影视",
-      "name": "🎥｜随客｜影视",
+      "name": "随客影视",
       "type": 3,
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
       "api": "csp_XBPQ",
@@ -212,28 +209,6 @@
           "地区": "大陆&香港&台湾&日本&韩国&泰国&美国&法国&英国&德国&印度&其他"
       }
     },	  
-	  {
-            "key": "热播之家",
-            "name": "热播影视XBPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "主页url": "https://www.rebovod.com/",
-                "数组": "class=\"vod_item mdui-col&&</a>",
-                "标题": "title=\"&&\"",
-                "图片": "data-original=\"&&\"",
-                "链接": "href=\"/index.php/vod/detail/&&.html\"",
-                "链接前缀": "https://www.rebovod.com/index.php/vod/play/",
-                "链接后缀": "/sid/1/nid/1.html",
-                "搜索url": "https://www.rebovod.com/index.php/vod/search.html?wd={wd}",
-                "分类url": "https://www.rebovod.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-                "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他||內地&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&新加坡&其他||內地&港台&日韩&欧美||国产&日本&欧美&其他"
-            }
-        },   
      {	  
       "key": "海纳TV",
       "name": "海纳XBPQ",
@@ -256,16 +231,12 @@
 {"key":"xiaozhen","name":"小镇影视XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},	
 {"key": "小白","name": "小白影视XBPQ","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.xbaiys.com/xbys/area/{area}/{cateId}/page/{catePg}/year/{year}.html","分类":"国产剧$gcj#电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}},
-{"key":"csp_红狐狸","name":"狐狸影视XBPQ","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},	
 {"key": "晴天","name": "晴天影视XBPQ","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.qinttv.com/qttv/area/{area}/{cateId}/page/{catePg}/year/{year}.html","分类":"国产剧$gcj#电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian"}},
 {"key": "月亮","name": "月亮影院XBPQ","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"分类url": "https://www.zqzdzj.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
         "分类": "电视剧$2#电影$1#综艺$3#动漫$4","数组": "class=\"pack-ykpack\">&&pack-subtitle cor3 hidden","简介": "胜寒提醒:请勿信广告+id=\"cText\">&&</a>",
         "线路数组": "channelname swiper-slide\">&&</a>","线路标题": "专享+&nbsp;&&<[排序:超清>极速蓝光][不包含:FF线路#蓝光2#蓝光9#蓝光7#XL线路#YH线路#HN线路]"}},	 
-{"key": "花姐影院","name": "花姐影院XBPQ","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"数组": "<li class=\"fed-list-item&&</li>","搜索url": "http://iyiwang.com/search.php?searchword={wd}",
-        "分类url":"http://iyiwang.com//search.php?searchtype=5&area={area}&class={class}&by={by}&year={year}&tid={cateId}&yuyan={lang}&page={catePg}","分类": "国产剧&电视剧&电影&综艺&动漫","分类值": "13&2&1&3&4&40"}},	  
-    { "key": "优优影视", "name": "优优影视XBPQ", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+剧情简介：</b>&&</p>","数组":"col-md-6 col-sm-4 col-xs-3\">&&</li>","图片":"data-original=\"https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=&&\"","分类url":"https://www.uukan.cc/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$20#电视剧$2#电影$1#动漫$4#综艺$3"}}, 
-    { "key": "可可电影", "name": "可可电影XBPQ", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+show-desc\" style=*>&&</div>","副标题":"module-item-note\">&&</div>","图片":"data-original=\"&&\"[替换:amp;>>空]","分类url":"https://www.keke.my/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$20#电视剧$2#电影$1#动漫$4#综艺$3"}},
+{ "key": "可可电影", "name": "可可电影XBPQ", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+show-desc\" style=*>&&</div>","副标题":"module-item-note\">&&</div>","图片":"data-original=\"&&\"[替换:amp;>>空]","分类url":"https://www.keke.my/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$20#电视剧$2#电影$1#动漫$4#综艺$3"}},
 {"key": "大师兄","name": "师兄影视XBPQ", "type": 3, "api": "csp_XBPQ", "ext": {"简介": "剧情介绍：&&</p >", "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
     { "key": "99短剧", "name": "99短剧", "type":3,"api":"csp_XBPQ", "ext": {"副标题":"hl-lc-1 remarks\">&&</span>","线路数组":"hl-tabs-btn hl-slide-swiper&&</a>","分类url":"https://17zci.com/8mqshow/{cateId}/page/{catePg}.html","分类":"现代言情$1#都市日常$2#古代言情$3#"}},        
         {
