@@ -895,6 +895,26 @@
       "quickSearch": 1,
       "ext": ""
     },
+    {
+      "key": "drpyS_短剧库[短]",
+      "name": "剧库┃短剧",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/短剧库[短]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_星芽短剧[短]",
+      "name": "星芽┃短剧",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/星芽短剧[短]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": ""
+    },	 
 	  {
             "key": "甜圈短剧",
             "name": "甜圈短剧py",
@@ -980,7 +1000,7 @@
     },      
     {	  
       "key": "drpyS_河马短剧[短]",
-      "name": "河马短剧(贰)",
+      "name": "河马短剧",
       "type": 4,
       "api": "https://zhxy.eu.org/api/河马短剧[短]",
       "searchable": 2,
