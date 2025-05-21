@@ -897,7 +897,7 @@
     },
     {
       "key": "drpyS_短剧库[短]",
-      "name": "剧库┃短剧",
+      "name": "剧库短剧",
       "type": 4,
       "api": "https://zhxy.eu.org/api/短剧库[短]",
       "searchable": 2,
@@ -907,7 +907,7 @@
     },
     {
       "key": "drpyS_星芽短剧[短]",
-      "name": "星芽┃短剧",
+      "name": "星芽短剧（壹）",
       "type": 4,
       "api": "https://zhxy.eu.org/api/星芽短剧[短]",
       "searchable": 2,
@@ -1032,7 +1032,7 @@
     },
    {	  
       "key": "星芽短剧",
-      "name": "星芽短剧",
+      "name": "星芽短剧（贰）",
       "type": 3,
       "api": "csp_AppXY",
       "searchable": 1,
