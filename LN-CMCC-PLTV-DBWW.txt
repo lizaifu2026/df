@@ -1,4 +1,4 @@
-辽宁网通 央视（支持时移与回看）,#genre#
+辽宁网通 央视（不支持时移与回看）,#genre#
 CCTV-1综合,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226721/index.m3u8,$FHD
 CCTV-1综合,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227209/index.m3u8,$FHD
 CCTV-1综合,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226721/index.m3u8,$FHD
@@ -91,7 +91,7 @@ CCTV-5+体育赛事,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224
 CCTV-5+体育赛事,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227236/index.m3u8,$FHD
 CCTV-5+体育赛事,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226910/index.m3u8,$SD
 CCTV-5+体育赛事,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226910/index.m3u8,$SD
-辽宁网通 卫视（支持时移与回看）,#genre#
+辽宁网通 卫视（不支持时移与回看）,#genre#
 安徽卫视,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226746/index.m3u8,$FHD
 安徽卫视,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227233/index.m3u8,$FHD
 安徽卫视,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226746/index.m3u8,$FHD
@@ -236,7 +236,7 @@ CCTV-5+体育赛事,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224
 山东教育卫视,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227166/index.m3u8,$SD
 中国教育-1,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226732/index.m3u8,$SD
 中国教育-1,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226732/index.m3u8,$SD
-辽宁网通 咪咕（支持时移与回看）,#genre#
+辽宁网通 咪咕（不支持时移与回看）,#genre#
 咪咕视频01,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227308/index.m3u8,$FHD
 咪咕视频01,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227308/index.m3u8,$FHD
 咪咕视频02,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227314/index.m3u8,$FHD
@@ -301,7 +301,7 @@ CCTV-5+体育赛事,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224
 咪咕视频31,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227299/index.m3u8,$FHD
 咪咕视频32,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227302/index.m3u8,$FHD
 咪咕视频32,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227302/index.m3u8,$FHD
-辽宁网通 辽宁本地（支持时移与回看）,#genre#
+辽宁网通 辽宁本地（不支持时移与回看）,#genre#
 辽宁卫视,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226731/index.m3u8,$FHD
 辽宁卫视,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227242/index.m3u8,$FHD
 辽宁卫视,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226731/index.m3u8,$FHD
@@ -348,7 +348,7 @@ CCTV-5+体育赛事,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224
 沈阳新闻综合,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227315/index.m3u8,$FHD
 沈阳新闻综合,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226895/index.m3u8,$FHD
 沈阳新闻综合,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227315/index.m3u8,$FHD
-辽宁网通 购物（支持时移与回看）,#genre#
+辽宁网通 购物（不支持时移与回看）,#genre#
 宜佳购物,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226884/index.m3u8,$FHD
 宜佳购物,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227309/index.m3u8,$FHD
 央广购物,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227105/index.m3u8,$SD
@@ -359,7 +359,7 @@ CCTV-5+体育赛事,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224
 优购物,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227335/index.m3u8,$SD
 聚鲨环球精选,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227044/index.m3u8,$SD
 聚鲨环球精选,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227044/index.m3u8,$SD
-辽宁网通 动漫（支持时移与回看）,#genre#
+辽宁网通 动漫（不支持时移与回看）,#genre#
 新动漫,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226818/index.m3u8,$FHD
 新动漫,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226818/index.m3u8,$FHD
 金鹰卡通,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226845/index.m3u8,$FHD
@@ -370,7 +370,7 @@ CCTV-5+体育赛事,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224
 嘉佳卡通,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226744/index.m3u8,$SD
 优漫卡通,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226768/index.m3u8,$SD
 优漫卡通,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226768/index.m3u8,$SD
-辽宁网通 数字（支持时移与回看）,#genre#
+辽宁网通 数字（不支持时移与回看）,#genre#
 CCTV-第一剧场,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227444/index.m3u8,$FHD
 CCTV-第一剧场,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227444/index.m3u8,$FHD
 CCTV-风云剧场,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227447/index.m3u8,$FHD
