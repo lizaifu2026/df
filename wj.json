@@ -232,7 +232,30 @@
       "filterable": 1,      
       "playerType": 2         
     },	  
-        {
+ {
+           "key": "趣看",
+           "name": "趣看APP",
+           "type": 3,
+           "quickSearch": 1,
+           "api": "csp_AppMuou",
+           "ext": {
+               "url": "https://xjuzi.top",
+               "dataKey": "6a482a70b80eefc9",
+               "dataIv": "c995826a3e86fedd",
+               "jxurl": "https://www.ququkan.cc"
+           }
+       },      
+{
+           "key": "番喜",
+           "name": "番喜搜索",
+           "type": 3,
+           "api": "csp_qiao2",
+           "jar": "http://cdn.qiaoji8.com/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f";,
+           "playerType": 2,
+           "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743396867051/cksp.txt";
+       },	  
+{"key": "黑木耳","name": "黑木耳","type": 1,"api": "https://json.heimuer.tv/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"categories":["国产剧","欧美剧","港剧","韩剧","台剧","日剧","其他剧","泰剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","惊悚片","犯罪片","国产动漫","日本动漫","欧美动漫","国产综艺","日本综艺","欧美综艺"]},	 
+	  {
             "key": "玉米",
             "name": "玉米APP",
             "type": 3,
