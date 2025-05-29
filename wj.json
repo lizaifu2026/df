@@ -98,9 +98,8 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "http://cms.lygdyy.cn/api.php/app/"},	
-   {"key": "csp_appys_天堂","name": "电影天堂","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,
-   "ext": "http://cszz.lyyytv.cn/api.php/app/"},	  
-    {
+   {"key": "csp_appys_天堂","name": "电影天堂","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cszz.lyyytv.cn/api.php/app/"},
+  {  	 
       "key": "csp_Quanwk",
       "name": "全看影视",
       "type": 3,
@@ -118,7 +117,8 @@
     {
       "key": "csp_Jpys",
       "name": "奥运金牌影视",
-      "type": 3,
+      "jar": "./fm.jar;md5;b40f328ddc5becefbfca81db7bdca250",
+      "type": 3,	    
       "api": "csp_Jpys"
     },	  
 	  {
