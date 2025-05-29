@@ -90,6 +90,14 @@
       "quickSearch": 1,
       "filterable": 1
     },  
+   {"key": "csp_appys_臻彩",
+   "name": "臻彩世界",
+   "type": 3,
+   "api": "csp_AppYsV2",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "http://cms.lygdyy.cn/api.php/app/"},	
 	  {
            "key": "采集影视",
            "name": "采集4K",
