@@ -111,7 +111,6 @@
     {
       "key": "csp_Jpys",
       "name": "奥运金牌影视",
-      "jar": "./fm.jar;md5;b40f328ddc5becefbfca81db7bdca250",
       "type": 3,	    
       "api": "csp_Jpys"
     },	  
