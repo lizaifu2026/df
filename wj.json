@@ -100,6 +100,27 @@
    "ext": "http://cms.lygdyy.cn/api.php/app/"},	
    {"key": "csp_appys_天堂","name": "电影天堂","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,
    "ext": "http://cszz.lyyytv.cn/api.php/app/"},	  
+    {
+      "key": "csp_Quanwk",
+      "name": "全看影视",
+      "type": 3,
+      "api": "csp_Quanwk",
+      "ext": "https://www.91qkw.com"
+    },	 
+    {
+      "key": "荐片",
+      "name": "荐片影视",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "playerType": "2",
+      "ext": "http://api2.rinhome.com"
+    },	 
+    {
+      "key": "csp_Jpys",
+      "name": "奥运金牌影视",
+      "type": 3,
+      "api": "csp_Jpys"
+    },	  
 	  {
            "key": "采集影视",
            "name": "采集4K",
