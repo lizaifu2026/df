@@ -937,17 +937,7 @@
       "quickSearch": 1,
       "ext": ""
     },
-    {
-      "key": "drpyS_短剧库[短]",
-      "name": "剧库短剧",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/短剧库[短]",
-      "searchable": 2,
-      "filterable": 0,
-      "quickSearch": 0,
-      "ext": ""
-    },
-    {
+{
       "key": "drpyS_星芽短剧[短]",
       "name": "星芽短剧（壹）",
       "type": 4,
@@ -979,19 +969,7 @@
             "filterable": 1,
             "playerType": 2
         }, 	 
-    {
-      "key": "csp_追忆",
-      "name": "追忆app",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "api": "./lib/appsharkzhuiyi.js",
-      "playerType": 2,
-      "filterable": 1,
-      "ext":  "aHR0cDovL3p5LnF4cTYuY29tL2FwcC9zeWFwaS50eHQ="
-    },  
-    {	 
+{	 
       "key": "面包影视",
       "name": "面包影视XBPQ",
       "type": 3,
