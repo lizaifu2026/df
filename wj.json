@@ -216,7 +216,7 @@
    {	  
       "key": "旺旺",
       "name": "旺旺影视",
-      "jar": "./custom_spider.jar",
+      "jar": "http://103.45.162.207:25252/tvbox/custom_spider.jar",
       "type": 3,		
       "api": "csp_HBwwgg"
     },
