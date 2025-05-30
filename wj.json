@@ -213,14 +213,7 @@
                 "version": "300"
             }
         },
-   {	  
-      "key": "旺旺",
-      "name": "旺旺影视",
-      "jar": "http://103.45.162.207:25252/tvbox/custom_spider.jar",
-      "type": 3,		
-      "api": "csp_HBwwgg"
-    },
-      {
+   {
       "key": "qjys",
       "name": "奇迹py",
       "type": 3,
