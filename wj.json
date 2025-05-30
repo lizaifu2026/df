@@ -199,7 +199,22 @@
 	"filterable": 1,
 	"ext": "https://www.rrys.lv/api.php/app/"
 },   
-        {
+      {
+       "key": "旺旺",
+       "name": "旺旺影视",
+       "type": 3,
+       "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar",
+       "api": "csp_HBwwgg"	      
+    },      
+    {
+      "key": "追忆",
+      "name": "追忆影视",
+      "type": 3,
+      "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar",
+      "api": "csp_HBv1Class",	   
+      "ext": "DyoqWQInJUMuGFcDDzo5HCw7IQ8BJihEIg82HC0VLUEsJQkBIDY9ESwrKQMHDBlHCwwTHAUnAEU="
+    },	  
+	  {
             "key": "橘子",
             "name": "橘子APP",
             "type": 3,
