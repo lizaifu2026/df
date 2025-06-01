@@ -123,6 +123,16 @@
       "type": 3,	    
       "api": "csp_Jpys"
     },	  
+{
+     "key": "csp_剧下饭",
+     "name": "剧下饭4K",
+     "type": 3,
+     "api": "csp_AppYs",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "ext": "http://jxfmax.juxiafan.com/icciu_api.php/v1.vod";
+   },	 
 	  {
            "key": "采集影视",
            "name": "采集4K",
