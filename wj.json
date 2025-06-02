@@ -116,10 +116,12 @@
     },	 
     {
       "key": "csp_Jpys",
-      "name": "奥运金牌影视",
-      "type": 3,	    
+      "name": "金牌1080P",
+      "type": 3,
+      "jar": "./0530-1.jar;md5;e95605abf174b6c0fc155c7247aa0bdb",
+      "quickSearch": 1,	    
       "api": "csp_Jpys"
-    },	  
+    },  
 {
      "key": "csp_剧下饭",
      "name": "剧下饭4K",
