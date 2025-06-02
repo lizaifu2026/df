@@ -267,7 +267,16 @@
       "ext": "https://www.gs4x7nq4.com"
     },
 	  { "key": "素白白", "name": "素白白XBPQ", "type":3,"api":"csp_XBPQ", "ext": { "简介" :"剧情介绍:+yp_context\">&&</div>","线路数组":"javascript:void(0);\">&&</a>","播放数组":"paly_list_btn\">&&</div>","分类url":"https://www.subaibai.com/{cateId}/page/{catePg}[https://www.subaibai.com/{cateId}]","分类":"电视剧$tv-drama#国产剧$domestic-drama#欧美剧$american-drama#日韩剧$korean-drama#电影$new-movie#热门电影$hot-month#高分电影$high-movie#动漫电影$cartoon-movie#香港电影$cartoon-movie#动漫剧$anime-drama"}},           
-   {	  	  
+        { "key": "卡卡影院", "name": "卡卡影院", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+简介：&&</p>","分类url":"https://mkaka.china-mt.org/{cateId}/index_{catePg}.html[https://mkaka.china-mt.org/{cateId}/index.html]","分类":"国漫$china#日漫$japan#韩剧$korea#日剧$riju#福利$lunlipian"}},      
+	  {
+           "key": "剧圈圈",
+           "name": "剧圈｜圈",
+           "type":3,
+           "api":"csp_XBPQ",
+           "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+           "ext": {"请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","简介":"+module-info-introduction-content\">&&</div>","线路数组":"[不包含:蓝光#超清#线路]","分类url":"https://www.jqqzx.me/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$dianying#电视剧$juji#动漫$dongman#综艺$zongyi#短剧$shuangju"}
+        },
+     {	  	  	  
       "key": "ldys",
       "name": "零度影视py",
       "type": 3,
