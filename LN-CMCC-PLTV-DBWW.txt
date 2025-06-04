@@ -778,5 +778,5 @@ CCTV5+咪咕,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888
 央广购物暂定3,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236318/index.m3u8?IAS
 凤凰资讯8M,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8?guaba
 电影台,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/index.m3u8?guaba
-未知台1,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236208/index.m3u8?guaba
-未知台2,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236545/index.m3u8?guaba
+戏剧台,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236208/index.m3u8?guaba
+中国移动咪咕,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236545/index.m3u8?guaba
