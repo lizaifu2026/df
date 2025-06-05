@@ -246,17 +246,34 @@
                 "version": "300"
             }
         },
-   {
-      "key": "qjys",
-      "name": "奇迹py",
-      "type": 3,
-      "api": "./py/奇迹APP.py",
-      "searchable": 1,        
-      "changeable": 1,       
-      "quickSearch": 1,       
-      "filterable": 1,      
-      "playerType": 2         
-    }, 
+        {
+            "key": "水滴",
+            "name": "水滴APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "http://1.94.105.93",
+                "dataKey": "gKdQKLbwhhLp4Ytv",
+                "dataIv": "gKdQKLbwhhLp4Ytv",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "咖啡",
+            "name": "咖啡APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "http://160.202.243.62:2566",
+                "dataKey": "qwertyuiopqwerty",
+                "dataIv": "qwertyuiopqwerty",
+                "deviceId": "",
+                "version": "120"
+            }
+        },
     {
       "key": "jarcai",
       "name": "文才影视",
@@ -306,53 +323,20 @@
                 "version": "442"
             }
         },        
-{
-           "key": "4K",
-           "name": "4K在线",
-           "type": 3,
-           "searchable": 1,
-           "quickSearch": 1,
-           "changeable": 1,
-           "playerType": "2",
-           "api": "csp_XBPQ",
-           "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-           "ext": {
-               "请求头": "User-Agent : Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
-               "编码": "UTF-8",
-               "主页url": "https://4k-av.com",
-               "首页": "120",
-               "起始页": "1",
-               "分类url": "/{cateId}{class}/page-{catePg}.html[https://4k-av.com/{cateId}{class}];;rcS1",
-               "分类": "电影&剧集",
-               "分类值": "movie&tv",
-               "数组": "tags\">&&</a>",
-               "标题": "alt=\"&&海报",
-               "图片": "src=\"&&\"",
-               "副标题": "标签:&&</label>",
-               "链接": "href=\"&&\"",
-               "影片年代": "年份:&&</a>",
-               "影片地区": "片长:&&</label>",
-               "影片类型": "标签:&&</div>",
-               "状态": "videodetail\">&&</label>",
-               "简介": "cnline\">&&</p>",
-               "线路数组": "videoinfo\">&&</div>",
-               "线路标题": "4K在线",
-               "播放二次截取": "infomain\">&&reidnull[替换:href>>rtlist\"><img<span>第1集</span>src#poster.jpg>>\"</li></ul>]",
-               "播放数组": "rtlist\">&&</ul>",
-               "倒序": "0",
-               "播放列表": "<img&&</li>[替换:screenshot.jpg>>空]",
-               "播放标题": "<span*>&&</span>",
-               "播放链接": "src=\"&&\"",
-               "跳转播放链接": "<source src=\"&&\"",
-               "搜索请求头": "User-Agent : Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
-               "搜索url": "/s?q={wd}",
-               "搜索模式": "1",
-               "搜索标题": "title=\"&&/",
-               "搜索图片": "src=\"&&\"",
-               "搜索副标题": "标签:&&</label>",
-               "搜索链接": "href=\"&&\""
-           }
-        }, 
+        {
+            "key": "忍者",
+            "name": "忍者APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://mfxs123.sbs",
+                "dataKey": "1234567887654321",
+                "dataIv": "1234567887654321",
+                "deviceId": "",
+                "version": ""
+            }
+        },
         {
             "key": "在看",
             "name": "在看APP",
@@ -623,14 +607,14 @@
       "filterable": 1,
       "playerType": 2
     },	  
-        {
+       {
             "key": "优质",
             "name": "优质APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "https://apiapplbys.lbys.cc:5678",
+                "url": "https://apiapplbys.lbys.app:5678",
                 "dataKey": "apiapplbyskey168",
                 "dataIv": "apiapplbyskey168",
                 "deviceId": "",
@@ -660,17 +644,17 @@
             "playerType": 2
         },
         {
-            "key": "木叶",
-            "name": "木叶APP",
+            "key": "诺雪",
+            "name": "诺雪APP",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppGet",
+            "api": "csp_AppGet2",
             "ext": {
-                "url": "http://46.203.125.54:2663",
-                "dataKey": "RuN9LRvwTRgpQnpK",
-                "dataIv": "RuN9LRvwTRgpQnpK",
+                "url": "https://qjappcms.rx4k.top",
+                "dataKey": "ZX10ysTYZWtIJCTU",
+                "dataIv": "ZX10ysTYZWtIJCTU",
                 "deviceId": "",
-                "version": "547"
+                "version": "120"
             }
         },
         {
