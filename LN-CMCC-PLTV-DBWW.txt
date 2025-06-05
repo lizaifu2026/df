@@ -396,6 +396,7 @@ CCTV-怀旧剧场,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3
 睛彩篮球,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227478/index.m3u8,$FHD
 睛彩青少,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8,$FHD
 睛彩青少,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8,$FHD
+凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 浙江直播,#genre#
 CCTV-1 1080,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8?IAS
 CCTV-1 1080,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236254/index.m3u8?IAS
@@ -775,3 +776,4 @@ CCTV5+咪咕,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888
 电影台,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/index.m3u8?guaba
 戏剧台,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236208/index.m3u8?guaba
 中国移动咪咕,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236545/index.m3u8?guaba
+凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
