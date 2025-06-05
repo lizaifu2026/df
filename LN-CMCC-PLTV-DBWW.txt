@@ -397,6 +397,8 @@ CCTV-怀旧剧场,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3
 睛彩青少,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8,$FHD
 睛彩青少,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8,$FHD
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+1905电影,http://120.76.248.139/live/lunbo/ssdy.m3u8&id=1905a
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 浙江直播,#genre#
 CCTV-1 1080,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8?IAS
 CCTV-1 1080,http://39.134.183.42:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236254/index.m3u8?IAS
