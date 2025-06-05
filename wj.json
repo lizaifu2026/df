@@ -69,18 +69,17 @@
       "api": "csp_SuBaiBai",	    
       "ext": "https://www.subaibai.com"
     },	  
-    {
-      "key": "csp_CZSPP",
-      "name": "厂长影视",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "jar": "http://cdn.qiaoji8.com/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896",
-      "searchable": 1,	    
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "7lj763gg402i7942463j9j9jh346968hg5ll845ki38473"
-    },
+        {
+            "key": "厂长影视",
+            "name": "厂长影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "csp_Czsapp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.czzymovie.com/"
+        },
     {
       "key": "xml_魔爪",
       "name": "魔爪资源",
