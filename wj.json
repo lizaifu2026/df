@@ -259,6 +259,34 @@
       "api": "csp_HBv1Class",	   
       "ext": "DyoqWQInJUMuGFcDDzo5HCw7IQ8BJihEIg82HC0VLUEsJQkBIDY9ESwrKQMHDBlHCwwTHAUnAEU="
     },	  
+    {
+      "key": "XBPQH1B",
+      "name": "可可影视",
+      "type": 3,
+      "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar",
+      "api": "csp_HBPQ",	    
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/KKYS.json"
+    },
+    {
+      "key": "234XBPQ",
+      "name": "234影视",
+      "type": 3,
+      "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar",
+      "api": "csp_HBPQ",	    
+      "ext": {
+        "首页": "0",
+        "数组": "class=\"stui-vodlist__thumb&&</h4>",
+        "图片": "original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "text-right\">&&</span>",
+        "链接": "href=\"&&\"",
+        "免嗅": "1",
+        "播放数组": "<ul class=\"stui-content__playlist&&</ul>",
+        "播放列表": "<li&&</li>",
+        "分类url": "https://ikan234.com/list/{cateId}-{catePg}.html",
+        "分类": "电视剧$2#电影$1#动漫$4#短剧$5#综艺$3"
+      }
+    },	  
 	  {
             "key": "橘子",
             "name": "橘子APP",
@@ -1184,10 +1212,10 @@
 		}
 	}
    },   
-   {	  	 
-      "name": "娱乐",
+    {
+      "name": "虎斑V6",
       "type": 1,
-      "url": "http://43.248.100.135:9874/?url="
+      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getV6jx&url="
     }
   ],
   "flags": [
