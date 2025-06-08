@@ -1128,27 +1128,6 @@
       }
     },
     {
-      "name": "虎斑XM",
-      "type": 1,
-      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getXmflvjx&url=",
-      "ext": {
-        "header": {
-          "Accept": "*/*",
-          "Origin": "https://jx.xmflv.com"
-        }
-      }
-    },
-    {
-      "name": "虎斑WS",
-      "type": 1,
-      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getWsjx&url="
-    },
-    {
-      "name": "虎斑AB",
-      "type": 1,
-      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getAbjx&url="
-    },     
-    {
 	"name": "4k解析",
 	"type": 1,
 	"url": "http://43.139.94.96:8866/api/?key=7e67ab331ee255664f2989ca2171c2dd&url=",
@@ -1158,13 +1137,8 @@
 			"User-Agent": "okhttp/4.9.1"
 		}
 	}
-   },   
-    {
-      "name": "虎斑V6",
-      "type": 1,
-      "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getV6jx&url="
-    }
-  ],
+   }  
+],
   "flags": [
     "youku",
     "qq",
