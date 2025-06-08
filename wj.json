@@ -159,6 +159,49 @@
                "version": "119"
            }
        },	  
+ {
+           "key": "思怡",
+           "name": "思怡APP",
+           "type": 3,
+           "quickSearch": 1,
+           "api": "csp_AppGet",
+           "ext": {
+               "url": "http://xyj88.icu",
+               "dataKey": "xuyingjun8888888",
+               "dataIv": "xuyingjun8888888",
+               "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
+               "version": "100"
+           }
+       },	  	  
+{
+           "key": "蓝光",
+           "name": "蓝光APP",
+           "type": 3,
+           "quickSearch": 1,
+           "api": "csp_AppGet",
+           "ext": {
+               "url": "http://122.228.193.2:9654",
+               "dataKey": "ca94b06ca3c7d80e",
+               "dataIv": "ca94b06ca3c7d80e",
+               "deviceId": "",
+               "version": "119"
+           }
+       },
+           
+               {
+           "key": "玲珑",
+           "name": "玲珑APP",
+           "type": 3,
+           "quickSearch": 1,
+           "api": "csp_AppGet",
+           "ext": {
+               "url": "https://mac.555618.xyz",
+               "dataKey": "#getapp@TMD@2025",
+               "dataIv": "#getapp@TMD@2025",
+               "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
+               "version": "201"
+           }
+       },	  
 	  {
            "key": "采集影视",
            "name": "采集4K",
