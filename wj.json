@@ -857,15 +857,7 @@
       "quickSearch": 1,
       "filterable": 0
     }, 	 	  
-	  {
-            "key": "骚火影视",
-            "name": "骚火影视",
-            "type": 3,
-            "api": "csp_SaoHuo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+{"key":"火猫","name":"火猫App","type":3,"api":"csp_Muou","playerType":2,"jar": "./巧计大佬.jar","ext":"7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602"},
     {			  
       "key": "bilibilimd",
       "name": "哔哩PY",
