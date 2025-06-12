@@ -535,20 +535,7 @@
             }
         },	   
         {
-            "key": "二三",
-            "name": "二三APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppMuou",
-            "ext": {
-                "url": "http://cs4.123ysw.com",
-                "dataKey": "d3238930e3ae0724",
-                "dataIv": "d3238930e3ae0724",
-                "jxurl": "https://123ysw.com"
-            }
-        },         
-      {	  
-      "key": "红果网页",
+            "key": "红果网页",
       "name": "红果网页py",
       "type": 3,
       "api": "./py/红果网页.py",
