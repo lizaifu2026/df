@@ -212,6 +212,20 @@
      "filterable": 1,
      "ext": "http://111.173.115.215:9118/icciu_api.php/v1.vod"
    },  	 
+ {   
+            "key": "海豚App",
+            "name": "海豚App",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://appcms.htsp4k.top",
+                "dataKey": "7CYQQzwchRQpHCOj",
+                "dataIv": "7CYQQzwchRQpHCOj",
+                "deviceId": "",
+                "version": ""
+            }
+        },	  
 	  {
            "key": "玲珑",
            "name": "玲珑APP",
