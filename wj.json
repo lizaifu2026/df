@@ -188,7 +188,31 @@
            }
        },
    {"key":"23","name":"23App","type":3,"api":"csp_Muou","playerType":2,"jar": "http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331","ext":"7lj763gg402i79420078j9qiaojiigg34hi291ljg5j60l9l0ik1l0jg86ljklgj5909404h"},        
-               {
+ {
+           "key": "芷白",
+           "name": "芷白APP",
+           "type": 3,
+           "quickSearch": 1,
+           "api": "csp_AppGet",
+           "ext": {
+               "url": "http://mitv.bbbzd.cn",
+               "dataKey": "hgfdsapoiuytrewq",
+               "dataIv": "hgfdsapoiuytrewq",
+               "deviceId": "2dc3f47bb8bc03343a977a346935d9f62",
+               "version": "102"
+           }
+       },             
+{
+     "key": "csp_满分",
+     "name": "满分APP",
+     "type": 3,
+     "api": "csp_AppYs",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "ext": "http://111.173.115.215:9118/icciu_api.php/v1.vod";
+   },  	 
+	  {
            "key": "玲珑",
            "name": "玲珑APP",
            "type": 3,
