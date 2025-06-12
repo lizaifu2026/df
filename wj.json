@@ -817,15 +817,16 @@
             "filterable": 1,
             "playerType": 2
         },	 
-      {
-      "key": "xpg",
-      "name": "小苹果py",
+       {
+      "key": "csp_LiteApple",
+      "name": "苹果影视",
+      "jar": "./fm.jar",
       "type": 3,
-      "api": "./py/小苹果APP.py",
+      "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
-    },    
+      "filterable": 1
+    },   
       {
       "key": "jpys",
       "name": "金牌影视py",
