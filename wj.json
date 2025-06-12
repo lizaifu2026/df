@@ -334,7 +334,6 @@
 	      { "key": "老王影视",  "name": "老王影视", "type": 3,"api": "csp_XBPQ", "ext": {"简介":"剧情介绍: +video-info-content vod_content\">&&</div>","数组": "<a&&module-item-pic","副标题":"module-item-text\">&&</div>","状态":"集数：&&</div>","线路数组":"module-tab-item tab-item&&</small>","播放数组":"module-blocklist scroll-box&&</div>","搜索url": "https://laowang.co/s.html?wd={wd}","搜索数组": "module-item-pic&&video-info","搜索标题": "alt=\"&&\">","搜索图片": "data-src=\"&&\"","分类url":"https://laowang.co/vs/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},       
       { "key": "7点影视", "name": "7点影视", "type":3,"api":"csp_XBPQ","ext": {"简介":"您剧情介绍:+pt-10 pb-10\" style=*>&&</p>","图片":"data-original=\"&&\"[替换:amp;>>空]","线路数组":"#ewave-playlist-&&</li>","分类url":"https://www.7.movie/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$24#电视剧$21#电影$20#动漫$22#综艺$23"}},	 
    { "key": "539影视", "name": "539影视", "type":3,"api":"csp_XBPQ","ext": {"简介":"您剧情介绍:+detail-content\" style=*>&&</span>","分类url":"https://www.539539.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$25#电视剧$2#电影$1#动漫$4#综艺$3#伦理$26"}},	 
-{ "key": "方寸之间装B影视", "name": "方寸之间装B影视", "type":3,"api":"csp_XBPQ","ext": {"简介":"大家好，我叫方寸之间,我己经学会XbPQ了,今天开始我要开始装逼了,请大家多多指教,以下是方寸之间为您剧情介绍:+col-pd\">&&</p>","播放标题":"我是方寸之间我要装逼","分类url":"https://ikan234.com/show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"方寸之间短剧$5#方寸之间电视剧$2#方寸之间电影$1#方寸之间动漫$4#方寸之间综艺$3"}},	  
 	  {
             "key": "橘子",
             "name": "橘子APP",
