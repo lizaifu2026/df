@@ -1025,6 +1025,7 @@
       {
       "key": "酷狗",
       "name": "酷狗音乐",
+      "jar": "./fm.jar;md5;b40f328ddc5becefbfca81db7bdca250",
       "type": 3,
       "api": "csp_Kugou",
       "playerType": 2,
