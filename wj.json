@@ -1022,7 +1022,22 @@
       "quickSearch": 1,
       "filterable": 1
     }, 
-        {
+      {
+      "key": "酷狗",
+      "name": "酷狗音乐",
+      "type": 3,
+      "api": "csp_Kugou",
+      "playerType": 2,
+      "ext": {
+        "classes": [
+          {
+            "type_name": "酷狗",
+            "type_id": "kugou"
+          }
+        ]
+      }
+    },      
+{
             "key": "1905",
             "name": "1905影视",
             "type": 3,
