@@ -895,7 +895,7 @@
        "key": "gw4k",
        "name": "顾我蓝光",
        "type": 3,"playerType":2,
-       "api": "./AppYsV2.js",
+       "api": "./lib/AppYsV2.js",
        "ext": {
          "host": "http://121.62.21.14:520/api.php/app/";,
          "*": [
