@@ -897,10 +897,10 @@
        "type": 3,"playerType":2,
        "api": "./lib/AppYsV2.js",
        "ext": {
-         "host": "http://121.62.21.14:520/api.php/app/";,
+         "host": "http://121.62.21.14:520/api.php/app/",
          "*": [
-           "http://121.62.21.14:1555/gw.php?url=";,
-            "http://114.66.60.101:901/api/?key=t378IIKFY2AEa1lfaU&url=";
+           "http://121.62.21.14:1555/gw.php?url=",
+            "http://114.66.60.101:901/api/?key=t378IIKFY2AEa1lfaU&url="
         ],
          "header": {
          "User-Agent": "Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.105 MUOUAPP/10.8.4506.400"
