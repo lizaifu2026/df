@@ -877,16 +877,37 @@
     },    
   { "key": "桃子影视", "name": "桃子影视", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+detail-content\" style=*>&&</span>","分类url":"http://www.mpfpj.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$39#电视剧$2#电影$1#动漫$4#综艺$3"}},
    { "key": "秀儿影院", "name": "秀儿影院", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+tt\" style=*>&&</div>","数组":"<a&&module-item-pic","副标题":"module-item-text\">&&</div>","影片状态":"集数：&&</div>","线路数组":"data-dropdown-value=&&</small>","播放数组":"sort-item-&&</div>","搜索url":"https://xiuer.pro/vod/search/?wd={wd}","分类url":"https://xiuer.pro/show/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/","分类":"短剧$duanju#电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi"}},   
+{
+   "key": "麻花",
+   "name": "麻花APP",
+   "type": 3,
+   "quickSearch": 1,
+   "api": "csp_AppGet",
+   "ext": {
+       "url": "http://49.235.114.19:130",
+       "dataKey": "q7gj4f9br3fls6nh",
+       "dataIv": "q7gj4f9br3fls6nh",
+       "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
+       "version": "700"
+   }
+},          
+{
+       "key": "gw4k",
+       "name": "顾我蓝光",
+       "type": 3,"playerType":2,
+       "api": "./AppYsV2.js",
+       "ext": {
+         "host": "http://121.62.21.14:520/api.php/app/";,
+         "*": [
+           "http://121.62.21.14:1555/gw.php?url=";,
+            "http://114.66.60.101:901/api/?key=t378IIKFY2AEa1lfaU&url=";
+        ],
+         "header": {
+         "User-Agent": "Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.105 MUOUAPP/10.8.4506.400"
+       }
+       }      
+     },   
    {	 
-      "key": "柯南.py",	  
-      "name": "柯南PY",
-      "type": 3,
-      "api": "./py/柯南影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },            
-    {
       "key": "4kav.py",
       "name": "4kavPY",
       "type": 3,
