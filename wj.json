@@ -426,7 +426,7 @@
       "key": "jarcai",
       "name": "文才影视",
       "type": 3,
-      "jar": "./custom_spider.jar",
+      "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar",
       "api": "csp_Wcai",	    
       "ext": "https://www.gs4x7nq4.com"
     },
