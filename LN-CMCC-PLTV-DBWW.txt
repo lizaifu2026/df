@@ -630,4 +630,4 @@ CGTN俄语,http://littlegod.asuscomm.com:8012/udp/239.3.1.220:4220
 时尚购物,http://littlegod.asuscomm.com:8012/udp/239.3.1.191:8001
 央广购物,http://littlegod.asuscomm.com:8012/udp/239.3.1.222:8001
 央广购物,http://littlegod.asuscomm.com:8012/udp/239.3.1.223:8001
-
+葫芦岛新闻综合,http://littlegod.asuscomm.com:8012/udp/232.0.0.238:9260
