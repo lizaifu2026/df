@@ -408,21 +408,7 @@
                 "version": ""
             }
         },
-        {
-            "key": "咖啡",
-            "name": "咖啡APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet2",
-            "ext": {
-                "url": "http://160.202.243.62:2566",
-                "dataKey": "qwertyuiopqwerty",
-                "dataIv": "qwertyuiopqwerty",
-                "deviceId": "",
-                "version": "120"
-            }
-        },
-    {
+{
       "key": "jarcai",
       "name": "文才影视",
       "type": 3,
