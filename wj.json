@@ -234,6 +234,20 @@
                 "version": ""
             }
         },	  
+  {
+            "key": "晚枫",
+            "name": "晚枫APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://111.180.202.216:999",
+                "dataKey": "fjhndgbjidfhgjsd",
+                "dataIv": "fjhndgbjidfhgjsd",
+                "deviceId": "2a7baa6ca6f46308cbf1d939bab0586f3",
+                "version": "120"
+            }
+        },	  
 	  {
            "key": "玲珑",
            "name": "玲珑APP",
