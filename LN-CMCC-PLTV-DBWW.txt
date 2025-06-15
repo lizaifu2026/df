@@ -436,6 +436,7 @@ HOY78,http://ali.hlspull.yximgs.com/live/awei_hoy78.flv
 CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
 CHC影迷电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
 CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
+北京联通,#genre#
 北京财经,http://littlegod.asuscomm.com:8012/udp/239.3.1.116:8000
 北京生活,http://littlegod.asuscomm.com:8012/udp/239.3.1.117:8000
 北京影视,http://littlegod.asuscomm.com:8012/udp/239.3.1.158:8000
@@ -454,7 +455,6 @@ CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
 北京国际,http://littlegod.asuscomm.com:8012/udp/239.3.1.235:8000
 北京文艺,http://littlegod.asuscomm.com:8012/udp/239.3.1.242:8000
 北京体育休闲,http://littlegod.asuscomm.com:8012/udp/239.3.1.243:8000
-
 密云,http://littlegod.asuscomm.com:8012/udp/239.3.1.154:8001
 房山,http://littlegod.asuscomm.com:8012/udp/239.3.1.96:8001
 延庆,http://littlegod.asuscomm.com:8012/udp/239.3.1.187:8001
@@ -575,7 +575,6 @@ CGTN俄语,http://littlegod.asuscomm.com:8012/udp/239.3.1.220:4220
 嘉佳卡通,http://littlegod.asuscomm.com:8012/udp/239.3.1.147:9268
 快乐垂钓,http://littlegod.asuscomm.com:8012/udp/239.3.1.164:8001
 茶频道,http://littlegod.asuscomm.com:8012/udp/239.3.1.165:8001
-
 淘剧场,http://littlegod.asuscomm.com:8012/udp/239.3.1.95:8001
 淘BABY,http://littlegod.asuscomm.com:8012/udp/239.3.1.238:8001
 淘电影,http://littlegod.asuscomm.com:8012/udp/239.3.1.250:8001
@@ -621,7 +620,6 @@ CGTN俄语,http://littlegod.asuscomm.com:8012/udp/239.3.1.220:4220
 鉴赏,http://littlegod.asuscomm.com:8012/udp/239.3.1.82:4120
 音乐现场,http://littlegod.asuscomm.com:8012/udp/239.3.1.70:4120
 魅力时尚,http://littlegod.asuscomm.com:8012/udp/239.3.1.196:9012
-
 聚鲨环球精选,http://littlegod.asuscomm.com:8012/udp/239.3.1.160:8001
 聚鲨环球精选,http://littlegod.asuscomm.com:8012/udp/239.3.1.179:8001
 优购物,http://littlegod.asuscomm.com:8012/udp/239.3.1.180:8001
