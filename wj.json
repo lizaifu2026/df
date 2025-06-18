@@ -362,34 +362,33 @@
       "api": "csp_HBv1Class",	   
       "ext": "DyoqWQInJUMuGFcDDzo5HCw7IQ8BJihEIg82HC0VLUEsJQkBIDY9ESwrKQMHDBlHCwwTHAUnAEU="
     },	  
-    {
-      "key": "XBPQH1B",
-      "name": "可可影视",
-      "type": 3,
-      "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar",
-      "api": "csp_HBPQ",	    
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/KKYS.json"
-    },
-    {
-      "key": "234XBPQ",
-      "name": "234影视",
-      "type": 3,
-      "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar",
-      "api": "csp_HBPQ",	    
-      "ext": {
-        "首页": "0",
-        "数组": "class=\"stui-vodlist__thumb&&</h4>",
-        "图片": "original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "副标题": "text-right\">&&</span>",
-        "链接": "href=\"&&\"",
-        "免嗅": "1",
-        "播放数组": "<ul class=\"stui-content__playlist&&</ul>",
-        "播放列表": "<li&&</li>",
-        "分类url": "https://ikan234.com/list/{cateId}-{catePg}.html",
-        "分类": "电视剧$2#电影$1#动漫$4#短剧$5#综艺$3"
-      }
-    },	  
+{
+           "key": "宫阁",
+           "name": "宫阁APP",
+           "type": 3,
+           "quickSearch": 1,
+           "api": "csp_AppMuou",
+           "ext": {
+               "url": "http://111.180.198.40:1110",
+               "dataKey": "14deb3a41a955648",
+               "dataIv": "14deb3a41a955648",
+               "jxurl": "https://ww.ndjdnd.icu"
+           }
+       },
+{
+           "key": "世颜",
+          "name": "世颜APP",
+           "type": 3,
+           "quickSearch": 1,
+           "api": "csp_AppGet",
+           "ext": {
+               "url": "https://sykjw.xyz",
+               "dataKey": "sicnagduxbSfisnz",
+               "dataIv": "sicnagduxbSfisnz",
+               "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
+               "version": "556"
+           }
+       },
   { "key": "骚火影院", "name": "骚火影院", "type":3,"api":"csp_XBPQ", "ext": { "简介" :"剧情介绍:+p_txt show_part\">&&</p>","副标题":"v_note\">&&</div>","分类url":"https://saohuody.com/list/{cateId}-{catePg}.html;;d1","分类":"国产剧$12#港剧$13#台剧$14#日剧$15#韩剧$16#美剧$17#海外$18#泰剧$19#动作$5#喜剧$6#爱情$7#科幻$8#恐怖$9#剧情$10#战争$11#动画$33"}},	  
 	      { "key": "老王影视",  "name": "老王影视", "type": 3,"api": "csp_XBPQ", "ext": {"简介":"剧情介绍: +video-info-content vod_content\">&&</div>","数组": "<a&&module-item-pic","副标题":"module-item-text\">&&</div>","状态":"集数：&&</div>","线路数组":"module-tab-item tab-item&&</small>","播放数组":"module-blocklist scroll-box&&</div>","搜索url": "https://laowang.co/s.html?wd={wd}","搜索数组": "module-item-pic&&video-info","搜索标题": "alt=\"&&\">","搜索图片": "data-src=\"&&\"","分类url":"https://laowang.co/vs/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},       
       { "key": "7点影视", "name": "7点影视", "type":3,"api":"csp_XBPQ","ext": {"简介":"您剧情介绍:+pt-10 pb-10\" style=*>&&</p>","图片":"data-original=\"&&\"[替换:amp;>>空]","线路数组":"#ewave-playlist-&&</li>","分类url":"https://www.7.movie/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$24#电视剧$21#电影$20#动漫$22#综艺$23"}},	 
