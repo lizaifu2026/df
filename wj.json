@@ -430,17 +430,20 @@
       "ext": "https://www.gs4x7nq4.com"
     },
 	  { "key": "素白白", "name": "素白白XBPQ", "type":3,"api":"csp_XBPQ", "ext": { "简介" :"剧情介绍:+yp_context\">&&</div>","线路数组":"javascript:void(0);\">&&</a>","播放数组":"paly_list_btn\">&&</div>","分类url":"https://www.subaibai.com/{cateId}/page/{catePg}[https://www.subaibai.com/{cateId}]","分类":"电视剧$tv-drama#国产剧$domestic-drama#欧美剧$american-drama#日韩剧$korean-drama#电影$new-movie#热门电影$hot-month#高分电影$high-movie#动漫电影$cartoon-movie#香港电影$cartoon-movie#动漫剧$anime-drama"}},           
-    {	  	  	  
-      "key": "ldys",
-      "name": "零度影视py",
-      "type": 3,
-      "api": "./py/零度影视APP.py",
-      "searchable": 1,        
-      "changeable": 1,       
-      "quickSearch": 1,       
-      "filterable": 1,      
-      "playerType": 2         
-    },	  
+{
+           "key": "诺映",
+           "name": "诺映APP",
+           "type": 3,
+           "quickSearch": 1,
+           "api": "csp_AppGet",
+           "ext": {
+               "url": "https://www.noad.top",
+               "dataKey": "708FA298F0855840",
+               "dataIv": "708FA298F0855840",
+               "deviceId": "2129ec9e6e5703cb0aeeddd79554e38f8",
+               "version": "103"
+           }
+       },
  {
            "key": "趣看",
            "name": "趣看APP",
@@ -1068,20 +1071,15 @@
             "quickSearch": 0,
             "filterable": 0
         },  
-        {
-            "key": "彼岸",
-            "name": "彼岸APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://172.247.44.217:30012",
-                "dataKey": "JLa1oRdL6+eK7@M)",
-                "dataIv": "JLa1oRdL6+eK7@M)",
-                "deviceId": "",
-                "version": ""
-            }
-        },
+{  
+      "key": "彼岸1",
+      "name": "彼岸4K",
+      "type": 3,
+      "api": "./js/drpy2.min.js",                
+      "quickSearch": 1,
+      "searchable": 2,
+      "filterable": 1,
+      "ext": "./lib/AppGet.js?type=url&params=https://mfsp33.top$1234567887654321$1234567887654321"},
     {
       "key": "drpyS_蓝莓短剧[短]",
       "name": "蓝莓短剧(壹)",
