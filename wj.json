@@ -304,7 +304,21 @@
             "api": "csp_Wwys",
             "ext": "https://www.wwgz.cn"
         },	  
-        {
+  {
+           "key": "可达",
+          "name": "可达APP",
+           "type": 3,
+           "quickSearch": 1,
+           "api": "csp_AppGet",
+           "ext": {
+               "url": "https://ledayy.com",
+               "dataKey": "hjjp68c2okw12345",
+               "dataIv": "hjjp68c2okw12345",
+               "deviceId": "24bba8caeff7b3a63a486806bd7130fca",
+               "version": "102"
+           }
+       },       
+	  {
             "key": "浪酷影视",
             "name": "浪酷APP",
             "type": 3,
