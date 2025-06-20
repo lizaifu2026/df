@@ -279,7 +279,7 @@
                "version": "119"
            }
        },	  
-  { "key": "飞飞影视", "name": "飞飞影视", "type":3,"api":"csp_XBPQ","ext": {"请求头":"手机","简介":"剧情介绍:+<p>&&</p>","线路数组":"module-tab-item tab-item&&</small>[不包含:自建#蓝光#超清]","分类url":"https://www.ffys.fun/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$25#电视剧$21#电影$20#动漫$22#综艺$23"}},	  
+     { "key": "70影视", "name": "70影视", "type":3,"api":"csp_XBPQ", "ext": {"清求头":"手机","简介":"剧情介绍:+ewave-collapse-content\">&&</p>","线路数组":"#ewave-playlist&&</li>","分类url":"https://www.70yy.fun/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},	  
 	  {
            "key": "玲珑",
            "name": "玲珑APP",
