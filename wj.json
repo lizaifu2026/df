@@ -99,7 +99,8 @@
                "deviceId": "",
                "version": "50000"
            }
- {
+         },
+	{
            "key": "可可影视",
            "name": "可可影视",
            "type": 3,
@@ -114,11 +115,12 @@
                "播放数组": "episode-list&&</div>",
                "分类url": "https://www.keke13.com/show/{cateId}-{class}-{area}--{year}-3-{catePg}.html",
                "分类": "短剧$6#电视剧$2#电影$1#动漫$3#综艺$4"}
-           },      },	 
+           },      	 
 	{
    "key": "YIYI影视",
    "name": "YIYI影视App",
    "type": 3,
+   "jar":"http://cdn.qiaoji8.com/fix250611.jar",
    "api": "csp_Muou",
    "playerType": 2,
    "ext": "7lj763gg0939790i413gi4igh94585i7g0l98449i39920187h78327624i6j3iqiaoji9lj8g09l9ig1ii3"
