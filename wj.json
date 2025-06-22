@@ -86,6 +86,43 @@
       "api": "csp_AppGet",
       "ext": "sHR2rlsfjI4L3t4RXQMknw+zXdsvYSFPrylVBk8Otj7BtrOcImUIxu7uCmi/oCEVSH+1Tuw/tXHzW47SGQsj8bRydPRgWesjHAxv9eu8eO9hOGeUeBKsucMHODs09HXY4kiPp3p1vemBghpvJFm9mx/FFTQYaEQ33Bpqwk73VkDa2zWgoB0CNuBseJhbj2hRKqOiT08iymzh4sSfhjJ5tbS5yTDxPIJAjwMijWuyOJB++d859vxajKD2Jg5qw0lv"
     },	  
+{
+           "key": "榴莲",
+           "name": "榴莲APP",
+           "type": 3,
+           "quickSearch": 1,
+           "api": "csp_AppGet2",
+           "ext": {
+               "url": "https://qjappcms.ll4k.xyz",
+               "dataKey": "1yGA85sJ5STtE7uj",
+               "dataIv": "1yGA85sJ5STtE7uj",
+               "deviceId": "",
+               "version": "50000"
+           }
+ {
+           "key": "可可影视",
+           "name": "可可影视",
+           "type": 3,
+           "api": "csp_XBPQ",
+           "ext": {
+               "请求头": "手机",
+               "简介": "剧情介绍:+<p>&&</p>",
+               "图片": "data-original=\"/vod&&\"[替换:1/vod>> https://vres.xzzsw.com/vod1/vod]",
+               "标题": "v-item-title\">&&</div>",
+               "副标题": "v-item-bottom\">&&</div>",
+               "线路数组": "swiper-slide source-swiper-slide&&</a>[不包含:4K(高峰不卡)]",
+               "播放数组": "episode-list&&</div>",
+               "分类url": "https://www.keke13.com/show/{cateId}-{class}-{area}--{year}-3-{catePg}.html",
+               "分类": "短剧$6#电视剧$2#电影$1#动漫$3#综艺$4"}
+           },      },	 
+	{
+   "key": "YIYI影视",
+   "name": "YIYI影视App",
+   "type": 3,
+   "api": "csp_Muou",
+   "playerType": 2,
+   "ext": "7lj763gg0939790i413gi4igh94585i7g0l98449i39920187h78327624i6j3iqiaoji9lj8g09l9ig1ii3"
+},  
 	  {
             "key": "厂长影视",
             "name": "厂长影视",
