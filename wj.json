@@ -125,6 +125,20 @@
    "playerType": 2,
    "ext": "7lj763gg0939790i413gi4igh94585i7g0l98449i39920187h78327624i6j3iqiaoji9lj8g09l9ig1ii3"
 },  
+{
+            "key": "嗒哇",
+            "name": "嗒哇APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://ys.dawax.top",
+                "dataKey": "j5j2r2oo47ss25la",
+                "dataIv": "j5j2r2oo47ss25la",
+                "deviceId": "",
+                "version": "102"
+            }
+        },	  
 	  {
             "key": "厂长影视",
             "name": "厂长影视",
