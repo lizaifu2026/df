@@ -545,33 +545,36 @@
        },      
 	    { "key": "茶杯狐影院", "name": "茶杯狐影院", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+剧情介绍：&&</span>","分类url":"https://www.5jcd.com/show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$58#电视剧$2#电影$1#动漫$4#综艺$3"}}, 
 	  {"key": "黑木耳","name": "黑木耳","type": 1,"api": "https://json.heimuer.tv/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"categories":["国产剧","欧美剧","港剧","韩剧","台剧","日剧","其他剧","泰剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","惊悚片","犯罪片","国产动漫","日本动漫","欧美动漫","国产综艺","日本综艺","欧美综艺"]},	 
-	  {
-            "key": "玉米",
-            "name": "玉米APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://www.zjc.app",
-                "dataKey": "ab4e9a421675f14b",
-                "dataIv": "ab4e9a421675f14b",
-                "deviceId": "",
-                "version": "442"
-            }
-        },        
         {
-            "key": "忍者",
-            "name": "忍者APP",
+            "key": "雄鹰",
+            "name": "雄鹰APP",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppGet",
+            "api": "csp_AppGet2",
             "ext": {
-                "url": "https://mfxs123.sbs",
-                "dataKey": "1234567887654321",
-                "dataIv": "1234567887654321",
+                "url": "http://122.228.193.2:9988",
+                "dataKey": "ca94b06ca359d80e",
+                "dataIv": "ca94b06ca359d80e",
                 "deviceId": "",
-                "version": ""
+                "version": "120"
             }
+        },
+        {
+            "key": "无上资源",
+            "name": "无上采集",
+            "type": 1,
+            "api": "https://mfgc.iwsyy.xyz/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "电影",
+                "连续剧",
+                "综艺",
+                "动漫",
+                "纪录片",
+                "少儿",
+                "短剧"
+            ]
         },
         {
             "key": "在看",
