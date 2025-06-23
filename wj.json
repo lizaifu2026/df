@@ -890,18 +890,8 @@
                 "version": "112"
             }
         },	  
-        {
-            "key": "猎手影视",
-            "name": "猎手py",
-            "type": 3,
-            "api": "./py/猎手影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },	 
-       {
+           { "key": "魔都动漫", "name": "魔都动漫", "type":3,"api":"csp_XBPQ","ext": {"简介":"剧情介绍:+switch-box top20\">&&</div>","线路数组":"anthology-item on\"&&</a>","播放数组":"anthology-list-play size\"&&</ul>","跳转播放链接": "var cms_player*url\":\"&&\"","分类url":"https://www.moduys04.com/type/{cateId}-{class}--{year}---addtime-{catePg}.html[https://www.moduys04.com/type/{cateId}-{class}--{year}---addtime.html]","分类":"国产动漫$1#日韩动漫$2#港台动漫$3#欧美动漫$4#动漫电影$5"}},
+{
       "key": "csp_LiteApple",
       "name": "苹果影视",
       "jar": "./fm.jar",
