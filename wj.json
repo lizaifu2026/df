@@ -1070,19 +1070,15 @@
                 "version": ""
             }
         },
-       {
-            "key": "稀饭动漫",
-            "name": "稀饭动漫",
+        {
+            "key": "哆啦新番社",
+            "name": "哆啦｜新番社",
             "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://pzoap.moedot.net",
-                "dataKey": "1yZ2Spn9krnzVKoC",
-                "dataIv": "1yZ2Spn9krnzVKoC",
-                "deviceId": "",
-                "version": ""
-            }
+            "api": "csp_HBPQ",
+            "style": {
+                "type": "list"
+            },
+            "ext": "./lib/哆啦新番社.json"
         },
         {
             "key": "短剧网",
