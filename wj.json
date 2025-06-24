@@ -130,17 +130,18 @@
                 "version": "102"
             }
         },	  
-	  {
-            "key": "厂长影视",
-            "name": "厂长影视",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_Czsapp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.czzymovie.com/"
-        },
+    {
+      "key": "csp_CZSPP",
+      "name": "厂长影视",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "jar": "http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "7lj763gg402i7942463j9j9jh346968hg5ll845ki38473"
+    },
     {
       "key": "xml_魔爪",
       "name": "魔爪资源",
