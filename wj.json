@@ -620,13 +620,7 @@
             "searchable": 1,
             "changeable": 1
         },	 
-	  {
-            "key": "私人影视",
-            "name": "私人影视",
-            "type": 3,
-            "api": "csp_Siren"
-        },
-        {
+       {
             "key": "云播影视",
             "name": "云播影视",
             "type": 3,
@@ -769,17 +763,7 @@
       "filterable": 0,
       "changeable": 0
     },
-    {
-      "key": "火车太顺",
-      "name": "火车太顺py",
-      "type": 3,
-      "api": "./py/火车太顺APP.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
+ {
       "key": "若惜影视",
       "name": "若惜py",
       "type": 3,
@@ -940,31 +924,8 @@
         "分类url": "https://www.xyxy.live/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html[]"
       }
     },  
-    {
-      "key": "首映网",
-      "name": "首映网py",
-      "type": 3,
-      "api": "./py/首映网.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },    
-  { "key": "桃子影视", "name": "桃子影视", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+detail-content\" style=*>&&</span>","分类url":"http://www.mpfpj.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$39#电视剧$2#电影$1#动漫$4#综艺$3"}},
+    { "key": "桃子影视", "name": "桃子影视", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+detail-content\" style=*>&&</span>","分类url":"http://www.mpfpj.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$39#电视剧$2#电影$1#动漫$4#综艺$3"}},
    { "key": "秀儿影院", "name": "秀儿影院", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+tt\" style=*>&&</div>","数组":"<a&&module-item-pic","副标题":"module-item-text\">&&</div>","影片状态":"集数：&&</div>","线路数组":"data-dropdown-value=&&</small>","播放数组":"sort-item-&&</div>","搜索url":"https://xiuer.pro/vod/search/?wd={wd}","分类url":"https://xiuer.pro/show/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/","分类":"短剧$duanju#电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi"}},   
-{
-   "key": "麻花",
-   "name": "麻花APP",
-   "type": 3,
-   "quickSearch": 1,
-   "api": "csp_AppGet",
-   "ext": {
-       "url": "http://49.235.114.19:130",
-       "dataKey": "q7gj4f9br3fls6nh",
-       "dataIv": "q7gj4f9br3fls6nh",
-       "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
-       "version": "700"
-   }
-},          
 {
        "key": "gw4k",
        "name": "顾我蓝光",
@@ -981,15 +942,6 @@
        }
        }      
      },   
-   {	 
-      "key": "4kav.py",
-      "name": "4kavPY",
-      "type": 3,
-      "api": "./py/4KAV.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    }, 	 	  
 {"key":"火猫","name":"火猫App","type":3,"api":"csp_Muou","playerType":2,"jar": "http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331","ext":"7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602"},
     {			  
       "key": "bilibilimd",
