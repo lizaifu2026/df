@@ -352,6 +352,11 @@ CCTV-5+体育赛事,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224
 枣庄新闻综合,https://1865072180.cloudvdn.com/a.m3u8?domain=pili-live-hdl-zdzz-tv.zzxwcm.cn&player=1&streamid=zdzz-tv:zdzz-tv/dianshi1&v3=1
 枣庄经济生活,https://1865072180.cloudvdn.com/a.m3u8?domain=pili-live-hdl-zdzz-tv.zzxwcm.cn&player=1&streamid=zdzz-tv:zdzz-tv/dianshi2&v3=1
 枣庄公共频道,https://1865072180.cloudvdn.com/a.m3u8?domain=pili-live-hdl-zdzz-tv.zzxwcm.cn&player=1&streamid=zdzz-tv:zdzz-tv/dianshi3&v3=1
+石嘴山综合,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/zhpd.m3u8
+石嘴山公共,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/ggpd.m3u8
+迪庆综合,http://1033946631.cloudvdn.com/a.m3u8?domain=pili-live-rtmp-yndq-tv.diqingtv.com&player=1&streamid=yndq-tv:yndq-tv/zonghepindao-xin&v3=1
+迪庆藏语,http://1033946631.cloudvdn.com/a.m3u8?domain=pili-live-rtmp-yndq-tv.diqingtv.com&player=1&streamid=yndq-tv:yndq-tv/zangyupindao-xin&v3=1
+师宗综合,http://1033946631.cloudvdn.com/a.m3u8?domain=pili-live-rtmp-szrm-tv.szrmxw.cn&player=1&streamid=szrm-tv:szrm-tv/ynsz&v3=1
 辽宁联通 购物,#genre#
 宜佳购物,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226884/index.m3u8,$FHD
 宜佳购物,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227309/index.m3u8,$FHD
