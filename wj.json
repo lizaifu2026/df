@@ -201,20 +201,6 @@
      "filterable": 1,
      "ext": "http://jxfmax.juxiafan.com/icciu_api.php/v1.vod"
    },	 
-{
-           "key": "溜溜",
-           "name": "溜溜4K APP",
-           "type": 3,
-           "quickSearch": 1,
-           "api": "csp_AppGet",
-           "ext": {
-               "url": "https://appcms.ll4k.top",
-               "dataKey": "NiDGaKiVnkO3QX1Q",
-               "dataIv": "NiDGaKiVnkO3QX1Q",
-               "deviceId": "2fbaf48ee97783260bc907e3ab0bd40c3",
-               "version": "200"
-           }
-       },	  
  {
            "key": "沐沐",
            "name": "沐沐APP",
@@ -272,17 +258,7 @@
                "version": "102"
            }
        },             
-{
-     "key": "csp_满分",
-     "name": "满分APP",
-     "type": 3,
-     "api": "csp_AppYs",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 1,
-     "ext": "http://111.173.115.215:9118/icciu_api.php/v1.vod"
-   },  	 
- {   
+  {   
             "key": "海豚App",
             "name": "海豚App",
             "type": 3,
@@ -447,24 +423,10 @@
                "jxurl": "https://ww.ndjdnd.icu"
            }
        },
-{
-           "key": "世颜",
-          "name": "世颜APP",
-           "type": 3,
-           "quickSearch": 1,
-           "api": "csp_AppGet",
-           "ext": {
-               "url": "https://sykjw.xyz",
-               "dataKey": "sicnagduxbSfisnz",
-               "dataIv": "sicnagduxbSfisnz",
-               "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
-               "version": "556"
-           }
-       },
-  { "key": "骚火影院", "name": "骚火影院", "type":3,"api":"csp_XBPQ", "ext": { "简介" :"剧情介绍:+p_txt show_part\">&&</p>","副标题":"v_note\">&&</div>","分类url":"https://saohuody.com/list/{cateId}-{catePg}.html;;d1","分类":"国产剧$12#港剧$13#台剧$14#日剧$15#韩剧$16#美剧$17#海外$18#泰剧$19#动作$5#喜剧$6#爱情$7#科幻$8#恐怖$9#剧情$10#战争$11#动画$33"}},	  
-	      { "key": "老王影视",  "name": "老王影视", "type": 3,"api": "csp_XBPQ", "ext": {"简介":"剧情介绍: +video-info-content vod_content\">&&</div>","数组": "<a&&module-item-pic","副标题":"module-item-text\">&&</div>","状态":"集数：&&</div>","线路数组":"module-tab-item tab-item&&</small>","播放数组":"module-blocklist scroll-box&&</div>","搜索url": "https://laowang.co/s.html?wd={wd}","搜索数组": "module-item-pic&&video-info","搜索标题": "alt=\"&&\">","搜索图片": "data-src=\"&&\"","分类url":"https://laowang.co/vs/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},       
-      { "key": "7点影视", "name": "7点影视", "type":3,"api":"csp_XBPQ","ext": {"简介":"您剧情介绍:+pt-10 pb-10\" style=*>&&</p>","图片":"data-original=\"&&\"[替换:amp;>>空]","线路数组":"#ewave-playlist-&&</li>","分类url":"https://www.7.movie/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$24#电视剧$21#电影$20#动漫$22#综艺$23"}},	 
-   { "key": "539影视", "name": "539影视", "type":3,"api":"csp_XBPQ","ext": {"简介":"您剧情介绍:+detail-content\" style=*>&&</span>","分类url":"https://www.539539.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$25#电视剧$2#电影$1#动漫$4#综艺$3#伦理$26"}},	 
+{ "key": "骚火影院", "name": "骚火影院", "type":3,"api":"csp_XBPQ", "ext": { "简介" :"剧情介绍:+p_txt show_part\">&&</p>","副标题":"v_note\">&&</div>","分类url":"https://saohuody.com/list/{cateId}-{catePg}.html;;d1","分类":"国产剧$12#港剧$13#台剧$14#日剧$15#韩剧$16#美剧$17#海外$18#泰剧$19#动作$5#喜剧$6#爱情$7#科幻$8#恐怖$9#剧情$10#战争$11#动画$33"}},	  
+{ "key": "老王影视",  "name": "老王影视", "type": 3,"api": "csp_XBPQ", "ext": {"简介":"剧情介绍: +video-info-content vod_content\">&&</div>","数组": "<a&&module-item-pic","副标题":"module-item-text\">&&</div>","状态":"集数：&&</div>","线路数组":"module-tab-item tab-item&&</small>","播放数组":"module-blocklist scroll-box&&</div>","搜索url": "https://laowang.co/s.html?wd={wd}","搜索数组": "module-item-pic&&video-info","搜索标题": "alt=\"&&\">","搜索图片": "data-src=\"&&\"","分类url":"https://laowang.co/vs/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},       
+{ "key": "7点影视", "name": "7点影视", "type":3,"api":"csp_XBPQ","ext": {"简介":"您剧情介绍:+pt-10 pb-10\" style=*>&&</p>","图片":"data-original=\"&&\"[替换:amp;>>空]","线路数组":"#ewave-playlist-&&</li>","分类url":"https://www.7.movie/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$24#电视剧$21#电影$20#动漫$22#综艺$23"}},	 
+{ "key": "539影视", "name": "539影视", "type":3,"api":"csp_XBPQ","ext": {"简介":"您剧情介绍:+detail-content\" style=*>&&</span>","分类url":"https://www.539539.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$25#电视剧$2#电影$1#动漫$4#综艺$3#伦理$26"}},	 
 	  {
             "key": "橘子",
             "name": "橘子APP",
@@ -477,20 +439,6 @@
                 "dataIv": "2015692015692015",
                 "deviceId": "",
                 "version": "300"
-            }
-        },
-        {
-            "key": "水滴",
-            "name": "水滴APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet2",
-            "ext": {
-                "url": "http://1.94.105.93",
-                "dataKey": "gKdQKLbwhhLp4Ytv",
-                "dataIv": "gKdQKLbwhhLp4Ytv",
-                "deviceId": "",
-                "version": ""
             }
         },
 {
@@ -733,20 +681,7 @@
       "playerType": 2,	    
       "ext": "7lj763gg0939795i007hi482k80ii2i3ghl084099ij36j70031107l2kg105816139i56g38h03i1j06k4gkk9ll7kl1lk4k8687k55l0g19ggk72j06gg073li1j11"
     },        
-	  {
-            "key": "永夜",
-            "name": "永夜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppMuou",
-            "ext": {
-                "url": "http://cms.neyym.cn",
-                "dataKey": "66247d82fcfaeda9",
-                "dataIv": "70691065ee3c4c54",
-                "jxurl": "http://app.neyym.cn"
-            }
-        },
-    {
+{
       "key": "云端",
       "name": "云端py",
       "type": 3,
