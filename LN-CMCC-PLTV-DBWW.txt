@@ -440,6 +440,10 @@ tvbplus,http://ali.hlspull.yximgs.com/live/awei_j2.flv
 HOY77,http://ali.hlspull.yximgs.com/live/awei_hoy77.flv
 HOY78,http://ali.hlspull.yximgs.com/live/awei_hoy78.flv
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+美亚电影(国语),https://zb.kklive.top/live/mydy/index.m3u8
+CatchPlay,https://zb.kklive.top/live/catchplay/index.m3u8
+爆谷台,https://zb.kklive.top/live/bgt/index.m3u8
+爆谷星影,https://zb.kklive.top/live/bgxy/index.m3u8
 CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
 CHC影迷电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
 CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
