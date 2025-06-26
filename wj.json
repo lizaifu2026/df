@@ -389,16 +389,15 @@
                 "url": "http://v.lkuys.cn"
             }
         },	  
-        {
-            "key": "QD4K",
-            "name": "QD4K影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://172.83.156.150:1010/api.php/app/"
-        },	  
+    {
+      "key": "巧技三",
+      "name": "QD4K影视",
+      "type": 3,
+      "jar": "http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331",
+      "api": "csp_AppYsV2",
+      "playerType": 2,
+      "ext": "7lj763gg09397907492i87j2g8128687kgg1ih5hij8772225j4i54l2k91k151k138612h68842ji"
+    },	  
    {                    
       "key": "超前全片源",
       "name": "超前全网资源",
