@@ -304,6 +304,24 @@
 { "key": "饭团影视", "name": "饭团影视", "type":3,"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+<p>&&</p>","副标题":"module-item-note\">&&</div>","分类url":"https://www.fantuan.vip/vodtype/{cateId}.html","分类":"电视剧$2#电影$1#动漫$3#综艺$4"}},   
 { "key": "70影视", "name": "70影视", "type":3,"api":"csp_XBPQ", "ext": {"清求头":"手机","简介":"剧情介绍:+ewave-collapse-content\">&&</p>","线路数组":"#ewave-playlist&&</li>","分类url":"https://www.70yy.fun/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},	  
 { "key": "首播影视", "name": "首播影视", "type":3,"api":"csp_XBPQ","ext": {"数组":"video-card x09cb&&</a>","图片":"data-src=\"&&\"","标题":"alt=\"&&\"","线路标题":"f33d4f\">&&</div>","状态":"提醒：更新至&&</div>","分类url":"https://www.5jcd.com/list/{cateId}_{catePg}.html","分类":"国产剧$19#港台剧$20#日剧$21#韩剧$22#美剧$23#泰剧$24#动作$8#喜剧$38#爱情$9#科幻$11#恐怖$12#剧情$10#动画$17#国产动漫$29#日本动漫$30#欧美动漫$31#大陆综艺$25#港台综艺$26#日韩综艺$27#欧美综艺$28"}},	  
+    {
+      "key": "yizys",
+      "name": "驿站App",
+      "type": 3,
+      "jar": "http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331",
+      "api": "csp_Muou",
+      "playerType": 2,
+      "ext": "7lj763gg402i7942403h83i2h945858hljhji148i18k2837535112l2qiaojik9075l17028i49g192419i8g3245h3j1l9gi02h6k7732650h3h09jkg759j65hj39l50347k3gj97l4g12l7h6418h6k9j04l26i1glgj3631973hh280lkihjh"
+    },	  
+    {
+      "key": "蝴蝶",
+      "name": "蝴蝶App",
+      "type": 3,
+      "jar": "http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331",
+      "api": "csp_Hudie",
+      "playerType": 2,
+      "ext": "7lj763gg402i794255648kj0hj539g9hl7k6jk52ji"
+    },	 
 	  {
            "key": "玲珑",
            "name": "玲珑APP",
