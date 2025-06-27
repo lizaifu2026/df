@@ -982,7 +982,21 @@
             },
             "ext": "./lib/哆啦新番社.json"
         },
-        {
+   {
+            "key": "YY",
+            "name": "YY动漫",
+            "type": 3,            
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://tv.yy-fun.cc",
+                "dataKey": "qkxnwkfjwpcnwycl",
+                "dataIv": "qkxnwkfjwpcnwycl",
+                "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
+                "version": "120"
+            }
+        },     
+	  {
             "key": "短剧网",
             "name": "短剧网XBPQ",
             "type": 3,
