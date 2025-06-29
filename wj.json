@@ -273,18 +273,17 @@
                 "version": ""
             }
         },	  
-  {
-            "key": "晚枫",
-            "name": "晚枫APP",
+        {
+            "key": "樱桃",
+            "name": "樱桃APP",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppGet",
+            "api": "csp_AppMuou",
             "ext": {
-                "url": "http://111.180.202.216:999",
-                "dataKey": "fjhndgbjidfhgjsd",
-                "dataIv": "fjhndgbjidfhgjsd",
-                "deviceId": "2a7baa6ca6f46308cbf1d939bab0586f3",
-                "version": "120"
+                "url": "http://sp.dxgsp.cc",
+                "dataKey": "25f9e794323b4538",
+                "dataIv": "25f9e794323b4538",
+                "jxurl": "https://ap.dxgsp.cc"
             }
         },	  
   {
@@ -393,7 +392,35 @@
       "playerType": 2,
       "ext": "7lj763gg09397907492i87j2g8128687kgg1ih5hij8772225j4i54l2k91k151k138612h68842ji"
     },	  
-   {                    
+        {
+            "key": "仓鼠",
+            "name": "仓鼠APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "https://qjappcms.cs4k.top",
+                "dataKey": "Z98KXaLtO2wC1Pte",
+                "dataIv": "Z98KXaLtO2wC1Pte",
+                "deviceId": "",
+                "version": "120"
+            }
+        },
+        {
+            "key": "橘猫",
+            "name": "橘猫APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "https://qjappcms.jm4k.top",
+                "dataKey": "pBVmysmGX8TsgrQN",
+                "dataIv": "pBVmysmGX8TsgrQN",
+                "deviceId": "",
+                "version": "120"
+            }
+        },   
+ {                    
       "key": "超前全片源",
       "name": "超前全网资源",
       "type": 3,
