@@ -215,21 +215,25 @@
                "version": "119"
            }
        },	  
- {
-           "key": "思怡",
-           "name": "思怡APP",
-           "type": 3,
-           "quickSearch": 1,
-           "api": "csp_AppGet",
-           "ext": {
-               "url": "http://xyj88.icu",
-               "dataKey": "xuyingjun8888888",
-               "dataIv": "xuyingjun8888888",
-               "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
-               "version": "100"
-           }
-       },	  	  
-{
+    {
+      "key": "yunyun",
+      "name": "云云APP",
+      "type": 3,
+      "jar": "http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331",
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "7lj763gg093979580864jh86k312jji4g5k69h0k9hj36h760g1954g2h71j4801158g09h3i00191ji6i1kk980g3l919h6g131680gk0kg98lk7kj23kg76il84841ghg693hkg72777"
+    },	  	  
+    {
+      "key": "永夜",
+      "name": "永夜App",
+      "type": 3,
+      "jar": "http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331",    
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "7lj763gg402i7942503g9gj0hj4li286k8h1j913j490266k53510hk6kh1h151g0382419ih40485880116ggj5i1j04jllg9304142il9k9jkg2ghl36k4399g6115k2gk9297kg23752g"
+    },
+	  {
            "key": "蓝光",
            "name": "蓝光APP",
            "type": 3,
