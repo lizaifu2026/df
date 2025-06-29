@@ -60,14 +60,14 @@
       "api": "csp_SuBaiBai",	    
       "ext": "https://www.subaibai.com"
     },	  
-        {
+    {
       "key": "咖啡",
-      "name": "咖啡1080P",
+      "name": "咖啡app",
       "type": 3,
-      "jar": "./0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11",
-      "quickSearch": 1,
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1750215028054/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11",
+       "quickSearch": 1,
       "api": "csp_AppGet2",
-      "ext": "N/01JeZBCBEQ0wOXNuAI/q97iGf3Y/QaLBH0kIoVdrmTkhIhx+6EMtUU6wfrlju+QX7XN4M9gXGJVIEMZgKYUCwM6KgbMpNxhhOH6nYmXoVYHv0cP5lhbLBYo7DCAkhAxkPrCjHFRgvXwPF5q5UdW7GGTBi7lkRvSimUHIl5hfbk1xA7FNs0GOoDzzqt9FLCO3PvhWaR6QVKFPLiVPct9x99q0yUl4JgaDFKPzQGL1BvGbCqIFyRrSAKGPiFlpiCuv2NjLFRQvx6umXk3/1A4EytR+ZHfPNuCguBgkOFqHg="
+      "ext": "N/01JeZBCBEQ0wOXNuAI/q97iGf3Y/QaLBH0kIoVdrnKxCuUIWfVlZJJ8jMpxXfPucm5RSdtMJbZblSTMupL7o4AHp23ZTnVCED1wLkNnYb7h+sLlCKHgtQL85pn+AZBdptE/pamy+f2puhKSSeRI07QbGtIU5Fbic5xpcJ5MU+9fH6PEfB3QX/uyzdFsumzDJ++ARLNolCknuB7kEaO/QJkB80p/bbHByMUk70xWNrepv5Dw1CNScgAtTUG8WfFBDW2Pl0w/D5YFjARkkHXURcgZik1Cyof0JuhBjNXP0o="
     },    
     {
       "key": "人人",
