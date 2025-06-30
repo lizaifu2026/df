@@ -155,7 +155,7 @@
       "key": "Drama",
       "name": "Drama",
       "type": 3,
-      "jar": "https://www.qiaoji8.com/custom_spider.jar",
+      "jar": "./jar/custom_spider.jar",
       "api": "csp_Drama",
       "playerType": 1,
       "ext": "caHR0cDovLzE1NC44Ni4xOC4xMTo4MzAxfEQyS1JFV1JJQlZOQVVKSllUS0xZRFpCUUJHRTBQUT09fE9DMUEwNkUxOTdFRjEwQ0YzRjYwNThDQTdBODAzQjVFfDIxfGR5dHQ="
@@ -164,7 +164,7 @@
       "key": "juzhi",
       "name": "橘汁APP",
       "type": 3,
-      "jar": "https://www.qiaoji8.com/custom_spider.jar",
+      "jar": "./jar/custom_spider.jar",
       "api": "csp_Drama",
       "playerType": 1,
       "ext": "caHR0cDovL2Nkbi45YXkuY258U0dOV1RKSFNLMDVTVTNOQlQwREZORVJSVkRSSlBRPT18T0MxQTA2RTE5N0VGMTBDRjNGNjA1OENBN0E4MDNCNUV8MjF8anV6aGk="
@@ -1242,17 +1242,7 @@
       "filterable": 1,
       "ext": "./lib/蓝莓短剧.js"
     },
- {	  	  	  
-      "key": "js_yiqikan",
-      "name": "一起看app",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/yiqikan.js"
-    },    
- {	  
+   {	  
       "key": "布蕾",
       "name": "布蕾影视",
       "type": 3,
