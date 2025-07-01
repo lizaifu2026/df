@@ -60,15 +60,21 @@
       "api": "csp_SuBaiBai",	    
       "ext": "https://www.subaibai.com"
     },	  
-    {
-      "key": "咖啡",
-      "name": "咖啡app",
-      "type": 3,
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1750215028054/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11",
-       "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "ext": "N/01JeZBCBEQ0wOXNuAI/q97iGf3Y/QaLBH0kIoVdrnKxCuUIWfVlZJJ8jMpxXfPucm5RSdtMJbZblSTMupL7o4AHp23ZTnVCED1wLkNnYb7h+sLlCKHgtQL85pn+AZBdptE/pamy+f2puhKSSeRI07QbGtIU5Fbic5xpcJ5MU+9fH6PEfB3QX/uyzdFsumzDJ++ARLNolCknuB7kEaO/QJkB80p/bbHByMUk70xWNrepv5Dw1CNScgAtTUG8WfFBDW2Pl0w/D5YFjARkkHXURcgZik1Cyof0JuhBjNXP0o="
-    },    
+        {
+            "key": "咖啡",
+            "name": "咖啡APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "",
+                "site": "https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt",
+                "dataKey": "qwertyuiopqwertt",
+                "dataIv": "qwertyuiopqwertt",
+                "deviceId": "",
+                "version": "109"
+            }
+        },  
     {
       "key": "人人",
       "name": "人人1080P",
@@ -107,7 +113,20 @@
                "分类url": "https://www.keke13.com/show/{cateId}-{class}-{area}--{year}-3-{catePg}.html",
                "分类": "短剧$6#电视剧$2#电影$1#动漫$3#综艺$4"}
            },      	 
-	{
+        {
+            "key": "斗量",
+            "name": "斗量APP",
+            "type": 3,
+            "api": "csp_AppSy",
+            "ext": {
+                "url": "https://app.ystva.com",
+                "key1": "hsZwQK5yrnefW7OJ",
+                "key2": "hsZwQK5yrnefW7OJ",
+                "key3": "hsZwQK5yrnefW7OJ"
+            }
+        },	
+	 
+	  {
    "key": "YIYI影视",
    "name": "YIYI影视App",
    "type": 3,
