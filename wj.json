@@ -125,8 +125,19 @@
                 "key3": "hsZwQK5yrnefW7OJ"
             }
         },	
-	 
-	  {
+        {
+            "key": "行动",
+            "name": "行动APP",
+            "type": 3,
+            "api": "csp_AppSy",
+            "ext": {
+                "url": "http://160.202.246.9:2356",
+                "key1": "aassddwwxxllsx1x",
+                "key2": "aassddwwxxllsx1x",
+                "key3": "aassddwwxxllsx1x"
+            }
+        },	 
+{
    "key": "YIYI影视",
    "name": "YIYI影视App",
    "type": 3,
