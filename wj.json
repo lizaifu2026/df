@@ -19,7 +19,20 @@
       "api": "csp_Douban",
       "searchable": 0
     },
-       {
+          {
+            "key": "配置中心",
+            "name": "配置中心",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },     
+	  {
             "key": "热播影视",
             "name": "热播APP",
             "type": 3,
@@ -125,7 +138,21 @@
                 "key3": "hsZwQK5yrnefW7OJ"
             }
         },	
-        {
+         {
+            "key": "若惜",
+            "name": "若惜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://110.40.59.188:9527",
+                "dataKey": "ebad3f1a58b13933",
+                "dataIv": "ebad3f1a58b13933",
+                "deviceId": "",
+                "version": ""
+            }
+        },      
+	  {
             "key": "行动",
             "name": "行动APP",
             "type": 3,
@@ -223,15 +250,7 @@
       "api": "csp_Quanwk",
       "ext": "https://www.91qkw.com"
     },	 
-    {
-      "key": "荐片",
-      "name": "荐片影视",
-      "api": "csp_Jianpian",
-      "type": 3,
-      "playerType": "2",
-      "ext": "http://api2.rinhome.com"
-    },	 
-    {
+{
       "key": "csp_Jpys",
       "name": "金牌1080P",
       "type": 3,
@@ -500,15 +519,34 @@
        "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar",
        "api": "csp_HBwwgg"	      
     },      
-    {
-      "key": "追忆",
-      "name": "追忆影视",
-      "type": 3,
-      "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar",
-      "api": "csp_HBv1Class",	   
-      "ext": "DyoqWQInJUMuGFcDDzo5HCw7IQ8BJihEIg82HC0VLUEsJQkBIDY9ESwrKQMHDBlHCwwTHAUnAEU="
-    },	  
-{
+        {
+            "key": "追忆",
+            "name": "追忆APP",
+            "type": 3,
+            "api": "csp_AppSy",
+            "ext": {
+                "url": "http://110.42.7.130:1866",
+                "key1": "aassddwwxxllsx1x",
+                "key2": "2083c87e98b6ce08",
+                "key3": "2083c87e98b6ce08"
+            }
+        },  
+        {
+            "key": "云速",
+            "name": "云速APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "",
+                "site": "http://59.153.167.137:7788/1.json",
+                "dataKey": "4d83b87c4c5ea111",
+                "dataIv": "4d83b87c4c5ea111",
+                "deviceId": "",
+                "version": "105"
+            }
+        },
+	  {
            "key": "宫阁",
            "name": "宫阁APP",
            "type": 3,
@@ -1161,7 +1199,54 @@
       "searchable": 2,
       "filterable": 1,
       "ext": "./lib/AppGet.js?type=url&params=https://mfsp33.top$1234567887654321$1234567887654321"},
-    {
+        {
+            "key": "荐片",
+            "name": "荐片磁力",
+            "api": "csp_Jianpian",
+            "type": 3,
+            "playerType": 1,
+            "ext": "http://api2.rinhome.com"
+        },
+        {
+            "key": "修罗影视",
+            "name": "修罗磁力",
+            "type": 3,
+            "api": "csp_HBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XBPQ/修罗影视.json"
+        },
+        {
+            "key": "七味",
+            "name": "七味磁力",
+            "type": 3,
+            "api": "csp_QnMp4",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "80S",
+            "name": "80S磁力",
+            "type": 3,
+            "api": "csp_BLSGod",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "New6v",
+            "name": "New6V磁力",
+            "type": 3,
+            "api": "csp_New6v",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.xb6v.com"
+        },    
+ {
       "key": "drpyS_蓝莓短剧[短]",
       "name": "蓝莓短剧(壹)",
       "type": 4,
@@ -1284,7 +1369,17 @@
       "changeable": 0,
       "ext": "./lib/bulei.js"
     },
-   {	  
+        {
+            "key": "短剧合集",
+            "name": "短剧合集",
+            "type": 3,
+            "api": "./js/cloud.min.js",
+            "ext": "./lib/短剧合集.js",
+            "style": {
+                "type": "list"
+            }
+        },  
+ {	  
       "key": "星芽短剧",
       "name": "星芽短剧（贰）",
       "type": 3,
@@ -1292,7 +1387,16 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
-    }
+    },
+        {
+            "key": "push_agent",
+            "name": "手机推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0
+        } 
   ],
   "parses": [
     {
