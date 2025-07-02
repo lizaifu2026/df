@@ -1215,7 +1215,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XBPQ/修罗影视.json"
+            "ext": "./lib/修罗影视.json"
         },
         {
             "key": "七味",
