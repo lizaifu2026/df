@@ -187,6 +187,19 @@
                 "version": "101"
             }
         },
+{
+           "key": "米诺",
+           "name": "米诺APP",
+           "type": 3,
+           "quickSearch": 1,
+           "api": "csp_AppGet",
+           "ext": {
+               "url": "http://www.milkidc.cn/";,
+               "dataKey": "20c79c979da8db0f",
+               "dataIv": "20c79c979da8db0f",
+               "deviceId": "",
+               "version": ""
+           },	  
 	  {
             "key": "嗒哇",
             "name": "嗒哇APP",
