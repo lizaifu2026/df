@@ -173,7 +173,21 @@
    "playerType": 2,
    "ext": "7lj763gg0939790i413gi4igh94585i7g0l98449i39920187h78327624i6j3iqiaoji9lj8g09l9ig1ii3"
 },  
-{
+        {
+            "key": "光盘",
+            "name": "光盘APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://119.13.88.18",
+                "dataKey": "xnybssspqtwotuwj",
+                "dataIv": "xnybssspqtwotuwj",
+                "deviceId": "",
+                "version": "101"
+            }
+        },
+	  {
             "key": "嗒哇",
             "name": "嗒哇APP",
             "type": 3,
