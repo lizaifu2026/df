@@ -126,19 +126,7 @@
                "分类url": "https://www.keke13.com/show/{cateId}-{class}-{area}--{year}-3-{catePg}.html",
                "分类": "短剧$6#电视剧$2#电影$1#动漫$3#综艺$4"}
            },      	 
-        {
-            "key": "斗量",
-            "name": "斗量APP",
-            "type": 3,
-            "api": "csp_AppSy",
-            "ext": {
-                "url": "https://app.ystva.com",
-                "key1": "hsZwQK5yrnefW7OJ",
-                "key2": "hsZwQK5yrnefW7OJ",
-                "key3": "hsZwQK5yrnefW7OJ"
-            }
-        },	
-         {
+	 {
             "key": "若惜",
             "name": "若惜APP",
             "type": 3,
