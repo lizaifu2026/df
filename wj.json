@@ -1280,18 +1280,7 @@
       "quickSearch": 1,
       "ext": ""
     },	 
-	  {
-            "key": "甜圈短剧",
-            "name": "甜圈短剧py",
-            "type": 3,
-            "api": "./py/甜圈短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        }, 	  
-	  {
+ {
             "key": "hmys",
             "name": "海马影视py",
             "type": 3,
@@ -1351,17 +1340,7 @@
       "api": "./js/drpy2.min.js",
       "ext": "./lib/瓜子短剧.js"
     },      
-    {	  
-      "key": "drpyS_河马短剧[短]",
-      "name": "河马短剧",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/河马短剧[短]",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 0,
-      "ext": ""
-    },    
-   {	  	  	  
+    {	  	  	  
       "key": "js_蓝莓短剧",
       "name": "蓝莓短剧(贰)",
       "type": 3,
