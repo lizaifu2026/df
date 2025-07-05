@@ -570,21 +570,7 @@
                 "version": ""
             }
         },
-        {
-            "key": "米兔",
-            "name": "米兔APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://v.tkbot.fun",
-                "dataKey": "d032c12876bc6848",
-                "dataIv": "d032c12876bc6848",
-                "deviceId": "",
-                "version": "200"
-            }
-        },	  
-        {
+	 {
             "key": "晴天",
             "name": "晴天APP",
             "type": 3,
@@ -607,12 +593,6 @@
             "searchable": 1,
             "changeable": 1
         },	 
-       {
-            "key": "云播影视",
-            "name": "云播影视",
-            "type": 3,
-            "api": "csp_Tvyb"
-        },	  
 	  {	 
             "key": "旺旺采集资源",
             "name": "旺旺短剧",
