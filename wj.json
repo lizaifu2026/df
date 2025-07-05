@@ -214,7 +214,6 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "http://cmstt.lfytv.cn/api.php/app/"},  
-         { "key": "天堂影院", "name": "天堂影院", "type":3,"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+简介：&&</p>","分类url":"https://www.zadytt.com/list/{cateId}-{class}---{year}---{area}--p{catePg}.html","分类":"电视剧$2#电影$1#动漫$3#综艺$4"}},  
   {  	 
       "key": "csp_Quanwk",
       "name": "全看影视",
@@ -240,21 +239,7 @@
      "filterable": 1,
      "ext": "http://jxfmax.juxiafan.com/icciu_api.php/v1.vod"
    },	 
- {
-           "key": "沐沐",
-           "name": "沐沐APP",
-           "type": 3,
-           "quickSearch": 1,
-           "api": "csp_AppGet",
-           "ext": {
-               "url": "http://xk.ys088.cn",
-               "dataKey": "1846397456616237",
-               "dataIv": "1846397456616237",
-               "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
-               "version": "119"
-           }
-       },	  
-    {
+{
       "key": "yunyun",
       "name": "云云APP",
       "type": 3,
@@ -286,9 +271,10 @@
                "version": "119"
            }
        },
-   { "key": "柯蓝影视", "name": "柯蓝影视", "type":3,"api":"csp_XBPQ","ext": {"首页":"0","请求头":"Cookie$X-Robots-Tag=CDN-VERIFY","分类url":"https://knvod.cc/show/{cateId}--------{catePg}---/","分类":"剧集$2#电影$1#动漫$3#短剧$6#综艺$4","数组":"class=\"public-list-div&&class=\"public-list-button","图片":"data-src=\"&&\"","标题":"title=\"&&\"","副标题":"title=\"&&\"","链接":"href=\"&&\"","线路数组":"<i class=\"fa ds-dianying\">&&</a>","线路标题":">&&</span>","简介":"class=\"text cor3\">&&</div>","播放数组":"class=\"anthology-list-play&&</ul>","播放列表":"<a&&/a>","播放标题":">&&<","播放链接":"href=\"&&\"","过滤词":"app/index#dm.php","嗅探词":"video/tos#obj/tos#v1/tos#.mp4#.m3u8"}},
- {"key":"23","name":"23App","type":3,"api":"csp_Muou","playerType":2,"jar": "http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331","ext":"7lj763gg402i79420078j9qiaojiigg34hi291ljg5j60l9l0ik1l0jg86ljklgj5909404h"},        
- {
+{ "key": "柯蓝影视", "name": "柯蓝影视", "type":3,"api":"csp_XBPQ","ext": {"首页":"0","请求头":"Cookie$X-Robots-Tag=CDN-VERIFY","分类url":"https://knvod.cc/show/{cateId}--------{catePg}---/","分类":"剧集$2#电影$1#动漫$3#短剧$6#综艺$4","数组":"class=\"public-list-div&&class=\"public-list-button","图片":"data-src=\"&&\"","标题":"title=\"&&\"","副标题":"title=\"&&\"","链接":"href=\"&&\"","线路数组":"<i class=\"fa ds-dianying\">&&</a>","线路标题":">&&</span>","简介":"class=\"text cor3\">&&</div>","播放数组":"class=\"anthology-list-play&&</ul>","播放列表":"<a&&/a>","播放标题":">&&<","播放链接":"href=\"&&\"","过滤词":"app/index#dm.php","嗅探词":"video/tos#obj/tos#v1/tos#.mp4#.m3u8"}}, 
+{"key":"23","name":"23App","type":3,"api":"csp_Muou","playerType":2,"jar": "http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331","ext":"7lj763gg402i79420078j9qiaojiigg34hi291ljg5j60l9l0ik1l0jg86ljklgj5909404h"},        
+{ "key": "饭团影视", "name": "饭团影视", "type":3,"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+<p>&&</p>","副标题":"module-item-note\">&&</div>","分类url":"https://www.fantuan.vip/vodtype/{cateId}.html","分类":"电视剧$2#电影$1#动漫$3#综艺$4"}},   
+	  {
            "key": "芷白",
            "name": "芷白APP",
            "type": 3,
@@ -353,11 +339,7 @@
      "filterable": 1,
      "ext": "http://v.cute6.cn/api.php/v1.vod"
    },   
-{ "key": "瓜子影院", "name": "瓜子影院", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+豆瓣评分:*</p>&&</div>","数组":"fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>","图片":"data-original=\"&&\"","标题":"fed-visible fed-part-eone\" href=*>&&</a>","副标题":"fed-text-white fed-text-center\">&&</span>","线路数组":"fed-col-xs3 fed-col-sm2&&</span>","分类url":"https://www.gzshowa.com/search.php?page={catePg}&searchtype=5&tid={cateId}&area={area}&year={year}","分类":"短剧$32#电视剧$2#电影$1#动漫$4#综艺$3"}},
-{ "key": "饭团影视", "name": "饭团影视", "type":3,"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+<p>&&</p>","副标题":"module-item-note\">&&</div>","分类url":"https://www.fantuan.vip/vodtype/{cateId}.html","分类":"电视剧$2#电影$1#动漫$3#综艺$4"}},   
-{ "key": "70影视", "name": "70影视", "type":3,"api":"csp_XBPQ", "ext": {"清求头":"手机","简介":"剧情介绍:+ewave-collapse-content\">&&</p>","线路数组":"#ewave-playlist&&</li>","分类url":"https://www.70yy.fun/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},	  
-{ "key": "首播影视", "name": "首播影视", "type":3,"api":"csp_XBPQ","ext": {"数组":"video-card x09cb&&</a>","图片":"data-src=\"&&\"","标题":"alt=\"&&\"","线路标题":"f33d4f\">&&</div>","状态":"提醒：更新至&&</div>","分类url":"https://www.5jcd.com/list/{cateId}_{catePg}.html","分类":"国产剧$19#港台剧$20#日剧$21#韩剧$22#美剧$23#泰剧$24#动作$8#喜剧$38#爱情$9#科幻$11#恐怖$12#剧情$10#动画$17#国产动漫$29#日本动漫$30#欧美动漫$31#大陆综艺$25#港台综艺$26#日韩综艺$27#欧美综艺$28"}},	  
-    {
+ {
       "key": "yizys",
       "name": "驿站App",
       "type": 3,
@@ -403,14 +385,7 @@
                 "version": ""
             }
         },
-  {
-            "key": "糯米影视",
-            "name": "糯米影视",
-            "type": 3,
-            "api": "csp_Wwys",
-            "ext": "https://www.wwgz.cn"
-        },	  
-  {
+ {
            "key": "可达",
           "name": "可达APP",
            "type": 3,
