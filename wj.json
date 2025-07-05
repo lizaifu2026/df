@@ -448,18 +448,7 @@
                 "version": "120"
             }
         },   
- {                    
-      "key": "超前全片源",
-      "name": "超前全网资源",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType":2,
-      "ext": "http://zhangbokeji.top:291/api.php/app/"
-   },	 
-    {
+{
 	"key": "永乐视频",
 	"name": "永乐视频",
 	"type": 3,
@@ -470,13 +459,6 @@
 	"ext": "https://www.rrys.lv/api.php/app/"
 },   
       {
-       "key": "旺旺",
-       "name": "旺旺影视",
-       "type": 3,
-       "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar",
-       "api": "csp_HBwwgg"	      
-    },      
- {
             "key": "云速",
             "name": "云速APP",
             "type": 3,
@@ -491,23 +473,8 @@
                 "version": "105"
             }
         },
-	  {
-           "key": "宫阁",
-           "name": "宫阁APP",
-           "type": 3,
-           "quickSearch": 1,
-           "api": "csp_AppMuou",
-           "ext": {
-               "url": "http://111.180.198.40:1110",
-               "dataKey": "14deb3a41a955648",
-               "dataIv": "14deb3a41a955648",
-               "jxurl": "https://ww.ndjdnd.icu"
-           }
-       },
-{ "key": "骚火影院", "name": "骚火影院", "type":3,"api":"csp_XBPQ", "ext": { "简介" :"剧情介绍:+p_txt show_part\">&&</p>","副标题":"v_note\">&&</div>","分类url":"https://saohuody.com/list/{cateId}-{catePg}.html;;d1","分类":"国产剧$12#港剧$13#台剧$14#日剧$15#韩剧$16#美剧$17#海外$18#泰剧$19#动作$5#喜剧$6#爱情$7#科幻$8#恐怖$9#剧情$10#战争$11#动画$33"}},	  
 { "key": "老王影视",  "name": "老王影视", "type": 3,"api": "csp_XBPQ", "ext": {"简介":"剧情介绍: +video-info-content vod_content\">&&</div>","数组": "<a&&module-item-pic","副标题":"module-item-text\">&&</div>","状态":"集数：&&</div>","线路数组":"module-tab-item tab-item&&</small>","播放数组":"module-blocklist scroll-box&&</div>","搜索url": "https://laowang.co/s.html?wd={wd}","搜索数组": "module-item-pic&&video-info","搜索标题": "alt=\"&&\">","搜索图片": "data-src=\"&&\"","分类url":"https://laowang.co/vs/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},       
-{ "key": "7点影视", "name": "7点影视", "type":3,"api":"csp_XBPQ","ext": {"简介":"您剧情介绍:+pt-10 pb-10\" style=*>&&</p>","图片":"data-original=\"&&\"[替换:amp;>>空]","线路数组":"#ewave-playlist-&&</li>","分类url":"https://www.7.movie/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$24#电视剧$21#电影$20#动漫$22#综艺$23"}},	 
-{ "key": "539影视", "name": "539影视", "type":3,"api":"csp_XBPQ","ext": {"简介":"您剧情介绍:+detail-content\" style=*>&&</span>","分类url":"https://www.539539.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$25#电视剧$2#电影$1#动漫$4#综艺$3#伦理$26"}},	 
+ { "key": "539影视", "name": "539影视", "type":3,"api":"csp_XBPQ","ext": {"简介":"您剧情介绍:+detail-content\" style=*>&&</span>","分类url":"https://www.539539.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$25#电视剧$2#电影$1#动漫$4#综艺$3#伦理$26"}},	 
 	  {
             "key": "橘子",
             "name": "橘子APP",
@@ -530,7 +497,6 @@
       "api": "csp_Wcai",	    
       "ext": "https://www.gs4x7nq4.com"
     },
-	  { "key": "素白白", "name": "素白白XBPQ", "type":3,"api":"csp_XBPQ", "ext": { "简介" :"剧情介绍:+yp_context\">&&</div>","线路数组":"javascript:void(0);\">&&</a>","播放数组":"paly_list_btn\">&&</div>","分类url":"https://www.subaibai.com/{cateId}/page/{catePg}[https://www.subaibai.com/{cateId}]","分类":"电视剧$tv-drama#国产剧$domestic-drama#欧美剧$american-drama#日韩剧$korean-drama#电影$new-movie#热门电影$hot-month#高分电影$high-movie#动漫电影$cartoon-movie#香港电影$cartoon-movie#动漫剧$anime-drama"}},           
 {
            "key": "诺映",
            "name": "诺映APP",
@@ -558,8 +524,7 @@
                "jxurl": "https://www.ququkan.cc"
            }
        },      
-	    { "key": "茶杯狐影院", "name": "茶杯狐影院", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+剧情介绍：&&</span>","分类url":"https://www.5jcd.com/show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$58#电视剧$2#电影$1#动漫$4#综艺$3"}}, 
-	  {"key": "黑木耳","name": "黑木耳","type": 1,"api": "https://json.heimuer.tv/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"categories":["国产剧","欧美剧","港剧","韩剧","台剧","日剧","其他剧","泰剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","惊悚片","犯罪片","国产动漫","日本动漫","欧美动漫","国产综艺","日本综艺","欧美综艺"]},	 
+ {"key": "黑木耳","name": "黑木耳","type": 1,"api": "https://json.heimuer.tv/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"categories":["国产剧","欧美剧","港剧","韩剧","台剧","日剧","其他剧","泰剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","惊悚片","犯罪片","国产动漫","日本动漫","欧美动漫","国产综艺","日本综艺","欧美综艺"]},	 
         {
             "key": "雄鹰",
             "name": "雄鹰APP",
