@@ -277,6 +277,7 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
+      "jar": "./jp.png;md5;21889929c9e48146ec704eeb6519660d",
       "api": "csp_AppSy",
       "playerType": 2,
       "ext": "9rfWRaAx60J+W5F+j6agt6AHU3NkRl7m8WqfWIBU/MebSZgzY2wnsXwmAIMEYVqMzsnqr46bOn1q4JV/UJAKUVF6NUo2Xg8qcHgXrA63RWM="
@@ -285,6 +286,7 @@
       "key": "幕启",
       "name": "幕启影视",
       "type": 3,
+      "jar": "./jp.png;md5;21889929c9e48146ec704eeb6519660d",
       "api": "csp_AppSy",
       "ext": "iUYplHbim/qVptUBrzCuqk72erYn+xHvZVGawkGUOqtLGtiWlDcWpUagYzdfPYeECbG+IjVf7Mhz2ZqZ70k6X72tkUhQDNEpIN/XScTGlUE="
     },	  
@@ -292,6 +294,7 @@
       "key": "巧技",
       "name": "聚搜影视",
       "type": 3,
+      "jar": "./jp.png;md5;21889929c9e48146ec704eeb6519660d",
       "searchable": 1,
       "quickSearch": 1,
       "api": "csp_qiao2",
@@ -305,6 +308,7 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
+      "jar": "./jp.png;md5;21889929c9e48146ec704eeb6519660d",
       "api": "csp_AppYsV2",
       "playerType": 2,
       "ext": "./lib/cs.txt"
@@ -463,16 +467,7 @@
                 "url": "http://v.lkuys.cn"
             }
         },	  
-    {
-      "key": "巧技三",
-      "name": "QD4K影视",
-      "type": 3,
-      "jar": "http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331",
-      "api": "csp_AppYsV2",
-      "playerType": 2,
-      "ext": "7lj763gg09397907492i87j2g8128687kgg1ih5hij8772225j4i54l2k91k151k138612h68842ji"
-    },	  
-        {
+  {
             "key": "仓鼠",
             "name": "仓鼠APP",
             "type": 3,
