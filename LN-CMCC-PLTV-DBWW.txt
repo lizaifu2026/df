@@ -380,6 +380,13 @@ CCTV-5+体育赛事,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224
 优漫卡通,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226768/index.m3u8,$SD
 优漫卡通,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226768/index.m3u8,$SD
 辽宁联通 数字,#genre#
+CHC动作电影,http://fxgm.fxjf.work:19901/tsfile/live/1015_1.m3u8
+CHC家庭影院,http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8
+CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+经典剧场,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
+CHC动作电影,http://http://goo.bkpcp.top/mg/dzdy
+CHC家庭影院,http://http://goo.bkpcp.top/mg/jtyy
 CCTV-第一剧场,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227444/index.m3u8,$FHD
 CCTV-第一剧场,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227444/index.m3u8,$FHD
 CCTV-风云剧场,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227447/index.m3u8,$FHD
