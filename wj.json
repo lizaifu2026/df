@@ -1156,16 +1156,7 @@
             "quickSearch": 0,
             "filterable": 0
         },  
-{  
-      "key": "彼岸1",
-      "name": "彼岸4K",
-      "type": 3,
-      "api": "./js/drpy2.min.js",                
-      "quickSearch": 1,
-      "searchable": 2,
-      "filterable": 1,
-      "ext": "./lib/AppGet.js?type=url&params=https://mfsp33.top$1234567887654321$1234567887654321"},
-        {
+ {
             "key": "荐片",
             "name": "荐片磁力",
             "api": "csp_Jianpian",
