@@ -271,18 +271,7 @@
       "playerType": 2,
       "ext": "7lj763gg402i7942503g9gj0hj4li286k8h1j913j490266k53510hk6kh1h151g0382419ih40485880116ggj5i1j04jllg9304142il9k9jkg2ghl36k4399g6115k2gk9297kg23752g"
     },
-    {
-      "key": "追忆5",
-      "name": "追忆影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "./jp.png;md5;21889929c9e48146ec704eeb6519660d",
-      "api": "csp_AppSy",
-      "playerType": 2,
-      "ext": "9rfWRaAx60J+W5F+j6agt6AHU3NkRl7m8WqfWIBU/MebSZgzY2wnsXwmAIMEYVqMzsnqr46bOn1q4JV/UJAKUVF6NUo2Xg8qcHgXrA63RWM="
-    },	 
-    {
+{
       "key": "幕启",
       "name": "幕启影视",
       "type": 3,
