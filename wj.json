@@ -1123,6 +1123,7 @@
       }
     },     
     { "key": "飞飞影视", "name": "飞飞影视", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+简介：</span>&&</div>","数组":"fed-col-sm3 fed-col-md2\">&&</li>","图片":"src=\"&&\"","标题":"fed-part-eone\" href=*>&&</a>","副标题":"fed-text-center\">&&</span>","线路数组":"fed-btns-info fed-rims-info&&</a>","分类url":"https://www.ffys2.cc/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$20#电视剧$2#电影$1#动漫$4#综艺$3#午夜$22"}},     
+{"key":"kf","name":"咖啡影视","type":3,"api":"csp_KaFeiGuard","jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/M7YtniF9.png;md5;8a6744d81de5702675ade55f2b80fdcc","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
 {
       "key": "MV大全",
       "name": "MV音乐",
