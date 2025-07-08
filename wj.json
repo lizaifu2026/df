@@ -1122,7 +1122,8 @@
         "类型": "大陆鬼片$6#日韩鬼片$7#林正英鬼片$8#港台鬼片$9#泰国鬼片$10#欧美鬼片$11||空||空||国产剧$12#美剧$13#韩剧$14#日剧$15#泰剧$16#港台剧$20#其他剧$22"
       }
     },     
-     {
+    { "key": "飞飞影视", "name": "飞飞影视", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+简介：</span>&&</div>","数组":"fed-col-sm3 fed-col-md2\">&&</li>","图片":"src=\"&&\"","标题":"fed-part-eone\" href=*>&&</a>","副标题":"fed-text-center\">&&</span>","线路数组":"fed-btns-info fed-rims-info&&</a>","分类url":"https://www.ffys2.cc/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$20#电视剧$2#电影$1#动漫$4#综艺$3#午夜$22"}},     
+{
       "key": "MV大全",
       "name": "MV音乐",
       "type": 4,
