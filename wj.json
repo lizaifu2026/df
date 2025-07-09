@@ -220,7 +220,52 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "http://cmstt.lfytv.cn/api.php/app/"},  
-  {  	 
+        {
+            "key": "麻花",
+            "name": "麻花APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "",
+                "site": "https://apicoss-alimama-com-1307821617.file.myqcloud.com/Uploadsget",
+                "dataKey": "q7gj4f9br3fls6nh",
+                "dataIv": "q7gj4f9br3fls6nh",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "豆丁",
+            "name": "豆丁APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "",
+                "site": "https://vip.123pan.cn/1848451100/zl/xfdd.txt",
+                "dataKey": "xasdasdqwertyuio",
+                "dataIv": "xasdasdqwertyuio",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "灵虎",
+            "name": "灵虎APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "",
+                "site": "https://bind.315999.xyz/89.txt",
+                "dataKey": "#getapp@TMD@2025",
+                "dataIv": "#getapp@TMD@2025",
+                "deviceId": "",
+                "version": ""
+            }
+        },  
+{  	 
       "key": "csp_Quanwk",
       "name": "全看影视",
       "type": 3,
@@ -463,6 +508,18 @@
             }
         },
         {
+            "key": "追忆",
+            "name": "追忆APP",
+            "type": 3,
+            "api": "csp_AppSy",
+            "ext": {
+                "url": "http://110.42.7.130:1866",
+                "key1": "aassddwwxxllsx1x",
+                "key2": "2083c87e98b6ce08",
+                "key3": "2083c87e98b6ce08"
+            }
+        },       
+	  {
             "key": "橘猫",
             "name": "橘猫APP",
             "type": 3,
