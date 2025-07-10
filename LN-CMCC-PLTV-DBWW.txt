@@ -409,8 +409,7 @@ CCTV-怀旧剧场,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3
 睛彩青少,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8,$FHD
 睛彩青少,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8,$FHD
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-1905电影,http://120.76.248.139/live/lunbo/ssdy.m3u8&id=1905a
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-星空国际,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
+
 
 
