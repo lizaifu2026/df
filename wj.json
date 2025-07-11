@@ -440,6 +440,50 @@
       "playerType": 2,
       "ext": "7lj763gg402i794255648kj0hj539g9hl7k6jk52ji"
     },	 
+        {
+            "key": "鲸鱼",
+            "name": "鲸鱼APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "",
+                "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
+                "dataKey": "AAdgrdghjfgswerA",
+                "dataIv": "AAdgrdghjfgswerA",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "热剧",
+            "name": "热剧APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "",
+                "site": "https://app-qy.oss-cn-shanghai.aliyuncs.com/rebo.txt",
+                "dataKey": "8191A7F47B37882F",
+                "dataIv": "8191A7F47B37882F",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "鲶鱼",
+            "name": "鲶鱼APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://47.122.22.78",
+                "dataKey": "2234567890123456",
+                "dataIv": "2234567890123456",
+                "deviceId": "",
+                "version": ""
+            }
+        },	  
 	  {
            "key": "玲珑",
            "name": "玲珑APP",
@@ -1107,6 +1151,49 @@
       "changeable": 1
     },	 
         {
+            "key": "稀饭动漫",
+            "name": "稀饭动漫",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "",
+                "site": "https://xfapp-1305390065.cos.ap-guangzhou.myqcloud.com/getapp.txt",
+                "dataKey": "1yZ2Spn9krnzVKoC",
+                "dataIv": "1yZ2Spn9krnzVKoC",
+                "deviceId": "",
+                "version": ""
+            }
+        },          
+	  {
+            "key": "米饭动漫",
+            "name": "米饭动漫",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://45.43.29.111:9527",
+                "dataKey": "GETMIFUNGEIMIFUN",
+                "dataIv": "GETMIFUNGEIMIFUN",
+                "deviceId": "",
+                "version": ""
+            }
+        },      
+	  {
+            "key": "黑猫动漫",
+            "name": "黑猫动漫",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://dm.xxdm123.top:9991",
+                "dataKey": "0fe3b5781782c621",
+                "dataIv": "0fe3b5781782c621",
+                "deviceId": "",
+                "version": "203"
+            }
+        },       
+	  {
             "key": "咕咕动漫",
             "name": "咕咕动漫",
             "type": 3,
