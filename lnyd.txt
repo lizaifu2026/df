@@ -319,11 +319,13 @@ CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.
 中国教育-3,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226950/index.m3u8
 中国教育-4,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226940/index.m3u8
 辽宁移动 4K/8K（支持时移和回看）,#genre#
-广东卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227510/index.m3u8
-深圳卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227538/index.m3u8
-北京卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227532/index.m3u8
-至臻视界-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227393/index.m3u8
-咪咕音乐-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227311/index.m3u8
+北京卫视4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227532/index.m3u8
+北京卫视4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227001/index.m3u8
+北京卫视4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227410/index.m3u8
+广东卫视4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227510/index.m3u8
+深圳卫视4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227538/index.m3u8
+至臻视界4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227393/index.m3u8
+咪咕音乐4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227311/index.m3u8
 黑龙江移动（支持时移和回看）,#genre#
 CCTV1,http://39.134.65.106/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.65.106/PLTV/88888888/224/3221226119/1.m3u8
