@@ -74,30 +74,7 @@
       "api": "csp_SuBaiBai",	    
       "ext": "https://www.subaibai.com"
     },	  
-        {
-            "key": "咖啡",
-            "name": "咖啡APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet2",
-            "ext": {
-                "url": "",
-                "site": "https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt",
-                "dataKey": "qwertyuiopqwertt",
-                "dataIv": "qwertyuiopqwertt",
-                "deviceId": "",
-                "version": "109"
-            }
-        }, 
-    {
-      "key": "人人",
-      "name": "人人1080P",
-      "type": 3,
-      "jar": "./0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11",
-      "api": "csp_AppGet",
-      "ext": "sHR2rlsfjI4L3t4RXQMknw+zXdsvYSFPrylVBk8Otj7BtrOcImUIxu7uCmi/oCEVSH+1Tuw/tXHzW47SGQsj8bRydPRgWesjHAxv9eu8eO9hOGeUeBKsucMHODs09HXY4kiPp3p1vemBghpvJFm9mx/FFTQYaEQ33Bpqwk73VkDa2zWgoB0CNuBseJhbj2hRKqOiT08iymzh4sSfhjJ5tbS5yTDxPIJAjwMijWuyOJB++d859vxajKD2Jg5qw0lv"
-    },	  
-     	 {
+{
             "key": "若惜",
             "name": "若惜APP",
             "type": 3,
@@ -160,8 +137,7 @@
                "version": ""
 	   }
 	},	  
-{"key":"SeedHub","name":"Seed 4K","type":3,"api":"csp_SeedHubGuard","jar":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/-YmSv1q9.png;md5;d6c550913a69efc65f8781b51cbf3de8","quickSearch":1,"changeable":1,"filterable":1,"timeout":25},
-        {
+{
             "key": "嗒哇",
             "name": "嗒哇APP",
             "type": 3,
@@ -221,22 +197,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "http://cmstt.lfytv.cn/api.php/app/"},  
-        {
-            "key": "麻花",
-            "name": "麻花APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "https://apicoss-alimama-com-1307821617.file.myqcloud.com/Uploadsget",
-                "dataKey": "q7gj4f9br3fls6nh",
-                "dataIv": "q7gj4f9br3fls6nh",
-                "deviceId": "",
-                "version": ""
-            }
-        },
-        {
+{
             "key": "豆丁",
             "name": "豆丁APP",
             "type": 3,
@@ -266,14 +227,7 @@
                 "version": ""
             }
         },  
-{  	 
-      "key": "csp_Quanwk",
-      "name": "全看影视",
-      "type": 3,
-      "api": "csp_Quanwk",
-      "ext": "https://www.91qkw.com"
-    },	 
-{
+ {
       "key": "csp_Jpys",
       "name": "金牌1080P",
       "type": 3,
@@ -300,24 +254,7 @@
       "playerType": 2,
       "ext": "7lj763gg093979580864jh86k312jji4g5k69h0k9hj36h760g1954g2h71j4801158g09h3i00191ji6i1kk980g3l919h6g131680gk0kg98lk7kj23kg76il84841ghg693hkg72777"
     },	  	  
-    {
-      "key": "永夜",
-      "name": "永夜App",
-      "type": 3,
-      "jar": "http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331",    
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "7lj763gg402i7942503g9gj0hj4li286k8h1j913j490266k53510hk6kh1h151g0382419ih40485880116ggj5i1j04jllg9304142il9k9jkg2ghl36k4399g6115k2gk9297kg23752g"
-    },
 {
-      "key": "幕启",
-      "name": "幕启影视",
-      "type": 3,
-      "jar": "./jp.png;md5;21889929c9e48146ec704eeb6519660d",
-      "api": "csp_AppSy",
-      "ext": "iUYplHbim/qVptUBrzCuqk72erYn+xHvZVGawkGUOqtLGtiWlDcWpUagYzdfPYeECbG+IjVf7Mhz2ZqZ70k6X72tkUhQDNEpIN/XScTGlUE="
-    },	  
-    {
       "key": "巧技",
       "name": "聚搜影视",
       "type": 3,
@@ -357,35 +294,7 @@
 { "key": "柯蓝影视", "name": "柯蓝影视", "type":3,"api":"csp_XBPQ","ext": {"首页":"0","请求头":"Cookie$X-Robots-Tag=CDN-VERIFY","分类url":"https://knvod.cc/show/{cateId}--------{catePg}---/","分类":"剧集$2#电影$1#动漫$3#短剧$6#综艺$4","数组":"class=\"public-list-div&&class=\"public-list-button","图片":"data-src=\"&&\"","标题":"title=\"&&\"","副标题":"title=\"&&\"","链接":"href=\"&&\"","线路数组":"<i class=\"fa ds-dianying\">&&</a>","线路标题":">&&</span>","简介":"class=\"text cor3\">&&</div>","播放数组":"class=\"anthology-list-play&&</ul>","播放列表":"<a&&/a>","播放标题":">&&<","播放链接":"href=\"&&\"","过滤词":"app/index#dm.php","嗅探词":"video/tos#obj/tos#v1/tos#.mp4#.m3u8"}}, 
 {"key":"23","name":"23App","type":3,"api":"csp_Muou","playerType":2,"jar": "http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331","ext":"7lj763gg402i79420078j9qiaojiigg34hi291ljg5j60l9l0ik1l0jg86ljklgj5909404h"},        
 { "key": "饭团影视", "name": "饭团影视", "type":3,"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+<p>&&</p>","副标题":"module-item-note\">&&</div>","分类url":"https://www.fantuan.vip/vodtype/{cateId}.html","分类":"电视剧$2#电影$1#动漫$3#综艺$4"}},   
-	  {
-           "key": "芷白",
-           "name": "芷白APP",
-           "type": 3,
-           "quickSearch": 1,
-           "api": "csp_AppGet",
-           "ext": {
-               "url": "http://mitv.bbbzd.cn",
-               "dataKey": "hgfdsapoiuytrewq",
-               "dataIv": "hgfdsapoiuytrewq",
-               "deviceId": "2dc3f47bb8bc03343a977a346935d9f62",
-               "version": "102"
-           }
-       },             
-  {   
-            "key": "海豚App",
-            "name": "海豚App",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://appcms.htsp4k.top",
-                "dataKey": "7CYQQzwchRQpHCOj",
-                "dataIv": "7CYQQzwchRQpHCOj",
-                "deviceId": "",
-                "version": ""
-            }
-        },	  
-        {
+ {
             "key": "樱桃",
             "name": "樱桃APP",
             "type": 3,
@@ -552,33 +461,7 @@
                 "version": "120"
             }
         },
-        {
-            "key": "追忆",
-            "name": "追忆APP",
-            "type": 3,
-            "api": "csp_AppSy",
-            "ext": {
-                "url": "http://110.42.7.130:1866",
-                "key1": "aassddwwxxllsx1x",
-                "key2": "2083c87e98b6ce08",
-                "key3": "2083c87e98b6ce08"
-            }
-        },       
-	  {
-            "key": "橘猫",
-            "name": "橘猫APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet2",
-            "ext": {
-                "url": "https://qjappcms.jm4k.top",
-                "dataKey": "pBVmysmGX8TsgrQN",
-                "dataIv": "pBVmysmGX8TsgrQN",
-                "deviceId": "",
-                "version": "120"
-            }
-        },   
-{
+   {
 	"key": "永乐视频",
 	"name": "永乐视频",
 	"type": 3,
