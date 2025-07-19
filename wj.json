@@ -447,21 +447,7 @@
                 "url": "http://v.lkuys.cn"
             }
         },	  
-  {
-            "key": "仓鼠",
-            "name": "仓鼠APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet2",
-            "ext": {
-                "url": "https://qjappcms.cs4k.top",
-                "dataKey": "Z98KXaLtO2wC1Pte",
-                "dataIv": "Z98KXaLtO2wC1Pte",
-                "deviceId": "",
-                "version": "120"
-            }
-        },
-   {
+{
 	"key": "永乐视频",
 	"name": "永乐视频",
 	"type": 3,
@@ -471,37 +457,8 @@
 	"filterable": 1,
 	"ext": "https://www.rrys.lv/api.php/app/"
 },   
-      {
-            "key": "云速",
-            "name": "云速APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "http://59.153.167.137:7788/1.json",
-                "dataKey": "4d83b87c4c5ea111",
-                "dataIv": "4d83b87c4c5ea111",
-                "deviceId": "",
-                "version": "105"
-            }
-        },
 { "key": "老王影视",  "name": "老王影视", "type": 3,"api": "csp_XBPQ", "ext": {"简介":"剧情介绍: +video-info-content vod_content\">&&</div>","数组": "<a&&module-item-pic","副标题":"module-item-text\">&&</div>","状态":"集数：&&</div>","线路数组":"module-tab-item tab-item&&</small>","播放数组":"module-blocklist scroll-box&&</div>","搜索url": "https://laowang.co/s.html?wd={wd}","搜索数组": "module-item-pic&&video-info","搜索标题": "alt=\"&&\">","搜索图片": "data-src=\"&&\"","分类url":"https://laowang.co/vs/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},       
  { "key": "539影视", "name": "539影视", "type":3,"api":"csp_XBPQ","ext": {"简介":"您剧情介绍:+detail-content\" style=*>&&</span>","分类url":"https://www.539539.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$25#电视剧$2#电影$1#动漫$4#综艺$3#伦理$26"}},	 
-	  {
-            "key": "橘子",
-            "name": "橘子APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://api1.bffree.cn",
-                "dataKey": "2015692015692015",
-                "dataIv": "2015692015692015",
-                "deviceId": "",
-                "version": "300"
-            }
-        },
 {
       "key": "jarcai",
       "name": "文才影视",
@@ -580,38 +537,7 @@
                 "version": "166"
             }
         },	  
-	  {
-            "key": "无上资源",
-            "name": "无上采集",
-            "type": 1,
-            "api": "https://mfgc.iwsyy.xyz/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "电影",
-                "连续剧",
-                "综艺",
-                "动漫",
-                "纪录片",
-                "少儿",
-                "短剧"
-            ]
-        },
-        {
-            "key": "在看",
-            "name": "在看APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://149.88.64.161:9525",
-                "dataKey": "123456789ABCDEFG",
-                "dataIv": "123456789ABCDEFG",
-                "deviceId": "",
-                "version": ""
-            }
-        },
-	 {
+{
             "key": "晴天",
             "name": "晴天APP",
             "type": 3,
@@ -1320,14 +1246,7 @@
       "api": "./js/drpy2.min.js",
       "ext": "./lib/AQYDM.js"
     },
-    {
-      "key": "步步",
-      "name": "步步1080P",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./lib/ceshi.js"
-    },      
-    {	  
+      {	  
       "key": "guazi",
       "name": "瓜子短剧",
       "type": 3,
@@ -1344,19 +1263,7 @@
       "filterable": 1,
       "ext": "./lib/蓝莓短剧.js"
     },
-   {	  
-      "key": "布蕾",
-      "name": "布蕾影视",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "./lib/bulei.js"
-    },
-        {
+ {
             "key": "短剧合集",
             "name": "短剧合集",
             "type": 3,
