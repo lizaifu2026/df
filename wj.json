@@ -102,7 +102,80 @@
                 "version": "50000"
             }
         },	  
+         {
+            "key": "咖啡",
+            "name": "咖啡APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "",
+                "site": "https://omofun.lol/coffee.txt",
+                "dataKey": "qwertyuiopqwertm",
+                "dataIv": "qwertyuiopqwertm",
+                "deviceId": "",
+                "version": "",
+                "ua": "okhttp/3.10.0"
+            }
+        },       
         {
+            "key": "稀饭",
+            "name": "稀饭APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://app.xifanys.com",
+                "dataKey": "HM6Ly9yeS4ya3dvL",
+                "dataIv": "HM6Ly9yeS4ya3dvL",
+                "deviceId": "",
+                "version": "119"
+            }
+        },	  
+        {
+            "key": "麻花",
+            "name": "麻花APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://124.223.27.166:130",
+                "site": "",
+                "dataKey": "q7gj4f9br3fls6nh",
+                "dataIv": "q7gj4f9br3fls6nh",
+                "deviceId": "",
+                "version": ""
+            }
+        },	  
+        {
+            "key": "仓鼠",
+            "name": "仓鼠APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "https://newappcms.cs4k.top",
+                "dataKey": "Z98KXaLtO2wC1Pte",
+                "dataIv": "Z98KXaLtO2wC1Pte",
+                "deviceId": "",
+                "version": "120"
+            }
+        },	  
+        {
+            "key": "萝卜",
+            "name": "萝卜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://apiapplbys.lbys.app:5678",
+                "dataKey": "apiapplbyskey168",
+                "dataIv": "apiapplbyskey168",
+                "deviceId": "",
+                "version": "107"
+            }
+        },	  
+	  {
             "key": "行动",
             "name": "行动APP",
             "type": 3,
@@ -1097,7 +1170,17 @@
         "类型": "大陆鬼片$6#日韩鬼片$7#林正英鬼片$8#港台鬼片$9#泰国鬼片$10#欧美鬼片$11||空||空||国产剧$12#美剧$13#韩剧$14#日剧$15#泰剧$16#港台剧$20#其他剧$22"
       }
     },     
-   {"key":"kf","name":"咖啡影视","type":3,"api":"csp_KaFeiGuard","jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/M7YtniF9.png;md5;8a6744d81de5702675ade55f2b80fdcc","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
+         {
+            "key": "甜圈短剧",
+            "name": "甜圈短剧",
+            "type": 3,
+            "api": "./py/甜圈短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
 {
       "key": "MV大全",
       "name": "MV音乐",
