@@ -1320,13 +1320,15 @@
       "api": "./js/drpy2.min.js",
       "ext": "./lib/AQYDM.js"
     },
-      {	  
-      "key": "guazi",
-      "name": "瓜子短剧",
+    {
+      "key": "步步",
+      "name": "布蕾影视",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./lib/瓜子短剧.js"
-    },      
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "https://weixine.net/js/lib/drpy2.min.js",
+      "ext": "http://miqk.cc/%E5%B0%8F%E7%B1%B3/%E6%B5%8B%E8%AF%95.js"
+    },     
     {	  	  	  
       "key": "js_蓝莓短剧",
       "name": "蓝莓短剧(贰)",
