@@ -780,6 +780,17 @@
       "playerType": 2
     },	  
        {
+      "key": "零度影视",
+      "name": "零度py",
+      "type": 3,
+      "api": "./py/零度影视APP.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },    
+	  {
             "key": "优质",
             "name": "优质APP",
             "type": 3,
