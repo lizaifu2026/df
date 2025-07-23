@@ -1147,14 +1147,31 @@
                 "version": "120"
             }
         },     
-	  {
-            "key": "短剧网",
-            "name": "短剧网XBPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./lib/短剧网.json"
-        },    
-    {
+ { "key": "短剧网", "name": "短剧网", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+data-label\">&&</p>","副标题":"meta-post-type2\">&&</span>","分类url":"https://www.duanju2.com/show/duanju---{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#悬疑$脑洞悬疑#年代$年代穿越#古装$古装仙侠#都市$现代都市#反转$反转#爽文$爽文#其他$短剧"}},   
+ {
+           "key": "流光",
+           "name": "流光影院",
+           "type": 3,
+           "api": "csp_XBPQ",
+           "ext": {
+               "免嗅": "0",
+               "首页": "0",
+               "分类": "电影&剧集&动漫",
+               "数组": "uk-card-media-top\">&&</a>",
+               "标题": "alt=\"&&\"",
+               "图片": "<img src=\"&&\"",
+               "链接": "href=\"&&\"",
+               "主演": "</p><p>&&</div></div></p></div></div>",
+               "线路数组": "class=\"hdselect*>&&</div>",
+               "线路标题": ">&&<",
+               "播放数组": "uk-grid-match\">&&</ul",
+               "跳转播放链接": "https://www.lgys.tv/api/getmovie?type=+hd = \"&&\"+&id=+&id=&&';",
+               "二次跳转播放链接": "\"m3u8\":\"&&\"",
+               "分类url": "https://www.lgys.tv/cn/category/{cateId}?page={catePg}",
+               "搜索url": "https://www.lgys.tv/search?q={wd}"
+           }
+       },   
+ {
       "key": "鬼片之家②",
       "name": "鬼片之家XBPQ",
       "type": 3,
