@@ -405,8 +405,12 @@ CCTV-怀旧剧场,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3
 睛彩篮球,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227478/index.m3u8,$FHD
 睛彩青少,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8,$FHD
 睛彩青少,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8,$FHD
+凤凰中文,https://live.sxrtv.com/iptv/fhzw.flv
+凤凰资讯,https://live.sxrtv.com/iptv/fhzx.flv
+凤凰香港,https://live.sxrtv.com/iptv/fhhk.flv
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-
+CHC影迷电影,https://live.sxrtv.com/iptv/chcymdy.flv
+CHC动作电影,https://live.sxrtv.com/iptv/chcdzdy.flv
 
 
