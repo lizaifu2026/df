@@ -1205,7 +1205,18 @@
         "类型": "大陆鬼片$6#日韩鬼片$7#林正英鬼片$8#港台鬼片$9#泰国鬼片$10#欧美鬼片$11||空||空||国产剧$12#美剧$13#韩剧$14#日剧$15#泰剧$16#港台剧$20#其他剧$22"
       }
     },     
-         {
+      {
+      "key": "河马短剧",
+      "name": "河马短剧",
+      "type": 3,
+      "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/HMDJ.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },       
+	  {
             "key": "甜圈短剧",
             "name": "甜圈短剧",
             "type": 3,
