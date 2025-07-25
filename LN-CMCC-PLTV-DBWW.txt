@@ -380,7 +380,6 @@ CCTV-5+体育赛事,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224
 优漫卡通,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226768/index.m3u8,$SD
 优漫卡通,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226768/index.m3u8,$SD
 辽宁联通 数字,#genre#
-新视觉,http://27.215.67.69:51006/bst/xsjhd@4000000.m3u8
 CCTV-第一剧场,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227444/index.m3u8,$FHD
 CCTV-第一剧场,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227444/index.m3u8,$FHD
 CCTV-风云剧场,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227447/index.m3u8,$FHD
@@ -406,8 +405,7 @@ CCTV-怀旧剧场,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3
 睛彩篮球,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227478/index.m3u8,$FHD
 睛彩青少,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8,$FHD
 睛彩青少,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8,$FHD
-凤凰资讯,https://live.sxrtv.com/iptv/fhzx.flv
-凤凰香港,https://live.sxrtv.com/iptv/fhhk.flv
+新视觉,http://27.215.67.69:51006/bst/xsjhd@4000000.m3u8
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 辽宁联通测试,#genre#
