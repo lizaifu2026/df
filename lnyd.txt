@@ -297,7 +297,10 @@ CHC动作电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227432/index.
 CHC家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227368/index.m3u8
 CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.m3u8
 新视觉,http://27.215.67.69:51006/bst/xsjhd@4000000.m3u8
-重温经典,http://27.215.67.69:51006/yhyx/IP-CWJD-HD.m3u8
+凤凰资讯,https://live.sxrtv.com/iptv/fhzx.flv
+凤凰香港,https://live.sxrtv.com/iptv/fhhk.flv
+凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 北京纪实科教,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226730/index.m3u8
 北京纪实科教,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227294/index.m3u8
 国学频道,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227435/index.m3u8
