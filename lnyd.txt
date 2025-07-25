@@ -296,9 +296,6 @@ CGTN,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226172/index.m3u8
 CHC动作电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227432/index.m3u8
 CHC家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227368/index.m3u8
 CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.m3u8
-新视觉,http://27.215.67.69:51006/bst/xsjhd@4000000.m3u8
-凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 北京纪实科教,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226730/index.m3u8
 北京纪实科教,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227294/index.m3u8
 国学频道,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227435/index.m3u8
@@ -805,3 +802,5 @@ CETV4,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=cetv4&zy.m3u8
 黑河新闻综合,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=hhxwzhpd&zy.m3u8
 绥化新闻综合,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=shxwzhpd&zy.m3u8
 大兴安岭新闻综合,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=dxalxwzhpd&zy.m3u8
+凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
