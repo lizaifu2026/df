@@ -591,6 +591,7 @@ CETV4,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=cetv4&zy.m3u8
 吉林影视频道,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=jlyspd&zy.m3u8
 吉林乡村频道,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=jlxcpd&zy.m3u8
 吉林综艺文化频道,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=jlzywhpd&zy.m3u8
+长影频道,http://5vn.cn:9003/hls/74/index.m3u8
 长春综合频道,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=cczhpd&zy.m3u8
 长春综合频道,http://stream2.jlntv.cn/jlcc/sd/live.m3u8?_upt=62fc42641745340902
 吉林新闻综合,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=jlxwzhpd&zy.m3u8
@@ -622,3 +623,9 @@ CETV4,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=cetv4&zy.m3u8
 大兴安岭新闻综合,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=dxalxwzhpd&zy.m3u8
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+安徽卫视,http://203.205.191.53/live.ahsx.ahtv.cn/live/ahwssx.m3u8
+安徽公共,http://203.205.191.53/live.ahsx.ahtv.cn/live/ggtv.m3u8
+安徽农业科教,http://203.205.191.53/live.ahsx.ahtv.cn/live/nykjtv.m3u8
+安徽综艺体育,http://203.205.191.53/live.ahsx.ahtv.cn/live/zytytv.m3u8
+安徽影视,http://203.205.191.53/live.ahsx.ahtv.cn/live/ystv.m3u8
+安徽经济生活,http://203.205.191.53/live.ahsx.ahtv.cn/live/jjshtv.m3u8
