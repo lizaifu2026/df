@@ -88,7 +88,25 @@
                 "version": ""
             }
         },      
-        {
+ {
+      "key": "南瓜",
+      "name": "南瓜秒播APP",
+      "type": 3,
+      "api": "csp_NanGua",
+      "jar": "http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01",
+      "playerType": 2,
+      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+    },    
+    {
+      "key": "lanyingys",
+      "name": "橘子4KAPP",
+      "type": 3,
+      "jar": "http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01",
+      "api": "csp_Qiji",
+      "playerType": 2,
+      "ext": "7lj763gg0939795i0678i481k40hi2i3ghlg840i9lj166700g1449g3k5244k2017h35698h4739ih31117kigil3k02hl2jk6i5155ih9kkgl311gl37g240g85111ggg2"
+    },	  
+	  {
             "key": "榴莲",
             "name": "榴莲APP",
             "type": 3,
