@@ -1082,7 +1082,7 @@
        }      
      },   
 {"key":"火猫","name":"火猫App","type":3,"api":"csp_Muou","playerType":2,"jar": "http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331","ext":"7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602"},
-{ "key": "茄子短剧", "name": "茄子短剧", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+简介：</span>&&","线路标题":"panel-hd\">&&</div>","分类url":"https://www.shanhuzs.com/fqsansw/5-{area}--{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"}},    
+{ "key": "茄子短剧", "name": "番茄短剧", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+简介：</span>&&","线路标题":"panel-hd\">&&</div>","分类url":"https://www.shanhuzs.com/fqsansw/5-{area}--{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"}},    
 { "key": "鑫湖影视", "name": "鑫湖影视", "type":3,"api":"csp_XBPQ", "ext": { "简介" :"剧情介绍:+shrink-text\" data-id=*>&&</div>","状态":"提醒：&&","分类url":"https://www.kmxibanyayu.com/sw-short/{cateId}_{catePg}.html","分类":"生活短剧$32#古装短剧$33#穿越题材$34#爱情短剧$35#悬疑短剧$36#逆袭短剧$37#国产剧$19#港台剧$20#美剧$23#韩剧$22#日剧$21#泰剧$24#海外剧$52#动作片$8#喜剧片$38#爱情片$9#科幻片$11#恐怖片$12#战争片$13#剧情片$10#国产动漫$29#日韩动漫$30#欧美动漫$31#内地综艺$25#港台综艺$26#日韩综艺$27#欧美综艺$28"}},
 {			  
       "key": "bilibilimd",
@@ -1370,16 +1370,7 @@
             "filterable": 1,
             "ext": "./lib/修罗影视.json"
         },
-        {
-            "key": "七味",
-            "name": "七味磁力",
-            "type": 3,
-            "api": "csp_QnMp4",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
+ {
             "key": "80S",
             "name": "80S磁力",
             "type": 3,
@@ -1389,27 +1380,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "New6v",
-            "name": "New6V磁力",
-            "type": 3,
-            "api": "csp_New6v",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.xb6v.com"
-        },    
- {
-      "key": "drpyS_蓝莓短剧[短]",
-      "name": "蓝莓短剧(壹)",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/蓝莓短剧[短]",
-      "searchable": 2,
-      "filterable": 0,
-      "quickSearch": 1,
-      "ext": ""
-    },
-{
+   {
       "key": "drpyS_星芽短剧[短]",
       "name": "星芽短剧（壹）",
       "type": 4,
@@ -1474,16 +1445,6 @@
       "api": "https://weixine.net/js/lib/drpy2.min.js",
       "ext": "http://miqk.cc/%E5%B0%8F%E7%B1%B3/%E6%B5%8B%E8%AF%95.js"
     },     
-    {	  	  	  
-      "key": "js_蓝莓短剧",
-      "name": "蓝莓短剧(贰)",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/蓝莓短剧.js"
-    },
  {
             "key": "短剧合集",
             "name": "短剧合集",
