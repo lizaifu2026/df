@@ -126,38 +126,7 @@
                 "version": "50000"
             }
         },	  
-        {
-            "key": "咖啡",
-            "name": "咖啡APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "https://omofun.lol/1.txt",
-                "dataKey": "skdhalkshqklwkj1",
-                "dataIv": "skdhalkshqklwkj1",
-                "deviceId": "",
-                "version": "109",
-                "ua": "okhttp/3.10.0"
-            }
-        },     
-	  {
-            "key": "麻花",
-            "name": "麻花APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://124.223.27.166:130",
-                "site": "",
-                "dataKey": "q7gj4f9br3fls6nh",
-                "dataIv": "q7gj4f9br3fls6nh",
-                "deviceId": "",
-                "version": ""
-            }
-        },	  
-        {
+     {
             "key": "仓鼠",
             "name": "仓鼠APP",
             "type": 3,
@@ -229,22 +198,7 @@
                 "version": "120"
             }
         },	  
-        {
-            "key": "白蛇",
-            "name": "白蛇APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "http://tengxunyunaliyun.oss-cn-shanghai.aliyuncs.com/tengxunyun.txt",
-                "dataKey": "f5e2tx53ykp6s2c9",
-                "dataIv": "f5e2tx53ykp6s2c9",
-                "deviceId": "",
-                "version": "361"
-            }
-        },	  
-	  {
+	   {
             "key": "行动",
             "name": "行动APP",
             "type": 3,
