@@ -310,7 +310,22 @@
                 "version": ""
             }
         },
-  {
+        {
+            "key": "白蛇",
+            "name": "白蛇APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "",
+                "site": "http://tengxunyunaliyun.oss-cn-shanghai.aliyuncs.com/tengxunyun.txt",
+                "dataKey": "n3l2tx5jdkp9s2c8",
+                "dataIv": "n3l2tx5jdkp9s2c8",
+                "deviceId": "",
+                "version": "361"
+            }
+        },  
+{
      "key": "csp_剧下饭",
      "name": "剧下饭4K",
      "type": 3,
@@ -685,8 +700,21 @@
                 "version": "361"
             }
         },	   
-        {
-            "key": "红果网页",
+         {
+            "key": "金牌影视",
+            "name": "金牌影视",
+            "type": 3,
+            "api": "./py/金牌影视.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+            "ext": {
+                "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+            }
+        },      
+   {
+      "key": "红果网页",
       "name": "红果网页py",
       "type": 3,
       "api": "./py/红果网页.py",
