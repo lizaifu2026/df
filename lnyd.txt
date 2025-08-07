@@ -396,4 +396,12 @@ CCTV16,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 新闻综合,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
 晴彩篮球,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 黑龙江,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
-
+四川,#genre#
+四川经济,http://edge-cache02.live3.omd.sc96655.com/live/SCTV-2-H265_4000.m3u8
+四川文化,http://edge-cache02.live3.omd.sc96655.com/live/SCTV-3-H265_4000.m3u8
+四川新闻,http://edge-cache02.live3.omd.sc96655.com/live/SCTV-4H265_4000.m3u8
+四川影视,http://edge-cache02.live3.omd.sc96655.com/live/SCTV-5-scysH265_4000.m3u8
+四川科教,http://edge-cache02.live3.omd.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8
+四川乡村,http://edge-cache02.live3.omd.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8
+峨嵋电影,http://edge-cache02.live3.omd.sc96655.com/live/emdygqH265_4000.m3u8
+峨眉电影4K,http://edge-cache02.live3.omd.sc96655.com/live/emdy4k_8000.m3u8
