@@ -349,6 +349,7 @@ CCTV-5+体育赛事,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224
 沈阳新闻综合,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226895/index.m3u8,$FHD
 沈阳新闻综合,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227315/index.m3u8,$FHD
 丹东新闻综合,https://1033946628.cloudvdn.com/a.m3u8?domain=pili-live-hdl-zhdd-tv.ddrtv.cn&player=1&streamid=zhdd-tv:zhdd-tv/ddnews&v3=1
+重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8 
 枣庄新闻综合,https://1865072180.cloudvdn.com/a.m3u8?domain=pili-live-hdl-zdzz-tv.zzxwcm.cn&player=1&streamid=zdzz-tv:zdzz-tv/dianshi1&v3=1
 枣庄经济生活,https://1865072180.cloudvdn.com/a.m3u8?domain=pili-live-hdl-zdzz-tv.zzxwcm.cn&player=1&streamid=zdzz-tv:zdzz-tv/dianshi2&v3=1
 枣庄公共频道,https://1865072180.cloudvdn.com/a.m3u8?domain=pili-live-hdl-zdzz-tv.zzxwcm.cn&player=1&streamid=zdzz-tv:zdzz-tv/dianshi3&v3=1
@@ -405,5 +406,9 @@ CCTV-怀旧剧场,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3
 睛彩篮球,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227478/index.m3u8,$FHD
 睛彩青少,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8,$FHD
 睛彩青少,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8,$FHD
-
+山西影视,http://116.179.159.21:9003/hls/51/index.m3u8
+山西经济与科技,http://116.179.159.21:9003/hls/52/index.m3u8
+山西社会与法制,http://116.179.159.21:9003/hls/53/index.m3u8
+山西文体生活,http://116.179.159.21:9003/hls/54/index.m3u8
+山西黄河电视台,http://116.179.159.21:9003/hls/55/index.m3u8
 
