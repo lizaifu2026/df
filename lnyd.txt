@@ -329,6 +329,7 @@ CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.
 中国教育-2,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226170/index.m3u8
 中国教育-3,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226950/index.m3u8
 中国教育-4,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226940/index.m3u8
+经典重现,http://push-rtmp-hs-spe-f5.douyincdn.com/live/asdfg669901.flv
 辽宁移动 4K/8K（支持时移和回看）,#genre#
 北京卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227532/index.m3u8
 北京卫视-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227001/index.m3u8
