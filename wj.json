@@ -1279,6 +1279,50 @@
       }
     },     
       {
+            "key": "天空影视",
+            "name": "天空影视",
+            "type": 3,
+            "api": "./py/天空影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },     
+	  {
+            "key": "八戒影视",
+            "name": "八戒影视",
+            "type": 3,
+            "api": "./py/八戒影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },	  
+	  {
+            "key": "山有木兮",
+            "name": "山有木兮",
+            "type": 3,
+            "api": "./py/山有木兮.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },	 
+	  {
+            "key": "星之阁短剧",
+            "name": "星之阁短剧",
+            "type": 3,
+            "api": "./py/星之阁短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },     
+	  {
             "key": "甜圈短剧",
             "name": "甜圈短剧",
             "type": 3,
