@@ -88,16 +88,7 @@
                 "version": ""
             }
         },      
- {
-      "key": "南瓜",
-      "name": "南瓜秒播APP",
-      "type": 3,
-      "api": "csp_NanGua",
-      "jar": "http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01",
-      "playerType": 2,
-      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
-    },    
-        {
+    {
             "key": "哔滴",
             "name": "哔滴APP",
             "type": 3,
@@ -113,20 +104,6 @@
             }
         },  
 	  {
-            "key": "榴莲",
-            "name": "榴莲APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet2",
-            "ext": {
-                "url": "https://qjappcms.ll4k.xyz",
-                "dataKey": "1yGA85sJ5STtE7uj",
-                "dataIv": "1yGA85sJ5STtE7uj",
-                "deviceId": "",
-                "version": "50000"
-            }
-        },	  
-     {
             "key": "仓鼠",
             "name": "仓鼠APP",
             "type": 3,
@@ -249,19 +226,7 @@
                 "version": "102"
             }
         },	  
-    {
-      "key": "csp_CZSPP",
-      "name": "厂长影视",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "jar": "http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "7lj763gg402i7942463j9j9jh346968hg5ll845ki38473"
-    },
-    {
+ {
       "key": "xml_魔爪",
       "name": "魔爪资源",
       "type": 1,
@@ -279,23 +244,7 @@
       "playerType": 1,
       "ext": "caHR0cDovLzE1NC44Ni4xOC4xMTo4MzAxfEQyS1JFV1JJQlZOQVVKSllUS0xZRFpCUUJHRTBQUT09fE9DMUEwNkUxOTdFRjEwQ0YzRjYwNThDQTdBODAzQjVFfDIxfGR5dHQ="
     },
- {"key": "csp_appys_臻彩",
-   "name": "4K臻彩世界",
-   "type": 3,
-   "api": "csp_AppYsV2",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "http://cmszcsj.lfytv.cn/api.php/app/"},     
-  {"key": "csp_appys_天堂",
-   "name": "电影天堂",
-   "type": 3,
-   "api": "csp_AppYsV2",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "http://cmstt.lfytv.cn/api.php/app/"},  
-{
+ {
             "key": "豆丁",
             "name": "豆丁APP",
             "type": 3,
@@ -1033,7 +982,8 @@
     },	  
  { "key": "桃子影视", "name": "桃子影视", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+detail-content\" style=*>&&</span>","分类url":"http://www.mpfpj.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$39#电视剧$2#电影$1#动漫$4#综艺$3"}},
 { "key": "秀儿影院", "name": "秀儿影院", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+tt\" style=*>&&</div>","数组":"<a&&module-item-pic","副标题":"module-item-text\">&&</div>","影片状态":"集数：&&</div>","线路数组":"data-dropdown-value=&&</small>","播放数组":"sort-item-&&</div>","搜索url":"https://xiuer.pro/vod/search/?wd={wd}","分类url":"https://xiuer.pro/show/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/","分类":"短剧$duanju#电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi"}},   
-{
+ { "key": "剧圈圈", "name": "剧圈圈", "type":3,"api":"csp_XBPQ","click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","ext": {"请求头":"手机","简介":"剧情介绍:+module-info-introduction-content\">&&</div>","分类url":"https://www.jqqzx.me/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$shuangju#电视剧$juji#电影$dianying#动漫$dongman#综艺$zongyi"}},	  
+	  {
        "key": "gw4k",
        "name": "顾我蓝光",
        "type": 3,"playerType":2,
@@ -1289,29 +1239,7 @@
             "filterable": 1,
             "playerType": 2
         },       
-	  {
-            "key": "skapp",
-            "name": "skapp",
-            "type": 3,
-            "api": "./py/skapp.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },       
-	  {
-            "key": "享趣视频",
-            "name": "享趣视频",
-            "type": 3,
-            "api": "./py/享趣视频.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },       
-	  {
+      {
             "key": "天空影视",
             "name": "天空影视",
             "type": 3,
@@ -1388,7 +1316,17 @@
             "filterable": 1,
             "playerType": 2
         },
-        {
+{
+      "key": "drpyS_蓝莓短剧[短]",
+      "name": "蓝莓短剧",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/蓝莓短剧[短]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },        
+	  {
             "key": "短剧屋",
             "name": "短剧屋",
             "type": 3,
