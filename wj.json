@@ -1326,6 +1326,16 @@
       "quickSearch": 1,
       "ext": ""
     },        
+        {
+            "key": "剧王短剧",
+            "name": "剧王短剧",
+            "type": 3,
+            "api": "./py/剧王短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },	  
 	  {
             "key": "短剧屋",
             "name": "短剧屋",
