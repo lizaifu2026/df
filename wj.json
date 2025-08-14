@@ -333,6 +333,20 @@
 { "key": "柯蓝影视", "name": "柯蓝影视", "type":3,"api":"csp_XBPQ","ext": {"首页":"0","请求头":"Cookie$X-Robots-Tag=CDN-VERIFY","分类url":"https://knvod.cc/show/{cateId}--------{catePg}---/","分类":"剧集$2#电影$1#动漫$3#短剧$6#综艺$4","数组":"class=\"public-list-div&&class=\"public-list-button","图片":"data-src=\"&&\"","标题":"title=\"&&\"","副标题":"title=\"&&\"","链接":"href=\"&&\"","线路数组":"<i class=\"fa ds-dianying\">&&</a>","线路标题":">&&</span>","简介":"class=\"text cor3\">&&</div>","播放数组":"class=\"anthology-list-play&&</ul>","播放列表":"<a&&/a>","播放标题":">&&<","播放链接":"href=\"&&\"","过滤词":"app/index#dm.php","嗅探词":"video/tos#obj/tos#v1/tos#.mp4#.m3u8"}}, 
 {"key":"23","name":"23App","type":3,"api":"csp_Muou","playerType":2,"jar": "http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331","ext":"7lj763gg402i79420078j9qiaojiigg34hi291ljg5j60l9l0ik1l0jg86ljklgj5909404h"},        
 { "key": "饭团影视", "name": "饭团影视", "type":3,"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+<p>&&</p>","副标题":"module-item-note\">&&</div>","分类url":"https://www.fantuan.vip/vodtype/{cateId}.html","分类":"电视剧$2#电影$1#动漫$3#综艺$4"}},   
+{
+     "key": "qfys",
+     "name": "清风影视APP",
+     "type": 3,
+     "quickSearch": 1,
+     "api": "csp_AppGet",
+     "ext": {
+     "url": "http://154.12.22.164",
+     "site": "",
+     "dataKey": "vpsj6z4e7scbjbis",
+     "dataIv": "vpsj6z4e7scbjbis",
+     "deviceId": "",
+     "version": "500"}
+  },   
  {
             "key": "樱桃",
             "name": "樱桃APP",
