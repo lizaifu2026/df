@@ -206,22 +206,7 @@
                 "version": "107"
             }
         },	  
-        {
-            "key": "魔方",
-            "name": "魔方APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "https://www.snysw.xyz/mfys.txt",
-                "dataKey": "1234567887654321",
-                "dataIv": "1234567887654321",
-                "deviceId": "",
-                "version": ""
-            }
-        },
-        {
+ {
             "key": "小野",
             "name": "小野APP",
             "type": 3,
@@ -472,16 +457,13 @@
                 "url": "http://v.lkuys.cn"
             }
         },	  
-{
-	"key": "永乐视频",
-	"name": "永乐视频",
-	"type": 3,
-	"api": "csp_AppYsV2",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://www.rrys.lv/api.php/app/"
-},   
+    {
+      "key": "永乐影视",
+      "name": "永乐影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/YLYS.json"
+    },  
 { "key": "老王影视",  "name": "老王影视", "type": 3,"api": "csp_XBPQ", "ext": {"简介":"剧情介绍: +video-info-content vod_content\">&&</div>","数组": "<a&&module-item-pic","副标题":"module-item-text\">&&</div>","状态":"集数：&&</div>","线路数组":"module-tab-item tab-item&&</small>","播放数组":"module-blocklist scroll-box&&</div>","搜索url": "https://laowang.co/s.html?wd={wd}","搜索数组": "module-item-pic&&video-info","搜索标题": "alt=\"&&\">","搜索图片": "data-src=\"&&\"","分类url":"https://laowang.co/vs/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},       
  { "key": "539影视", "name": "539影视", "type":3,"api":"csp_XBPQ","ext": {"简介":"您剧情介绍:+detail-content\" style=*>&&</span>","分类url":"https://www.539539.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$25#电视剧$2#电影$1#动漫$4#综艺$3#伦理$26"}},	 
 {
