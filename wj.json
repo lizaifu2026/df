@@ -1039,21 +1039,7 @@
                 "version": ""
             }
         },      
-	  {
-            "key": "黑猫动漫",
-            "name": "黑猫动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://dm.xxdm123.top:9991",
-                "dataKey": "0fe3b5781782c621",
-                "dataIv": "0fe3b5781782c621",
-                "deviceId": "",
-                "version": "203"
-            }
-        },       
-	  {
+       {
             "key": "咕咕动漫",
             "name": "咕咕动漫",
             "type": 3,
@@ -1210,28 +1196,7 @@
             "filterable": 1,
             "playerType": 2
         },	  
-         {
-            "key": "黑虎",
-            "name": "黑虎｜短剧",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./lib/黑虎短剧.json"
-        },
-        {
-            "key": "番茄",
-            "name": "番茄｜短剧",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./lib/番茄短剧.json"
-        },
-        {
-            "key": "擦边",
-            "name": "擦边｜短剧",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./lib/擦边短剧.json"
-        },       
-	  {
+     {
             "key": "软软短剧",
             "name": "软鸭短剧",
             "type": 3,
@@ -1242,18 +1207,7 @@
             "filterable": 1,
             "playerType": 2
         },         
-	  {
-            "key": "蓝莓短剧",
-            "name": "蓝莓短剧",
-            "type": 3,
-            "api": "./py/蓝莓短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },      
-	  {
+      {
             "key": "河马短剧",
             "name": "河马短剧",
             "type": 3,
