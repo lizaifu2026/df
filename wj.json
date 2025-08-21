@@ -575,16 +575,7 @@
             "searchable": 1,
             "changeable": 1
         },	  
-	  {	 
-            "key": "旺旺采集资源",
-            "name": "旺旺短剧",
-            "type": 1,
-            "api": "https://api.wwzy.tv/api.php/provide/vod/",
-            "playerType": 1,
-            "searchable": 1,
-            "changeable": 1
-          },
-    {
+ {
       "key": "csp_Wwys",
       "name": "农民1080P",
       "type": 3,
@@ -620,28 +611,6 @@
                 "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
             }
         },      
-   {
-      "key": "红果网页",
-      "name": "红果网页py",
-      "type": 3,
-      "api": "./py/红果网页.py",
-      "searchable": 1,        
-      "changeable": 1,       
-      "quickSearch": 1,       
-      "filterable": 1,      
-      "playerType": 2 
-    },            
-      {
-      "key": "tldj",
-      "name": "偷乐短剧py",
-      "type": 3,
-      "api": "./py/偷乐短剧.py",
-      "searchable": 1,        
-      "changeable": 1,       
-      "quickSearch": 1,       
-      "filterable": 1,      
-      "playerType": 2         
-    },          	  
  {
       "key": "awdm",
       "name": "嗷呜动漫py",
@@ -958,7 +927,6 @@
        }      
      },   
 {"key":"火猫","name":"火猫App","type":3,"api":"csp_Muou","playerType":2,"jar": "http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331","ext":"7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602"},
-{ "key": "茄子短剧", "name": "番茄短剧", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+简介：</span>&&","线路标题":"panel-hd\">&&</div>","分类url":"https://www.shanhuzs.com/fqsansw/5-{area}--{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"}},    
 { "key": "鑫湖影视", "name": "鑫湖影视", "type":3,"api":"csp_XBPQ", "ext": { "简介" :"剧情介绍:+shrink-text\" data-id=*>&&</div>","状态":"提醒：&&","分类url":"https://www.kmxibanyayu.com/sw-short/{cateId}_{catePg}.html","分类":"生活短剧$32#古装短剧$33#穿越题材$34#爱情短剧$35#悬疑短剧$36#逆袭短剧$37#国产剧$19#港台剧$20#美剧$23#韩剧$22#日剧$21#泰剧$24#海外剧$52#动作片$8#喜剧片$38#爱情片$9#科幻片$11#恐怖片$12#战争片$13#剧情片$10#国产动漫$29#日韩动漫$30#欧美动漫$31#内地综艺$25#港台综艺$26#日韩综艺$27#欧美综艺$28"}},
 {			  
       "key": "bilibilimd",
@@ -1114,7 +1082,6 @@
                 "version": "120"
             }
         },     
- { "key": "短剧网", "name": "短剧网", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+data-label\">&&</p>","副标题":"meta-post-type2\">&&</span>","分类url":"https://www.duanju2.com/show/duanju---{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#悬疑$脑洞悬疑#年代$年代穿越#古装$古装仙侠#都市$现代都市#反转$反转#爽文$爽文#其他$短剧"}},   
  {
            "key": "流光",
            "name": "流光影院",
@@ -1205,7 +1172,40 @@
             "filterable": 1,
             "playerType": 2
         },	  
-     {
+   	  {	 
+            "key": "旺旺采集资源",
+            "name": "旺旺短剧",
+            "type": 1,
+            "api": "https://api.wwzy.tv/api.php/provide/vod/",
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1
+          }, 
+{ "key": "短剧网", "name": "短剧网", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+data-label\">&&</p>","副标题":"meta-post-type2\">&&</span>","分类url":"https://www.duanju2.com/show/duanju---{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#悬疑$脑洞悬疑#年代$年代穿越#古装$古装仙侠#都市$现代都市#反转$反转#爽文$爽文#其他$短剧"}},   
+ { "key": "茄子短剧", "name": "番茄短剧", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+简介：</span>&&","线路标题":"panel-hd\">&&</div>","分类url":"https://www.shanhuzs.com/fqsansw/5-{area}--{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"}},       
+	  {
+      "key": "红果网页",
+      "name": "红果网页py",
+      "type": 3,
+      "api": "./py/红果网页.py",
+      "searchable": 1,        
+      "changeable": 1,       
+      "quickSearch": 1,       
+      "filterable": 1,      
+      "playerType": 2 
+    },            
+      {
+      "key": "tldj",
+      "name": "偷乐短剧py",
+      "type": 3,
+      "api": "./py/偷乐短剧.py",
+      "searchable": 1,        
+      "changeable": 1,       
+      "quickSearch": 1,       
+      "filterable": 1,      
+      "playerType": 2         
+    }, 	 
+	  {
             "key": "软软短剧",
             "name": "软鸭短剧",
             "type": 3,
@@ -1227,18 +1227,7 @@
             "filterable": 1,
             "playerType": 2
         },       
-	  {
-			"key": "红果短剧",
-			"name": "红果短剧2",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./lib/红果短剧.js"
-		}, 
-	  {
+ {
             "key": "星之阁短剧",
             "name": "星之阁短剧",
             "type": 3,
