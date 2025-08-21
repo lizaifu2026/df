@@ -1210,17 +1210,17 @@
             "filterable": 1,
             "playerType": 2
         },	  
-	  {
-            "key": "山有木兮",
-            "name": "山有木兮",
-            "type": 3,
-            "api": "./py/山有木兮.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },	 
+        {
+			"key": "红果短剧",
+			"name": "红果短剧2",
+			"type": 3,
+			"api": "./js/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./lib/红果短剧.js"
+		}, 
 	  {
             "key": "星之阁短剧",
             "name": "星之阁短剧",
