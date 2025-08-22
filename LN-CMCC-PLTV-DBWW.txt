@@ -168,7 +168,6 @@ CCTV-5+体育赛事,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224
 山东卫视,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227312/index.m3u8,$FHD
 山东卫视,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226887/index.m3u8,$SD
 山东卫视,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226887/index.m3u8,$SD
-山东卫视4K,http://ucdn6.sd.chinamobile.com:8089/00/SNM/CHANNEL40000005/index.m3u8
 深圳卫视,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226725/index.m3u8,$FHD
 深圳卫视,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227239/index.m3u8,$FHD
 深圳卫视,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226725/index.m3u8,$FHD
