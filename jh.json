@@ -25,6 +25,14 @@
       "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌"
     },   
     {
+      "name": "SVIP在线",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
+    },
+    {
+      "name": "SVIP备用在线",
+      "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
+    },    
+    {
       "name": "小虎斑线路",
       "url": "http://hb.小虎斑.site:25252/仅供测试"
     },      
@@ -71,5 +79,6 @@
  
 
    
+
 
 
