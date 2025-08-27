@@ -253,17 +253,7 @@
                 "version": ""
             }
         },
-    {
-      "key": "臻彩天堂",
-      "name": "天堂APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cmstt.lfytv.cn/api.php/app/"
-    },	
-	  {
+	 {
            "key": "米诺",
            "name": "米诺APP",
            "type": 3,
@@ -1374,17 +1364,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-   {
-      "key": "drpyS_星芽短剧[短]",
-      "name": "星芽短剧（叁）",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/星芽短剧[短]",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 1,
-      "ext": ""
-    },	 
- {
+  {
             "key": "hmys",
             "name": "海马影视py",
             "type": 3,
