@@ -24,19 +24,11 @@
       "name": "SVIP在线",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
     },
-    {
-      "name": "SVIP备用在线",
-      "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
-    },    
-    {
+   {
       "name": "小虎斑线路",
       "url": "http://hb.小虎斑.site:25252/仅供测试"
     },      
-    {
-      "name": "小脑斧在线",
-      "url": "https://6492.kstore.space/xnf/xnf.json"
-    },    
-    {
+   {
       "name": "小米线路",
       "url": "http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json"
     }     
@@ -79,6 +71,7 @@
  
 
    
+
 
 
 
