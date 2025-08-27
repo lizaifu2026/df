@@ -1289,6 +1289,16 @@
             "filterable": 1,
             "playerType": 2
         },       
+        {
+            "key": "SVIP短剧",
+            "name": "星芽短剧(贰)",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/星芽短剧.js"
+        },	  
 	  {
             "key": "剧王短剧",
             "name": "剧王短剧",
@@ -1429,16 +1439,7 @@
                 "type": "list"
             }
         },  
- {	  
-      "key": "星芽短剧",
-      "name": "星芽短剧（贰）",
-      "type": 3,
-      "api": "csp_AppXY",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-        {
+      {
             "key": "push_agent",
             "name": "手机推送",
             "type": 3,
