@@ -253,6 +253,16 @@
                 "version": ""
             }
         },
+    {
+      "key": "臻彩天堂",
+      "name": "天堂APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cmstt.lfytv.cn/api.php/app/"
+    },	
 	  {
            "key": "米诺",
            "name": "米诺APP",
@@ -1267,17 +1277,29 @@
             "filterable": 1,
             "playerType": 2
         },
-{
-      "key": "drpyS_蓝莓短剧[短]",
-      "name": "蓝莓短剧",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/蓝莓短剧[短]",
-      "searchable": 2,
-      "filterable": 0,
-      "quickSearch": 1,
-      "ext": ""
-    },        
         {
+            "key": "蓝莓短剧",
+            "name": "蓝莓短剧",
+            "type": 3,
+            "api": "./py/蓝莓短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },       
+         {
+            "key": "星芽短剧",
+            "name": "星芽短剧(壹)",
+            "type": 3,
+            "api": "./py/星芽短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },       
+	  {
             "key": "剧王短剧",
             "name": "剧王短剧",
             "type": 3,
@@ -1354,7 +1376,7 @@
         },
    {
       "key": "drpyS_星芽短剧[短]",
-      "name": "星芽短剧（壹）",
+      "name": "星芽短剧（叁）",
       "type": 4,
       "api": "https://zhxy.eu.org/api/星芽短剧[短]",
       "searchable": 2,
