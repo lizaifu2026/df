@@ -376,15 +376,9 @@ CGTN,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226172/index.m3u8
 沈阳新闻综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227315/index.m3u8
 阜新新闻综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227407/index.m3u8
 丹东新闻综合,https://1033946628.cloudvdn.com/a.m3u8?domain=pili-live-hdl-zhdd-tv.ddrtv.cn&player=1&streamid=zhdd-tv:zhdd-tv/ddnews&v3=1
-重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
 枣庄新闻综合,https://1865072180.cloudvdn.com/a.m3u8?domain=pili-live-hdl-zdzz-tv.zzxwcm.cn&player=1&streamid=zdzz-tv:zdzz-tv/dianshi1&v3=1
 枣庄经济生活,https://1865072180.cloudvdn.com/a.m3u8?domain=pili-live-hdl-zdzz-tv.zzxwcm.cn&player=1&streamid=zdzz-tv:zdzz-tv/dianshi2&v3=1
 枣庄公共频道,https://1865072180.cloudvdn.com/a.m3u8?domain=pili-live-hdl-zdzz-tv.zzxwcm.cn&player=1&streamid=zdzz-tv:zdzz-tv/dianshi3&v3=1
-石嘴山综合,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/zhpd.m3u8
-石嘴山公共,http://pili-live-rtmp-jrszs-tv.szsnews.com/jrszs-tv/ggpd.m3u8
-迪庆综合,http://1033946631.cloudvdn.com/a.m3u8?domain=pili-live-rtmp-yndq-tv.diqingtv.com&player=1&streamid=yndq-tv:yndq-tv/zonghepindao-xin&v3=1
-迪庆藏语,http://1033946631.cloudvdn.com/a.m3u8?domain=pili-live-rtmp-yndq-tv.diqingtv.com&player=1&streamid=yndq-tv:yndq-tv/zangyupindao-xin&v3=1
-师宗综合,http://1033946631.cloudvdn.com/a.m3u8?domain=pili-live-rtmp-szrm-tv.szrmxw.cn&player=1&streamid=szrm-tv:szrm-tv/ynsz&v3=1
 辽宁移动 购物（支持时移和回看）,#genre#
 好享购物,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226663/index.m3u8
 家有购物,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226985/index.m3u8
