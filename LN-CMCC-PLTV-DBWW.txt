@@ -519,7 +519,7 @@ IPTV地理,http://61.176.25.179:40001/rtp/232.0.0.197:1234
 劲爆电影,http://61.176.25.179:40001/rtp/232.0.0.155:1234
 辽河新闻综合,http://61.176.25.179:40001/rtp/232.0.0.214:1234
 辽河文化生活,http://61.176.25.179:40001/rtp/232.0.0.215:1234
-黑龙江移动央视频道,#genre#
+黑龙江移动央视频道（路由器需要开启ipv6）,#genre#
 CCTV-1综合频道,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-1综合频道,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-2财经频道,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
@@ -541,7 +541,7 @@ CCTV-14少儿频道,http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/P
 CCTV-15音乐频道,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV-16奥林匹克频道,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17农业农村频道,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-黑龙江移动卫视频道,#genre#
+黑龙江移动卫视频道（路由器需要开启ipv6）,#genre#
 东南卫视,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
 山东教育卫视,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 康巴卫视,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
@@ -615,7 +615,7 @@ CGTN记录,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888
 山东教育卫视,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 康巴卫视,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 延边卫视,http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
-黑龙江移动地方频道,#genre#
+黑龙江移动地方频道（路由器需要开启ipv6）,#genre#
 卡酷少儿,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 古装剧场,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 快乐购,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226065/index.m3u8
@@ -653,7 +653,7 @@ CGTN记录,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888
 爱情喜剧,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 家庭剧场,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 中国功夫,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-上海移动,#genre#
+上海移动（路由器需要开启ipv6）,#genre#
 至臻世界4K,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225687/1.m3u8
 咪咕视频4K,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226080/1.m3u8
 欢笑剧场4K,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225771/1.m3u8
