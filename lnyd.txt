@@ -379,6 +379,9 @@ CGTN,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226172/index.m3u8
 枣庄新闻综合,https://1865072180.cloudvdn.com/a.m3u8?domain=pili-live-hdl-zdzz-tv.zzxwcm.cn&player=1&streamid=zdzz-tv:zdzz-tv/dianshi1&v3=1
 枣庄经济生活,https://1865072180.cloudvdn.com/a.m3u8?domain=pili-live-hdl-zdzz-tv.zzxwcm.cn&player=1&streamid=zdzz-tv:zdzz-tv/dianshi2&v3=1
 枣庄公共频道,https://1865072180.cloudvdn.com/a.m3u8?domain=pili-live-hdl-zdzz-tv.zzxwcm.cn&player=1&streamid=zdzz-tv:zdzz-tv/dianshi3&v3=1
+剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
+朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
+湖南电影,http://183.215.134.239:19901/tsfile/live/1006_1.m3u8
 辽宁移动 购物（支持时移和回看）,#genre#
 好享购物,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226663/index.m3u8
 家有购物,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226985/index.m3u8
