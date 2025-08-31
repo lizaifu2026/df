@@ -92,8 +92,6 @@ CCTV-5+体育赛事,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224
 CCTV-5+体育赛事,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226910/index.m3u8,$SD
 CCTV-5+体育赛事,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226910/index.m3u8,$SD
 辽宁联通 卫视,#genre#
-凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226746/index.m3u8,$FHD
 安徽卫视,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227233/index.m3u8,$FHD
 安徽卫视,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226746/index.m3u8,$FHD
