@@ -1076,10 +1076,6 @@ CGTN,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226016/1.m3u8
 镇江综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
 淮安公共,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
 淮安无线,http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
-上海地方台1,#genre#
-崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
-嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8?zshangd
-嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 浙江地方台,#genre#
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
