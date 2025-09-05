@@ -141,22 +141,7 @@
         "version": ""
       }
     },	 
-    {
-      "key": "瓜萌",
-      "name": "瓜萌APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "https://www.guahd.com/1.txt",
-        "dataKey": "f2A7D4B9E8C16531",
-        "dataIv": "f2A7D4B9E8C16531",
-        "deviceId": "",
-        "version": ""
-      }
-    },	  
-	  {
+	    {
             "key": "萝卜",
             "name": "萝卜APP",
             "type": 3,
@@ -333,21 +318,7 @@
                "version": "201"
            }
        },	  
- {
-           "key": "可达",
-          "name": "可达APP",
-           "type": 3,
-           "quickSearch": 1,
-           "api": "csp_AppGet",
-           "ext": {
-               "url": "https://ledayy.com",
-               "dataKey": "hjjp68c2okw12345",
-               "dataIv": "hjjp68c2okw12345",
-               "deviceId": "24bba8caeff7b3a63a486806bd7130fca",
-               "version": "102"
-           }
-       },       
-	  {
+     {
             "key": "浪酷影视",
             "name": "浪酷APP",
             "type": 3,
@@ -367,7 +338,6 @@
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/YLYS.json"
     },  
 { "key": "老王影视",  "name": "老王影视", "type": 3,"api": "csp_XBPQ", "ext": {"简介":"剧情介绍: +video-info-content vod_content\">&&</div>","数组": "<a&&module-item-pic","副标题":"module-item-text\">&&</div>","状态":"集数：&&</div>","线路数组":"module-tab-item tab-item&&</small>","播放数组":"module-blocklist scroll-box&&</div>","搜索url": "https://laowang.co/s.html?wd={wd}","搜索数组": "module-item-pic&&video-info","搜索标题": "alt=\"&&\">","搜索图片": "data-src=\"&&\"","分类url":"https://laowang.co/vs/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},       
- { "key": "539影视", "name": "539影视", "type":3,"api":"csp_XBPQ","ext": {"简介":"您剧情介绍:+detail-content\" style=*>&&</span>","分类url":"https://www.539539.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$25#电视剧$2#电影$1#动漫$4#综艺$3#伦理$26"}},	 
 {
       "key": "jarcai",
       "name": "文才影视",
@@ -450,39 +420,7 @@
       "playerType": 2,    
       "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
     },
-     {
-      "key": "云端",
-      "name": "云端py",
-      "type": 3,
-      "api": "./py/云端APP.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
- {
-      "key": "若惜影视",
-      "name": "若惜py",
-      "type": 3,
-      "api": "./py/若惜追剧APP.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
- {
-      "key": "魔方影视",
-      "name": "魔方py",
-      "type": 3,
-      "api": "./py/魔方影视APP.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-        {
+   {
             "key": "雨滴",
             "name": "雨滴APP",
             "type": 3,
@@ -496,29 +434,7 @@
                 "version": "100"
             }
         },
-    {
-      "key": "边缘影视",
-      "name": "边缘py",
-      "type": 3,
-      "api": "./py/边缘影视APP.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },	  
-       {
-      "key": "零度影视",
-      "name": "零度py",
-      "type": 3,
-      "api": "./py/零度影视APP.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },    
-	  {
+   {
             "key": "优质",
             "name": "优质APP",
             "type": 3,
@@ -543,61 +459,7 @@
             "order_num": 0,
             "ext": "./lib/河狸影视[V2].js"
         },  
-         {
-            "key": "ysys",
-            "name": "云速影视py",
-            "type": 3,
-            "api": "./py/云速影视APP.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-     {
-           "key": "桃子",
-           "name": "桃子APP",
-           "type": 3,
-           "quickSearch": 1,
-           "api": "csp_AppGet",
-           "ext": {
-               "url": "https://appcms.tzys.xyz",
-               "dataKey": "KL6vlZkw6WL5x90U",
-               "dataIv": "KL6vlZkw6WL5x90U",
-               "deviceId": "4b4c36766c5a6b7736574c3578393055",
-               "version": "119"
-           }
-       },   
-	  {
-            "key": "诺雪",
-            "name": "诺雪APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet2",
-            "ext": {
-                "url": "https://qjappcms.rx4k.top",
-                "dataKey": "ZX10ysTYZWtIJCTU",
-                "dataIv": "ZX10ysTYZWtIJCTU",
-                "deviceId": "",
-                "version": "120"
-            }
-        },
-         {
-            "key": "若雪",
-            "name": "若雪APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet2",
-            "ext": {
-                "url": "https://appcms.rx4k.top",
-                "site": "",
-                "dataKey": "ZX10ysTYZWtIJCTU",
-                "dataIv": "ZX10ysTYZWtIJCTU",
-                "deviceId": "",
-                "version": "120"
-            }
-        },      
-	  {
+   {
             "key": "光速",
             "name": "光速APP",
             "type": 3,
@@ -611,8 +473,7 @@
                 "version": "112"
             }
         },	  
-           { "key": "魔都动漫", "name": "魔都动漫", "type":3,"api":"csp_XBPQ","ext": {"简介":"剧情介绍:+switch-box top20\">&&</div>","线路数组":"anthology-item on\"&&</a>","播放数组":"anthology-list-play size\"&&</ul>","跳转播放链接": "var cms_player*url\":\"&&\"","分类url":"https://www.moduys04.com/type/{cateId}-{class}--{year}---addtime-{catePg}.html[https://www.moduys04.com/type/{cateId}-{class}--{year}---addtime.html]","分类":"国产动漫$1#日韩动漫$2#港台动漫$3#欧美动漫$4#动漫电影$5"}},
-{
+    {
       "key": "csp_LiteApple",
       "name": "苹果影视",
       "jar": "./fm.jar",
@@ -622,23 +483,7 @@
       "quickSearch": 1,
       "filterable": 1
     },   
-      {
-      "key": "jpys",
-      "name": "金牌影视py",
-      "type": 3,
-      "api": "./py/金牌.py",
-      "style": {
-               "type": "rect",
-               "ratio": 1.567
-           },
-           "ext": {
-               "site": "https://m.fjvtw.com/,
-                        https://cqzuoer.com,
-		        https://m.hhduc.com,
-	                https://www.hellorlgzf7sn.com"
-	   }
-       },
-    {	  
+{	  
       "key": "音乐仓",
       "name": "音乐仓库",
       "type": 3,
@@ -711,30 +556,13 @@
         }
       }
     },	  
- { "key": "桃子影视", "name": "桃子影视", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+detail-content\" style=*>&&</span>","分类url":"http://www.mpfpj.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$39#电视剧$2#电影$1#动漫$4#综艺$3"}},
 { "key": "秀儿影院", "name": "秀儿影院", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+tt\" style=*>&&</div>","数组":"<a&&module-item-pic","副标题":"module-item-text\">&&</div>","影片状态":"集数：&&</div>","线路数组":"data-dropdown-value=&&</small>","播放数组":"sort-item-&&</div>","搜索url":"https://xiuer.pro/vod/search/?wd={wd}","分类url":"https://xiuer.pro/show/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/","分类":"短剧$duanju#电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi"}},   
  { "key": "剧圈圈", "name": "剧圈圈", "type":3,"api":"csp_XBPQ","click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","ext": {"请求头":"手机","简介":"剧情介绍:+module-info-introduction-content\">&&</div>","分类url":"https://www.jqqzx.me/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$shuangju#电视剧$juji#电影$dianying#动漫$dongman#综艺$zongyi"}},	  
-	  {
-       "key": "gw4k",
-       "name": "顾我蓝光",
-       "type": 3,"playerType":2,
-       "api": "./lib/AppYsV2.js",
-       "ext": {
-         "host": "http://121.62.21.14:520/api.php/app/",
-         "*": [
-           "http://121.62.21.14:1555/gw.php?url=",
-            "http://114.66.60.101:901/api/?key=t378IIKFY2AEa1lfaU&url="
-        ],
-         "header": {
-         "User-Agent": "Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.105 MUOUAPP/10.8.4506.400"
-       }
-       }      
-     },   
-{"key":"火猫","name":"火猫App","type":3,"api":"csp_Muou","playerType":2,"jar": "http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331","ext":"7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602"},
+  {"key":"火猫","name":"火猫App","type":3,"api":"csp_Muou","playerType":2,"jar": "http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331","ext":"7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602"},
 { "key": "鑫湖影视", "name": "鑫湖影视", "type":3,"api":"csp_XBPQ", "ext": { "简介" :"剧情介绍:+shrink-text\" data-id=*>&&</div>","状态":"提醒：&&","分类url":"https://www.kmxibanyayu.com/sw-short/{cateId}_{catePg}.html","分类":"生活短剧$32#古装短剧$33#穿越题材$34#爱情短剧$35#悬疑短剧$36#逆袭短剧$37#国产剧$19#港台剧$20#美剧$23#韩剧$22#日剧$21#泰剧$24#海外剧$52#动作片$8#喜剧片$38#爱情片$9#科幻片$11#恐怖片$12#战争片$13#剧情片$10#国产动漫$29#日韩动漫$30#欧美动漫$31#内地综艺$25#港台综艺$26#日韩综艺$27#欧美综艺$28"}},
 {			  
       "key": "bilibilimd",
-      "name": "哔哩PY",
+      "name": "哔哩影视",
       "type": 3,
       "api": "./py/bilibilimd.py",
       "searchable": 1,
@@ -752,16 +580,9 @@
             "filterable": 1,
             "playerType": 2
         },        
-	  {
-            "key": "雪糕影视",
-            "name": "雪糕影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./lib/雪糕影视.json"
-        },
-          {
+{
             "key": "光速py",
-            "name": "光速PY",
+            "name": "光速影视",
             "type": 3,
             "api": "./py/光速.py",
             "searchable": 1,
@@ -820,21 +641,7 @@
                 "version": ""
             }
         },      
-       {
-            "key": "咕咕动漫",
-            "name": "咕咕动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://www.gugu3.com",
-                "dataKey": "nKfZ8KX6JTNWRzTD",
-                "dataIv": "nKfZ8KX6JTNWRzTD",
-                "deviceId": "",
-                "version": ""
-            }
-        },      
-       {
+        {
             "key": "曼波动漫",
             "name": "曼波动漫",
             "type": 3,
@@ -872,44 +679,7 @@
                 "version": ""
             }
         },   
-	  {
-            "key": "YY",
-            "name": "YY动漫",
-            "type": 3,            
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://tv.yy-fun.cc",
-                "dataKey": "qkxnwkfjwpcnwycl",
-                "dataIv": "qkxnwkfjwpcnwycl",
-                "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
-                "version": "120"
-            }
-        },     
- {
-           "key": "流光",
-           "name": "流光影院",
-           "type": 3,
-           "api": "csp_XBPQ",
-           "ext": {
-               "免嗅": "0",
-               "首页": "0",
-               "分类": "电影&剧集&动漫",
-               "数组": "uk-card-media-top\">&&</a>",
-               "标题": "alt=\"&&\"",
-               "图片": "<img src=\"&&\"",
-               "链接": "href=\"&&\"",
-               "主演": "</p><p>&&</div></div></p></div></div>",
-               "线路数组": "class=\"hdselect*>&&</div>",
-               "线路标题": ">&&<",
-               "播放数组": "uk-grid-match\">&&</ul",
-               "跳转播放链接": "https://www.lgys.tv/api/getmovie?type=+hd = \"&&\"+&id=+&id=&&';",
-               "二次跳转播放链接": "\"m3u8\":\"&&\"",
-               "分类url": "https://www.lgys.tv/cn/category/{cateId}?page={catePg}",
-               "搜索url": "https://www.lgys.tv/search?q={wd}"
-           }
-       },   
- {
+    {
       "key": "鬼片之家②",
       "name": "鬼片之家XBPQ",
       "type": 3,
