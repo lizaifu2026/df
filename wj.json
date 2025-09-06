@@ -136,7 +136,7 @@
     },    
 	 {
       "key": "蔬菜",
-      "name": "蔬菜丨APP",
+      "name": "蔬菜APP",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -152,7 +152,7 @@
     },
     {
       "key": "爱看",
-      "name": "爱看｜APP",
+      "name": "爱看APP",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
