@@ -43,57 +43,8 @@
             "ext": {
                 "url": "http://v.rbotv.cn"
             }
-        },
-     {
-      "key": "猪猪",
-      "name": "小猪影视",
-      "quickSearch": 0,
-      "searchable": 1,
-      "jar": "./0826v2.png",   
-	  "type": 3,
-      "api": "csp_AppGet",
-      "ext": "I7L3u12iTGax7pIKDBrd0Czr1qZntIntytqeFyDzetDIICoeNSd3afmMXMhm296uAkb3qZ7kxihetfT8V6h4kw=="
-    }, 
-    {
-      "key": "追忆",
-      "name": "追忆APP",
-      "type": 3,
-      "jar": "./0826v2.png",         
-      "api": "csp_AppSy",
-      "quickSearch": 0,
-      "ext": "oJGDh+VBrPcwnx19VbSGqy9EkivA/Gc+cSt3uSBzyPzDTmKYyoi6Wr4VgqU2u0Sh7AAuGc4/a7UWVU6BEmFetA=="
-    },       
-    {
-      "key": "云速",
-      "name": "云速影视",
-      "type": 3,
-      "searchable": 1,
-      "jar": "./0826v2.png", 
-	  "quickSearch": 0,
-      "api": "csp_AppQi",
-      "ext": "9ee0oa0Y30GapSvZ2C2RVE2HwH08KKvP0VhAZCVWpnluXpZNLRZrNCMeKyCWw1JOj3jlA6tSdRPHvvTyBCuIMzwlKeODvXst4zEi0DFYqmEXOu+cG8rF7/kIckBMVYvn"
-    },
-    {
-      "key": "麻花",
-      "name": "麻花动漫",
-      "type": 3,
-      "quickSearch": 0,
-      "jar": "./0826v2.png", 
-	  "searchable": 1,
-      "api": "csp_AppQi",
-      "ext": "Koog6uPyOjHNZh8eY8CgUL+XGp1zR8d/K2NE9Ls6xomFfTe7rh08ey2nhTjFqhzZpFCRgo6Ts5zctBTL20Q0GTg9Ltmxj+3Mtu3MmCSyMrA="
-    },	  
-    {
-      "key": "大豆",
-      "name": "大豆影视",
-      "type": 3,
-      "quickSearch": 0,
-      "jar": "./0826v2.png",
-	  "searchable": 1,
-      "api": "csp_AppGet",
-      "ext": "7PKaTzLgpGLqYV7cUF+dCEw/YtRQnWFqGURdQoZnM3s5khy5fqX3yGD7gACetGMWTQJv81SoDNcZI5UkNNLGqA=="
-    },	  
-	  {
+	  }, 
+   {
             "key": "瓜子影视",
             "name": "瓜子影视",
             "type": 3,
@@ -101,8 +52,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-      {
+        },   
+	  {
       "key": "蓝鹰",
       "name": "蓝鹰APP",
       "type": 3,
