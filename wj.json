@@ -93,6 +93,7 @@
       "api": "csp_AppGet",
       "ext": "7PKaTzLgpGLqYV7cUF+dCEw/YtRQnWFqGURdQoZnM3s5khy5fqX3yGD7gACetGMWTQJv81SoDNcZI5UkNNLGqA=="
     },	  
+	  
 	  {
             "key": "瓜子影视",
             "name": "瓜子影视",
@@ -102,7 +103,53 @@
             "quickSearch": 1,
             "filterable": 1
         },
+      {
+      "key": "蓝鹰",
+      "name": "蓝鹰APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "",
+        "site": "./lib/lanyingxmy.txt",
+        "dataKey": "ca94b06ca359d80e",
+        "dataIv": "ca94b06ca359d80e",
+        "deviceId": "",
+        "version": "120"
+      }
+    },  
     {
+      "key": "蔬菜",
+      "name": "蔬菜丨APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://huohu.yihn.cc",
+        "site": "",
+        "dataKey": "huohushipingetap",
+        "dataIv": "huohushipingetap",
+        "deviceId": "",
+        "version": "140",
+        "ua": ""
+      }
+    },
+    {
+      "key": "爱看",
+      "name": "爱看｜APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://114.134.185.234",
+        "site": "",
+        "dataKey": "uI1TkPJC8B46AyN3",
+        "dataIv": "uI1TkPJC8B46AyN3",
+        "deviceId": "",
+        "version": ""
+      }
+    },	  
+	  {
       "key": "哔滴",
       "name": "哔滴APP",
       "type": 3,
@@ -667,20 +714,33 @@
                 "version": ""
             }
         },	  
-	  {
-            "key": "米饭动漫",
-            "name": "米饭动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://45.43.29.111:9527",
-                "dataKey": "GETMIFUNGEIMIFUN",
-                "dataIv": "GETMIFUNGEIMIFUN",
-                "deviceId": "",
-                "version": ""
-            }
-        },      
+    {
+      "key": "漫国",
+      "name": "漫国动漫",
+      "type": 3,
+      "api": "csp_AppSy",
+      "ext": {
+        "site": "./lib/api.txt",
+        "siteKey": "rectangleadsadxa",
+        "listKey": "aassddwwxxllsx1x",
+        "parsesKey": "aassddwwxxllsx1x"
+      }
+    },	 
+    {
+      "key": "稀饭动漫",
+      "name": "稀饭动漫",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "",
+        "site": "./lib/getapp.txt",
+        "dataKey": "1yZ2Spn9krnzVKoC",
+        "dataIv": "1yZ2Spn9krnzVKoC",
+        "deviceId": "",
+        "version": ""
+      }
+    },     
         {
             "key": "曼波动漫",
             "name": "曼波动漫",
