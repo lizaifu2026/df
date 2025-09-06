@@ -1,35 +1,6 @@
-#coding=utf-8
-#!/usr/bin/python
-# 基于原作者 @嗷呜 版本修改
-# 本资源来源于互联网公开渠道，仅可用于个人学习爬虫技术。
-# 严禁将其用于任何商业用途，下载后请于 24 小时内删除，搜索结果均来自源站，本人不承担任何责任。
-
-"""
-支持V1,V2,V6格式，ext直接填接口即可
-正常例子
-{
-    "key": "test",
-    "name": "test",
-    "type": 3,
-    "changeable": 0,
-    "api": "./AppV2.py",
-    "ext": "http://domain.com/api.php/app"
-}
-
-V1签名校验例子
-{
-    "key": "test",
-    "name": "test",
-    "type": 3,
-    "changeable": 0,
-    "api": "./AppV2.py",
-    "ext": {
-        "api": "http://domain.com/icciu_api.php/v1.vod",
-        "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
-        "apisignkey": "apisignkey"
-    }
-}
-"""
+# -*- coding: utf-8 -*-
+# by @嗷呜
+# 基于原作者 @嗷呜 版本修改，仅可用于个人学习用途
 
 from base.spider import Spider
 from urllib.parse import urlparse, urlencode
@@ -145,56 +116,48 @@ class Spider(Spider):
         data = data['data']
         if 'vod_info' in data:
             data = data['vod_info']
-        show = []
-        vod_play_url = []
+        show = ''
+        vod_play_url = ''
         if 'vod_url_with_player' in data:
             for i in data['vod_url_with_player']:
-                if i['code'] == i['name']:
-                    show.append(i['name'])
-                else:
-                    show.append(f"{i['name']}\u2005({i['code']})")
+                show += i.get('name', '') + '$$$'
                 parse_api = i.get('parse_api','')
                 if parse_api and parse_api.startswith('http'):
                     url = i.get('url','')
                     if url:
                         url2 = '#'.join([i+ '@' + parse_api  for i in url.split('#')])
-                    vod_play_url.append(url2)
+                    vod_play_url += url2 + '$$$'
                 else:
-                    vod_play_url.append(i.get('url', ''))
+                    vod_play_url += i.get('url','') + '$$$'
             data.pop('vod_url_with_player')
         if 'vod_play_list' in data:
-            vod_play_list = data['vod_play_list']
-            for i in vod_play_list.values() if isinstance(vod_play_list, dict) else vod_play_list:
+            for i in data['vod_play_list']:
                 parses = ''
                 player_info = i['player_info']
-                if player_info['show'] == i['from']:
-                    show.append(player_info['show'])
-                else:
-                    show.append(f"{player_info['show']}\u2005({i['from']})")
-                parse = player_info.get('parse','').strip()
-                parse2 = player_info.get('parse2','').strip()
+                show += f"{player_info['show']}({i['from']})$$$"
+                parse = player_info.get('parse','')
+                parse2 = player_info.get('parse2','')
                 if 'parse' in player_info and parse.startswith('http'):
                     parses += parse + ','
                 if 'parse2' in player_info and parse2.startswith('http') and parse2 != parse:
                     parses += parse2
                 parses = parses.rstrip(',')
                 url = ''
-                urls = i['urls']
-                for j in urls.values() if isinstance(urls, dict) else urls:
+                for j in i['urls']:
                     if parse:
                         url += f"{j['name']}${j['url']}@{parses}#"
                     else:
                         url += f"{j['name']}${j['url']}#"
                 url = url.rstrip('#')
-                vod_play_url.append(url)
+                vod_play_url += url + '$$$'
         if 'vod_play_list' in data:
             data.pop('vod_play_list')
         if 'rel_vods' in data:
             data.pop('rel_vods')
         if 'type' in data:
             data.pop('type')
-        data['vod_play_from'] = '$$$'.join(show)
-        data['vod_play_url'] = '$$$'.join(vod_play_url)
+        data['vod_play_from'] = show.rstrip('$$$')
+        data['vod_play_url'] = vod_play_url.rstrip('$$$')
         return {'list': [data]}
 
     def playerContent(self, flag, id, vipFlags):
@@ -242,10 +205,12 @@ class Spider(Spider):
         year = str(date.year)
         hour = str(date.hour)
         minute = str(date.minute)
+
         if len(hour) < 2:
             hour = "0" + hour
         if len(minute) < 2:
             minute = "0" + minute
+
         str_value = self.apisignkey
         sign_str = f"{year}:{hour}:{year}:{minute}:{str_value}"
         md5_hash = self.md5(sign_str)
