@@ -119,6 +119,22 @@
       }
     },  
     {
+      "key": "豆丁",
+      "name": "豆丁APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "",
+        "site": "./lib/dd.txt",
+        "dataKey": "Xasdasd!123123dd",
+        "dataIv": "Xasdasd!123123dd",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
+    },    
+	 {
       "key": "蔬菜",
       "name": "蔬菜丨APP",
       "type": 3,
