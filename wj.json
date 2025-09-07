@@ -191,7 +191,23 @@
         "version": ""
       }
     },	 
-	    {
+    {
+      "key": "小猪",
+      "name": "小猪APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "",
+        "site": "./lib/url.txt",
+        "dataKey": "1785acb6c963184b",
+        "dataIv": "1785acb6c963184b",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
+    },	    
+	  {
             "key": "萝卜",
             "name": "萝卜APP",
             "type": 3,
