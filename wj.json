@@ -487,18 +487,7 @@
       "filterable": 1,      
       "playerType": 2   
     }, 	 
- {
-      "key": "Hmys",
-      "name": "Hmys影视",
-      "type": 3,
-      "api": "./py/Hmys.py",
-      "searchable": 1,        
-      "changeable": 1,       
-      "quickSearch": 1,       
-      "filterable": 1,      
-      "playerType": 2   
-    }, 
-	{
+{
       "key": "主角",
       "name": "主角App",
       "type": 3,
