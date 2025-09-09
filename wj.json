@@ -146,7 +146,23 @@
         "version": "120"
       }
     },	  
-{
+    {
+      "key": "咖啡",
+      "name": "咖啡APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "",
+        "site": "./lib/mqxh.txt",
+        "dataKey": "37kj83zs1q16jk6t",
+        "dataIv": "37kj83zs1q16jk6t",
+        "deviceId": "",
+        "version": "101",
+        "ua": ""
+      }
+    },
+	{
       "key": "加菲",
       "name": "加菲APP",
       "type": 3,
