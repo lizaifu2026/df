@@ -1181,33 +1181,12 @@
       "type": 1,
       "url": "http://jx.xnftv.xyz/api/diy/?key=02wLO4jHzX2J3U7417&url="
     },	 
-{
-      "name": "乐",
-      "type": 1,
-      "url": "http://43.139.94.96:8866/api/?key=7e67ab331ee255664f2989ca2171c2dd&url="
-    },	  
-{
+	{
       "name": "影",
       "type": 1,
       "url": "http://125.208.22.184:1666/api/?key=Lsthk1A7obu4Lmn4zk&url="
     },	 
-  {
-      "name": "视",
-      "type": 1,
-      "url": "http://yy.zhangbokeji.top/suisui.php?key=总裁&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "mgtv",
-          "芒果"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },	  
-{
+	{
       "name": "追忆影视V6",
       "type": 1,
       "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getV6jx&url="
