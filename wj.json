@@ -751,17 +751,6 @@
             "playerType": 2
         },        
         {
-            "key": "XinJie",
-            "name": "XinJie影视",
-            "type": 3,
-            "api": "./py/XinJie.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-	  {
             "key": "光速py",
             "name": "光速影视",
             "type": 3,
