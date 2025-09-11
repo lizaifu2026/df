@@ -751,10 +751,10 @@
             "playerType": 2
         },        
         {
-            "key": "猎手影视",
-            "name": "猎手影视",
+            "key": "XinJie",
+            "name": "XinJie影视",
             "type": 3,
-            "api": "./py/猎手影视.py",
+            "api": "./py/XinJie.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
