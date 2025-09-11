@@ -258,7 +258,7 @@ CGTN,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226172/index.m3u8
 山东卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226887/index.m3u8
 山西卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226137/index.m3u8
 山西卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226778/index.m3u8
-陕西卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227503/index.m3u8
+山西卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227503/index.m3u8
 陕西卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227588/index.m3u8
 陕西卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226892/index.m3u8
 深圳卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226136/index.m3u8
