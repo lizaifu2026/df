@@ -68,23 +68,7 @@
         "version": "120"
       }
     },  
-    {
-      "key": "豆丁",
-      "name": "豆丁APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "./lib/dd.txt",
-        "dataKey": "Xasdasd!123123dd",
-        "dataIv": "Xasdasd!123123dd",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },    
-	 {
+  {
       "key": "蔬菜",
       "name": "蔬菜APP",
       "type": 3,
@@ -255,23 +239,7 @@
         "ua": ""
       }
     },	    
-    {
-      "key": "驿站",
-      "name": "驿站APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "./lib/apiurl.txt",
-        "dataKey": "dyyztvapiappyyds",
-        "dataIv": "dyyztvapiappyyds",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    }, 
-    {
+{
       "key": "灵虎",
       "name": "灵虎APP",
       "type": 3,
@@ -315,22 +283,7 @@
                 "version": "107"
             }
         },	  
- {
-            "key": "小野",
-            "name": "小野APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://appcms.xy4k.com",
-                "site": "",
-                "dataKey": "7SDWjknU34zqFbVr",
-                "dataIv": "7SDWjknU34zqFbVr",
-                "deviceId": "",
-                "version": ""
-            }
-        },
- {
+{
    "key": "YIYI影视",
    "name": "YIYI影视App",
    "type": 3,
