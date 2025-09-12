@@ -825,7 +825,55 @@
         "ua": ""
       }
     },    
-        {
+    {
+      "key": "番薯",
+      "name": "番薯动漫",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://new.app.bytegooty.com",
+        "site": "",
+        "dataKey": "N4yj7l7xKxHF4*gz",
+        "dataIv": "N4yj7l7xKxHF4*gz",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
+    },
+    {
+      "key": "凛冬",
+      "name": "凛冬动漫",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://cydd.xyz",
+        "site": "",
+        "dataKey": "cyddkeyf774b3b39",
+        "dataIv": "cyddkeyf774b3b39",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
+    },        
+    {
+      "key": "一三",
+      "name": "一三动漫",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "",
+        "site": "./lib/1.txt",
+        "dataKey": "qwertyuiopqwerty",
+        "dataIv": "qwertyuiopqwerty",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
+    },	 
+	  {
             "key": "曼波动漫",
             "name": "曼波动漫",
             "type": 3,
