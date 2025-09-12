@@ -850,21 +850,7 @@
             },
             "ext": "./lib/哆啦新番社.json"
         },
-        {
-            "key": "外剧",
-            "name": "外剧APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://guowaiju.com",
-                "dataKey": "7xv16h7qgkrs9b1p",
-                "dataIv": "7xv16h7qgkrs9b1p",
-                "deviceId": "",
-                "version": ""
-            }
-        },   
-    {
+{
             "key": "懒懒视频",
             "name": "懒懒视频",
             "type": 3,
