@@ -342,7 +342,52 @@
                 "version": "102"
             }
         },	  
- {
+        {
+            "key": "魔方",
+            "name": "魔方APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.pjb523.sbs",
+                "site": "",
+                "dataKey": "1234567887654321",
+                "dataIv": "1234567887654321",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+        {
+            "key": "稀饭",
+            "name": "稀饭APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://app.xifanys.com",
+                "site": "",
+                "dataKey": "HM6Ly9yeS4ya3dvL",
+                "dataIv": "HM6Ly9yeS4ya3dvL",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },	  
+        {
+            "key": "和友",
+            "name": "和友APP",
+            "type": 3,
+            "api": "csp_AppSy",
+            "ext": {
+                "url": "",
+                "site": "http://qcb.sxtzg.com/api.txt",
+                "siteKey": "rectangleadsadxa",
+                "listKey": "gHSLmx3JQRasgztO",
+                "parsesKey": "gHSLmx3JQRasgztO"
+            }
+        },	  
+	 {
       "key": "xml_魔爪",
       "name": "魔爪资源",
       "type": 1,
