@@ -255,22 +255,22 @@
         "version": ""
       }
     },	 
-    {
-      "key": "小猪",
-      "name": "小猪APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "./lib/url.txt",
-        "dataKey": "1785acb6c963184b",
-        "dataIv": "1785acb6c963184b",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },	    
+        {
+            "key": "豆丁",
+            "name": "豆丁APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://45.66.157.77:9427",
+                "site": "",
+                "dataKey": "Xasdasd!123123dd",
+                "dataIv": "Xasdasd!123123dd",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },    
 {
       "key": "灵虎",
       "name": "灵虎APP",
