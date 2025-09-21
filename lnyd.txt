@@ -378,6 +378,10 @@ CGTN,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226172/index.m3u8
 阜新教育,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227498/index.m3u8
 阜新新闻综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227407/index.m3u8
 丹东新闻综合,https://1033946628.cloudvdn.com/a.m3u8?domain=pili-live-hdl-zhdd-tv.ddrtv.cn&player=1&streamid=zhdd-tv:zhdd-tv/ddnews&v3=1
+抚顺综合,https://fsgbdstzb.lnyun.com.cn/fsfb2/tvzb2.m3u8?auth_key=1800000000-0-0-567c83e6e68f69724b3d3c9a934e147c
+抚顺教育,https://fsgbdstzb.lnyun.com.cn/fsfb1/tvzb1.m3u8?auth_key=1800000000-0-0-4a9318cfc89de3265930e8db1aa63e49
+辽源综合,http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
+吉林市新闻综合,http://stream2.jlntv.cn/jilin1/sd/live.m3u8
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
 朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 湖南电影,http://183.215.134.239:19901/tsfile/live/1006_1.m3u8
