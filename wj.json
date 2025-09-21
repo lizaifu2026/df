@@ -6,7 +6,7 @@
         {
             "name": "联通直播",
             "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lizaifu2026/df/refs/heads/main/LN-CMCC-PLTV-DBWW.txt",
+            "url": "",
             "playerType": 2,
             "timeout": 10
         }
