@@ -581,7 +581,7 @@
        },	  
  {
    "key": "小城",
-     "name": "小城影视菠菜版",
+     "name": "小城影视",
      "type": 3,
      "api": "csp_AppYs",
      "searchable": 1,
@@ -672,7 +672,7 @@
         },	  
  {
       "key": "csp_Wwys",
-      "name": "农民1080P",
+      "name": "农民影视",
       "type": 3,
       "quickSearch": 1,
       "jar": "./0408.jar;md5;a088e2c45008c883c90894ad94f01356",
@@ -694,7 +694,7 @@
         },      
  {
       "key": "awdm",
-      "name": "嗷呜动漫py",
+      "name": "嗷呜动漫",
       "type": 3,
       "api": "./py/嗷呜动漫.py",
       "searchable": 1,        
@@ -788,7 +788,7 @@
     },	 
     {	  
       "key": "夕云",
-      "name": "夕云影视XBPQ",
+      "name": "夕云影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/xbpq新版.jar?inline=false",
@@ -800,7 +800,7 @@
     },  
     {
       "key": "竹生",
-      "name": "竹生4K",
+      "name": "竹生4K影视",
       "type": 3,
       "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar",
 	  "api": "csp_HBT4",
@@ -1030,7 +1030,7 @@
  { "key": "茄子短剧", "name": "番茄短剧", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+简介：</span>&&","线路标题":"panel-hd\">&&</div>","分类url":"https://www.shanhuzs.com/fqsansw/5-{area}--{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"}},       
     {
       "key": "tldj",
-      "name": "偷乐短剧py",
+      "name": "偷乐短剧",
       "type": 3,
       "api": "./py/偷乐短剧.py",
       "searchable": 1,        
@@ -1203,7 +1203,7 @@
         },
   {
             "key": "hmys",
-            "name": "海马影视py",
+            "name": "海马影视",
             "type": 3,
             "api": "./py/海马影视APP.py",
             "searchable": 1,
@@ -1214,7 +1214,7 @@
         }, 	 
 {	 
       "key": "面包影视",
-      "name": "面包影视XBPQ",
+      "name": "面包影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./lib/MBYS.json"
