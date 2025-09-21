@@ -591,7 +591,7 @@ CGTN,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226016/1.m3u8
 咪咕体育39,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225696/index.m3u8
 咪咕体育40,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225697/index.m3u8
 咪咕体育41,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/index.m3u8
-JULI,#genre#
+港台测试1,#genre#
 翡翠台,https://php.946985.xyz/iptv/jacktv.php?id=fr174z
 翡翠台(广电),https://php.946985.xyz/iptv/jacktv.php?id=70zqnb
 翡翠台4K,https://php.946985.xyz/iptv/jacktv.php?id=jvlxue
@@ -646,7 +646,7 @@ Astro AOD,https://php.946985.xyz/iptv/jacktv.php?id=eox56c
 Astro AEC,https://php.946985.xyz/iptv/jacktv.php?id=3zwnrv
 Astro QJ,https://php.946985.xyz/iptv/jacktv.php?id=r1n417
 Astro欢喜台,https://php.946985.xyz/iptv/jacktv.php?id=ap0ii0
-BXTV,#genre#
+港台测试2,#genre#
 翡翠台,http://bxtv.3a.ink/api.php?id=fct
 無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
 TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
