@@ -1052,7 +1052,7 @@
                 "播放链接": "href=\"&&\"[替换:http>>push://http]",
                 "免嗅": "0",
                 "分类url": "https://www.duanju618.com/{cateId}/{catePg}.html",
-                "分类": "短剧$duanju"
+                "分类": "短剧$duanju#电影$weiju#今日更新$update"
             }
         },	 
 	  {
