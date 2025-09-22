@@ -1,4 +1,4 @@
-辽宁联通 央视,#genre#
+辽宁全网通 央视,#genre#
 CCTV1,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226721/index.m3u8
 CCTV1,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227209/index.m3u8
 CCTV1,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226759/index.m3u8
@@ -45,7 +45,7 @@ CCTV16,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227346/i
 CCTV17,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226841/index.m3u8
 CCTV17,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227352/index.m3u8
 CCTV17,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/index.m3u8
-辽宁联通 卫视,#genre#
+辽宁全网通 卫视,#genre#
 安多卫视,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227160/index.m3u8
 安徽卫视,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226746/index.m3u8
 安徽卫视,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227233/index.m3u8
@@ -120,7 +120,7 @@ CCTV17,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/i
 重庆卫视,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227227/index.m3u8
 重庆卫视,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226868/index.m3u8
 中国教育-1,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226732/index.m3u8
-辽宁联通 咪咕,#genre#
+辽宁全网通 咪咕,#genre#
 咪咕视频01,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227308/index.m3u8
 咪咕视频02,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227314/index.m3u8
 咪咕视频03,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227317/index.m3u8
@@ -149,7 +149,7 @@ CCTV17,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/i
 咪咕视频26,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227448/index.m3u8
 咪咕视频27,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227451/index.m3u8
 咪咕视频28,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227305/index.m3u8
-辽宁联通 辽宁本地,#genre#
+辽宁全网通 辽宁本地,#genre#
 辽宁卫视,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226731/index.m3u8
 辽宁卫视,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227242/index.m3u8
 辽宁卫视,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226767/index.m3u8
@@ -178,20 +178,20 @@ CCTV17,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/i
 辽源综合,http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
 吉林市新闻综合,http://stream2.jlntv.cn/jilin1/sd/live.m3u8
 重温经典,http://tv.jun1985.vip/tv/cwjd.php
-辽宁联通 购物,#genre#
+辽宁全网通 购物,#genre#
 家有购物,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226985/index.m3u8
 聚鲨环球精选,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227044/index.m3u8
 央广购物,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227105/index.m3u8
 宜佳购物,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226884/index.m3u8
 宜佳购物,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227309/index.m3u8
 优购物,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227335/index.m3u8
-辽宁联通 动漫,#genre#
+辽宁全网通 动漫,#genre#
 优漫卡通,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226768/index.m3u8
 嘉佳卡通,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226744/index.m3u8
 金鹰卡通,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226845/index.m3u8
 金鹰卡通,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227300/index.m3u8
 新动漫,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226818/index.m3u8
-辽宁联通 数字,#genre#
+辽宁全网通 数字,#genre#
 咪咕-睛彩广场舞,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227384/index.m3u8
 咪咕-睛彩竞技,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227436/index.m3u8
 咪咕-睛彩篮球,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227439/index.m3u8
@@ -467,7 +467,7 @@ myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
 广东体育,http://bxtv.3a.ink/api.php?id=gdty
 广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
-港台频道,#genre#
+港台备用,#genre#
 凤凰中文,https://migu.188766.xyz/?migutoken=59179b50cf4c674529d2e911c8fa1dab&id=fhzw&pp=1
 凤凰资讯,https://migu.188766.xyz/?migutoken=61c607df081a02ac2a2599516bbd6073&id=fhzx&pp=1
 凤凰香港,https://migu.188766.xyz/?migutoken=559b076171cce5c937cbade07bdd0c8f&id=fhhk&pp=1
