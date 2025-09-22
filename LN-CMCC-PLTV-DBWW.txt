@@ -353,8 +353,6 @@ CCTV-5+体育赛事,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224
 辽源综合,http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
 吉林市新闻综合,http://stream2.jlntv.cn/jilin1/sd/live.m3u8
 重温经典,http://tv.jun1985.vip/tv/cwjd.php
-中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
-POPC电影台,http://bxtv.3a.ink/api.php?id=popc
 辽宁联通 购物,#genre#
 宜佳购物,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226884/index.m3u8,$FHD
 宜佳购物,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227309/index.m3u8,$FHD
