@@ -473,7 +473,23 @@
                 "ua": ""
             }
         },
-        {
+          {
+            "key": "火狐",
+            "name": "火狐APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://huohu.yihn.cc",
+                "site": "",
+                "dataKey": "huohushipingetap",
+                "dataIv": "huohushipingetap",
+                "deviceId": "",
+                "version": "140",
+                "ua": ""
+            }
+        },      
+	  {
             "key": "外剧",
             "name": "外剧APP",
             "type": 3,
@@ -652,24 +668,68 @@
                 "version": ""
             }
         },	 
-	  {
-            "key": "豆瓣采集资源",
-            "name": "豆瓣采集",
-            "type": 1,
-            "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
-            "playerType": 1,
-            "searchable": 1,
-            "changeable": 1
+        {
+            "key": "米兔",
+            "name": "米兔APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://new.tkbot.fun",
+                "dataKey": "d032c12876bc6848",
+                "dataIv": "d032c12876bc6848",
+                "deviceId": "",
+                "version": "200"
+            }
         },	 
         {
-            "key": "卧龙采集资源",
-            "name": "卧龙采集",
-            "type": 1,
-            "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
-            "playerType": 1,
-            "searchable": 1,
-            "changeable": 1
-        },	  
+            "key": "影视",
+            "name": "影视APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+            "ext": {
+                "url": "",
+                "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt",
+                "dataKey": "sada21321sdq231d",
+                "dataIv": "sada21321sdq231d",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+        {
+            "key": "迪吧",
+            "name": "迪吧APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "",
+                "site": "https://appto2-1316376600.cos.ap-beijing.myqcloud.com/gap.txt",
+                "dataKey": "685bf108bc47b67d",
+                "dataIv": "685bf108bc47b67d",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+        {
+            "key": "米奇",
+            "name": "米奇APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://www.milkidc.cn",
+                "site": "",
+                "dataKey": "20c79c979da8db0f",
+                "dataIv": "20c79c979da8db0f",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },  
  {
       "key": "csp_Wwys",
       "name": "农民影视",
