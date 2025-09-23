@@ -395,79 +395,7 @@ CGTN,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226016/1.m3u8
 咪咕体育39,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225696/index.m3u8
 咪咕体育40,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225697/index.m3u8
 咪咕体育41,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/index.m3u8
-JULI港台,#genre#
-翡翠台,https://php.946985.xyz/iptv/jacktv.php?id=rj1736
-翡翠台(广电),https://php.946985.xyz/iptv/jacktv.php?id=zr2o0v
-翡翠台4K,https://php.946985.xyz/iptv/jacktv.php?id=78yyej
-无线新闻台,https://php.946985.xyz/iptv/jacktv.php?id=7mwac4
-明珠台,https://php.946985.xyz/iptv/jacktv.php?id=huuy6c
-TVB PLUS,https://php.946985.xyz/iptv/jacktv.php?id=9ezlom
-HOY TV,https://php.946985.xyz/iptv/jacktv.php?id=mtpw3a
-ViuTV,https://php.946985.xyz/iptv/jacktv.php?id=w5pw7w
-ViuTVSix,https://php.946985.xyz/iptv/jacktv.php?id=1g7bqo
-NOW新闻台,https://php.946985.xyz/iptv/jacktv.php?id=370s61
-RTHK31,https://php.946985.xyz/iptv/jacktv.php?id=yq84dc
-RTHK32,https://php.946985.xyz/iptv/jacktv.php?id=mo5cnf
-澳视澳门,https://php.946985.xyz/iptv/jacktv.php?id=fk4ua3
-澳视卫星,https://php.946985.xyz/iptv/jacktv.php?id=qu2eej
-凤凰中文,https://php.946985.xyz/iptv/jacktv.php?id=acxcwr
-凤凰资讯,https://php.946985.xyz/iptv/jacktv.php?id=lh3ban
-凤凰香港,https://php.946985.xyz/iptv/jacktv.php?id=eqoahu
-CCTV1,https://php.946985.xyz/iptv/jacktv.php?id=3tlp16
-CCTV13,https://php.946985.xyz/iptv/jacktv.php?id=868ic4
-广东珠江,https://php.946985.xyz/iptv/jacktv.php?id=nnsf4y
-广东体育,https://php.946985.xyz/iptv/jacktv.php?id=ztfttj
-五星体育,https://php.946985.xyz/iptv/jacktv.php?id=hu5h6c
-深圳卫视4K,https://php.946985.xyz/iptv/jacktv.php?id=s1m3wh
-深圳财经生活,https://php.946985.xyz/iptv/jacktv.php?id=p7q0xu
-第一财经,https://php.946985.xyz/iptv/jacktv.php?id=66s3l5
-重温经典,https://php.946985.xyz/iptv/jacktv.php?id=zm1sj1
-龙华电影,https://php.946985.xyz/iptv/jacktv.php?id=m0no7w
-龙华经典,https://php.946985.xyz/iptv/jacktv.php?id=9kh3yi
-龙华卡通,https://php.946985.xyz/iptv/jacktv.php?id=v2mfci
-龙华偶像,https://php.946985.xyz/iptv/jacktv.php?id=j6gs1s
-龙华日韩,https://php.946985.xyz/iptv/jacktv.php?id=0u5lpw
-龙华戏剧,https://php.946985.xyz/iptv/jacktv.php?id=p00tqc
-龙华洋片,https://php.946985.xyz/iptv/jacktv.php?id=lx57ho
-TVB1,https://php.946985.xyz/iptv/jacktv.php?id=4c5u9c
-TVBJ1,https://php.946985.xyz/iptv/jacktv.php?id=nr6h28
-TVB亚洲武侠,https://php.946985.xyz/iptv/jacktv.php?id=1tm7fg
-TVB娱乐新闻台,https://php.946985.xyz/iptv/jacktv.php?id=491pau
-TVB华丽翡翠台,https://php.946985.xyz/iptv/jacktv.php?id=6ky8uy
-TVB星河,https://php.946985.xyz/iptv/jacktv.php?id=jt1jad
-TVB星河,https://php.946985.xyz/iptv/jacktv.php?id=roi4o6
-翡翠剧集台,https://php.946985.xyz/iptv/jacktv.php?id=tlh0qc
-千禧经典台,https://php.946985.xyz/iptv/jacktv.php?id=3l0hpa
-美亚电影台,https://php.946985.xyz/iptv/jacktv.php?id=xz8agw
-天映频道,https://php.946985.xyz/iptv/jacktv.php?id=neeix1
-天映经典,https://php.946985.xyz/iptv/jacktv.php?id=neeix12
-爱奇艺,https://php.946985.xyz/iptv/jacktv.php?id=sk2xtt
-八度空间,https://php.946985.xyz/iptv/jacktv.php?id=0b3blk
-CH5,https://php.946985.xyz/iptv/jacktv.php?id=2ux4u4
-CH8,https://php.946985.xyz/iptv/jacktv.php?id=16e8kq
-CHU,https://php.946985.xyz/iptv/jacktv.php?id=lbmn6r
-Astro AOD,https://php.946985.xyz/iptv/jacktv.php?id=xkur6i
-Astro AEC,https://php.946985.xyz/iptv/jacktv.php?id=1k8ms4
-Astro QJ,https://php.946985.xyz/iptv/jacktv.php?id=iuhkxz
-Astro欢喜台,https://php.946985.xyz/iptv/jacktv.php?id=n6sh9n
-BXTV港台,#genre#
-翡翠台,http://bxtv.3a.ink/api.php?id=fct
-無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
-TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
-明珠台,http://bxtv.3a.ink/api.php?id=mz
-NOW新闻,http://bxtv.3a.ink/api.php?id=now
-PopC,http://bxtv.3a.ink/api.php?id=popc
-VIUTV,http://bxtv.3a.ink/api.php?id=viutv
-美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
-千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
-myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
-鳳凰衛視中文台,http://bxtv.3a.ink/api.php?id=fhzw
-鳳凰衛視資訊台,http://bxtv.3a.ink/api.php?id=fhzx
-鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
-广东体育,http://bxtv.3a.ink/api.php?id=gdty
-广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
-中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
-港台备用,#genre#
+港台,#genre#
 凤凰中文,https://migu.188766.xyz/?migutoken=59179b50cf4c674529d2e911c8fa1dab&id=fhzw&pp=1
 凤凰资讯,https://migu.188766.xyz/?migutoken=61c607df081a02ac2a2599516bbd6073&id=fhzx&pp=1
 凤凰香港,https://migu.188766.xyz/?migutoken=559b076171cce5c937cbade07bdd0c8f&id=fhhk&pp=1
@@ -484,7 +412,7 @@ Astro AOD,https://migu.188766.xyz/?migutoken=f93df758fdc057b86f43c73f1ac0bf89&id
 Astro AEC,https://migu.188766.xyz/?migutoken=737e1aab3bf2723222b17da03456d914&id=AEC&type=dy
 Astro QJ,https://migu.188766.xyz/?migutoken=de5b08db3e25ce496b8108f146d559d3&id=Quanjia&type=dy
 Astro 欢喜,https://migu.188766.xyz/?migutoken=d4c4968fca1d0554099379fd9eb7a953&id=Huahee&type=dy
-🇨🇳杰克.港台👉,#genre#
+🇨🇳娱乐影视.港台👉,#genre#
 凤凰中文,http://stream-ali1.csslcloud.net/live/gwS5kbEwNmWObygXxkddGlm43Yr0rZAqkFgLZRwPewJMVnfHy8.flv 
 凤凰资讯,http://stream-ali1.csslcloud.net/live/7KUcGQoK7Glm43K0vAuRVWGZSscrMD5x2eSGbg4y8YFVh6dd2S.flv
 凤凰香港,http://stream-ali1.csslcloud.net/live/uEACKo2YT4ZTiHBMNM2g49d00j924NASwca4Glm436hsAvKE1L.flv
@@ -513,7 +441,7 @@ TVBS HD,http://stream-ali1.csslcloud.net/live/XhyG6NWlXFUuLxA75JShFUJC6ZK7Wl7b9o
 台视,http://stream-ali1.csslcloud.net/live/pUYRwiaacRh4uyd74srbiOPIPg4zbh5a9Pf7IFqlGzjcIPsKG9.flv
 唐人卫视频道,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 私人影院频道,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
-🇨🇳杰克.影视👉,#genre#
+🇨🇳娱乐影视.影视👉,#genre#
 CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 1905电影,http://150.138.77.132:10037/1905电影网.php?id=1905
 1905电影,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
@@ -523,7 +451,7 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 私人影院频道,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
 新加坡中文,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡中文,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-🇨🇳杰克.电影👉,#genre#
+🇨🇳娱乐影视.电影👉,#genre#
 A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 澳门风云2,https://vip.lz-cdn8.com/20220903/25590_a12ec6f7/index.m3u8
 不二神探,https://cdn2.yzzy-tv-cdn.com/20220330/4069_8714f6bb/index.m3u8
@@ -570,7 +498,7 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 义胆雄心,http://jsmov2.a.yximgs.com/bs3/video-hls/5237686462055775486_hlsb.m3u8
 中南海保镖,https://cdn12.yzzy-tv-cdn.com/20221209/8943_e3bd0850/index.m3u8
 醉拳,https://txmov2.a.kwimgs.com/upic/2021/09/30/18/BMjAyMTA5MzAxODM1NTFfMTI0MzE0NjMyOF81ODEwNDc3MzAzOF8yXzM=_b_B1b01bbe5b567f842b3de0b78109d1907.mp4
-🇹🇼✨伦理电影_19780321,#genre#
+🇹🇼✨娱乐影视.伦理电影_19780321,#genre#
 金瓶艳史,https://v.ykv2.com/20230413/kiiB0zNb/index.m3u8
 金瓶艳史,https://v.ykv2.com/20230413/kiiB0zNb/index.m3u8
 上海异人娼馆,https://vv.jisuzyv.com/play/neg8Z1Da/index.m3u8
@@ -995,7 +923,7 @@ fashionTV,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/226/st
 武松1982,https://v5.jindangao.com/ee/e1/12/hls/index.m3u8
 邪斗邪,https://v5.jindangao.com/oo/o8/46/hls/index.m3u8
 催花神龙教,https://v5.jindangao.com/ll/l1/38/hls/index.m3u8
-🇹🇼✨大陆频道_19780321,#genre#
+🇹🇼✨娱乐影视.大陆频道_19780321,#genre#
 大陆1,https://vip4.ddyunbo.com/20210221/gS5t2jEz/index.m3u8?skipl=1
 大陆2,https://vip4.ddyunbo.com/20210220/9CcKySuz/index.m3u8?skipl=1
 大陆3,https://vip4.ddyunbo.com/20210220/U7alv33Q/index.m3u8?skipl=1
@@ -1017,7 +945,7 @@ fashionTV,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/226/st
 大陆30,https://vip4.ddyunbo.com/20210224/N83y9zeO/index.m3u8?skipl=1
 大陆31,https://dadi-bo.com/20181214/AiWZdPFj/index.m3u8?skipl=1
 大陆32,https://dadi-bo.com/20181214/y84gsMnK/index.m3u8?skipl=1
-🇹🇼✨.日本无码_19780321,#genre#
+🇹🇼✨娱乐影视.日本无码_19780321,#genre#
 身体之爱,https://askzycdn.com/20221231/LecQxSOq/index.m3u8
 无码1,https://askzycdn.com/20240507/cwVnzlXp/index.m3u8
 无码2,https://askzycdn.com/20240507/WkdsFPPT/index.m3u8
@@ -1076,7 +1004,7 @@ fashionTV,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/226/st
 无码57,https://askzycdn.com/20240412/igA95LQ1/index.m3u8
 无码58,https://askzycdn.com/20240412/EH62jOFd/index.m3u8
 无码59,https://askzycdn.com/20240412/IWquHK3l/index.m3u8
-🇹🇼✨.日韩_19780321,#genre#
+🇹🇼✨娱乐影视.日韩_19780321,#genre#
 日韩1,https://vip4.ddyunbo.com/20210223/lFsvEfoW/index.m3u8?skipl=1
 日韩2,https://vip4.ddyunbo.com/20210223/irFKB3O3/index.m3u8?skipl=1
 日韩3,https://vip4.ddyunbo.com/20210223/dRyGiQT6/index.m3u8?skipl=1
@@ -1373,7 +1301,7 @@ fashionTV,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/226/st
 大陆32,https://dadi-bo.com/20181214/y84gsMnK/index.m3u8?skipl=1
 大陆33,https://2.ddyunbo.com/20190711/GAE74BwK/index.m3u8?skipl=1
 大陆34,https://3.ddyunbo.com/20200926/qg9XuScG/index.m3u8?skipl=1
-🇹🇼✨另一类_19780321,#genre#
+🇹🇼✨娱乐影视.另一类_19780321,#genre#
 1,https://siwazywcdn2.com:5278/zhongkouwei/lRYqg8kp/index.m3u8
 2,https://siwazywcdn2.com:5278/zhongkouwei/unvEe1wP/index.m3u8
 3,https://siwazywcdn2.com:5278/zhongkouwei/t8Z7Lhs4/index.m3u8
