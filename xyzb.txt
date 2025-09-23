@@ -209,103 +209,6 @@ CCTV-风云剧场,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3
 CCTV-风云音乐,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227502/index.m3u8
 CCTV-风云足球,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227377/index.m3u8
 CCTV-怀旧剧场,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227499/index.m3u8
-辽阳酒店移动,#genre#
-cctv3[1920x1080],http://36.129.204.120:65501/1003.m3u8
-cctv1[1920x1080],http://36.129.204.120:65501/1001.m3u8
-cctv4[1920x1080],http://36.129.204.120:65501/1004.m3u8
-cctv7[1920x1080],http://36.129.204.120:65501/1006.m3u8
-cctv6[1920x1080],http://36.129.204.120:65501/1005.m3u8
-cctv8[1920x1080],http://36.129.204.120:65501/1007.m3u8
-cctv2[1920x1080],http://36.129.204.120:65501/1002.m3u8
-cctv9[1920x1080],http://36.129.204.120:65501/1008.m3u8
-cctv10[1920x1080],http://36.129.204.120:65501/1009.m3u8
-cctv11[1920x1080],http://36.129.204.120:65501/1010.m3u8
-cctv12[1920x1080],http://36.129.204.120:65501/1011.m3u8
-cctv13[1920x1080],http://36.129.204.120:65501/1012.m3u8
-cctv14[1920x1080],http://36.129.204.120:65501/1013.m3u8
-cctv15[1920x1080],http://36.129.204.120:65501/1014.m3u8
-cctv16[1920x1080],http://36.129.204.120:65501/1015.m3u8
-cctv5+[1920x1080],http://36.129.204.120:65501/1017.m3u8
-cctv17[1920x1080],http://36.129.204.120:65501/1016.m3u8
-辽宁卫视[1920x1080],http://36.129.204.120:65501/1018.m3u8
-北京卫视[1920x1080],http://36.129.204.120:65501/1019.m3u8
-湖南卫视[1920x1080],http://36.129.204.120:65501/1021.m3u8
-天津卫视[1920x1080],http://36.129.204.120:65501/1020.m3u8
-浙江卫视[1920x1080],http://36.129.204.120:65501/1022.m3u8
-江苏卫视[1920x1080],http://36.129.204.120:65501/1023.m3u8
-安徽卫视[1920x1080],http://36.129.204.120:65501/1024.m3u8
-上海卫视[1920x1080],http://36.129.204.120:65501/1025.m3u8
-吉林卫视[1920x1080],http://36.129.204.120:65501/1027.m3u8
-山东卫视[1920x1080],http://36.129.204.120:65501/1028.m3u8
-山西卫视[768x576],http://36.129.204.120:65501/1029.m3u8
-黑龙江卫视[1920x1080],http://36.129.204.120:65501/1026.m3u8
-广东卫视[1920x1080],http://36.129.204.120:65501/1030.m3u8
-湖北卫视[1920x1080],http://36.129.204.120:65501/1032.m3u8
-广西卫视[1920x1080],http://36.129.204.120:65501/1031.m3u8
-江西卫视[1920x1080],http://36.129.204.120:65501/1033.m3u8
-四川卫视[1920x1080],http://36.129.204.120:65501/1035.m3u8
-河南卫视[1920x1080],http://36.129.204.120:65501/1034.m3u8
-重庆卫视[1920x1080],http://36.129.204.120:65501/1036.m3u8
-东南卫视[1920x1080],http://36.129.204.120:65501/1037.m3u8
-厦门卫视[785x576],http://36.129.204.120:65501/1038.m3u8
-云南卫视[1920x1080],http://36.129.204.120:65501/1039.m3u8
-贵州卫视[1920x1080],http://36.129.204.120:65501/1040.m3u8
-陕西卫视[768x576],http://36.129.204.120:65501/1041.m3u8
-宁夏卫视[768x576],http://36.129.204.120:65501/1042.m3u8
-青海卫视[768x576],http://36.129.204.120:65501/1043.m3u8
-甘肃卫视[768x576],http://36.129.204.120:65501/1045.m3u8
-新疆卫视[768x576],http://36.129.204.120:65501/1044.m3u8
-西藏卫视[768x576],http://36.129.204.120:65501/1046.m3u8
-海南卫视[1920x1080],http://36.129.204.120:65501/1047.m3u8
-河北卫视[1920x1080],http://36.129.204.120:65501/1048.m3u8
-内蒙古卫视[768x576],http://36.129.204.120:65501/1049.m3u8
-CGTN[1920x1080],http://36.129.204.120:65501/1050.m3u8
-辽宁都市[1920x1080],http://36.129.204.120:65501/1051.m3u8
-辽宁影视剧[1920x1080],http://36.129.204.120:65501/1052.m3u8
-辽宁体育休闲[1920x1080],http://36.129.204.120:65501/1053.m3u8
-辽宁生活[1920x1080],http://36.129.204.120:65501/1054.m3u8
-辽宁教育青少[1920x1080],http://36.129.204.120:65501/1055.m3u8
-辽宁北方[1920x1080],http://36.129.204.120:65501/1056.m3u8
-辽宁经济[1920x1080],http://36.129.204.120:65501/1057.m3u8
-辽宁公共[1920x1080],http://36.129.204.120:65501/1058.m3u8
-辽宁移动电视[1920x1080],http://36.129.204.120:65501/1059.m3u8
-兵团卫视[768x576],http://36.129.204.120:65501/1060.m3u8
-延边卫视[785x576],http://36.129.204.120:65501/1061.m3u8
-金色学堂[1920x1080],http://36.129.204.120:65501/1062.m3u8
-法制天地[1920x1080],http://36.129.204.120:65501/1063.m3u8
-都市剧场[1920x1080],http://36.129.204.120:65501/1064.m3u8
-华数电影[1920x1080],http://36.129.204.120:65501/1065.m3u8
-cctv体育[1920x1080],http://36.129.204.120:65501/1066.m3u8
-华数电视剧[1920x1080],http://36.129.204.120:65501/1068.m3u8
-晴彩竞技[1920x1080],http://36.129.204.120:65501/1070.m3u8
-晴彩青少[1920x1080],http://36.129.204.120:65501/1072.m3u8
-晴彩广场舞[1920x1080],http://36.129.204.120:65501/1073.m3u8
-CETV1[1920x1080],http://36.129.204.120:65501/1074.m3u8
-CETV4[1920x1080],http://36.129.204.120:65501/1076.m3u8
-CETV2[768x576],http://36.129.204.120:65501/1075.m3u8
-晴彩篮球[1920x1080],http://36.129.204.120:65501/1071.m3u8
-山东教育卫视[785x576],http://36.129.204.120:65501/1077.m3u8
-金鹰卡通[1920x1080],http://36.129.204.120:65501/1078.m3u8
-金鹰纪实[1920x1080],http://36.129.204.120:65501/1083.m3u8
-北京卡酷[1920x1080],http://36.129.204.120:65501/1082.m3u8
-广东嘉佳卡通[785x576],http://36.129.204.120:65501/1081.m3u8
-深圳4K卫视[3840x2160],http://36.129.204.120:65501/1086.m3u8
-新动漫[1920x1080],http://36.129.204.120:65501/1087.m3u8
-北京纪实科教[1920x1080],http://36.129.204.120:65501/1084.m3u8
-优漫卡通[785x576],http://36.129.204.120:65501/1080.m3u8
-家庭理财[1920x1080],http://36.129.204.120:65501/1088.m3u8
-环球旅游[785x576],http://36.129.204.120:65501/1089.m3u8
-四海钓鱼[1920x1440],http://36.129.204.120:65501/1090.m3u8
-生态环境[785x576],http://36.129.204.120:65501/1094.m3u8
-中华特产[785x576],http://36.129.204.120:65501/1091.m3u8
-天下收藏[785x576],http://36.129.204.120:65501/1095.m3u8
-中国天气[1920x1080],http://36.129.204.120:65501/1096.m3u8
-生活时尚[1920x1080],http://36.129.204.120:65501/1098.m3u8
-乐游[1920x1080],http://36.129.204.120:65501/1099.m3u8
-优优宝贝[785x576],http://36.129.204.120:65501/1092.m3u8
-游戏风云[1920x1080],http://36.129.204.120:65501/1100.m3u8
-财富天下[785x576],http://36.129.204.120:65501/1097.m3u8
-动漫秀场[1920x1080],http://36.129.204.120:65501/1101.m3u8
 上海移动（路由器需要开启ipv6）,#genre#
 至臻世界4K,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225687/1.m3u8
 咪咕视频4K,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226080/1.m3u8
@@ -493,60 +396,60 @@ CGTN,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226016/1.m3u8
 咪咕体育40,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225697/index.m3u8
 咪咕体育41,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/index.m3u8
 JULI港台,#genre#
-翡翠台,https://php.946985.xyz/iptv/jacktv.php?id=2akuz1
-翡翠台(广电),https://php.946985.xyz/iptv/jacktv.php?id=pu6fqz
-翡翠台4K,https://php.946985.xyz/iptv/jacktv.php?id=4zs2v5
-无线新闻台,https://php.946985.xyz/iptv/jacktv.php?id=4bsc7p
-明珠台,https://php.946985.xyz/iptv/jacktv.php?id=oxtpp5
-TVB PLUS,https://php.946985.xyz/iptv/jacktv.php?id=kl5uai
-HOY TV,https://php.946985.xyz/iptv/jacktv.php?id=aobtfw
-ViuTV,https://php.946985.xyz/iptv/jacktv.php?id=o315sn
-ViuTVSix,https://php.946985.xyz/iptv/jacktv.php?id=n231ep
-NOW新闻台,https://php.946985.xyz/iptv/jacktv.php?id=xvmv3a
-RTHK31,https://php.946985.xyz/iptv/jacktv.php?id=y2kr7z
-RTHK32,https://php.946985.xyz/iptv/jacktv.php?id=e9mbhh
-澳视澳门,https://php.946985.xyz/iptv/jacktv.php?id=n77fhq
-澳视卫星,https://php.946985.xyz/iptv/jacktv.php?id=u6m5t4
-凤凰中文,https://php.946985.xyz/iptv/jacktv.php?id=r1523e
-凤凰资讯,https://php.946985.xyz/iptv/jacktv.php?id=otn550
-凤凰香港,https://php.946985.xyz/iptv/jacktv.php?id=5mkkp5
-CCTV1,https://php.946985.xyz/iptv/jacktv.php?id=7f9p2u
-CCTV13,https://php.946985.xyz/iptv/jacktv.php?id=46dtqu
-广东珠江,https://php.946985.xyz/iptv/jacktv.php?id=zaxwvl
-广东体育,https://php.946985.xyz/iptv/jacktv.php?id=y7cm1l
-五星体育,https://php.946985.xyz/iptv/jacktv.php?id=2x31bt
-深圳卫视4K,https://php.946985.xyz/iptv/jacktv.php?id=tz8gib
-深圳财经生活,https://php.946985.xyz/iptv/jacktv.php?id=40eeq1
-第一财经,https://php.946985.xyz/iptv/jacktv.php?id=wva7qw
-重温经典,https://php.946985.xyz/iptv/jacktv.php?id=75515u
-龙华电影,https://php.946985.xyz/iptv/jacktv.php?id=b3jxz1
-龙华经典,https://php.946985.xyz/iptv/jacktv.php?id=yrmiox
-龙华卡通,https://php.946985.xyz/iptv/jacktv.php?id=0wo31d
-龙华偶像,https://php.946985.xyz/iptv/jacktv.php?id=6hbiya
-龙华日韩,https://php.946985.xyz/iptv/jacktv.php?id=ismkrj
-龙华戏剧,https://php.946985.xyz/iptv/jacktv.php?id=yeq853
-龙华洋片,https://php.946985.xyz/iptv/jacktv.php?id=043rww
-TVB1,https://php.946985.xyz/iptv/jacktv.php?id=qfem9f
-TVBJ1,https://php.946985.xyz/iptv/jacktv.php?id=amvv4c
-TVB亚洲武侠,https://php.946985.xyz/iptv/jacktv.php?id=ui52ds
-TVB娱乐新闻台,https://php.946985.xyz/iptv/jacktv.php?id=1qhsxd
-TVB华丽翡翠台,https://php.946985.xyz/iptv/jacktv.php?id=ack9d0
-TVB星河,https://php.946985.xyz/iptv/jacktv.php?id=r3r2ax
-TVB星河,https://php.946985.xyz/iptv/jacktv.php?id=902h30
-翡翠剧集台,https://php.946985.xyz/iptv/jacktv.php?id=z6wcpk
-千禧经典台,https://php.946985.xyz/iptv/jacktv.php?id=wd5j3f
-美亚电影台,https://php.946985.xyz/iptv/jacktv.php?id=giopyf
-天映频道,https://php.946985.xyz/iptv/jacktv.php?id=zj9t42
-天映经典,https://php.946985.xyz/iptv/jacktv.php?id=zj9t422
-爱奇艺,https://php.946985.xyz/iptv/jacktv.php?id=22srd7
-八度空间,https://php.946985.xyz/iptv/jacktv.php?id=5ptyer
-CH5,https://php.946985.xyz/iptv/jacktv.php?id=vuwu5t
-CH8,https://php.946985.xyz/iptv/jacktv.php?id=nflkrp
-CHU,https://php.946985.xyz/iptv/jacktv.php?id=38qg8r
-Astro AOD,https://php.946985.xyz/iptv/jacktv.php?id=dj67mt
-Astro AEC,https://php.946985.xyz/iptv/jacktv.php?id=4pq294
-Astro QJ,https://php.946985.xyz/iptv/jacktv.php?id=1i2ari
-Astro欢喜台,https://php.946985.xyz/iptv/jacktv.php?id=nuievp
+翡翠台,https://php.946985.xyz/iptv/jacktv.php?id=rj1736
+翡翠台(广电),https://php.946985.xyz/iptv/jacktv.php?id=zr2o0v
+翡翠台4K,https://php.946985.xyz/iptv/jacktv.php?id=78yyej
+无线新闻台,https://php.946985.xyz/iptv/jacktv.php?id=7mwac4
+明珠台,https://php.946985.xyz/iptv/jacktv.php?id=huuy6c
+TVB PLUS,https://php.946985.xyz/iptv/jacktv.php?id=9ezlom
+HOY TV,https://php.946985.xyz/iptv/jacktv.php?id=mtpw3a
+ViuTV,https://php.946985.xyz/iptv/jacktv.php?id=w5pw7w
+ViuTVSix,https://php.946985.xyz/iptv/jacktv.php?id=1g7bqo
+NOW新闻台,https://php.946985.xyz/iptv/jacktv.php?id=370s61
+RTHK31,https://php.946985.xyz/iptv/jacktv.php?id=yq84dc
+RTHK32,https://php.946985.xyz/iptv/jacktv.php?id=mo5cnf
+澳视澳门,https://php.946985.xyz/iptv/jacktv.php?id=fk4ua3
+澳视卫星,https://php.946985.xyz/iptv/jacktv.php?id=qu2eej
+凤凰中文,https://php.946985.xyz/iptv/jacktv.php?id=acxcwr
+凤凰资讯,https://php.946985.xyz/iptv/jacktv.php?id=lh3ban
+凤凰香港,https://php.946985.xyz/iptv/jacktv.php?id=eqoahu
+CCTV1,https://php.946985.xyz/iptv/jacktv.php?id=3tlp16
+CCTV13,https://php.946985.xyz/iptv/jacktv.php?id=868ic4
+广东珠江,https://php.946985.xyz/iptv/jacktv.php?id=nnsf4y
+广东体育,https://php.946985.xyz/iptv/jacktv.php?id=ztfttj
+五星体育,https://php.946985.xyz/iptv/jacktv.php?id=hu5h6c
+深圳卫视4K,https://php.946985.xyz/iptv/jacktv.php?id=s1m3wh
+深圳财经生活,https://php.946985.xyz/iptv/jacktv.php?id=p7q0xu
+第一财经,https://php.946985.xyz/iptv/jacktv.php?id=66s3l5
+重温经典,https://php.946985.xyz/iptv/jacktv.php?id=zm1sj1
+龙华电影,https://php.946985.xyz/iptv/jacktv.php?id=m0no7w
+龙华经典,https://php.946985.xyz/iptv/jacktv.php?id=9kh3yi
+龙华卡通,https://php.946985.xyz/iptv/jacktv.php?id=v2mfci
+龙华偶像,https://php.946985.xyz/iptv/jacktv.php?id=j6gs1s
+龙华日韩,https://php.946985.xyz/iptv/jacktv.php?id=0u5lpw
+龙华戏剧,https://php.946985.xyz/iptv/jacktv.php?id=p00tqc
+龙华洋片,https://php.946985.xyz/iptv/jacktv.php?id=lx57ho
+TVB1,https://php.946985.xyz/iptv/jacktv.php?id=4c5u9c
+TVBJ1,https://php.946985.xyz/iptv/jacktv.php?id=nr6h28
+TVB亚洲武侠,https://php.946985.xyz/iptv/jacktv.php?id=1tm7fg
+TVB娱乐新闻台,https://php.946985.xyz/iptv/jacktv.php?id=491pau
+TVB华丽翡翠台,https://php.946985.xyz/iptv/jacktv.php?id=6ky8uy
+TVB星河,https://php.946985.xyz/iptv/jacktv.php?id=jt1jad
+TVB星河,https://php.946985.xyz/iptv/jacktv.php?id=roi4o6
+翡翠剧集台,https://php.946985.xyz/iptv/jacktv.php?id=tlh0qc
+千禧经典台,https://php.946985.xyz/iptv/jacktv.php?id=3l0hpa
+美亚电影台,https://php.946985.xyz/iptv/jacktv.php?id=xz8agw
+天映频道,https://php.946985.xyz/iptv/jacktv.php?id=neeix1
+天映经典,https://php.946985.xyz/iptv/jacktv.php?id=neeix12
+爱奇艺,https://php.946985.xyz/iptv/jacktv.php?id=sk2xtt
+八度空间,https://php.946985.xyz/iptv/jacktv.php?id=0b3blk
+CH5,https://php.946985.xyz/iptv/jacktv.php?id=2ux4u4
+CH8,https://php.946985.xyz/iptv/jacktv.php?id=16e8kq
+CHU,https://php.946985.xyz/iptv/jacktv.php?id=lbmn6r
+Astro AOD,https://php.946985.xyz/iptv/jacktv.php?id=xkur6i
+Astro AEC,https://php.946985.xyz/iptv/jacktv.php?id=1k8ms4
+Astro QJ,https://php.946985.xyz/iptv/jacktv.php?id=iuhkxz
+Astro欢喜台,https://php.946985.xyz/iptv/jacktv.php?id=n6sh9n
 BXTV港台,#genre#
 翡翠台,http://bxtv.3a.ink/api.php?id=fct
 無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
@@ -710,7 +613,7 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 醉拳,https://txmov2.a.kwimgs.com/upic/2021/09/30/18/BMjAyMTA5MzAxODM1NTFfMTI0MzE0NjMyOF81ODEwNDc3MzAzOF8yXzM=_b_B1b01bbe5b567f842b3de0b78109d1907.mp4
 
 
-🇹🇼✨伦理电影,#genre#
+🇹🇼✨伦理电影_19780321,#genre#
 金瓶艳史,https://v.ykv2.com/20230413/kiiB0zNb/index.m3u8
 金瓶艳史,https://v.ykv2.com/20230413/kiiB0zNb/index.m3u8
 上海异人娼馆,https://vv.jisuzyv.com/play/neg8Z1Da/index.m3u8
@@ -1137,7 +1040,7 @@ fashionTV,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/226/st
 邪斗邪,https://v5.jindangao.com/oo/o8/46/hls/index.m3u8
 催花神龙教,https://v5.jindangao.com/ll/l1/38/hls/index.m3u8
 
-🇹🇼✨大陆频道,#genre#
+🇹🇼✨大陆频道_19780321,#genre#
 大陆1,https://vip4.ddyunbo.com/20210221/gS5t2jEz/index.m3u8?skipl=1
 大陆2,https://vip4.ddyunbo.com/20210220/9CcKySuz/index.m3u8?skipl=1
 大陆3,https://vip4.ddyunbo.com/20210220/U7alv33Q/index.m3u8?skipl=1
@@ -1161,7 +1064,7 @@ fashionTV,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/226/st
 大陆32,https://dadi-bo.com/20181214/y84gsMnK/index.m3u8?skipl=1
 
 
-🇹🇼✨.日本无码,#genre#
+🇹🇼✨.日本无码_19780321,#genre#
 身体之爱,https://askzycdn.com/20221231/LecQxSOq/index.m3u8
 无码1,https://askzycdn.com/20240507/cwVnzlXp/index.m3u8
 无码2,https://askzycdn.com/20240507/WkdsFPPT/index.m3u8
@@ -1221,7 +1124,7 @@ fashionTV,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/226/st
 无码58,https://askzycdn.com/20240412/EH62jOFd/index.m3u8
 无码59,https://askzycdn.com/20240412/IWquHK3l/index.m3u8
 
-🇹🇼✨.日韩,#genre#
+🇹🇼✨.日韩_19780321,#genre#
 日韩1,https://vip4.ddyunbo.com/20210223/lFsvEfoW/index.m3u8?skipl=1
 日韩2,https://vip4.ddyunbo.com/20210223/irFKB3O3/index.m3u8?skipl=1
 日韩3,https://vip4.ddyunbo.com/20210223/dRyGiQT6/index.m3u8?skipl=1
@@ -1534,7 +1437,7 @@ AV
 大陆33,https://2.ddyunbo.com/20190711/GAE74BwK/index.m3u8?skipl=1
 大陆34,https://3.ddyunbo.com/20200926/qg9XuScG/index.m3u8?skipl=1
 
-🇹🇼✨另一类,#genre#
+🇹🇼✨另一类_19780321,#genre#
 1,https://siwazywcdn2.com:5278/zhongkouwei/lRYqg8kp/index.m3u8
 2,https://siwazywcdn2.com:5278/zhongkouwei/unvEe1wP/index.m3u8
 3,https://siwazywcdn2.com:5278/zhongkouwei/t8Z7Lhs4/index.m3u8
