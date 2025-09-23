@@ -486,78 +486,43 @@ Astro QJ,https://migu.188766.xyz/?migutoken=de5b08db3e25ce496b8108f146d559d3&id=
 Astro 欢喜,https://migu.188766.xyz/?migutoken=d4c4968fca1d0554099379fd9eb7a953&id=Huahee&type=dy
 🇨🇳杰克.港台👉,#genre#
 凤凰中文,http://stream-ali1.csslcloud.net/live/gwS5kbEwNmWObygXxkddGlm43Yr0rZAqkFgLZRwPewJMVnfHy8.flv 
-
 凤凰资讯,http://stream-ali1.csslcloud.net/live/7KUcGQoK7Glm43K0vAuRVWGZSscrMD5x2eSGbg4y8YFVh6dd2S.flv
-
 凤凰香港,http://stream-ali1.csslcloud.net/live/uEACKo2YT4ZTiHBMNM2g49d00j924NASwca4Glm436hsAvKE1L.flv
-
 凤凰资讯,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$
 中天新闻,http://stream-ali1.csslcloud.net/live/ogVoQHdbfd2ydsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
 中天CTI+,http://stream-ali1.csslcloud.net/live/bfd2yczrTFqK7nEAJybacKGcrnLdslNp5YcphockmQnscq2S1p.flv
-
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
-
 TVBS HD,http://stream-ali1.csslcloud.net/live/XhyG6NWlXFUuLxA75JShFUJC6ZK7Wl7b9ohSUJ8ZFuo4srbiMv.flv 
-
 三立iNEWS,http://stream-ali1.csslcloud.net/live/s1MnZyvakgihRsIVdMDeWvkbf3Da2Krbfd2yT1fV3lo74wZSW0.flv
-
 中视新闻,http://stream-ali1.csslcloud.net/live/hNsy4N2Ykbfd2ywCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
-
 台视新闻,http://stream-ali1.csslcloud.net/live/ofFqVir8hEYxZDb6y677FJxn0xrbfd2yPfOT6XuHngNXajvBUY.flv
 东森新闻,http://stream-ali1.csslcloud.net/live/IfhEdN30gjBbSbfd2ySSKGFHHl6JFBwhgtYpQxoGIKytCfl1hl.flv
-
 东森新闻(美),http://stream-ali1.csslcloud.net/live/Q6dIFsHxR2r9pqtq3qj8UT4oiUNO4ShbiuR7tArX4srbittNex.flv
-
 寰宇新闻,http://stream-ali1.csslcloud.net/live/3cDvCNnbfd2yBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
-
 寰宇新闻台湾,http://stream-ali1.csslcloud.net/live/kPx2bfd2y6L0ZwU3ASjlguHsNdwwRnvIENF5nNnrXPp4hNwoIi.flv
-
 民视新闻,http://stream-ali1.csslcloud.net/live/5CkUiYhpTaUWibfd2yVPulg2rBioJ6XgbbmxF2hWNQyygV2U12.flv
-
 公视新闻,http://stream-ali1.csslcloud.net/live/Ubmbfd2yeiurTa7IAZwc9yg3WHBILRp5ueNjYcnKl8MRCOrVoC.flv
-
 华视新闻,http://stream-ali1.csslcloud.net/live/AzACuucKCaz8bfd2yxWeXFD8Mjjpf4AcLtEPKWdD9rvwlDDE5s.flv
-
 年代新闻,http://stream-ali1.csslcloud.net/live/ruqTd9DCQm8ZG3MvLBN6uqJ6DB6owtf4srbivitv9fNrV82Z1V.flv
-
 非凡新闻,http://stream-ali1.csslcloud.net/live/7J22AJV6h8f24jkmoa5ahSzuCYjE5fVpCYYMEt9bfd2yHn4XG7.flv
-
 镜新闻,http://stream-ali1.csslcloud.net/live/4ef3bV1oG7KBJy3bfd2ybfSDto8eDzUvR0mWv5oKB6nemLkT4c.flv
-
 民视,http://stream-ali1.csslcloud.net/live/ERadomiHh4srbiVLuQH0M1KoLqTYrGUZBRAAxPowEwb8JN2Yf0.flv
-
 中视,http://stream-ali1.csslcloud.net/live/ShLJKgSj71R4wf0v8TfYoSUE68hUT0uREP4srbiGe0pgDFxpIw.flv
-
 华视,http://stream-ali1.csslcloud.net/live/pI4srbi6geqWLAzPjvY5TD8d8eGRkdFBAZn8IfdKPAA57savCh.flv
-
 公视,http://stream-ali1.csslcloud.net/live/laQyY4srbiNEOiwM1uacLEYJs0zLZR34rbw69ivdrfQqrDqndY.flv
-
 台视,http://stream-ali1.csslcloud.net/live/pUYRwiaacRh4uyd74srbiOPIPg4zbh5a9Pf7IFqlGzjcIPsKG9.flv
-
-
 唐人卫视频道,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
-
 私人影院频道,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
-
 🇨🇳杰克.影视👉,#genre#
 CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
-
 1905电影,http://150.138.77.132:10037/1905电影网.php?id=1905
-
 1905电影,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
-
 重温经典,https://cdn3.163189.xyz/live/cwjd/stream.m3u8
-
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-
-
 唐人卫视频道,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
-
 私人影院频道,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
-
 新加坡中文,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡中文,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-
 🇨🇳杰克.电影👉,#genre#
 A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 澳门风云2,https://vip.lz-cdn8.com/20220903/25590_a12ec6f7/index.m3u8
@@ -570,16 +535,10 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 给爸爸的信,https://cdn2.yzzy-tv-cdn.com/20220414/13070_86734093/index.m3u8
 寒战2,https://vip.lz-cdn3.com/20220907/12892_5eb849b0/index.m3u8
 花木兰,https://cdn2.yzzy-tv-cdn.com/20220405/7667_13f7046c/index.m3u8
-
 黄飞鸿之狮王争霸,https://alimov2.a.kwimgs.com/upic/2020/05/15/08/BMjAyMDA1MTUwODQ5NTdfMjEyNDgzMjg2XzI4NTc1ODg4MzEyXzJfMw==_b_Bd4d927d62d45dd2f3e065114d9aebb25.mp4 
-
 黄飞鸿之铁鸡斗蜈蚣,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634242822045870_hlsb.m3u8 
-
 黄飞鸿之男儿当自强,https://txmov2.a.kwimgs.com/upic/2020/05/16/01/BMjAyMDA1MTYwMTAyMjFfMjEyNDgzMjg2XzI4NjI3OTAwNTc5XzJfMw==_b_Bc1101c249e7355d840c4495b7bfd84a4.mp4 
-
 黄飞鸿之壮志凌云,http://jsmov2.a.yximgs.com/bs3/video-hls/5189554175568165120_hlsb.m3u8
-
-
 黄飞鸿之二:男儿当自强,https://cdn4.yzzy-tv-cdn.com/20220606/17341_21dfaf46/index.m3u8
 黄飞鸿之男儿当自强,https://txmov2.a.kwimgs.com/upic/2020/05/16/01/BMjAyMDA1MTYwMTAyMjFfMjEyNDgzMjg2XzI4NjI3OTAwNTc5XzJfMw==_b_Bc1101c249e7355d840c4495b7bfd84a4.mp4
 黄飞鸿之狮王争霸,https://alimov2.a.kwimgs.com/upic/2020/05/15/08/BMjAyMDA1MTUwODQ5NTdfMjEyNDgzMjg2XzI4NTc1ODg4MzEyXzJfMw==_b_Bd4d927d62d45dd2f3e065114d9aebb25.mp4
@@ -611,9 +570,7 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 义胆雄心,http://jsmov2.a.yximgs.com/bs3/video-hls/5237686462055775486_hlsb.m3u8
 中南海保镖,https://cdn12.yzzy-tv-cdn.com/20221209/8943_e3bd0850/index.m3u8
 醉拳,https://txmov2.a.kwimgs.com/upic/2021/09/30/18/BMjAyMTA5MzAxODM1NTFfMTI0MzE0NjMyOF81ODEwNDc3MzAzOF8yXzM=_b_B1b01bbe5b567f842b3de0b78109d1907.mp4
-
-
-🇹🇼✨伦理电影,#genre#
+🇹🇼✨伦理电影_19780321,#genre#
 金瓶艳史,https://v.ykv2.com/20230413/kiiB0zNb/index.m3u8
 金瓶艳史,https://v.ykv2.com/20230413/kiiB0zNb/index.m3u8
 上海异人娼馆,https://vv.jisuzyv.com/play/neg8Z1Da/index.m3u8
@@ -648,7 +605,6 @@ A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
 情人别为我哭泣,https://lsbbf1.com/20230919/DacOtLAk/index.m3u8
 红辣椒,https://lsbbf1.com/20230920/EgiMd4JC/index.m3u8
 美丽小蜜桃🍑3,https://v6.tlkqc.com/wjv6/202310/11/ew3dyP2KCK1/video/index.m3u8
-
 金瓶艳史,https://v.ykv1.com/20230413/kiiB0zNb/index.m3u8
 独闯无底洞,https://vod2.ttbfp4.com/20230102/rdnzk6CM/index.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
@@ -1039,8 +995,7 @@ fashionTV,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/226/st
 武松1982,https://v5.jindangao.com/ee/e1/12/hls/index.m3u8
 邪斗邪,https://v5.jindangao.com/oo/o8/46/hls/index.m3u8
 催花神龙教,https://v5.jindangao.com/ll/l1/38/hls/index.m3u8
-
-🇹🇼✨大陆频道,#genre#
+🇹🇼✨大陆频道_19780321,#genre#
 大陆1,https://vip4.ddyunbo.com/20210221/gS5t2jEz/index.m3u8?skipl=1
 大陆2,https://vip4.ddyunbo.com/20210220/9CcKySuz/index.m3u8?skipl=1
 大陆3,https://vip4.ddyunbo.com/20210220/U7alv33Q/index.m3u8?skipl=1
@@ -1062,9 +1017,7 @@ fashionTV,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/226/st
 大陆30,https://vip4.ddyunbo.com/20210224/N83y9zeO/index.m3u8?skipl=1
 大陆31,https://dadi-bo.com/20181214/AiWZdPFj/index.m3u8?skipl=1
 大陆32,https://dadi-bo.com/20181214/y84gsMnK/index.m3u8?skipl=1
-
-
-🇹🇼✨.日本无码,#genre#
+🇹🇼✨.日本无码_19780321,#genre#
 身体之爱,https://askzycdn.com/20221231/LecQxSOq/index.m3u8
 无码1,https://askzycdn.com/20240507/cwVnzlXp/index.m3u8
 无码2,https://askzycdn.com/20240507/WkdsFPPT/index.m3u8
@@ -1123,8 +1076,7 @@ fashionTV,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/226/st
 无码57,https://askzycdn.com/20240412/igA95LQ1/index.m3u8
 无码58,https://askzycdn.com/20240412/EH62jOFd/index.m3u8
 无码59,https://askzycdn.com/20240412/IWquHK3l/index.m3u8
-
-🇹🇼✨.日韩,#genre#
+🇹🇼✨.日韩_19780321,#genre#
 日韩1,https://vip4.ddyunbo.com/20210223/lFsvEfoW/index.m3u8?skipl=1
 日韩2,https://vip4.ddyunbo.com/20210223/irFKB3O3/index.m3u8?skipl=1
 日韩3,https://vip4.ddyunbo.com/20210223/dRyGiQT6/index.m3u8?skipl=1
@@ -1272,10 +1224,8 @@ fashionTV,https://cdnua03.hls.tv/677/hls/2f150728f5400a70b2c3bf51765365cc/226/st
 日韩145,https://dadi-bo.com/20181210/8NGXyFSk/index.m3u8?skipl=1
 日韩146,https://dadi-bo.com/20181211/z0rRj590/index.m3u8?skipl=1
 日韩147,https://vip4.ddyunbo.com/20210224/P8jZnkQV/index.m3u8?skipl=1
-HBM
 高清1,https://vip4.ddyunbo.com/20210208/Hroo5vY9/index.m3u8?skipl=1
 高清2,https://vip4.ddyunbo.com/20210208/y1rcwQRD/index.m3u8?skipl=1
-ZHEYD
 高清1,https://vip4.ddyunbo.com/20210210/1NeUm8qM/index.m3u8?skipl=1
 高清2,https://vip4.ddyunbo.com/20210208/9KsD0Ud4/index.m3u8?skipl=1
 高清3,https://vip4.ddyunbo.com/20210208/7lfbSciu/index.m3u8?skipl=1
@@ -1285,7 +1235,6 @@ ZHEYD
 高清7,https://vip4.ddyunbo.com/20210202/WmFU5yiE/index.m3u8?skipl=1
 高清8,https://vip4.ddyunbo.com/20210225/fWFPZS4Y/index.m3u8?skipl=1
 高清9,https://vip4.ddyunbo.com/20210302/Z1uQ7KJ9/index.m3u8?skipl=1
-一本道
 一本道1,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道2,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8?skipl=1
 一本道3,https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8?skipl=1
@@ -1313,7 +1262,6 @@ ZHEYD
 一本道25,http://videony.rhsj520.com:8091/SR0802/010119-002/1500kb/hls/index.m3u8
 一本道26,http://videony.rhsj520.com:8091/SR0802/020118-216/1500kb/hls/index.m3u8
 一本道27,http://videony.rhsj520.com:8091/SR0802/021218-221/1500kb/hls/index.m3u8
-加勒比
 加勒比1,http://videony.rhsj520.com:8091/jlb0707/052209-069/1500kb/hls/index.m3u8
 加勒比2,http://videony.rhsj520.com:8091/jlb0707/050309-052/1500kb/hls/index.m3u8
 加勒比3,http://videony.rhsj520.com:8091/jlb0707/050209-051/1500kb/hls/index.m3u8
@@ -1326,16 +1274,10 @@ ZHEYD
 加勒比10,http://videony.rhsj520.com:8091/jlb0707/051509-064/1500kb/hls/index.m3u8
 加勒比11,http://videony.rhsj520.com:8091/jlb0707/050809-057/1500kb/hls/index.m3u8
 加勒比12,http://videony.rhsj520.com:8091/jlb0707/052009-067/1500kb/hls/index.m3u8
-
 加勒比13,http://videony.rhsj520.com:8091/jlb0707/043009-048/1500kb/hls/index.m3u8
-
 加勒比14,http://videony.rhsj520.com:8091/jlb0707/060509-080A/1500kb/hls/index.m3u8
-
 加勒比15,http://videony.rhsj520.com:8091/jlb0707/060509-080B/1500kb/hls/index.m3u8
-
 加勒比16,http://videony.rhsj520.com:8091/jlb0707/062209-095/1500kb/hls/index.m3u8
-
-东京热
 高清1,https://vip4.ddyunbo.com/20210210/1DpRxi0t/index.m3u8?skipl=1
 高清2,https://vip4.ddyunbo.com/20210210/xpOB2RHe/index.m3u8?skipl=1
 高清3,https://vip4.ddyunbo.com/20210210/ouclLEaa/index.m3u8?skipl=1
@@ -1376,11 +1318,9 @@ ZHEYD
 高清38,https://vip4.ddyunbo.com/20210224/Oy1wdaqs/index.m3u8?skipl=1
 高清39,https://vip4.ddyunbo.com/20210302/9edFPLwK/index.m3u8?skipl=1
 高清40,https://vip4.ddyunbo.com/20210302/z90P2O1O/index.m3u8?skipl=1
-高清无码
 高清1,https://shayubf.com/20200215/MjF6hUEB/index.m3u8
 高清2,https://shayubf.com/20200214/uC3WIzjL/index.m3u8
 高清3,https://vip4.ddyunbo.com/20210225/NqSIKwsH/index.m3u8?skipl=1
-AV
 高清1,https://vip4.ddyunbo.com/20210211/ijEMP2g6/index.m3u8?skipl=1
 高清2,https://vip4.ddyunbo.com/20210211/LAqml6sM/index.m3u8?skipl=1
 高清3,https://vip4.ddyunbo.com/20210211/4ptEVK6m/index.m3u8?skipl=1
@@ -1397,11 +1337,8 @@ AV
 高清14,https://vip4.ddyunbo.com/20210225/jnHTMYOD/index.m3u8?skipl=1
 高清15,https://vip4.ddyunbo.com/20210225/YjUecIzO/index.m3u8?skipl=1
 高清16,https://vip4.ddyunbo.com/20210301/mquCR1yb/index.m3u8?skipl=1
-韩国
 韩国1,https://vip4.ddyunbo.com/20210212/mdxgU6Ud/index.m3u8?skipl=1
 韩国2,https://vip4.ddyunbo.com/20210211/S9h1NoiL/index.m3u8?skipl=1
-
-大陆
 大陆1,https://vip4.ddyunbo.com/20210221/gS5t2jEz/index.m3u8?skipl=1
 大陆2,https://vip4.ddyunbo.com/20210220/9CcKySuz/index.m3u8?skipl=1
 大陆3,https://vip4.ddyunbo.com/20210220/U7alv33Q/index.m3u8?skipl=1
@@ -1436,8 +1373,7 @@ AV
 大陆32,https://dadi-bo.com/20181214/y84gsMnK/index.m3u8?skipl=1
 大陆33,https://2.ddyunbo.com/20190711/GAE74BwK/index.m3u8?skipl=1
 大陆34,https://3.ddyunbo.com/20200926/qg9XuScG/index.m3u8?skipl=1
-
-🇹🇼✨另一类,#genre#
+🇹🇼✨另一类_19780321,#genre#
 1,https://siwazywcdn2.com:5278/zhongkouwei/lRYqg8kp/index.m3u8
 2,https://siwazywcdn2.com:5278/zhongkouwei/unvEe1wP/index.m3u8
 3,https://siwazywcdn2.com:5278/zhongkouwei/t8Z7Lhs4/index.m3u8
