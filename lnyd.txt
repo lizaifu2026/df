@@ -445,7 +445,7 @@ CCTV4K超高清,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227516/index.
 至臻视界-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227393/index.m3u8
 咪咕视频-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227311/index.m3u8
 辽宁移动备用,#genre#
-CCTV16-4K,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227416/index.m3u8
+CCTV16-4K,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227416/index.m3u8?servicetype=1
 CCTV4K超高清,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227516/index.m3u8
 北京卫视-4K,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227532/index.m3u8
 北京卫视-4K,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227001/index.m3u8
