@@ -395,23 +395,6 @@ CGTN,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226016/1.m3u8
 咪咕体育39,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225696/index.m3u8
 咪咕体育40,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225697/index.m3u8
 咪咕体育41,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225699/index.m3u8
-🇨🇳娱乐影视.港台测试👉,#genre#
-凤凰中文,https://migu.188766.xyz/?migutoken=59179b50cf4c674529d2e911c8fa1dab&id=fhzw&pp=1
-凤凰资讯,https://migu.188766.xyz/?migutoken=61c607df081a02ac2a2599516bbd6073&id=fhzx&pp=1
-凤凰香港,https://migu.188766.xyz/?migutoken=559b076171cce5c937cbade07bdd0c8f&id=fhhk&pp=1
-翡翠台,https://migu.188766.xyz/?migutoken=ed268581ea4ee2361f2b4ff5610aeca7&id=jade_twn&type=dy
-翡翠台,https://migu.188766.xyz/?migutoken=3fcf52ba5339310bf0d62299c67014b0&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
-无线新闻,https://migu.188766.xyz/?migutoken=d579c0d4c75d81083fb05383682db4aa&id=inews_twn&type=dy
-TVB星河,https://migu.188766.xyz/?migutoken=9cb73cea9905ed67d0b78964e2d1d3ce&id=Xinhe&type=dy
-明珠台,https://migu.188766.xyz/?migutoken=6849247b5680498da74be38fbff6dfd1&id=pearl_twn&type=dy
-华丽翡翠台,https://migu.188766.xyz/?migutoken=8d098ea2af52b2c9b33799bbb5da5950&id=Tvbjade&type=dy
-千禧经典,https://migu.188766.xyz/?migutoken=626353eb40726c79c2adcfed9ecf69b3&id=Tvbclassic&type=dy
-天映经典,https://migu.188766.xyz/?migutoken=4928e7aff31d19667f243dd9303a1e1d&id=Celestial2&type=dy
-天映电影,https://migu.188766.xyz/?migutoken=e2549b68ee6e18d6bfbb1df2c78edede&id=Celestial&type=dy
-Astro AOD,https://migu.188766.xyz/?migutoken=f93df758fdc057b86f43c73f1ac0bf89&id=Aodhd&type=dy
-Astro AEC,https://migu.188766.xyz/?migutoken=737e1aab3bf2723222b17da03456d914&id=AEC&type=dy
-Astro QJ,https://migu.188766.xyz/?migutoken=de5b08db3e25ce496b8108f146d559d3&id=Quanjia&type=dy
-Astro 欢喜,https://migu.188766.xyz/?migutoken=d4c4968fca1d0554099379fd9eb7a953&id=Huahee&type=dy
 🇨🇳娱乐影视.港台👉,#genre#
 凤凰中文,http://stream-ali1.csslcloud.net/live/gwS5kbEwNmWObygXxkddGlm43Yr0rZAqkFgLZRwPewJMVnfHy8.flv 
 凤凰资讯,http://stream-ali1.csslcloud.net/live/7KUcGQoK7Glm43K0vAuRVWGZSscrMD5x2eSGbg4y8YFVh6dd2S.flv
