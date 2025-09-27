@@ -1083,10 +1083,10 @@
            "ext": {
                "请求头": "User-Agent$MOBILE_UA",
                "编码": "UTF-8",
-               "主页url": "https://www.dzwhs.com/zwhstp/5.html";,
+               "主页url": "https://www.dzwhs.com/zwhstp/5.html",
                "首页": "120",
                "起始页": "1",
-               "分类url": "/zwhssw/5--{by}-{cateId}-{lang}-{letter}---{catePg}---{year}.html;",
+               "分类url": "/zwhssw/5--{by}-{cateId}-{lang}-{letter}---{catePg}---{year}.html",
                "分类": "古装&反转&穿越&总裁&言情&爽文&女恋&都市",
                "分类值": "*",
                "数组": "默认--lazyload\"&&</a||搜索--lazyload\"&&</a",
