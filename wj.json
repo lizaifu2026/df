@@ -1415,14 +1415,7 @@
         ]
       }
     },      
-    {
-      "key": "luoxue",
-      "name": "洛雪音乐",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./lib/洛雪音乐源.js"
-    },
-	  {
+      {
             "key": "1905",
             "name": "1905影视",
             "type": 3,
