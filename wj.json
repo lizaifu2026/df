@@ -263,6 +263,7 @@
       "ext": "https://www.wwgz.cn"
     },       
 {"key":"柠檬","name":"柠檬影视","type":3,"api":"csp_Nmvod","playerType":2,"jar":"https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},	  
+{"key":"小鸭","name":"小鸭影视","type":3,"api":"csp_XBPQ","jar":"https://alicliimg.clewm.net/342/790/68790342/175492501342882a47a74800c50acc8fee173f0038fe31754925012.jpg;md5;4d860d06ec233dbcb891b76055f099d5","ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e","请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://777tv.ai/;;!H"}},	  
 	  {
             "key": "豆丁",
             "name": "豆丁APP",
