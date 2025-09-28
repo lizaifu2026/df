@@ -1040,6 +1040,17 @@
             "playerType": 2
         },       
       {
+            "key": "xiaoya",
+            "name": "小鸭影视",
+            "type": 3,
+            "api": "./py/小鸭看看.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },      
+	  {
             "key": "天空影视",
             "name": "天空影视",
             "type": 3,
