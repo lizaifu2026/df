@@ -1441,17 +1441,7 @@
             "quickSearch": 0,
             "filterable": 0
         },  
- {
-            "key": "修罗影视",
-            "name": "修罗磁力",
-            "type": 3,
-            "api": "csp_HBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/修罗影视.json"
-        },
- {
+        {
             "key": "80S",
             "name": "80S磁力",
             "type": 3,
