@@ -116,6 +116,22 @@
       }
     },
         {
+            "key": "小猪",
+            "name": "小猪APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+            "ext": {
+                "url": "",
+                "site": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt",
+                "dataKey": "seb5tq9mykp2w9ry",
+                "dataIv": "seb5tq9mykp2w9ry",
+                "deviceId": "",
+                "version": "",
+                "ua": "okhttp/3.10.0"
+            }
+        },        
+	  {
             "key": "仓鼠",
             "name": "仓鼠APP",
             "type": 3,
