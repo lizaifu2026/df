@@ -1461,18 +1461,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-  {
-            "key": "hmys",
-            "name": "海马影视",
-            "type": 3,
-            "api": "./py/海马影视APP.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        }, 	 
-{	 
+	 {	 
       "key": "面包影视",
       "name": "面包影视",
       "type": 3,
