@@ -903,7 +903,18 @@
   {"key":"火猫","name":"火猫App","type":3,"api":"csp_Muou","playerType":2,"jar": "http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331","ext":"7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602"},
 { "key": "鑫湖影视", "name": "鑫湖影视", "type":3,"api":"csp_XBPQ", "ext": { "简介" :"剧情介绍:+shrink-text\" data-id=*>&&</div>","状态":"提醒：&&","分类url":"https://www.kmxibanyayu.com/sw-short/{cateId}_{catePg}.html","分类":"生活短剧$32#古装短剧$33#穿越题材$34#爱情短剧$35#悬疑短剧$36#逆袭短剧$37#国产剧$19#港台剧$20#美剧$23#韩剧$22#日剧$21#泰剧$24#海外剧$52#动作片$8#喜剧片$38#爱情片$9#科幻片$11#恐怖片$12#战争片$13#剧情片$10#国产动漫$29#日韩动漫$30#欧美动漫$31#内地综艺$25#港台综艺$26#日韩综艺$27#欧美综艺$28"}},
 { "key": "骚火电影", "name": "骚火电影", "type":3,"api":"csp_XBPQ","ext": {"首页":"0","请求头":"User-Agent$MOBILE_UA#Accept$text/html#accept-language$zh-CN,zh;q=0.8","分类url":"https://saohuo.tv/list/{cateId}-{catePg}.html","分类":"剧集$2#电影$1#港剧$21#台剧$26#日剧$24#韩剧$22#美剧$23","数组":"class=\"v_img&&/li>","标题":"alt=\"&&\"","图片":"original=\"&&\"","链接":"href=\"&&\"","简介":"show_part\">&&<a","演员":"主演:&&<a","导演":"导演:&&/","播放二次截取":"class=\"play_list&&/ul>","播放数组":"<li&&/li>","倒序":"1"}},	  
-	  {
+      {
+            "key": "豆角",
+            "name": "豆角影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {"首页":"0",
+            "请求头":"User-Agent$MOBILE_UA",
+            "编码":"UTF-8",
+            "分类url": "https://m.doujiaow4.com/select/{cateId}------addtime-{catePg}.html",
+            "分类":"内地$16#港片$17#韩剧$18#美剧$19#台剧$20#泰剧$21#日剧$22#动漫$3#综艺$4"}
+        },	
+       {
             "key": "猎手影视",
             "name": "猎手影视",
             "type": 3,
@@ -1037,23 +1048,7 @@
         "ua": ""
       }
     },
- {
-      "key": "一三",
-      "name": "一三动漫",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "",
-        "site": "./lib/1.txt",
-        "dataKey": "qwertyuiopqwerty",
-        "dataIv": "qwertyuiopqwerty",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },	 
-	  {
+	 {
             "key": "曼波动漫",
             "name": "曼波动漫",
             "type": 3,
@@ -1167,18 +1162,7 @@
                "筛选": "1"
            }
        },   
-	{
-      "key": "tldj",
-      "name": "偷乐短剧",
-      "type": 3,
-      "api": "./py/偷乐短剧.py",
-      "searchable": 1,        
-      "changeable": 1,       
-      "quickSearch": 1,       
-      "filterable": 1,      
-      "playerType": 2         
-    }, 	 
-        {
+	 {
             "key": "短剧蜂巢",
             "name": "短剧蜂巢",
             "type": 3,
