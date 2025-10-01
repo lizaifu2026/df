@@ -1203,7 +1203,7 @@
             "key": "擦边",
             "name": "擦边短剧",
             "type": 3,
-            "api": "csp_HBPQ",
+            "api": "csp_XBPQ",
             "ext": "./lib/擦边短剧.json"
         },	  
         {
@@ -1237,7 +1237,7 @@
         },     
 	  {
             "key": "甜圈短剧",
-            "name": "甜圈短剧",
+            "name": "甜圈圈短剧",
             "type": 3,
             "api": "./py/甜圈短剧.py",
             "searchable": 1,
