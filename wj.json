@@ -1189,7 +1189,31 @@
             "filterable": 1,
             "playerType": 2
         },         
-      {
+          {
+            "key": "甜圈短剧",
+            "name": "香甜圈短剧",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/甜圈短剧.js"
+        },   
+        {
+            "key": "擦边",
+            "name": "擦边短剧",
+            "type": 3,
+            "api": "csp_HBPQ",
+            "ext": "./lib/擦边短剧.json"
+        },	  
+        {
+            "key": "海马短剧",
+            "name": "海马短剧",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./lib/河马短剧.js"
+        },	
+	  {
             "key": "河马短剧",
             "name": "河马短剧",
             "type": 3,
