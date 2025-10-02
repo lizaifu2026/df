@@ -1,10 +1,6 @@
 {
   "urls": [
-    {
-      "name": "巧计线路",
-      "url": "http://cdn.qiaoji8.com/tvbox.json"
-    },      
-    {   
+     {   
       "name": "王二小线路",
       "url": "https://d.kstore.dev/download/9280/wex.json"
     }, 
@@ -12,27 +8,11 @@
       "name": "王二小备用线路",
       "url": "http://tv.999888987.xyz/"
     },      
-    {    
-      "name": "潇洒线路",
-      "url": "https://9877.kstore.space/AnotherD/api.json"
-    },   
    {
-      "name": "讴歌线路",
-      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌"
-    },   
-    {
       "name": "SVIP在线",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
-    },
-   {
-      "name": "小虎斑线路",
-      "url": "http://hb.小虎斑.site:25252/仅供测试"
-    },      
-   {
-      "name": "小米线路",
-      "url": "http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json"
-    }     
-  ] 
+    }
+    ] 
   }   
   
       
@@ -71,6 +51,7 @@
  
 
    
+
 
 
 
