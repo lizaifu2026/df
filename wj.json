@@ -163,21 +163,21 @@
             }
         },    
         {
-            "key": "追番",
-            "name": "追番APP",
+            "key": "紫金",
+            "name": "紫金APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "",
-                "site": "https://ysappapi.oss-cn-shenzhen.aliyuncs.com/getapi.txt",
-                "dataKey": "A1akVPQmnnE4Fz9Z",
-                "dataIv": "A1akVPQmnnE4Fz9Z",
+                "url": "http://www.zjcvod.com",
+                "site": "",
+                "dataKey": "ab4e9a421675f14b",
+                "dataIv": "ab4e9a421675f14b",
                 "deviceId": "",
                 "version": "",
                 "ua": ""
             }
-        },	
+        },
 	{
       "key": "咖啡",
       "name": "咖啡APP",
@@ -226,22 +226,22 @@
         "ua": "okhttp/3.10.0 BDYS/109.0.0.8"
       }
     },
-    {
-      "key": "斗量",
-      "name": "斗量APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "https://app-cms-v10-1314306855.cos.ap-guangzhou.myqcloud.com/appcms.php",
-        "dataKey": "A1akVPQmnnE4Fz9Z",
-        "dataIv": "A1akVPQmnnE4Fz9Z",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },    
+        {
+            "key": "九零",
+            "name": "九零APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://65fs2d9awaa1d2a7ea8.019990.xyz",
+                "site": "",
+                "dataKey": "5a9w6x58dsq6z3a6",
+                "dataIv": "5a9w6x58dsq6z3a6",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },  
 	{
       "key": "狂人",
       "name": "狂人APP",
@@ -311,21 +311,22 @@
         "version": "120"
       }
     },
-    {
-      "key": "旗星",
-      "name": "旗星APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://ys.qist.top",
-        "site": "",
-        "dataKey": "2SWSPFxugBLPPOKo",
-        "dataIv": "2SWSPFxugBLPPOKo",
-        "deviceId": "",
-        "version": "120"
-      }
-    },	  
+        {
+            "key": "八天",
+            "name": "八天APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://dy.8ttv.cn",
+                "site": "",
+                "dataKey": "1111111111111111",
+                "dataIv": "1111111111111111",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },	  
    {"key": "csp_appys_天堂",
    "name": "电影天堂",
    "type": 3,
