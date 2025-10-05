@@ -579,7 +579,27 @@
       "quickSearch": 1,
       "filterable": 1
     },  
- {
+        {
+            "key": "毒舌影视",
+            "name": "毒舌APP",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/毒舌影视.json"
+        },
+        {
+            "key": "农牧",
+            "name": "农牧APP",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/农牧影视.json"
+        },	  
+	  {
             "key": "白蛇",
             "name": "白蛇APP",
             "type": 3,
