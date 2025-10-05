@@ -1221,6 +1221,16 @@
             "ext": "./lib/甜圈短剧.js"
         },   
         {
+            "key": "乾坤短剧",
+            "name": "乾坤短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/乾坤短剧.json"
+        },        
+	  {
             "key": "擦边",
             "name": "擦边短剧",
             "type": 3,
