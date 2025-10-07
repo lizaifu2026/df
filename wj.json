@@ -750,7 +750,7 @@
         },
         {
             "key": "旗星",
-            "name": "旗星｜APP",
+            "name": "旗星APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
