@@ -565,6 +565,22 @@
       "filterable": 1
     },  
         {
+            "key": "聚搜",
+            "name": "四厂聚合",
+            "type": 3,
+            "api": "csp_qiao2",
+            "playerType": 2,
+            "jar": "./jar/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662",
+            "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
+        },
+        {
+            "key": "金蝉",
+            "name": "金蝉聚合",
+            "type": 1,
+            "api": "http://zy.jinchancaiji.com/api.php/provide/vod",
+            "playUrl": "json:http://114.66.40.16:7700/api.php?url="
+        },        
+	  {
             "key": "毒舌影视",
             "name": "毒舌APP",
             "type": 3,
