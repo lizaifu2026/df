@@ -471,13 +471,14 @@
             "api": "csp_AppQi",
             "ext": {
                 "url": "",
-                "site": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/1.txt",
+                "site": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt",
                 "dataKey": "staraugust123456",
                 "dataIv": "staraugust123456",
                 "deviceId": "",
-                "version": "120"
+                "version": "120",
+                "ua": ""
             }
-        },	
+        },
         {
             "key": "热剧",
             "name": "热剧APP",
