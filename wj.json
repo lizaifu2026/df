@@ -993,6 +993,16 @@
         "ua": ""
       }
     },        
+    {
+      "key": "哆啦新番社",
+      "name": "哆啦新番社",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "style": {
+        "type": "list"
+      },
+      "ext": "./lib/DLXFS.json"
+    },	 
 	  {
             "key": "派对动漫",
             "name": "派对动漫",
