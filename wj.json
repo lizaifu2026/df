@@ -227,7 +227,39 @@
                 "ua": ""
             }
         },
-        {
+     {
+      "key": "八天",
+      "name": "八天APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://dy.8ttv.cn",
+        "site": "",
+        "dataKey": "1111111111111111",
+        "dataIv": "1111111111111111",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
+    },       
+    {
+      "key": "米奇",
+      "name": "米奇APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://www.milkidc.cn",
+        "site": "",
+        "dataKey": "20c79c979da8db0f",
+        "dataIv": "20c79c979da8db0f",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
+    },	  
+	  {
             "key": "火花",
             "name": "火花APP",
             "type": 3,
@@ -307,6 +339,66 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "http://cmsdytt.lyyytv.cn/api.php/app/"},	  
+    {
+      "key": "若雪",
+      "name": "若雪APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "https://appcms.rx4k.top",
+        "site": "",
+        "dataKey": "ZX10ysTYZWtIJCTU",
+        "dataIv": "ZX10ysTYZWtIJCTU",
+        "deviceId": "",
+        "version": "120"
+      }
+    },	  
+    {
+      "key": "于浅",
+      "name": "于浅APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://202.140.143.116:88",
+        "site": "",
+        "dataKey": "leroulerop.lerom",
+        "dataIv": "leroulerop.lerom",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
+      "key": "火锅",
+      "name": "火锅APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://ios.hgyx.vip",
+        "site": "",
+        "dataKey": "062dec75d039980e",
+        "dataIv": "062dec75d039980e",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
+      "key": "爱看",
+      "name": "爱看APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.appdm.akandm.com",
+        "site": "",
+        "dataKey": "uI1TkPJC8B46AyN3",
+        "dataIv": "uI1TkPJC8B46AyN3",
+        "deviceId": "",
+        "version": ""
+      }
+    },	  
 	  {
             "key": "萝卜",
             "name": "萝卜APP",
