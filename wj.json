@@ -165,13 +165,23 @@
         },
     {
       "key": "大豆",
-      "name": "大豆4k源",
+      "name": "大豆app",
       "type": 3,
       "jar": "./jar/xm.jar",
       "quickSearch": 0,
       "searchable": 1,
       "api": "csp_AppQi",
       "ext": "Ruh/okyt5lxEpcdQOao0NkSkj8M9vdB0soaZbGJldzA3817rfAzlvyWHCewZEFD4+BBCXxVVHkmAtv6gi+JRQlKwhK1WjuT8blTygReol77ICMmtZZPsmzfgjOtOXiEJ"
+    },	
+    {
+      "key": "闪影",
+      "name": "闪影影视",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
     },	
 	{
       "key": "咖啡",
@@ -423,6 +433,17 @@
         "deviceId": "",
         "version": ""
       }
+    },	  
+    {
+      "key": "AppQi1",
+      "name": "爱影app",
+      "type": 3,
+      "jar": "./jar/xm.jar",
+      "api": "csp_AppQi",
+      "changeable": "0",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiqzXAOG2XsUSh62armSJmz6+8BN455Lbt5tpPqGfXnKgoQ1N+ZOhu3N/KDZ+r/7HZc="
     },	  
 	  {
             "key": "萝卜",
