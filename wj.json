@@ -315,18 +315,7 @@
         "ua": ""
       }
     },	  
-    {
-      "key": "AppQi1",
-      "name": "爱影app",
-      "type": 3,
-      "jar": "./jar/xm.jar",
-      "api": "csp_AppQi",
-      "changeable": "0",
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiqzXAOG2XsUSh62armSJmz6+8BN455Lbt5tpPqGfXnKgoQ1N+ZOhu3N/KDZ+r/7HZc="
-    },	  	  
-	  {
+	   {
             "key": "火花",
             "name": "火花APP",
             "type": 3,
