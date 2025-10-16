@@ -163,6 +163,16 @@
                 "ua": ""
             }
         },
+    {
+      "key": "大豆",
+      "name": "大豆4k源",
+      "type": 3,
+      "jar": "./jar/xm.jar",
+      "quickSearch": 0,
+      "searchable": 1,
+      "api": "csp_AppQi",
+      "ext": "Ruh/okyt5lxEpcdQOao0NkSkj8M9vdB0soaZbGJldzA3817rfAzlvyWHCewZEFD4+BBCXxVVHkmAtv6gi+JRQlKwhK1WjuT8blTygReol77ICMmtZZPsmzfgjOtOXiEJ"
+    },	
 	{
       "key": "咖啡",
       "name": "咖啡APP",
