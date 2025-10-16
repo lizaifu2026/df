@@ -147,7 +147,28 @@
                 "ua": ""
             }
         },    
-        {
+    {
+      "key": "AppQi1",
+      "name": "奇力app",
+      "type": 3,
+      "jar": "./jar/xm.jar",
+      "api": "csp_AppQi",
+      "changeable": "0",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiqzXAOG2XsUSh62armSJmz6+8BN455Lbt5tpPqGfXnKgoQ1N+ZOhu3N/KDZ+r/7HZc="
+    },
+    {
+      "key": "云速",
+      "name": "新云速app",
+      "type": 3,
+      "jar": "./jar/xm.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "api": "csp_AppQi",
+      "ext": "9ee0oa0Y30GapSvZ2C2RVE2HwH08KKvP0VhAZCVWpnluXpZNLRZrNCMeKyCWw1JOnmBt4WntUB96Gzw7GkroAUK4RePU806mDtHSmD09164W8EWpaWaU/Gg8nPkgUt5F"
+    },       
+	  {
             "key": "紫金",
             "name": "紫金APP",
             "type": 3,
