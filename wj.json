@@ -142,6 +142,21 @@
             }
         },  
         {
+            "key": "星空",
+            "name": "星空APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://xkcms.xkgzs.xyz",
+                "site": "",
+                "dataKey": "AJcdjkAjkdJDkvcd",
+                "dataIv": "AJcdjkAjkdJDkvcd",
+                "deviceId": "",
+                "version": ""
+            }
+        },       
+	  {
             "key": "布雷",
             "name": "新布雷APP",
             "type": 3,
