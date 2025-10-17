@@ -465,15 +465,19 @@
         "version": ""
       }
     },	  
-   {
-      "key": "金牌AP",
-      "name": "金牌4k",
-      "quickSearch": 0,
+    {
+      "key": "金牌",
+      "name": "金牌APP",
       "type": 3,
-      "jar": "./jar/xm.jar",
       "api": "csp_AppMuou",
-      "ext": "ewogICJTaXRlVXJsIjogImh0dHBzOi8vbXVvdS53bGJicS54eXoiLAogICJFeHQiOiAiaXA5K1dadnQ5ODNzUzAwOGtyTktobno4Q2Fzb2d3QjlLYkp2U0FmNGJRZEg5aUlGVHE4Y0tGM3Y4RFBicnphUiIsCiAgIkluZm8iOiAiaHR0cHM6Ly9tdW91aHQuZ2d0dmIuY2MiCn0="
-    },	  
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "",
+        "site": "./lib/godbbq.txt",
+        "name": "金牌影院（请断网再安装）"
+      }
+    },  
 	  {
             "key": "萝卜",
             "name": "萝卜APP",
