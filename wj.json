@@ -110,7 +110,23 @@
         "name": "火猫影视"
       }
     },        
-        {
+         {
+            "key": "万能",
+            "name": "万能APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://wnvod.cc",
+                "site": "",
+                "dataKey": "5uBvur6znNUmE3zb",
+                "dataIv": "5uBvur6znNUmE3zb",
+                "deviceId": "",
+                "version": "",
+                "ua": "myapp/1.0.3"
+            }
+        },       
+	  {
             "key": "余白",
             "name": "余白APP",
             "type": 3,
