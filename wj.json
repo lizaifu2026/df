@@ -1358,7 +1358,16 @@
       "quickSearch": 1,
       "filterable": 0
     },  
-	{
+    {			  
+      "key": "spys",
+      "name": "碎片剧场",
+      "type": 3,
+      "api": "./py/碎片剧场.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },  	
+	  {
       "key": "哔哩哔哩戏曲",
       "name": "哔哩音乐",
       "type": 3,
