@@ -96,7 +96,7 @@
     },        
     {
       "key": "余白",
-      "name": "余白丨APP",
+      "name": "余白APP",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
