@@ -1371,7 +1371,8 @@
       "name": "王二小短剧秒播",
       "type": 3,
       "api": "csp_WexduanjuvopGuard",
-      "searchable": 1,
+      "jar": "./王二小.png",   
+	  "searchable": 1,
       "changeable": 1
     },
     {
@@ -1379,7 +1380,8 @@
       "name": "王二小短剧仙品",
       "type": 3,
       "api": "csp_WexduanjuhemaGuard",
-      "searchable": 1,
+      "jar": "./王二小.png",
+	  "searchable": 1,
       "changeable": 1
     },
     {
@@ -1387,7 +1389,8 @@
       "name": "王二小短剧神品",
       "type": 3,
       "api": "csp_Wexduanju001Guard",
-      "searchable": 1,
+      "jar": "./王二小.png",
+	  "searchable": 1,
       "changeable": 1
     },
     {
@@ -1395,7 +1398,8 @@
       "name": "王二小短剧帝品",
       "type": 3,
       "api": "csp_WexduanjuvmpGuard",
-      "searchable": 1,
+      "jar": "./王二小.png",
+	  "searchable": 1,
       "changeable": 1
     }, 
 	  {			  
