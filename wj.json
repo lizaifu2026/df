@@ -1366,7 +1366,39 @@
             "filterable": 1,
             "ext": "./lib/短剧屋.json"
         },
-    {			  
+       {
+      "key": "Wexduanjuvop",
+      "name": "王二小短剧秒播",
+      "type": 3,
+      "api": "csp_WexduanjuvopGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexduanjuhema",
+      "name": "王二小短剧仙品",
+      "type": 3,
+      "api": "csp_WexduanjuhemaGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexduanju001",
+      "name": "王二小短剧神品",
+      "type": 3,
+      "api": "csp_Wexduanju001Guard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "WexduanjuvmpGuard",
+      "name": "王二小短剧帝品",
+      "type": 3,
+      "api": "csp_WexduanjuvmpGuard",
+      "searchable": 1,
+      "changeable": 1
+    }, 
+	  {			  
       "key": "bilibilimd",
       "name": "哔哩影视",
       "type": 3,
