@@ -8,9 +8,17 @@
       "name": "王二小备用线路",
       "url": "http://tv.999888987.xyz/"
     },      
-   {
-      "name": "SVIP在线",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
+    {
+      "name": "大猫影视",
+      "url": "https://catbox.n13.club/jk/jsm.json"
+    },    
+    {
+      "name": "小虎斑影视",
+      "url": "http://hb.小虎斑.site:25252/仅供测试"
+    },    
+    {
+      "name": "天微影视",
+      "url": "https://7337.kstore.space/kjtv/自用测试.json"
     }
     ] 
   }   
@@ -51,6 +59,7 @@
  
 
    
+
 
 
 
