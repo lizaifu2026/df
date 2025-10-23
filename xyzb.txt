@@ -177,7 +177,7 @@ CCTV17,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226908/i
 抚顺教育,https://fsgbdstzb.lnyun.com.cn/fsfb1/tvzb1.m3u8?auth_key=1800000000-0-0-4a9318cfc89de3265930e8db1aa63e49
 辽源综合,http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
 吉林市新闻综合,http://stream2.jlntv.cn/jilin1/sd/live.m3u8
-重温经典,http://tv.jun1985.vip/tv/cwjd.php
+重温经典,http://a.jun1985.cn/php/cwjd.php
 🎴辽宁全网通.购物👉,#genre#
 家有购物,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226985/index.m3u8
 聚鲨环球精选,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227044/index.m3u8
