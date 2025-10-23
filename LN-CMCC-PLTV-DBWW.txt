@@ -352,7 +352,7 @@ CCTV-5+体育赛事,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224
 抚顺教育,https://fsgbdstzb.lnyun.com.cn/fsfb1/tvzb1.m3u8?auth_key=1800000000-0-0-4a9318cfc89de3265930e8db1aa63e49
 辽源综合,http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
 吉林市新闻综合,http://stream2.jlntv.cn/jilin1/sd/live.m3u8
-重温经典,http://tv.jun1985.vip/tv/cwjd.php
+重温经典,http://tv.jun1985.cn/tv/cwjd.php
 辽宁联通 购物,#genre#
 宜佳购物,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226884/index.m3u8,$FHD
 宜佳购物,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227309/index.m3u8,$FHD
