@@ -6,7 +6,7 @@
         {
             "name": "联通直播",
             "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lizaifu2026/df/refs/heads/main/xyzb.txt",
+            "url": "./xyzb.txt",
             "playerType": 2,
             "timeout": 10
         },
