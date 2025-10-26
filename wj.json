@@ -9,6 +9,13 @@
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/lizaifu2026/df/refs/heads/main/xyzb.txt",
             "playerType": 2,
             "timeout": 10
+        },
+         {
+            "name": "咪咕直播",
+            "type": 0,
+            "url": "https://ghcy.eu.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+            "playerType": 2,
+            "timeout": 10
         }
   ],
   "sites": [
