@@ -118,7 +118,45 @@
         "ua": ""
       }
     }, 
-        {
+    {
+      "key": "秒看",
+      "name": "秒看APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "./lib/get.txt",
+        "dataKey": "c60d88b2eep53za8",
+        "dataIv": "c60d88b2eep53za8",
+        "token": "06caee3952a4c97d1ad4c766c875a99d3fa83aa68f46188823600d59ebba4469",
+        "ua": "okhttp/3.10.0"
+      }
+    },        
+    {
+      "key": "影视",
+      "name": "影视APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "ext": {
+        "site": "./lib/qj2.txt",
+        "dataKey": "sada21321sdq231d",
+        "dataIv": "sada21321sdq231d"
+      }
+    },	  
+    {
+      "key": "莱米",
+      "name": "莱米APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "./lib/laimi.txt",
+        "dataKey": "ce032244d093b3e2",
+        "dataIv": "ce032244d093b3e2"
+      }
+    },	  
+	  {
             "key": "开心",
             "name": "开心APP",
             "type": 3,
