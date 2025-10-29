@@ -1015,18 +1015,7 @@
             "filterable": 1,
             "playerType": 2
         },		 
-	  {
-            "key": "xinjie",
-            "name": "新界影视",
-            "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/XinJie.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },	  
-	  {	 
+        {	 
             "key": "旺旺采集资源",
             "name": "旺旺短剧",
             "type": 1,
