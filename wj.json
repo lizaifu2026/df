@@ -1016,10 +1016,10 @@
             "playerType": 2
         },		 
 	  {
-            "key": "yqk",
-            "name": "一起看影视",
+            "key": "xinjie",
+            "name": "新界影视",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/yqkapp.py",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/XinJie.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
