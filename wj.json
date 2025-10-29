@@ -971,7 +971,62 @@
             "filterable": 1,
             "playerType": 2
         },	  
-   	  {	 
+	  {
+            "key": "老地方",
+            "name": "老地方影视",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/%E8%80%81%E5%9C%B0%E6%96%B9%E5%BD%B1%E9%99%A2.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },	   	  
+	  {
+            "key": "独播库",
+            "name": "独播库影视",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/%E7%8B%AC%E6%92%AD%E5%BA%93.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },		  
+	  {
+            "key": "kaiduan",
+            "name": "开端影视",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/%E5%BC%80%E7%AB%AF.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },		  
+	  {
+            "key": "247",
+            "name": "247影视",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/247%E7%9C%8B.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },		  
+	  {
+            "key": "k-movies",
+            "name": "k-movies",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/K-movie.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },		 
+	  {	 
             "key": "旺旺采集资源",
             "name": "旺旺短剧",
             "type": 1,
