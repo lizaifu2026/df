@@ -1247,15 +1247,6 @@
             "quickSearch": 1,
             "filterable": 1
         },	  
-    {			  
-      "key": "bilibilimd",
-      "name": "哔哩影视",
-      "type": 3,
-      "api": "./py/bilibilimd.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },  
         {
             "key": "西饭短剧",
             "name": "西饭短剧",
@@ -1266,7 +1257,7 @@
             "filterable": 1,
             "ext": "./lib/稀饭短剧.json"
         },    
-	  {			  
+   {			  
       "key": "spys",
       "name": "碎片剧场",
       "type": 3,
@@ -1295,6 +1286,35 @@
             "filterable": 1,
             "ext": "./lib/毒舌短剧.json"
         },	  
+        {
+            "key": "微云影视",
+            "name": "微云短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/微云短剧.json"
+        },	  
+        {
+            "key": "开尔短剧",
+            "name": "开尔短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/开尔短剧.json"
+        }, 
+	  {			  
+      "key": "bilibilimd",
+      "name": "哔哩影视",
+      "type": 3,
+      "api": "./py/bilibilimd.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },	  
 	  {
       "key": "哔哩哔哩戏曲",
       "name": "哔哩音乐",
