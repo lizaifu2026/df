@@ -1256,7 +1256,17 @@
       "quickSearch": 1,
       "filterable": 0
     },  
-    {			  
+        {
+            "key": "西饭短剧",
+            "name": "西饭短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/稀饭短剧.json"
+        },    
+	  {			  
       "key": "spys",
       "name": "碎片剧场",
       "type": 3,
