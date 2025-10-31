@@ -1053,18 +1053,7 @@
             "filterable": 1,
             "playerType": 2
         },		 
-	  {
-            "key": "att",
-            "name": "attapp",
-            "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/attapp.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },        
-	     {	 
+       {	 
             "key": "旺旺采集资源",
             "name": "旺旺短剧",
             "type": 1,
