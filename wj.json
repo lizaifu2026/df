@@ -1275,6 +1275,16 @@
       "quickSearch": 1,
       "filterable": 0
     },  	
+        {
+            "key": "热播影院",
+            "name": "热播短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/热播短剧.json"
+        },	  
 	  {
       "key": "哔哩哔哩戏曲",
       "name": "哔哩音乐",
