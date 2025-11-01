@@ -414,8 +414,18 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "http://cmsdytt.lyyytv.cn/api.php/app/"},	  
+   "ext": "http://cmstt.lyyytv.cn/api.php/app/"},	  
     {
+      "key": "csp_LiteApple",
+      "name": "苹果影视",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "jar": "./fm.jar;md5;b40f328ddc5becefbfca81db7bdca250",
+	  "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
+	{
       "key": "若雪",
       "name": "若雪APP",
       "type": 3,
