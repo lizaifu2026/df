@@ -837,17 +837,7 @@
                 "version": "112"
             }
         },	  
-    {
-      "key": "csp_LiteApple",
-      "name": "苹果影视",
-      "jar": "./fm.jar",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },   
- {	  
+   {	  
       "key": "夕云",
       "name": "夕云影视",
       "type": 3,
