@@ -98,6 +98,18 @@
       }
     },	  
      {
+      "key": "热剧",
+      "name": "热剧APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "https://www.rebovod.com",
+        "dataKey": "8191A7F47B37882F",
+        "dataIv": "8191A7F47B37882F"
+      }
+    },    
+	 {
       "key": "咖啡",
       "name": "咖啡APP",
       "type": 3,
