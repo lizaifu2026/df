@@ -97,7 +97,32 @@
         "dataIv": "sada21321sdq231d"
       }
     },	  
+     {
+      "key": "咖啡",
+      "name": "咖啡APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "ext": {
+        "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
+        "dataKey": "37kj83zs1q16jk6t",
+        "dataIv": "37kj83zs1q16jk6t",
+        "version": "101"
+      }
+    },   
     {
+      "key": "鲸鱼",
+      "name": "鲸鱼APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "ext": {
+        "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
+        "dataKey": "AAdgrdghjfgswerA",
+        "dataIv": "AAdgrdghjfgswerA"
+      }
+    },	  
+	{
       "key": "莱米",
       "name": "莱米APP",
       "type": 3,
