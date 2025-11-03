@@ -1393,17 +1393,7 @@
             "filterable": 1,
             "ext": "./lib/开尔短剧.json"
         }, 
-    {
-      "key": "南风短剧",
-      "name": "南风短剧",
-      "type": 3,
-      "api": "csp_Nfdj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 10
-    },	  
-	{			  
+    {			  
       "key": "bilibilimd",
       "name": "哔哩影视",
       "type": 3,
@@ -1497,32 +1487,6 @@
         "ratio": 1.597
       }
     },   
-  {
-      "key": "酷奇MV",
-      "name": "酷奇MV",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://ncstatic.clewm.net/rsrc/2025/0716/15/3583b9ecff3bc6a1db4004faf891f7de.png;md5;423e33ec108c0f7816200cebaf18fb69",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "主页url": "https://www.kuqimv.com",
-        "直接播放": "1",
-        "短视频": "1",
-        "分类": "华语高清$1#日韩精选$2#欧美MV$3#高清现场$4#影视MV$5#夜店视频$6#车模视频$7#热舞视频$8#美女写真$9#美女打碟$10",
-        "分类url": "https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z",
-        "数组": "<li>&&</li>",
-        "标题": "title=\"&&\"",
-        "副标题": "target=\"play\">&&<",
-        "搜索模式": "1",
-        "搜索url": "https://www.kuqimv.com/search.php?key={wd}"
-      }
-    },	
     {
       "key": "啊哈DJ",
       "name": "啊哈音乐",
