@@ -1417,7 +1417,8 @@
       "type": 1,
       "api": "http://8.155.50.80:9671/咪咕.php",
       "playUrl": "json:http://8.155.50.80/xiayexk.php?url=",
-      "changeable": 1,
+      "jar": "./yimi.jar",
+	  "changeable": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
