@@ -1149,6 +1149,16 @@
             "filterable": 1,
             "playerType": 2
         },	      
+    {
+      "key": "界影视",
+      "name": "界影视",
+      "type": 3,
+      "api": "./py/界影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },	 
 	  {	 
             "key": "旺旺采集资源",
             "name": "旺旺短剧",
