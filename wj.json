@@ -1139,12 +1139,16 @@
             "playerType": 2
         },		 
     {
-      "key": "追忆apptov5",
-      "name": "追忆APP",
+      "key": "剧永久",
+      "name": "剧永久APP",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/ApptoV5%E6%97%A0%E5%8A%A0%E5%AF%86.py",
-      "ext": "http://111.173.114.61:8762"
-    }, 	  
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/APPV2.py",
+      "ext": {
+        "api": "http://yjyi.juyongjiu.com/icciu_api.php/v1.vod",
+        "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
+        "apisignkey": "lvdoutv-1.0.0"
+      }
+    },
 	  {
             "key": "dytt",
             "name": "测试影视",
