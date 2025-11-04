@@ -1411,19 +1411,7 @@
             "filterable": 1,
             "ext": "./lib/开尔短剧.json"
         }, 
-     {
-      "key": "咪咕",
-      "name": "咪咕视频",
-      "type": 1,
-      "api": "http://8.155.50.80:9671/咪咕.php",
-      "playUrl": "json:http://8.155.50.80/xiayexk.php?url=",
-      "jar": "./yimi.jar",
-	  "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },   
-	{			  
+    {			  
       "key": "bilibilimd",
       "name": "哔哩影视",
       "type": 3,
