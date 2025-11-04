@@ -155,6 +155,15 @@
       "jar": "./lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
     },	  
+    {
+      "key": "林中小屋",
+      "name": "林中小屋影视",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "http://m51.gotto.top/api.php/v1.vod"
+    },	  
 	  {
             "key": "开心",
             "name": "开心APP",
