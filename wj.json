@@ -1198,7 +1198,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": {
-                "classes": "./json/duanjucen.json"
+                "classes": "./lib/duanjucen.json"
             }
         },    
 	  {
