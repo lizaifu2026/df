@@ -1186,7 +1186,8 @@
             "name": "短剧日更",
             "type": 3,
             "api": "csp_DuanJu",
-            "searchable": 1,
+            "jar": "./vox.jar",
+			"searchable": 1,
             "changeable": 1
         },
         {
@@ -1194,7 +1195,8 @@
             "name": "短剧AI",
             "type": 3,
             "api": "csp_DuanJuCen",
-            "searchable": 1,
+            "jar": "./vox.jar",
+			"searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
             "ext": {
