@@ -86,19 +86,20 @@
       }
     },        
      {
-        "key": "零",
-        "name": "灵魂APP",
-        "type": 3,
-        "quickSearch": 1,
-        "jar": "./jar/tvkj.jar",
-		"api": "csp_AppGet",
-        "ext": {
-        "url": "https://65fs2d9awaa1d2a7ea8.019990.xyz",
+    {
+      "key": "蔬菜",
+      "name": "雪魂APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "jar": "./jar/tvkj.jar",
+      "ext": {
+        "url": "http://huohu.yihn.cc",
         "site": "",
-        "dataKey": "5a9w6x58dsq6z3a6",
-        "dataIv": "5a9w6x58dsq6z3a6",
+        "dataKey": "huohushipingetap",
+        "dataIv": "huohushipingetap",
         "deviceId": "",
-        "version": "",
+        "version": "140",
         "ua": ""
       }
     },
