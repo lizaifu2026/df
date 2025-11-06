@@ -343,7 +343,30 @@
         "ua": ""
       }
     },	  
-	   {
+    {
+      "key": "享趣视频｜APP",
+      "name": "享趣视频APP",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/%E4%BA%AB%E8%B6%A3%E8%A7%86%E9%A2%91.py",
+      "ext": {
+        "host": "https://video.xqkk.app",
+        "parse": {
+          "qq|qiyi|mgtv|youku|bilibili": [
+            "https://api.qljson.xyz/api/?key=67f6a108dc6d84eaf81ac58417c1f72a&url="
+          ],
+          "xygz": [
+            "https://video.xqkk.app/xygz/jx.php?url="
+          ],
+          "Ace": [
+            "http://110.40.137.168:5000/api/jiexi/common?Key=m3RmyT8SlYBe9UQrhY&url="
+          ],
+          "NBY": [
+            "https://api.nbyjson.top:7788/api/?key=28WvxCOKQZwwrSrTXx&url="
+          ]
+        }
+      }
+    },	   
+	  {
             "key": "火花",
             "name": "火花APP",
             "type": 3,
