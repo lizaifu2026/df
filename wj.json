@@ -1170,17 +1170,7 @@
       "filterable": 1,
       "changeable": 1
     },	 
-    {
-      "key": "ssid",
-      "name": "拾光随身ID",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/%E9%9A%8F%E6%9C%BAAndroid_ID.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },	 
-	  {	 
+ {	 
             "key": "旺旺采集资源",
             "name": "旺旺短剧",
             "type": 1,
