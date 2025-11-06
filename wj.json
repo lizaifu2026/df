@@ -85,13 +85,21 @@
         "name": "火猫影视"
       }
     },        
-{
-      "key": "永永",
-      "name": "永永APP",
-      "type": 3,
-      "jar": "./965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a",
-	  "api": "csp_AppGet",
-      "ext": "http://ys.qist.top|2SWSPFxugBLPPOKo|120"
+     {
+        "key": "零",
+        "name": "灵魂APP",
+        "type": 3,
+        "quickSearch": 1,
+        "api": "csp_AppGet",
+        "ext": {
+        "url": "https://65fs2d9awaa1d2a7ea8.019990.xyz",
+        "site": "",
+        "dataKey": "5a9w6x58dsq6z3a6",
+        "dataIv": "5a9w6x58dsq6z3a6",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
     },
 	{
       "key": "影视",
