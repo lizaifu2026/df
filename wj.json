@@ -89,7 +89,8 @@
       "key": "永永",
       "name": "永永APP",
       "type": 3,
-      "api": "csp_AppGet",
+      "jar": "./965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a",
+	  "api": "csp_AppGet",
       "ext": "http://ys.qist.top|2SWSPFxugBLPPOKo|120"
     },
 	{
