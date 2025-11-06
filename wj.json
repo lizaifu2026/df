@@ -1172,13 +1172,13 @@
     },	 
     {
       "key": "拾光视频",
-      "name": "拾光视频｜APP",
+      "name": "拾光视频APP",
       "type": 3,
-      "api": "./app/Hmys.py",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/Hmys.py",
       "ext": {
         "host": "https://dy.jmzp.net.cn",
         "app_id": "shiguang",
-        "deviceid": "自行使用随机Android_ID.py生成填入即可(16位)",
+        "deviceid": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/%E9%9A%8F%E6%9C%BAAndroid_ID.py",
         "versionCode": "10000",
         "UMENG_CHANNEL": "guan"
       }
