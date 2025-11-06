@@ -1170,6 +1170,19 @@
       "filterable": 1,
       "changeable": 1
     },	 
+    {
+      "key": "拾光视频",
+      "name": "拾光视频｜APP",
+      "type": 3,
+      "api": "./app/Hmys.py",
+      "ext": {
+        "host": "https://dy.jmzp.net.cn",
+        "app_id": "shiguang",
+        "deviceid": "自行使用随机Android_ID.py生成填入即可(16位)",
+        "versionCode": "10000",
+        "UMENG_CHANNEL": "guan"
+      }
+    },	 
 	  {	 
             "key": "旺旺采集资源",
             "name": "旺旺短剧",
