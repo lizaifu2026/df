@@ -1485,7 +1485,8 @@
       "api": "csp_DuanJuXf",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "jar":"./jd.jar;md5;83b66c8fe8d7b6c23a795eb7ec71358b",
+	  "filterable": 1,
       "timeout": 60,
       "style": {
         "type": "rect",
