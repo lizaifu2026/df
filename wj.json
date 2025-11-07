@@ -1393,7 +1393,7 @@
             "key": "锦鲤短剧",
             "name": "锦鲤短剧",
             "type": 3,
-            "api": "./py/锦鲤短剧.py",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/web/%E9%94%A6%E9%B2%A4%E7%9F%AD%E5%89%A7.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
