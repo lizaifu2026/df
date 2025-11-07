@@ -1014,6 +1014,24 @@
       "changeable": 1
     },	 
      { "key": "沙雕动漫", "name": "沙雕动漫", "type":3,"style": {"type":"rect","ratio":1.433},"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+<p>&&</p>","首页":"0","线路标题":"panel-heading\">&&</div>","分类url":"http://www.jibai5.com/vodtype/{cateId}-{catePg}.html","分类":"沙雕动漫$22"}},       
+    {
+      "key": "沙雕",
+      "name": "沙雕动漫影视",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.309
+      },
+      "ext": {
+        "type": "沙雕综合#沙雕求生#沙雕修仙#沙雕末世#沙雕诡异#完结沙雕#动漫馆",
+        "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt",
+        "msg": "124421jh8lk39646pgruC6dATnyTtf6ewyst71opcsJfticyXxWGbU5x4zxzEQ5LWhshM7QSmwiAgf0H4RN8rjjuUPQPPsiTj8Yz48I27L5SoL/Lbg70J558Qnv6Dtdt9BeeyWciQnnqApDLzxuKF+nEHryocRY26k1efEO43zCfP69tVyTyWvQ/MT7q/J7KDiOdwg0CGUc0cPhVc3AiwU6ZXIapEVCaeJ1OkLO2LzfrGsCulTGV9LrN4N8omBYpohl4BgdDhg8SQwEh9MoFXC1M2AqzePjz+itosXK3VQ3Ch4ba88bCsZSAs56JWl570OQ5t3yuPDslC75Y1p4Y9x9OOnztqiDqRbgpaXR5KWKYWfjU9T1H2SXW3uAmq9Z2GQKDrAQT7gB35NJeagOshSRZScjiS3Ss7lf/6iMfs9NInk9DfLj/H/9HCcIDRr1AG/ZGgLLtB/doGr0l/oENwrHwu+kLjzqWcmiAPcaLdbeeK18hxlYJBvXIlfjoWgopvFnm7338rR8k7EwtnU39fRJph5WcuPdvL5ZivGdWO+EYQ47zLhX038Vcju8iF3omFTj5W6D9FEOXryKIMCBgi8G5t+I73iaFCGGzTA=="
+      }
+    },	 
 	  {
             "key": "稀饭动漫",
             "name": "稀饭动漫",
@@ -1434,7 +1452,7 @@
         },	  
         {
             "key": "西饭短剧",
-            "name": "西饭短剧",
+            "name": "西饭短剧1",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -1442,7 +1460,43 @@
             "filterable": 1,
             "ext": "./lib/稀饭短剧.json"
         },    
-   {			  
+    {
+      "api": "./py/牛牛短剧.py",
+      "filterable": 1,
+      "key": "py_牛牛短剧",
+      "name": "牛牛短剧",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "./py/七猫短剧.py",
+      "filterable": 1,
+      "key": "py_七猫短剧",
+      "name": "七猫短剧",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },   
+    {
+      "key": "西饭",
+      "name": "西饭短剧2",
+      "type": 3,
+      "api": "csp_DuanJuXf",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "style": {
+        "type": "rect",
+        "ratio": 1.309
+      },
+      "ext": {
+        "siteUrl": "https://xifan-api-cn.youlishipin.com",
+        "msg": "124421jh8lk39646pgruC6dATnyTtf6ewyst71opcsJfticyXxWGbU5x4zxzEQ5LWhshM7QSmwiAgf0H4RN8rjjuUPQPPsiTj8Yz48I27L5SoL/Lbg70J558Qnv6Dtdt9BeeyWciQnnqApDLzxuKF+nEHryocRY26k1efEO43zCfP69tVyTyWvQ/MT7q/J7KDiOdwg0CGUc0cPhVc3AiwU6ZXIapEVCaeJ1OkLO2LzfrGsCulTGV9LrN4N8omBYpohl4BgdDhg8SQwEh9MoFXC1M2AqzePjz+itosXK3VQ3Ch4ba88bCsZSAs56JWl570OQ5t3yuPDslC75Y1p4Y9x9OOnztqiDqRbgpaXR5KWKYWfjU9T1H2SXW3uAmq9Z2GQKDrAQT7gB35NJeagOshSRZScjiS3Ss7lf/6iMfs9NInk9DfLj/H/9HCcIDRr1AG/ZGgLLtB/doGr0l/oENwrHwu+kLjzqWcmiAPcaLdbeeK18hxlYJBvXIlfjoWgopvFnm7338rR8k7EwtnU39fRJph5WcuPdvL5ZivGdWO+EYQ47zLhX038Vcju8iF3omFTj5W6D9FEOXryKIMCBgi8G5t+I73iaFCGGzTA=="
+      }
+    },	  
+	  {			  
       "key": "spys",
       "name": "碎片剧场",
       "type": 3,
