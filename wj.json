@@ -767,7 +767,44 @@
       "api": "csp_WwysGuard",	    
       "ext": "https://www.wwgz.cn"
     },
-	   {
+    {
+      "key": "韩圈",
+      "name": "韩圈App",
+      "type": 3,
+      "api": "csp_HanXiaoQuanGuard",
+      "playerType": 2,
+      "searchable": 1,
+      "jar":"./kk.png;md5;b3fe8c2580f248c0931d0aff419d10f0",  
+	  "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "厂长",
+      "name": "厂长直连",
+      "type": 3,
+      "api": "csp_CzzyGuard",
+      "searchable": 1,
+      "jar":"./kk.png;md5;b3fe8c2580f248c0931d0aff419d10f0",  
+	  "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 10
+    },	   
+    {
+      "key": "一起",
+      "name": "一起秒播",
+      "type": 3,
+      "api": "csp_YqsGuard",
+      "searchable": 1,
+      "jar":"./kk.png;md5;b3fe8c2580f248c0931d0aff419d10f0",  
+	  "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 10
+    },	  
+	  {
             "key": "金牌影视",
             "name": "金牌影视",
             "type": 3,
