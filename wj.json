@@ -728,7 +728,20 @@
                 "url": "http://v.lkuys.cn"
             }
         },	  
-        {
+      {
+      "key": "淘剧",
+      "name": "淘剧影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "http://www.taoju.tv/list/{cateId}.html",
+        "分类": "电影$1#连续剧$2#动漫$3#综艺$4"
+      }
+    },     
+	  {
             "key": "明星影视",
             "name": "明星影视",
             "type": 3,
