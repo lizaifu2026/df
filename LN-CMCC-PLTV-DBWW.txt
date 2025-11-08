@@ -92,6 +92,7 @@ CCTV-5+体育赛事,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224
 CCTV-5+体育赛事,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226910/index.m3u8,$SD
 CCTV-5+体育赛事,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226910/index.m3u8,$SD
 辽宁联通 卫视,#genre#
+张建测试4K ：浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 安徽卫视,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226746/index.m3u8,$FHD
 安徽卫视,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227233/index.m3u8,$FHD
 安徽卫视,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226746/index.m3u8,$FHD
