@@ -1263,7 +1263,17 @@
       "filterable": 1,
       "changeable": 1
     },	 
- {	 
+     {
+      "key": "jianguo",
+      "name": "坚果影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/%E5%9D%9A%E6%9E%9C%E8%A7%86%E9%A2%91.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },	
+	  {	 
             "key": "旺旺采集资源",
             "name": "旺旺短剧",
             "type": 1,
