@@ -1273,6 +1273,16 @@
       "filterable": 1,
       "changeable": 1
     },	
+     {
+      "key": "yiyingshi",
+      "name": "壹影视",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/%E5%A3%B9%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },		  
 	  {	 
             "key": "旺旺采集资源",
             "name": "旺旺短剧",
