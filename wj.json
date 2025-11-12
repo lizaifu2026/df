@@ -179,6 +179,21 @@
       "quickSearch": 1,
       "ext": "http://m51.gotto.top/api.php/v1.vod"
     },	  
+        {
+            "key": "布雷",
+            "name": "布雷APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+            "ext": {
+                "url": "",
+                "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/blurl.txt",
+                "dataKey": "5f2b7ed203a3a581",
+                "dataIv": "5f2b7ed203a3a581",
+                "deviceId": "",
+                "version": ""
+            }
+        },	  
 	  {
             "key": "开心",
             "name": "开心APP",
