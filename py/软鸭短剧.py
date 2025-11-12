@@ -1,28 +1,27 @@
-# coding=utf-8
+# coding = utf-8
 # !/usr/bin/python
 
 """
 
-作者 丢丢喵 🚓 内容均从互联网收集而来 仅供交流学习使用 版权归原创者所有 如侵犯了您的权益 请通知作者 将及时删除侵权内容
+作者 丢丢喵推荐 🚓 内容均从互联网收集而来 仅供交流学习使用 版权归原创者所有 如侵犯了您的权益 请通知作者 将及时删除侵权内容
                     ====================Diudiumiao====================
 
 """
 
 from Crypto.Util.Padding import unpad
-from Crypto.Util.Padding import pad
 from urllib.parse import unquote
 from Crypto.Cipher import ARC4
 from urllib.parse import quote
 from base.spider import Spider
-from Crypto.Cipher import AES
 from datetime import datetime
+from Crypto.Cipher import AES
 from bs4 import BeautifulSoup
 from base64 import b64decode
 import urllib.request
 import urllib.parse
-import datetime
 import binascii
 import requests
+import datetime
 import base64
 import json
 import time
@@ -32,11 +31,13 @@ import os
 
 sys.path.append('..')
 
-xurl = "https://api.xingzhige.com"  # 首页 http://play.ruanyazyk.com/drama.html
+xurl = "https://xifan-api-cn.youlishipin.com"
 
 headerx = {
-    'User-Agent': 'Mozilla/5.0 (Linux; U; Android 8.0.0; zh-cn; Mi Note 2 Build/OPR1.170623.032) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/10.1.1'
+    'User-Agent': 'Mozilla/5.0 (Linux; Android 8.0; DUK-AL20 Build/HUAWEIDUK-AL20; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/6.2 TBS/044353 Mobile Safari/537.36 MicroMessenger/6.7.3.1360(0x26070333) NetType/WIFI Language/zh_CN Process/tools'
           }
+
+pm = ''
 
 class Spider(Spider):
     global xurl
@@ -116,68 +117,60 @@ class Spider(Spider):
                 return jg
 
     def homeContent(self, filter):
-        result = {}
-        result = {"class": [{"type_id": "战神", "type_name": "战神"},
-                            {"type_id": "逆袭", "type_name": "逆袭"},
-                            {"type_id": "人物", "type_name": "人物"},
-                            {"type_id": "都市", "type_name": "都市"},
-                            {"type_id": "擦边", "type_name": "擦边"},
-                            {"type_id": "人妖", "type_name": "人妖"},
-                            {"type_id": "闪婚", "type_name": "闪婚"},                                                   {"type_id": "古装", "type_name": "古装"},
-                            {"type_id": "霸总", "type_name": "霸总"},
-                            {"type_id": "强者", "type_name": "强者"},
-                            {"type_id": "玄幻", "type_name": "玄幻"},
-                            {"type_id": "都市", "type_name": "都市"},
-                            {"type_id": "神豪", "type_name": "神豪"},
-                            {"type_id": "现代", "type_name": "现代"},
-                            {"type_id": "爱情", "type_name": "爱情"},
-                            {"type_id": "虐渣", "type_name": "虐渣"},
-                            {"type_id": "总裁", "type_name": "总裁"},
-                            {"type_id": "无敌", "type_name": "无敌"},
-                            {"type_id": "奇幻", "type_name": "奇幻"}],
-                 }
+        result = {"class": []}
+
+        url = f'{xurl}/xifan/drama/portalPage?reqType=duanjuCategory&version=2001001&androidVersionCode=28'
+        detail = requests.get(url=url, headers=headerx)
+        detail.encoding = "utf-8"
+        if detail.status_code == 200:
+            data = detail.json()
+            data = data['result']['elements'][0]['contents']
+
+            for vod in data:
+
+                categoryItemVo = vod.get('categoryItemVo', {})
+                subCategories = categoryItemVo.get('subCategories', None)
+                if subCategories:
+                    continue
+
+                oppoCategory = vod['categoryItemVo']['oppoCategory']
+
+                categoryId = vod['categoryItemVo']['categoryId']
+
+                type_id = str(oppoCategory) + '@' + str(categoryId)
+
+                result["class"].append({"type_id": type_id, "type_name": "精彩🌠" + oppoCategory})
 
         return result
 
     def homeVideoContent(self):
         videos = []
+        current_timestamp = int(datetime.datetime.now().timestamp())
 
-        url = f"{xurl}/API/playlet/?keyword=擦边&page=1"
-        detail = requests.get(url=url, headers=headerx)
-        detail.encoding = "utf-8"
+        url = f"{xurl}/xifan/drama/portalPage?reqType=aggregationPage&offset=0&quickEngineVersion=-1&scene=&categoryNames=&categoryVersion=&density=1.5&pageID=page_theater&version=2001001&androidVersionCode=28&requestId={current_timestamp}d4aa487d53e646c2&appId=drama&teenMode=false&userBaseMode=false&session=eyJpbmZvIjp7InVpZCI6IiIsInJ0IjoiMTc0MDY0NjA2MiIsInVuIjoiT1BHXzYzZTYyMTdhZGJhMDQ4NGI5OWNmYTdkOWMyNmU2NTIwIiwiZnQiOiIxNzQwNjQ2MDYyIn19&feedssession=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1dHlwIjowLCJidWlkIjoxNjMzODY1NTEzMDAzNzYyNjg4LCJhdWQiOiJkcmFtYSIsInZlciI6MiwicmF0IjoxNzQwNjQ2MDYyLCJ1bm0iOiJPUEdfNjNlNjIxN2FkYmEwNDg0Yjk5Y2ZhN2Q5YzI2ZTY1MjAiLCJpZCI6Ijg4MmM2M2U3ZDRhYTQ4N2Q1M2U2NDZjMjQxMjg0NTcxIiwiZXhwIjoxNzQxMjUwODYyLCJkYyI6ImJqaHQifQ.zWhF-1Y92_NwuTzUQ_5dNoJwJN8g6UbMfVuH2QrSjjQ"
+        response = requests.get(url=url, headers=headerx)
+        if response.status_code == 200:
+            response_data = response.json()
+            js = response_data['result']['elements']
 
-        if detail.status_code == 200:
-            data = detail.text
+            for soups in js:
+                for vod in soups['contents']:
 
-            items = re.split(r'\{', data)
-            for item in items:
-                if not item.strip().endswith('}'):
-                    item += '}'
+                    name = vod['duanjuVo']['title']
 
-                book_id = re.search(r'"book_id":\s*"(.*?)"', item)
-                title = re.search(r'"title":\s*"(.*?)"', item)
-                author = re.search(r'"author":\s*"(.*?)"', item)
-                type_ = re.search(r'"type":\s*"(.*?)"', item)
-                cover = re.search(r'"cover":\s*"(.*?)"', item)
-                remark = re.search(r'"category_schema":\s*"(.*?)"', item)
-                desc = re.search(r'"desc":\s*"(.*?)"', item)
+                    id = vod['duanjuVo']['duanjuId']
 
-                if book_id and title and author and type_ and cover and remark and desc:
-                    book_id = book_id.group(1)
-                    title = title.group(1)
-                    author = author.group(1)
-                    type_ = type_.group(1)
-                    cover = cover.group(1)
-                    remark = remark.group(1)
-                    desc = desc.group(1)
+                    id1 = vod['duanjuVo']['source']
 
-                    vod_id = f"{author}@{type_}@{desc}@{book_id}"
+                    pic = vod['duanjuVo']['coverImageUrl']
+
+                    remark = "精彩▶️推荐"
 
                     video = {
-                        "vod_id": vod_id,
-                        "vod_name": title,
-                        "vod_pic": cover,
-                        "vod_remarks": '▶️' + remark
+                        "vod_id": id + "#" + id1,
+                        "vod_name": name,
+                        "vod_remarks": remark,
+                        "vod_pic": pic
                             }
                     videos.append(video)
 
@@ -187,47 +180,36 @@ class Spider(Spider):
     def categoryContent(self, cid, pg, filter, ext):
         result = {}
         videos = []
+        fenge = cid.split("@")
+        page_number = int(pg)
+        page = (page_number - 1) * 30
 
-        if pg:
-            page = int(pg)
-        else:
-            page = 1
+        current_timestamp = int(datetime.datetime.now().timestamp())
 
-        url = f"{xurl}/API/playlet/?keyword={cid}&page={str(page)}"
-        detail = requests.get(url=url, headers=headerx)
-        detail.encoding = "utf-8"
-        if detail.status_code == 200:
-            data = detail.text
+        url = f"{xurl}/xifan/drama/portalPage?reqType=aggregationPage&offset={page}&categoryId={fenge[1]}&quickEngineVersion=-1&scene=&categoryNames={fenge[0]}&categoryVersion=1&density=1.5&pageID=page_theater&version=2001001&androidVersionCode=28&requestId={current_timestamp}aa498144140ef297&appId=drama&teenMode=false&userBaseMode=false&session=eyJpbmZvIjp7InVpZCI6IiIsInJ0IjoiMTc0MDY1ODI5NCIsInVuIjoiT1BHXzFlZGQ5OTZhNjQ3ZTQ1MjU4Nzc1MTE2YzFkNzViN2QwIiwiZnQiOiIxNzQwNjU4Mjk0In19&feedssession=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1dHlwIjowLCJidWlkIjoxNjMzOTY4MTI2MTQ4NjQxNTM2LCJhdWQiOiJkcmFtYSIsInZlciI6MiwicmF0IjoxNzQwNjU4Mjk0LCJ1bm0iOiJPUEdfMWVkZDk5NmE2NDdlNDUyNTg3NzUxMTZjMWQ3NWI3ZDAiLCJpZCI6IjNiMzViZmYzYWE0OTgxNDQxNDBlZjI5N2JkMDY5NGNhIiwiZXhwIjoxNzQxMjYzMDk0LCJkYyI6Imd6cXkifQ.JS3QY6ER0P2cQSxAE_OGKSMIWNAMsYUZ3mJTnEpf-Rc"
+        response = requests.get(url=url, headers=headerx)
+        if response.status_code == 200:
+            response_data = response.json()
 
-            items = re.split(r'\{', data)
-            for item in items:
-                if not item.strip().endswith('}'):
-                    item += '}'
+            js = response_data['result']['elements']
 
-                book_id = re.search(r'"book_id":\s*"(.*?)"', item)
-                title = re.search(r'"title":\s*"(.*?)"', item)
-                author = re.search(r'"author":\s*"(.*?)"', item)
-                type_ = re.search(r'"type":\s*"(.*?)"', item)
-                cover = re.search(r'"cover":\s*"(.*?)"', item)
-                remark = re.search(r'"category_schema":\s*"(.*?)"', item)
-                desc = re.search(r'"desc":\s*"(.*?)"', item)
+            for soups in js:
+                for vod in soups['contents']:
+                    name = vod['duanjuVo']['title']
 
-                if book_id and title and author and type_ and cover and remark and desc:
-                    book_id = book_id.group(1)
-                    title = title.group(1)
-                    author = author.group(1)
-                    type_ = type_.group(1)
-                    cover = cover.group(1)
-                    remark = remark.group(1)
-                    desc = desc.group(1)
+                    id = vod['duanjuVo']['duanjuId']
 
-                    vod_id = f"{author}@{type_}@{desc}@{book_id}"
+                    id1 = vod['duanjuVo']['source']
+
+                    pic = vod['duanjuVo']['coverImageUrl']
+
+                    remark = "精彩▶️推荐"
 
                     video = {
-                        "vod_id": vod_id,
-                        "vod_name": title,
-                        "vod_pic": cover,
-                        "vod_remarks": '▶️️' + remark
+                        "vod_id": id + "#" + id1,
+                        "vod_name": name,
+                        "vod_remarks": remark,
+                        "vod_pic": pic
                             }
                     videos.append(video)
 
@@ -242,52 +224,33 @@ class Spider(Spider):
         did = ids[0]
         result = {}
         videos = []
-        xianlu = ''
-        bofang = ''
+        xianlu = ""
+        bofang = ""
+        fenge = did.split("#")
 
-        fenge = did.split("@")
+        url = f"{xurl}/xifan/drama/getDuanjuInfo?duanjuId={fenge[0]}&source={fenge[1]}&openFrom=homescreen&type=&pageID=page_inner_flow&density=1.5&version=2001001&androidVersionCode=28&requestId=1740658944980aa498144140ef297&appId=drama&teenMode=false&userBaseMode=false&session=eyJpbmZvIjp7InVpZCI6IiIsInJ0IjoiMTc0MDY1ODI5NCIsInVuIjoiT1BHXzFlZGQ5OTZhNjQ3ZTQ1MjU4Nzc1MTE2YzFkNzViN2QwIiwiZnQiOiIxNzQwNjU4Mjk0In19&feedssession=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1dHlwIjowLCJidWlkIjoxNjMzOTY4MTI2MTQ4NjQxNTM2LCJhdWQiOiJkcmFtYSIsInZlciI6MiwicmF0IjoxNzQwNjU4Mjk0LCJ1bm0iOiJPUEdfMWVkZDk5NmE2NDdlNDUyNTg3NzUxMTZjMWQ3NWI3ZDAiLCJpZCI6IjNiMzViZmYzYWE0OTgxNDQxNDBlZjI5N2JkMDY5NGNhIiwiZXhwIjoxNzQxMjYzMDk0LCJkYyI6Imd6cXkifQ.JS3QY6ER0P2cQSxAE_OGKSMIWNAMsYUZ3mJTnEpf-Rc"
+        response = requests.get(url=url, headers=headerx)
+        if response.status_code == 200:
+            response_data = response.json()
 
-        url = 'http://rihou.cc:88/je.json'
-        response = requests.get(url)
-        response.encoding = 'utf-8'
-        code = response.text
-        name = self.extract_middle_text(code, "s1='", "'", 0)
-        Jumps = self.extract_middle_text(code, "s2='", "'", 0)
+            content = '精彩为您介绍剧情📢' + response_data.get('result', {}).get('desc', '未知')
 
-        content = '集多为您介绍剧情📢' + fenge[2]
-
-        actor = fenge[0]
-
-        remarks = fenge[1]
-
-        if name not in content:
-            bofang = Jumps
-            xianlu = '1'
-        else:
-            url = f"{xurl}/API/playlet/?book_id={fenge[3]}"
-            detail = requests.get(url=url, headers=headerx)
-            detail.encoding = "utf-8"
-            if detail.status_code == 200:
-                detail = detail.json()
-
-            soup = detail['data']['video_list']
-
+            soup = response_data['result']['episodeList']
             for sou in soup:
 
-                id = sou['video_id']
+                name = sou['index']
 
-                name = sou['title']
+                id = sou['playUrl']
 
-                bofang = bofang + name + '$' + id + '#'
+                bofang = bofang + str(name) + '$' + str(id) + '#'
 
-            bofang = bofang[:-1]
+            bofang = bofang[:-1] + '$$$'
 
-            xianlu = '专线'
+        bofang = bofang[:-3]
+        xianlu = '精彩短剧专线'
 
         videos.append({
             "vod_id": did,
-            "vod_actor": actor,
-            "vod_remarks": remarks,
             "vod_content": content,
             "vod_play_from": xianlu,
             "vod_play_url": bofang
@@ -298,69 +261,48 @@ class Spider(Spider):
 
     def playerContent(self, flag, id, vipFlags):
 
-        url = f"{xurl}/API/playlet/?video_id={id}&quality=1080p"
-        detail = requests.get(url=url, headers=headerx)
-        detail.encoding = "utf-8"
-        if detail.status_code == 200:
-            detail = detail.json()
-            url = detail['data']['video']['url']
-
         result = {}
         result["parse"] = 0
         result["playUrl"] = ''
-        result["url"] = url
+        result["url"] = id
         result["header"] = headerx
         return result
 
-    def searchContentPage(self, key, quick, pg):
+    def searchContentPage(self, key, quick, page):
         result = {}
         videos = []
 
-        if pg:
-            page = int(pg)
-        else:
-            page = 1
+        current_timestamp = int(datetime.datetime.now().timestamp())
 
-        url = f"{xurl}/API/playlet/?keyword={key}&page={str(page)}"
-        detail = requests.get(url=url, headers=headerx)
-        detail.encoding = "utf-8"
-        if detail.status_code == 200:
-            data = detail.text
+        url = f"{xurl}/xifan/search/getSearchList?keyword={key}84&pageIndex={page}&version=2001001&androidVersionCode=28&requestId={current_timestamp}ea3a14bc0317d76f&appId=drama&teenMode=false&userBaseMode=false&session=eyJpbmZvIjp7InVpZCI6IiIsInJ0IjoiMTc0MDY2ODk4NiIsInVuIjoiT1BHX2U5ODQ4NTgzZmM4ZjQzZTJhZjc5ZTcxNjRmZTE5Y2JjIiwiZnQiOiIxNzQwNjY4OTg2In19&feedssession=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1dHlwIjowLCJidWlkIjoxNjM0MDU3ODE4OTgxNDk5OTA0LCJhdWQiOiJkcmFtYSIsInZlciI6MiwicmF0IjoxNzQwNjY4OTg2LCJ1bm0iOiJPUEdfZTk4NDg1ODNmYzhmNDNlMmFmNzllNzE2NGZlMTljYmMiLCJpZCI6ImVhZGE1NmEyZWEzYTE0YmMwMzE3ZDc2ZmVjODJjNzc3IiwiZXhwIjoxNzQxMjczNzg2LCJkYyI6ImJqaHQifQ.IwuI0gK077RF4G10JRxgxx4GCG502vR8Z0W9EV4kd-c"
+        response = requests.get(url=url, headers=headerx)
+        if response.status_code == 200:
+            response_data = response.json()
+            js = response_data['result']['elements']
 
-            items = re.split(r'\{', data)
-            for item in items:
-                if not item.strip().endswith('}'):
-                    item += '}'
+            for soups in js:
+                for vod in soups['contents']:
+                    name = vod['duanjuVo']['title']
+                    cleaned_name = re.sub(r'<tag>|</tag>', '', name)
 
-                book_id = re.search(r'"book_id":\s*"(.*?)"', item)
-                title = re.search(r'"title":\s*"(.*?)"', item)
-                author = re.search(r'"author":\s*"(.*?)"', item)
-                type_ = re.search(r'"type":\s*"(.*?)"', item)
-                cover = re.search(r'"cover":\s*"(.*?)"', item)
-                remark = re.search(r'"category_schema":\s*"(.*?)"', item)
-                desc = re.search(r'"desc":\s*"(.*?)"', item)
+                    id = vod['duanjuVo']['duanjuId']
 
-                if book_id and title and author and type_ and cover and remark and desc:
-                    book_id = book_id.group(1)
-                    title = title.group(1)
-                    author = author.group(1)
-                    type_ = type_.group(1)
-                    cover = cover.group(1)
-                    remark = remark.group(1)
-                    desc = desc.group(1)
+                    id1 = vod['duanjuVo']['source']
 
-                    vod_id = f"{author}@{type_}@{desc}@{book_id}"
+                    pic = vod['duanjuVo']['coverImageUrl']
+
+                    remark = "精彩▶️推荐"
 
                     video = {
-                        "vod_id": vod_id,
-                        "vod_name": title,
-                        "vod_pic": cover,
-                        "vod_remarks": '️▶️' + remark
+                        "vod_id": id + "#" + id1,
+                        "vod_name": cleaned_name,
+                        "vod_remarks": remark,
+                        "vod_pic": pic
                             }
                     videos.append(video)
 
         result['list'] = videos
-        result['page'] = pg
+        result['page'] = page
         result['pagecount'] = 9999
         result['limit'] = 90
         result['total'] = 999999
@@ -377,10 +319,6 @@ class Spider(Spider):
         elif params['type'] == "ts":
             return self.proxyTs(params)
         return None
-
-
-
-
 
 
 
