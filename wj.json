@@ -7,18 +7,14 @@
             "name": "联通直播",
             "type": 0,
             "url": "./xyzb.txt",
-            "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-			"playerType": 2,
-            "timeout": 10
-        },
+            "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+		},
          {
             "name": "咪咕直播",
             "type": 0,
             "url": "https://ghcy.eu.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-            "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-			"playerType": 2,
-            "timeout": 10
-        }
+            "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+		}
   ],
   "sites": [
     {
