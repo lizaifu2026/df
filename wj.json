@@ -1709,7 +1709,14 @@
       "jar": "https://ncstatic.clewm.net/rsrc/2025/0716/15/3583b9ecff3bc6a1db4004faf891f7de.png;md5;423e33ec108c0f7816200cebaf18fb69",
       "ext": "./lib/aha.json"
     },	
-	{	  
+    {
+      "key": "lxyy",
+      "name": "洛雪音乐",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./lib/洛雪音乐源.js"
+    },	
+	  {	  
       "key": "音乐仓",
       "name": "音乐仓库",
       "type": 3,
