@@ -1426,10 +1426,10 @@
             "playerType": 2
         },       
  {
-            "key": "星之阁短剧",
-            "name": "星之阁短剧",
+            "key": "花生短剧",
+            "name": "花生短剧",
             "type": 3,
-            "api": "./py/星之阁短剧.py",
+            "api": "./py/花生短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
