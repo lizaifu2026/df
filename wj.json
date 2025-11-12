@@ -1430,7 +1430,17 @@
             "api": "csp_XBPQ",
             "ext": "./lib/擦边短剧.json"
         },	  
-        {
+           {
+            "key": "围观短剧",
+            "name": "围观短剧",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/围观短剧.js"
+        },     
+	  {
             "key": "海马短剧",
             "name": "海马短剧",
             "type": 3,
