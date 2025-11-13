@@ -304,6 +304,18 @@
                 "version": ""
             }
         },	  
+    {
+      "key": "拾光视频",
+      "name": "拾光视频APP",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/Hmys.py",
+      "ext": {
+        "host": "https://dy.jmzp.net.cn",
+        "app_id": "shiguang",
+        "versionCode": "10000",
+        "UMENG_CHANNEL": "guan"
+      }
+    },	  
 	  {
             "key": "紫金",
             "name": "紫金APP",
