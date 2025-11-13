@@ -956,6 +956,16 @@
       "api": "csp_XBPQ",
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/MoXiaoYS.json"
     },	
+        {
+            "key": "奇优",
+            "name": "奇优APP",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/奇优.json"
+        },	  
 	  {
             "key": "猎手影视",
             "name": "猎手影视",
