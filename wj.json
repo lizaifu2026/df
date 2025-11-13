@@ -289,18 +289,7 @@
       "api": "csp_AppQi",
       "ext": "9ee0oa0Y30GapSvZ2C2RVE2HwH08KKvP0VhAZCVWpnluXpZNLRZrNCMeKyCWw1JOnmBt4WntUB96Gzw7GkroAUK4RePU806mDtHSmD09164W8EWpaWaU/Gg8nPkgUt5F"
     },       
-   {
-           "key": "娱乐影视Free",
-            "name": "娱乐专用影视Free",
-            "type": 3,
-            "searchable": 1,
-            "api": "csp_AppGet",  
-              "ext": {
-        "host": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
-        "datakey": "88689667dce61725"
-    }
-},            
-	  {
+    {
             "key": "梨瓜",
             "name": "梨瓜APP",
             "type": 3,
