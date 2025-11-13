@@ -1323,6 +1323,17 @@
       "filterable": 1,
       "changeable": 1
     },		  
+ {
+            "key": "kkys",
+            "name": "看客影视",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/%E7%9C%8B%E5%AE%A2TV.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },	  
 	  {	 
             "key": "旺旺采集资源",
             "name": "旺旺短剧",
@@ -1518,18 +1529,7 @@
             "filterable": 1,
             "playerType": 2
         },
-        {
-            "key": "蓝莓短剧",
-            "name": "蓝莓短剧",
-            "type": 3,
-            "api": "./py/蓝莓短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },       
-         {
+       {
             "key": "星芽短剧",
             "name": "星芽短剧",
             "type": 3,
