@@ -289,6 +289,21 @@
       "api": "csp_AppQi",
       "ext": "9ee0oa0Y30GapSvZ2C2RVE2HwH08KKvP0VhAZCVWpnluXpZNLRZrNCMeKyCWw1JOnmBt4WntUB96Gzw7GkroAUK4RePU806mDtHSmD09164W8EWpaWaU/Gg8nPkgUt5F"
     },       
+        {
+            "key": "梨瓜",
+            "name": "梨瓜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "",
+                "site": "http://apps.liguapp.com/getapi.txt",
+                "dataKey": "A9f3Zx7Qk2Lm8P1N",
+                "dataIv": "A9f3Zx7Qk2Lm8P1N",
+                "deviceId": "",
+                "version": ""
+            }
+        },	  
 	  {
             "key": "紫金",
             "name": "紫金APP",
