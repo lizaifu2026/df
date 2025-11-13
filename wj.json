@@ -289,7 +289,18 @@
       "api": "csp_AppQi",
       "ext": "9ee0oa0Y30GapSvZ2C2RVE2HwH08KKvP0VhAZCVWpnluXpZNLRZrNCMeKyCWw1JOnmBt4WntUB96Gzw7GkroAUK4RePU806mDtHSmD09164W8EWpaWaU/Gg8nPkgUt5F"
     },       
-        {
+   {
+           "key": "娱乐影视Free",
+            "name": "娱乐专用影视Free",
+            "type": 3,
+            "searchable": 1,
+            "api": "csp_AppGet",  
+              "ext": {
+        "host": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
+        "datakey": "88689667dce61725"
+    }
+},            
+	  {
             "key": "梨瓜",
             "name": "梨瓜APP",
             "type": 3,
@@ -1284,7 +1295,7 @@
     },
   {
             "key": "dytt",
-            "name": "测试影视",
+            "name": "娱乐电影天堂",
             "type": 3,
             "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/47%E7%94%B5%E5%BD%B1%E5%A4%A9%E5%A0%82.py",
             "searchable": 1,
