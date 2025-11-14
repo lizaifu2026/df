@@ -1541,17 +1541,16 @@
             "filterable": 1,
             "playerType": 2
         },     
-	  {
-            "key": "甜圈短剧",
-            "name": "甜圈圈短剧",
-            "type": 3,
-            "api": "./py/甜圈短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
+    {
+      "key": "甜圈短剧",
+      "name": "甜圈短剧",
+      "type": 3,
+      "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/TQDJ.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
  {
             "key": "锦鲤短剧",
             "name": "锦鲤短剧",
