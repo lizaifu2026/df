@@ -290,6 +290,18 @@
       "ext": "9ee0oa0Y30GapSvZ2C2RVE2HwH08KKvP0VhAZCVWpnluXpZNLRZrNCMeKyCWw1JOnmBt4WntUB96Gzw7GkroAUK4RePU806mDtHSmD09164W8EWpaWaU/Gg8nPkgUt5F"
     },       
     {
+      "key": "茉莉",
+      "name": "茉莉APP",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
+        "dataKey": "88689667dce61725",
+        "dataIv": "88689667dce61725"
+      }
+    },    
+	  {
             "key": "梨瓜",
             "name": "梨瓜APP",
             "type": 3,
