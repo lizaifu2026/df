@@ -1227,7 +1227,7 @@
     },
     {
       "key": "森林动漫",
-      "name": "森林动漫｜APP",
+      "name": "森林动漫APP",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/FeiApp.py",
       "ext": "https://ysa.yy-fun.cc/feiapp"
