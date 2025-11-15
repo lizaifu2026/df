@@ -100,19 +100,7 @@
         "ua": ""
       }
     },
-	{
-      "key": "影视",
-      "name": "影视APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "site": "./lib/qj2.txt",
-        "dataKey": "sada21321sdq231d",
-        "dataIv": "sada21321sdq231d"
-      }
-    },	  
-     {
+  {
       "key": "热剧",
       "name": "热剧APP",
       "type": 3,
@@ -268,18 +256,7 @@
                 "version": ""
             }
         },       
-   {
-      "key": "AppQi1",
-      "name": "奇力app",
-      "type": 3,
-      "jar": "./jar/xm.jar",
-      "api": "csp_AppQi",
-      "changeable": "0",
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiqzXAOG2XsUSh62armSJmz6+8BN455Lbt5tpPqGfXnKgoQ1N+ZOhu3N/KDZ+r/7HZc="
-    },
-    {
+ {
       "key": "云速",
       "name": "新云速app",
       "type": 3,
@@ -408,23 +385,7 @@
         "dataIv": "yangruiqiYsapp00"
       }
     },   
-	{
-      "key": "米奇",
-      "name": "米奇APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://www.milkidc.cn",
-        "site": "",
-        "dataKey": "20c79c979da8db0f",
-        "dataIv": "20c79c979da8db0f",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },	  
-   {
+  {
             "key": "火花",
             "name": "火花APP",
             "type": 3,
@@ -497,22 +458,7 @@
         "version": "120"
       }
     },	  
-    {
-      "key": "于浅",
-      "name": "于浅APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://202.140.143.116:88",
-        "site": "",
-        "dataKey": "leroulerop.lerom",
-        "dataIv": "leroulerop.lerom",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
+{
       "key": "火锅",
       "name": "火锅APP",
       "type": 3,
