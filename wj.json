@@ -1390,19 +1390,17 @@
             "filterable": 1,
             "playerType": 2
         },		  
-    {
-      "key": "可可影视",
-      "name": "可可影视APP",
-      "type": 3,
-      "api": "https://ghproxy.net/https://github.com/engd66/PyramidStore/blob/main/plugin/app/salmon%E5%8F%8C%E7%BA%BF.py",
-      "ext": {
-        "appid": "kkdy",
-        "channelid": "c1",
-        "versionName": "3.3.9",
-        "host": "https://vcache.nxcse.cn",
-        "package": "com.kkdyC1V251003.T090030"
-      }
-    },	  
+ {
+            "key": "xxpgys",
+            "name": "小苹果影视(备用)",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/LiteApple.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },  
 	  {	 
             "key": "旺旺采集资源",
             "name": "旺旺短剧",
