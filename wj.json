@@ -1225,7 +1225,14 @@
         "ua": ""
       }
     },
-	 {
+    {
+      "key": "森林动漫",
+      "name": "森林动漫｜APP",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/FeiApp.py",
+      "ext": "https://ysa.yy-fun.cc/feiapp"
+    },	
+	  {
             "key": "曼波动漫",
             "name": "曼波动漫",
             "type": 3,
