@@ -1226,11 +1226,15 @@
       }
     },
     {
-      "key": "森林动漫",
-      "name": "森林动漫APP",
+      "key": "2k动漫",
+      "name": "2k动漫APP",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/FeiApp.py",
-      "ext": "https://ysa.yy-fun.cc/feiapp"
+      "api": "https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/skapp.py",
+      "ext": {
+        "host": "https://dmsk.oss-rg-china-mainland.aliyuncs.com/dmapp/dmapi.txt",
+        "key": "ygcnbcobcegtgigg",
+        "iv": "4058263969143708"
+      }
     },	
 	  {
             "key": "曼波动漫",
