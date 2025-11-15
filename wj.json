@@ -1359,6 +1359,17 @@
     },		  
  {
             "key": "kkys",
+            "name": "新端木影视",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/%E6%96%B0%E7%AB%AF%E6%9C%A8%E8%A7%86%E9%A2%913.4%E5%8D%95%E7%BA%BF.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },	  
+ {
+            "key": "xdmys",
             "name": "看客影视",
             "type": 3,
             "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/%E7%9C%8B%E5%AE%A2TV.py",
@@ -1367,7 +1378,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "playerType": 2
-        },	  
+        },		  
 	  {	 
             "key": "旺旺采集资源",
             "name": "旺旺短剧",
@@ -1467,7 +1478,7 @@
         },         
           {
             "key": "xtqdj",
-            "name": "香甜圈短剧",
+            "name": "甜圈短剧",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "searchable": 1,
@@ -1543,7 +1554,7 @@
         },     
     {
       "key": "甜圈短剧",
-      "name": "甜圈短剧",
+      "name": "甜圈短剧(备用)",
       "type": 3,
       "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/TQDJ.py",
       "searchable": 1,
