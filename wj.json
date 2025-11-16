@@ -910,14 +910,14 @@
         },	  
         {
             "key": "星空影视",
-            "name": "星空｜影视",
+            "name": "星空影视",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "./lib/星空影视.json"
         },
         {
             "key": "巴蜀影视",
-            "name": "巴蜀｜影视",
+            "name": "巴蜀影视",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "./lib/巴蜀影视.json"
