@@ -887,6 +887,41 @@
             "filterable": 1,
             "ext": "./lib/奇优.json"
         },	  
+        {
+            "key": "明星影视",
+            "name": "明星影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./lib/明星影视.json"
+        },
+        {
+            "key": "麦田影视",
+            "name": "麦田影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./lib/麦田影视.json"
+        },	  
+        {
+            "key": "流光影视",
+            "name": "流光影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./lib/流光影视.json"
+        },	  
+        {
+            "key": "星空影视",
+            "name": "星空｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./lib/星空影视.json"
+        },
+        {
+            "key": "巴蜀影视",
+            "name": "巴蜀｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./lib/巴蜀影视.json"
+        },	  
 	  {
             "key": "猎手影视",
             "name": "猎手影视",
