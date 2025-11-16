@@ -379,19 +379,6 @@ CGTN,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226172/index.m3u8
 阜新新闻综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227407/index.m3u8
 抚顺综合,https://fsgbdstzb.lnyun.com.cn/fsfb2/tvzb2.m3u8?auth_key=1800000000-0-0-567c83e6e68f69724b3d3c9a934e147c
 抚顺教育,https://fsgbdstzb.lnyun.com.cn/fsfb1/tvzb1.m3u8?auth_key=1800000000-0-0-4a9318cfc89de3265930e8db1aa63e49
-葫芦岛公共,http://60.18.212.76:9527/rtp/232.0.0.239:9262
-葫芦岛综合,http://60.18.212.76:9527/rtp/232.0.0.238:9260
-丹东新闻,http://60.18.212.76:9527/rtp/232.0.0.251:9162
-丹东生活,http://60.18.212.76:9527/rtp/232.0.0.252:9164
-辽阳新闻综合,http://60.18.212.76:9527/rtp/232.0.0.249:9140
-辽阳社会生活,http://60.18.212.76:9527/rtp/232.0.0.250:9000
-辽宁阜新综合,http://60.18.212.76:9527/rtp/232.0.0.246:9134
-辽宁阜新教育,http://60.18.212.76:9527/rtp/232.0.0.248:9138
-辽宁阜新公共,http://60.18.212.76:9527/rtp/232.0.0.247:9136
-辽宁朝阳教育,http://60.18.212.76:9527/rtp/232.0.0.244:9128
-辽宁铁岭新闻,http://60.18.212.76:9527/rtp/232.0.0.240:9280
-辽宁铁岭公共,http://60.18.212.76:9527/rtp/232.0.0.241:9282
-辽宁沈阳新闻,http://60.18.212.76:9527/rtp/232.0.0.227:9276
 辽源综合,http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
 吉林市新闻综合,http://stream2.jlntv.cn/jilin1/sd/live.m3u8
 重温经典,http://a.jun1985.cn/php/cwjd.php
@@ -1305,7 +1292,7 @@ CCTV16 31M2160HDR,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/888
 北京IPTV淘娱乐 8M1080,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8
 北京IPTV淘电影 8M1080,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
 北京IPTV萌宠TV 8M1080,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8
-北京大健康 8M1080,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
+重温经典 8M1080,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
 CCTV1 4M1080,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226933/1.m3u8
 CCTV1 5M1080HEVC,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8
 CCTV1 8M1080,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226346/1.m3u8
