@@ -611,14 +611,7 @@
             "filterable": 1,
             "ext": "./lib/毒舌影视.json"
         },
-    {
-      "key": "可可影视",
-      "name": "可可影视",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./lib/drpy2_可可影视.js"
-    },        
-	  {
+       {
             "key": "农牧",
             "name": "农牧APP",
             "type": 3,
