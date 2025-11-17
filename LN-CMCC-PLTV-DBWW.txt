@@ -402,7 +402,7 @@ CCTV-怀旧剧场,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3
 睛彩篮球,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227478/index.m3u8,$FHD
 睛彩青少,http://39.134.52.214/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8,$FHD
 睛彩青少,http://39.134.52.215/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.
-GITV,#genre#
+GITV直播,#genre#
 CCTV4K超高清,http://101.73.110.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
 CCTV16-4K,http://101.73.110.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8
 北京卫视4K,http://101.73.110.138:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJING-4K/G_BEIJING-4K.m3u8
