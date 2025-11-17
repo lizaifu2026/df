@@ -500,15 +500,45 @@
                 "version": "107"
             }
         },	  
-{
-   "key": "YIYI影视",
-   "name": "YIYI影视App",
-   "type": 3,
-   "jar":"http://cdn.qiaoji8.com/fix250611.jar",
-   "api": "csp_Muou",
-   "playerType": 2,
-   "ext": "7lj763gg0939790i413gi4igh94585i7g0l98449i39920187h78327624i6j3iqiaoji9lj8g09l9ig1ii3"
-},  
+        {
+            "key": "魔方",
+            "name": "魔方APP",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://app.ybn-ooo.top",
+                "dataKey": "vcfgytu7654rtyui",
+                "dataIv": "vcfgytu7654rtyui"
+            }
+        },
+        {
+            "key": "柒月",
+            "name": "柒月APP",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.ys.mk",
+                "dataKey": "mayday6770249ash",
+                "dataIv": "mayday6770249ash"
+            }
+        },
+        {
+            "key": "小猫",
+            "name": "小猫APP",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "site": "http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt",
+                "dataKey": "xmyxmyxywlkjxywl",
+                "dataIv": "xmyxmyxywlkjxywl"
+            }
+        },
         {
             "key": "丫丫",
             "name": "丫丫APP",
