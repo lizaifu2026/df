@@ -1364,7 +1364,18 @@
             "filterable": 1,
             "playerType": 2
         },	  
- {
+	  {
+            "key": "4KYS",
+            "name": "4K影视",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/4K%E5%BD%B1%E8%A7%86.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        }, 
+	  {
             "key": "xdmys",
             "name": "看客影视",
             "type": 3,
