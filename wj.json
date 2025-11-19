@@ -941,31 +941,7 @@
 { "key": "剧圈圈", "name": "剧圈圈", "type":3,"api":"csp_XBPQ","click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","ext": {"请求头":"手机","简介":"剧情介绍:+module-info-introduction-content\">&&</div>","分类url":"https://www.jqqzx.me/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$shuangju#电视剧$juji#电影$dianying#动漫$dongman#综艺$zongyi"}},	  
 {"key":"火猫","name":"火猫App","type":3,"api":"csp_Muou","playerType":2,"jar": "http://cdn.qiaoji8.com/fix250611.jar;md5;83e79618db661722282127c185ed2331","ext":"7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602"},
 { "key": "骚火电影", "name": "骚火电影", "type":3,"api":"csp_XBPQ","ext": {"首页":"0","请求头":"User-Agent$MOBILE_UA#Accept$text/html#accept-language$zh-CN,zh;q=0.8","分类url":"https://saohuo.tv/list/{cateId}-{catePg}.html","分类":"剧集$2#电影$1#港剧$21#台剧$26#日剧$24#韩剧$22#美剧$23","数组":"class=\"v_img&&/li>","标题":"alt=\"&&\"","图片":"original=\"&&\"","链接":"href=\"&&\"","简介":"show_part\">&&<a","演员":"主演:&&<a","导演":"导演:&&/","播放二次截取":"class=\"play_list&&/ul>","播放数组":"<li&&/li>","倒序":"1"}},	  
-        {
-            "name": "杜北",
-            "key": "杜北影视",
-            "type": 3,
-            "api": "csp_DubkAmns",
-            "jar": "./custom_spider.jar",
-			"searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "./lib/dubk.json"
-        },
-        {
-            "name": "伊外",
-            "key": "伊外影视",
-            "type": 3,
-            "api": "csp_YIysAmns",
-            "jar": "./lib/custom_spider.jar",
-			"searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },    
-	  
-	  {
+   {
       "key": "莫小影视",
       "name": "莫小影视",
       "type": 3,
@@ -1473,39 +1449,6 @@
           }, 
 { "key": "短剧网", "name": "短剧网", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+data-label\">&&</p>","副标题":"meta-post-type2\">&&</span>","分类url":"https://www.duanju2.com/show/duanju---{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#悬疑$脑洞悬疑#年代$年代穿越#古装$古装仙侠#都市$现代都市#反转$反转#爽文$爽文#其他$短剧"}},   
  { "key": "茄子短剧", "name": "番茄短剧", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+简介：</span>&&","线路标题":"panel-hd\">&&</div>","分类url":"https://www.shanhuzs.com/fqsansw/5-{area}--{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"}},       
-        {
-            "name": "豪堪短剧",
-            "key": "豪堪短剧",
-            "type": 3,
-            "api": "csp_HHkkAmns",
-            "jar": "./lib/custom_spider.jar",
-			"searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },      
-        {
-            "name": "拜拜短剧",
-            "key": "拜拜短剧",
-            "type": 3,
-            "api": "csp_BddjAmns",
-            "jar": "./lib/custom_spider.jar",
-			"searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },	  
-        {
-            "name": "西瓜短剧",
-            "key": "西瓜短剧",
-            "type": 3,
-            "api": "csp_HgggAmns",
-            "jar": "./lib/custom_spider.jar",
-			"searchable": 0,
-            "filterable": 1,
-            "quickSearch": 0,
-            "changeable": 1
-        },	  
 	  {
             "key": "短剧AI",
             "name": "短剧AI",
