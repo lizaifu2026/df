@@ -905,7 +905,7 @@
             "key": "杜北影视",
             "type": 3,
             "api": "csp_DubkAmns",
-            "jar": "./lib/custom_spider.jar",
+            "jar": "./custom_spider.jar",
 			"searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
