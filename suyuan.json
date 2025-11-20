@@ -1,7 +1,7 @@
 {
   "spider":"./xiaosa.txt;md5;057dacae6a38ab13270a5cb179622726",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
-  "logo": "./logo.gif",
+  "logo": "./logo1.gif",
   "lives": [
         {
             "name": "联通直播",
@@ -12,7 +12,7 @@
          {
             "name": "咪咕直播",
             "type": 0,
-            "url": "https://ghcy.eu.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+            "url": "",
             "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
 		}
   ],
@@ -2397,3 +2397,4 @@
  
 
      
+
