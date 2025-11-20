@@ -73,7 +73,36 @@
         "version": "120"
       }
     },  
-{
+    {
+      "key": "极兔",
+      "name": "极兔APP",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": {
+        "host": "http://www.mzd.asia"
+      }
+    },
+    {
+      "key": "二三",
+      "name": "二三APP",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": {
+        "host": "http://a.cfys.xn--fiqs8s"
+      }
+    },
+    {
+      "key": "思念",
+      "name": "思念APP",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": {
+        "host": "https://snys2.xyz",
+        "timeout": 15,
+        "ver": 2
+      }
+    },	 
+	{
       "key": "冷心",
       "name": "冷心APP",
       "type": 3,
