@@ -196,7 +196,20 @@
       "quickSearch": 1,
       "ext": "http://m51.gotto.top/api.php/v1.vod"
     },	  
-       {
+        {
+            "key": "柒月",
+            "name": "柒月APP",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.ys.mk",
+                "dataKey": "mayday6770249ash",
+                "dataIv": "mayday6770249ash"
+            }
+        },       
+	  {
             "key": "狂人",
             "name": "狂人APP",
             "type": 3,
@@ -2445,6 +2458,7 @@
  
 
      
+
 
 
 
