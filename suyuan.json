@@ -312,7 +312,29 @@
                 "version": ""
             }
         },       
- {
+     {
+      "key": "xingkong",
+      "name": "星空备份1APP",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": {
+        "host": "http://fox.qwqfun.com"
+      }
+    },
+    {
+      "key": "xkysg",
+      "name": "星空备份2APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://43.154.4.75",
+        "dataKey": "HDk-7CnlK8SQUGLg",
+        "dataIv": "HDk-7CnlK8SQUGLg"
+      }
+    },	  
+	{
       "key": "云速",
       "name": "新云速app",
       "type": 3,
@@ -2458,6 +2480,7 @@
  
 
      
+
 
 
 
