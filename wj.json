@@ -73,24 +73,7 @@
         "version": "120"
       }
     },  
-      {
-      "key": "蔬菜",
-      "name": "雪魂APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "jar": "./jar/tvkj.jar",
-      "ext": {
-        "url": "http://huohu.yihn.cc",
-        "site": "",
-        "dataKey": "huohushipingetap",
-        "dataIv": "huohushipingetap",
-        "deviceId": "",
-        "version": "140",
-        "ua": ""
-      }
-    },
-  {
+   {
       "key": "热剧",
       "name": "热剧APP",
       "type": 3,
@@ -507,16 +490,6 @@
             }
         },      
         {
-            "key": "毒舌影视",
-            "name": "毒舌APP",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/毒舌影视.json"
-        },
-       {
             "key": "农牧",
             "name": "农牧APP",
             "type": 3,
@@ -526,17 +499,7 @@
             "filterable": 1,
             "ext": "./lib/农牧影视.json"
         },	  
-  {
-     "key": "csp_剧下饭",
-     "name": "剧下饭4K",
-     "type": 3,
-     "api": "csp_AppYs",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 1,
-     "ext": "http://jxfmax.juxiafan.com/icciu_api.php/v1.vod"
-   },	 
-	{
+	 {
       "key": "QD4K",
       "name": "猪猪影视",
       "type": 3,
@@ -565,17 +528,7 @@
                "version": "119"
            }
        },	  
- {
-   "key": "小城",
-     "name": "小城影视",
-     "type": 3,
-     "api": "csp_AppYs",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 1,
-     "ext": "http://v.cute6.cn/api.php/v1.vod"
-   },   
- {
+   {
            "key": "玲珑",
            "name": "玲珑APP",
            "type": 3,
@@ -895,26 +848,7 @@
       "searchable": 1,
       "changeable": 1
     },	 
-     { "key": "沙雕动漫", "name": "沙雕动漫", "type":3,"style": {"type":"rect","ratio":1.433},"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+<p>&&</p>","首页":"0","线路标题":"panel-heading\">&&</div>","分类url":"http://www.jibai5.com/vodtype/{cateId}-{catePg}.html","分类":"沙雕动漫$22"}},       
-    {
-      "key": "沙雕",
-      "name": "沙雕动漫影视",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.309
-      },
-      "ext": {
-        "type": "沙雕综合#沙雕求生#沙雕修仙#沙雕末世#沙雕诡异#完结沙雕#动漫馆",
-        "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt",
-        "msg": "124421jh8lk39646pgruC6dATnyTtf6ewyst71opcsJfticyXxWGbU5x4zxzEQ5LWhshM7QSmwiAgf0H4RN8rjjuUPQPPsiTj8Yz48I27L5SoL/Lbg70J558Qnv6Dtdt9BeeyWciQnnqApDLzxuKF+nEHryocRY26k1efEO43zCfP69tVyTyWvQ/MT7q/J7KDiOdwg0CGUc0cPhVc3AiwU6ZXIapEVCaeJ1OkLO2LzfrGsCulTGV9LrN4N8omBYpohl4BgdDhg8SQwEh9MoFXC1M2AqzePjz+itosXK3VQ3Ch4ba88bCsZSAs56JWl570OQ5t3yuPDslC75Y1p4Y9x9OOnztqiDqRbgpaXR5KWKYWfjU9T1H2SXW3uAmq9Z2GQKDrAQT7gB35NJeagOshSRZScjiS3Ss7lf/6iMfs9NInk9DfLj/H/9HCcIDRr1AG/ZGgLLtB/doGr0l/oENwrHwu+kLjzqWcmiAPcaLdbeeK18hxlYJBvXIlfjoWgopvFnm7338rR8k7EwtnU39fRJph5WcuPdvL5ZivGdWO+EYQ47zLhX038Vcju8iF3omFTj5W6D9FEOXryKIMCBgi8G5t+I73iaFCGGzTA=="
-      }
-    },	 
-	  {
+	 {
             "key": "稀饭动漫",
             "name": "稀饭动漫",
             "type": 3,
@@ -1013,18 +947,7 @@
         "ua": ""
       }
     },
-    {
-      "key": "2k动漫",
-      "name": "2k动漫APP",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/skapp.py",
-      "ext": {
-        "host": "https://dmsk.oss-rg-china-mainland.aliyuncs.com/dmapp/dmapi.txt",
-        "key": "ygcnbcobcegtgigg",
-        "iv": "4058263969143708"
-      }
-    },	
-	  {
+	 {
             "key": "曼波动漫",
             "name": "曼波动漫",
             "type": 3,
@@ -1038,179 +961,6 @@
                 "version": ""
             }
         },
-       {
-            "key": "天空影视",
-            "name": "天空影视",
-            "type": 3,
-            "api": "./py/天空影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },     
-	  {
-            "key": "八戒影视",
-            "name": "八戒影视",
-            "type": 3,
-            "api": "./py/八戒影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },	  
-	  {
-            "key": "老地方",
-            "name": "老地方影视",
-            "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/%E8%80%81%E5%9C%B0%E6%96%B9%E5%BD%B1%E9%99%A2.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },	   	  
-	  {
-            "key": "独播库",
-            "name": "独播库影视",
-            "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/%E7%8B%AC%E6%92%AD%E5%BA%93.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },		  
-        {
-            "key": "五八PY",
-            "name": "伍捌APP",
-            "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/58%E8%A7%86%E9%A2%91.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },	  
-	  {
-            "key": "kaiduan",
-            "name": "开端影视",
-            "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/%E5%BC%80%E7%AB%AF.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },		  
-	  {
-            "key": "k-movies",
-            "name": "k-movies",
-            "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/K-movie.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },		 
-    {
-      "key": "剧永久",
-      "name": "剧永久APP",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/APPV2.py",
-      "ext": {
-        "api": "http://yjyi.juyongjiu.com/icciu_api.php/v1.vod",
-        "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
-        "apisignkey": "lvdoutv-1.0.0"
-      }
-    },
-  {
-            "key": "dytt",
-            "name": "娱乐电影天堂",
-            "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/47%E7%94%B5%E5%BD%B1%E5%A4%A9%E5%A0%82.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },	      
-    {
-      "key": "界影视",
-      "name": "界影视",
-      "type": 3,
-      "api": "./py/界影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },	 
-     {
-      "key": "jianguo",
-      "name": "坚果影视",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/%E5%9D%9A%E6%9E%9C%E8%A7%86%E9%A2%91.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },	
-     {
-      "key": "yiyingshi",
-      "name": "壹影视",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/%E5%A3%B9%E5%BD%B1%E8%A7%86.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },		  
- {
-            "key": "kkys",
-            "name": "新端木影视",
-            "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/%E6%96%B0%E7%AB%AF%E6%9C%A8%E8%A7%86%E9%A2%913.4%E5%8D%95%E7%BA%BF.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },	  
-	  {
-            "key": "4KYS",
-            "name": "4K影视",
-            "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/4K%E5%BD%B1%E8%A7%86.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        }, 
-	  {
-            "key": "xdmys",
-            "name": "看客影视",
-            "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/%E7%9C%8B%E5%AE%A2TV.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },		  
- {
-            "key": "xxpgys",
-            "name": "小苹果影视(备用)",
-            "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/LiteApple.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },  
 { "key": "短剧网", "name": "短剧网", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+data-label\">&&</p>","副标题":"meta-post-type2\">&&</span>","分类url":"https://www.duanju2.com/show/duanju---{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#悬疑$脑洞悬疑#年代$年代穿越#古装$古装仙侠#都市$现代都市#反转$反转#爽文$爽文#其他$短剧"}},   
  { "key": "茄子短剧", "name": "番茄短剧", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+简介：</span>&&","线路标题":"panel-hd\">&&</div>","分类url":"https://www.shanhuzs.com/fqsansw/5-{area}--{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"}},       
     {
