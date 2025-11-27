@@ -209,20 +209,19 @@
                 "dataIv": "mayday6770249ash"
             }
         },       
-	  {
-            "key": "狂人",
-            "name": "狂人APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://www.zjkrmv.vip",
-                "dataKey": "vXeyuJFqTKqWUtWU",
-                "dataIv": "vXeyuJFqTKqWUtWU",
-                "deviceId": "",
-                "version": ""
-            }
-        },       
+    {
+      "key": "七星",
+      "name": "七星APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_lzxw",
+      "ext": {
+        "url": "http://ys.qist.top",
+        "dataKey": "2SWSPFxugBLPPOKo",
+        "dataIv": "2SWSPFxugBLPPOKo",
+        "version": "120"
+      }
+    },       
 	  {
             "key": "布雷",
             "name": "布雷APP",
@@ -2458,6 +2457,7 @@
  
 
      
+
 
 
 
