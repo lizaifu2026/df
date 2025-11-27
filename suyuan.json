@@ -553,19 +553,19 @@
         "version": ""
       }
     },	  
-    {
+   {
       "key": "金牌",
       "name": "金牌APP",
       "type": 3,
-      "api": "csp_AppMuou",
       "searchable": 1,
       "changeable": 1,
+      "api": "csp_AppQi",
       "ext": {
-        "url": "",
-        "site": "./lib/godbbq.txt",
-        "name": "金牌影院（请断网再安装）"
+        "site": "./lib/dtjp.txt",
+        "dataKey": "kecbio48dsq131ed",
+        "dataIv": "kecbio48dsq131ed"
       }
-    },  
+    },
 	  {
             "key": "萝卜",
             "name": "萝卜APP",
@@ -2470,6 +2470,7 @@
  
 
      
+
 
 
 
