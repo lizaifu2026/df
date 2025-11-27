@@ -213,7 +213,8 @@
       "key": "七星",
       "name": "七星APP",
       "type": 3,
-      "quickSearch": 1,
+      "jar": "./lzxw.jpg",
+	  "quickSearch": 1,
       "api": "csp_lzxw",
       "ext": {
         "url": "http://ys.qist.top",
@@ -2457,6 +2458,7 @@
  
 
      
+
 
 
 
