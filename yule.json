@@ -74,16 +74,6 @@
       }
     },  
     {
-      "key": "冷心",
-      "name": "冷心APP",
-      "type": 3,
-      "api": "csp_AppMuou",
-      "ext": {
-        "url": "http://app.789dd.cn",
-        "name": "火猫影视"
-      }
-    },       
-    {
       "key": "蔬菜",
       "name": "雪魂APP",
       "type": 3,
