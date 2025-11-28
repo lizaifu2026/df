@@ -189,6 +189,15 @@
         "host": "http://www.mzd.asia"
       }
     },	  
+    {
+      "key": "吉米",
+      "name": "吉米APP",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": {
+        "host": "http://fox.tvmao.top"
+      }
+    },	  
 	  {
             "key": "柒月",
             "name": "柒月APP",
@@ -2401,6 +2410,7 @@
  
 
      
+
 
 
 
