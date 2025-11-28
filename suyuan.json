@@ -321,6 +321,18 @@
         "UMENG_CHANNEL": "guan"
       }
     },	  
+    {
+      "key": "狂人",
+      "name": "狂人APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.zjkrmv.vip",
+        "dataKey": "vXeyuJFqTKqWUtWU",
+        "dataIv": "vXeyuJFqTKqWUtWU"
+      }
+    },	  
 	  {
             "key": "紫金",
             "name": "紫金APP",
@@ -2357,6 +2369,7 @@
  
 
      
+
 
 
 
