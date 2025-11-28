@@ -875,7 +875,14 @@
             "api": "csp_XBPQ",
             "ext": "./lib/明星影视.json"
         },
-        {
+    {
+      "key": "永乐影视",
+      "name": "永乐影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/YLYS.json"
+    },        
+	  {
             "key": "麦田影视",
             "name": "麦田影视",
             "type": 3,
@@ -2330,6 +2337,7 @@
  
 
      
+
 
 
 
