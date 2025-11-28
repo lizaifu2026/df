@@ -157,7 +157,39 @@
       "quickSearch": 1,
       "ext": "http://m51.gotto.top/api.php/v1.vod"
     },	  
-        {
+     {
+      "key": "羊羊",
+      "name": "羊羊APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppMuou",
+      "ext": {
+        "url": "https://ht.zhenxun.love",
+        "name": "羊羊学院"
+      }
+    },
+    {
+      "key": "思念",
+      "name": "思念APP",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": {
+        "host": "https://snys2.xyz",
+        "timeout": 15,
+        "ver": 2
+      }
+    },       
+	{
+      "key": "极兔",
+      "name": "极兔APP",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": {
+        "host": "http://www.mzd.asia"
+      }
+    },	  
+	  {
             "key": "柒月",
             "name": "柒月APP",
             "type": 3,
@@ -2369,6 +2401,7 @@
  
 
      
+
 
 
 
