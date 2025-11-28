@@ -745,14 +745,7 @@
         "分类": "电影$1#连续剧$2#动漫$3#综艺$4"
       }
     },     
-  {
-      "key": "永乐影视",
-      "name": "永乐影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/YLYS.json"
-    },  
-{ "key": "老王影视",  "name": "老王影视", "type": 3,"api": "csp_XBPQ", "ext": {"简介":"剧情介绍: +video-info-content vod_content\">&&</div>","数组": "<a&&module-item-pic","副标题":"module-item-text\">&&</div>","状态":"集数：&&</div>","线路数组":"module-tab-item tab-item&&</small>","播放数组":"module-blocklist scroll-box&&</div>","搜索url": "https://laowang.co/s.html?wd={wd}","搜索数组": "module-item-pic&&video-info","搜索标题": "alt=\"&&\">","搜索图片": "data-src=\"&&\"","分类url":"https://laowang.co/vs/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},       
+ { "key": "老王影视",  "name": "老王影视", "type": 3,"api": "csp_XBPQ", "ext": {"简介":"剧情介绍: +video-info-content vod_content\">&&</div>","数组": "<a&&module-item-pic","副标题":"module-item-text\">&&</div>","状态":"集数：&&</div>","线路数组":"module-tab-item tab-item&&</small>","播放数组":"module-blocklist scroll-box&&</div>","搜索url": "https://laowang.co/s.html?wd={wd}","搜索数组": "module-item-pic&&video-info","搜索标题": "alt=\"&&\">","搜索图片": "data-src=\"&&\"","分类url":"https://laowang.co/vs/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},       
 {
             "key": "旗星",
             "name": "旗星APP",
@@ -768,15 +761,6 @@
                 "version": "120"
             }
         },
-   {
-      "key": "csp_Wwys",
-      "name": "农民影视",
-      "type": 3,
-      "quickSearch": 1,
-      "jar": "./0408.jar;md5;a088e2c45008c883c90894ad94f01356",
-      "api": "csp_WwysGuard",	    
-      "ext": "https://www.wwgz.cn"
-    },
     {
       "key": "韩圈",
       "name": "韩圈App",
@@ -830,21 +814,7 @@
       "playerType": 2,    
       "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
     },
-   {
-            "key": "雨滴",
-            "name": "雨滴APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899",
-                "dataKey": "k9o3p2c8b7m3z0o8",
-                "dataIv": "k9o3p2c8b7m3z0o8",
-                "deviceId": "",
-                "version": "100"
-            }
-        },
-   {
+{
             "key": "优质",
             "name": "优质APP",
             "type": 3,
@@ -2360,6 +2330,7 @@
  
 
      
+
 
 
 
