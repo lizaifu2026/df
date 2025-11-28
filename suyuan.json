@@ -199,20 +199,7 @@
                 "version": ""
             }
         },	  
-	  {
-            "key": "开心",
-            "name": "开心APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppQi",
-            "ext": {
-                "site": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/gw.txt",
-                "dataKey": "ca94b06ca3c7d80e",
-                "dataIv": "ca94b06ca3c7d80e",
-                "ua": "okhttp/3.10.0"
-            }
-        },   
-	  {
+    {
       "key": "数字",
       "name": "数字APP",
       "type": 3,
@@ -350,17 +337,7 @@
                 "ua": ""
             }
         },
-    {
-      "key": "大豆",
-      "name": "大豆app",
-      "type": 3,
-      "jar": "./jar/xm.jar",
-      "quickSearch": 0,
-      "searchable": 1,
-      "api": "csp_AppQi",
-      "ext": "Ruh/okyt5lxEpcdQOao0NkSkj8M9vdB0soaZbGJldzA3817rfAzlvyWHCewZEFD4+BBCXxVVHkmAtv6gi+JRQlKwhK1WjuT8blTygReol77ICMmtZZPsmzfgjOtOXiEJ"
-    },	
-    {
+	 {
       "key": "闪影",
       "name": "闪影影视",
       "type": 3,
@@ -414,23 +391,7 @@
         "dataIv": "yangruiqiYsapp00"
       }
     },   
-  {
-            "key": "火花",
-            "name": "火花APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "http://v.itcxo.cn/txt/1.txt",
-                "dataKey": "PoiUytRedFghjklm",
-                "dataIv": "PoiUytRedFghjklm",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
-            }
-        },       
-   {
+    {
       "key": "糯米影视",
       "name": "糯米影视",
       "type": 3,
@@ -2418,6 +2379,7 @@
  
 
      
+
 
 
 
