@@ -152,16 +152,19 @@
                 "version": ""
             }
         },       
- {
-      "key": "云速",
-      "name": "新云速app",
+    {
+      "key": "云云",
+      "name": "新云速APP",
       "type": 3,
-      "jar": "./jar/xm.jar",
-      "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "api": "csp_AppQi",
-      "ext": "9ee0oa0Y30GapSvZ2C2RVE2HwH08KKvP0VhAZCVWpnluXpZNLRZrNCMeKyCWw1JOnmBt4WntUB96Gzw7GkroAUK4RePU806mDtHSmD09164W8EWpaWaU/Gg8nPkgUt5F"
-    },       
+      "ext": {
+        "site": "./lib/2.txt",
+        "dataKey": "staraugust123456",
+        "dataIv": "staraugust123456",
+        "version": "120"
+      }
+    },     
     {
       "key": "茉莉",
       "name": "茉莉APP",
