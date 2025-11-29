@@ -961,6 +961,36 @@
         "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
       }
     },	
+    {
+      "key": "3Q",
+      "name": "三七影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/3Q.json"
+    },
+    {
+      "key": "555｜影视",
+      "name": "三五影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/xbpq_555App.json"
+    },
+    {
+      "key": "4K影视",
+      "name": "天微专源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/4K影视.json"
+    },	
 	{
       "key": "永乐影视",
       "name": "永乐影视",
@@ -2423,6 +2453,7 @@
  
 
      
+
 
 
 
