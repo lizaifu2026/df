@@ -263,13 +263,6 @@
                 "ua": ""
             }
         },       
-   {
-      "key": "糯米影视",
-      "name": "糯米影视",
-      "type": 3,
-      "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn"
-    },       
 {"key":"柠檬","name":"柠檬影视","type":3,"api":"csp_Nmvod","playerType":2,"jar":"https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},	  
 {"key":"小鸭","name":"小鸭影视","type":3,"api":"csp_XBPQ","jar":"https://alicliimg.clewm.net/342/790/68790342/175492501342882a47a74800c50acc8fee173f0038fe31754925012.jpg;md5;4d860d06ec233dbcb891b76055f099d5","ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e","请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://777tv.ai/;;!H"}},	  
  { "key": "奇友影院", "name": "奇友影院", "type":3,"api":"csp_XBPQ","ext": {"请求头":"手机", "简介":"剧情介绍:+col-pd\">&&</p>","线路标题":"playlist-title\">&&</h4>","分类url":"https://kangluya.com/show/{cateId}-{area}-time-{class}-------{catePg}---{year}/","分类":"短剧$duanju#国产剧$guochanju#港台剧$gangtaiju#欧美剧$oumeiju#韩剧$hanguoju#日剧$ribenju#泰剧$taiguoju#其他$qitaju#动作片$dongzuo#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#喜剧片$xiju#惊悚片$jings#悬疑片$xuanyi#犯罪片$fanzui#灾难片$zainan#剧情片$juqing#奇幻片$qihuan#冒险片$maoxian#绍氏片$shaoshi#动画片$donghuadianying#其他片$qita#国产动漫$guochan#日韩动漫$rhdm#港台动漫$gtdm#欧美动漫$omdm#其他功漫$qtdm#动漫电影$dongmandianying#大陆综艺$daluzongyi#日韩综艺$rihan#港台综艺$gangtai#欧美综艺$oumei#理伦片$lilun"}},	  
@@ -347,20 +340,7 @@
         "version": ""
       }
     },	  
-   {
-      "key": "金牌",
-      "name": "金牌APP",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "site": "./lib/dtjp.txt",
-        "dataKey": "kecbio48dsq131ed",
-        "dataIv": "kecbio48dsq131ed"
-      }
-    }, 
-	  {
+ {
             "key": "萝卜",
             "name": "萝卜APP",
             "type": 3,
@@ -562,7 +542,7 @@
       "name": "永乐影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/YLYS.json"
+      "ext": "./lib/YLYS.json"
     },  
 { "key": "老王影视",  "name": "老王影视", "type": 3,"api": "csp_XBPQ", "ext": {"简介":"剧情介绍: +video-info-content vod_content\">&&</div>","数组": "<a&&module-item-pic","副标题":"module-item-text\">&&</div>","状态":"集数：&&</div>","线路数组":"module-tab-item tab-item&&</small>","播放数组":"module-blocklist scroll-box&&</div>","搜索url": "https://laowang.co/s.html?wd={wd}","搜索数组": "module-item-pic&&video-info","搜索标题": "alt=\"&&\">","搜索图片": "data-src=\"&&\"","分类url":"https://laowang.co/vs/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},       
 {
@@ -580,16 +560,7 @@
                 "version": "120"
             }
         },
-   {
-      "key": "csp_Wwys",
-      "name": "农民影视",
-      "type": 3,
-      "quickSearch": 1,
-      "jar": "./0408.jar;md5;a088e2c45008c883c90894ad94f01356",
-      "api": "csp_WwysGuard",	    
-      "ext": "https://www.wwgz.cn"
-    },
-    {
+{
       "key": "韩圈",
       "name": "韩圈App",
       "type": 3,
