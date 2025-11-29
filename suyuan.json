@@ -948,6 +948,19 @@
       "quickSearch": 1,
       "filterable": 1
     },	
+    {
+      "key": "文才影视",
+      "name": "文才影视",
+      "type": 3,
+      "api": "./py/文才影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": {
+        "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+      }
+    },	
 	{
       "key": "永乐影视",
       "name": "永乐影视",
@@ -2410,6 +2423,7 @@
  
 
      
+
 
 
 
