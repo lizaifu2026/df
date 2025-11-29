@@ -361,7 +361,7 @@
       "key": "拾光视频",
       "name": "拾光视频APP",
       "type": 3,
-      "api": "https://wget.la/https://raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/Hmys.py",
+      "api": "./py/Hmys.py",
       "ext": {
         "host": "https://dy.jmzp.net.cn",
         "app_id": "shiguang",
@@ -2471,6 +2471,7 @@
  
 
      
+
 
 
 
