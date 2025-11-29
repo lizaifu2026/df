@@ -198,6 +198,13 @@
         "host": "http://fox.tvmao.top"
       }
     },	  
+    {
+      "key": "金蝉",
+      "name": "金蝉影视",
+      "type": 1,
+      "api": "http://zy.jinchancaiji.com/api.php/provide/vod",
+      "playUrl": "json:http://125.208.22.184:1666/api/?key=Lsthk1A7obu4Lmn4zk&url="
+    },	  
 	  {
             "key": "柒月",
             "name": "柒月APP",
@@ -2453,6 +2460,7 @@
  
 
      
+
 
 
 
