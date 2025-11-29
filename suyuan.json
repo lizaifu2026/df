@@ -337,7 +337,7 @@
       "searchable": 1,
       "api": "csp_AppGet",
       "ext": {
-        "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
+        "site": "./lib/9.txt",
         "dataKey": "88689667dce61725",
         "dataIv": "88689667dce61725"
       }
@@ -1617,7 +1617,7 @@
       "key": "甜圈短剧",
       "name": "甜圈短剧(备用)",
       "type": 3,
-      "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/TQDJ.py",
+      "api": "./lib/TQDJ.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -2471,6 +2471,7 @@
  
 
      
+
 
 
 
