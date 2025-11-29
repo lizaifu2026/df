@@ -997,17 +997,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/xbpq_555App.json"
-    },
-    {
-      "key": "4K影视",
-      "name": "天微专源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/4K影视.json"
-    },	
+	},
 	{
       "key": "永乐影视",
       "name": "永乐影视",
@@ -1163,7 +1153,18 @@
         "欧美综艺"
       ]
     },
-	{
+    {
+      "key": "大师兄",
+      "name": "大师兄影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >",
+        "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+      }
+    },	
+    {
       "key": "移动云盘",
       "name": "移动急速",
       "type": 3,
@@ -2470,6 +2471,7 @@
  
 
      
+
 
 
 
