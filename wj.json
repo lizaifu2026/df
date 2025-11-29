@@ -172,7 +172,7 @@
       "searchable": 1,
       "api": "csp_AppGet",
       "ext": {
-        "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
+        "site": "./lib/9.txt",
         "dataKey": "88689667dce61725",
         "dataIv": "88689667dce61725"
       }
