@@ -1902,17 +1902,7 @@
       "api": "./js/drpy2.min.js",
       "ext": "./lib/AQYDM.js"
     },
-    {
-            "key": "短剧合集",
-            "name": "短剧合集",
-            "type": 3,
-            "api": "./js/cloud.min.js",
-            "ext": "./lib/短剧合集.js",
-            "style": {
-                "type": "list"
-            }
-        },  
-      {
+       {
             "key": "push_agent",
             "name": "手机推送",
             "type": 3,
@@ -2438,6 +2428,7 @@
  
 
      
+
 
 
 
