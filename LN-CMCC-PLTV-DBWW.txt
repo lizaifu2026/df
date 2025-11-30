@@ -647,6 +647,8 @@ cctv17[1920x1080],http://123.184.31.206:8880/sql/2248/hls.m3u8
 辽宁经济[1920x1080],http://123.184.31.206:8880/sql/2278/hls.m3u8
 辽宁北方[785x576],http://123.184.31.206:8880/sql/2282/hls.m3u8
 辽宁都市[785x576],http://123.184.31.206:8880/sql/2283/hls.m3u8
+邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
+邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 辽宁联通 备用2️⃣,#genre#
 CCTV1,http://cc2022.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=4308473363915923491
 CCTV2,http://cc2022.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=4308473363915923491
