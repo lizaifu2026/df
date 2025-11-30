@@ -350,7 +350,7 @@
             "api": "csp_AppGet",
             "ext": {
                 "url": "",
-                "site": "http://apps.liguapp.com/getapi.txt",
+                "site": "./lib/getapi.txt",
                 "dataKey": "A9f3Zx7Qk2Lm8P1N",
                 "dataIv": "A9f3Zx7Qk2Lm8P1N",
                 "deviceId": "",
@@ -1003,7 +1003,7 @@
       "name": "永乐影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/YLYS.json"
+      "ext": "./lib/YLYS.json"
     },        
 	  {
             "key": "麦田影视",
@@ -1295,7 +1295,7 @@
       "key": "2k动漫",
       "name": "2k动漫APP",
       "type": 3,
-      "api": "https://wget.la/raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/skapp.py",
+      "api": "./py/skapp.py",
       "ext": {
         "host": "https://dmsk.oss-rg-china-mainland.aliyuncs.com/dmapp/dmapi.txt",
         "key": "ygcnbcobcegtgigg",
@@ -1353,7 +1353,7 @@
             "key": "独播库",
             "name": "独播库影视",
             "type": 3,
-            "api": "https://wget.la/raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/%E7%8B%AC%E6%92%AD%E5%BA%93.py",
+            "api": "./py/%E7%8B%AC%E6%92%AD%E5%BA%93.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1364,7 +1364,7 @@
             "key": "五八PY",
             "name": "伍捌APP",
             "type": 3,
-            "api": "https://wget.la/raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/58%E8%A7%86%E9%A2%91.py",
+            "api": "./py/58%E8%A7%86%E9%A2%91.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1375,7 +1375,7 @@
             "key": "kaiduan",
             "name": "开端影视",
             "type": 3,
-            "api": "https://wget.la/raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/%E5%BC%80%E7%AB%AF.py",
+            "api": "./py/%E5%BC%80%E7%AB%AF.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1386,7 +1386,7 @@
             "key": "k-movies",
             "name": "k-movies",
             "type": 3,
-            "api": "https://wget.la/raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/K-movie.py",
+            "api": "./py/K-movie.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1397,7 +1397,7 @@
       "key": "剧永久",
       "name": "剧永久APP",
       "type": 3,
-      "api": "https://wget.la/raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/APPV2.py",
+      "api": "./py/APPV2.py",
       "ext": {
         "api": "http://yjyi.juyongjiu.com/icciu_api.php/v1.vod",
         "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
@@ -1408,7 +1408,7 @@
             "key": "dytt",
             "name": "娱乐电影天堂",
             "type": 3,
-            "api": "https://wget.la/raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/47%E7%94%B5%E5%BD%B1%E5%A4%A9%E5%A0%82.py",
+            "api": "./py/47%E7%94%B5%E5%BD%B1%E5%A4%A9%E5%A0%82.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1429,7 +1429,7 @@
       "key": "jianguo",
       "name": "坚果影视",
       "type": 3,
-      "api": "https://wget.la/raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/%E5%9D%9A%E6%9E%9C%E8%A7%86%E9%A2%91.py",
+      "api": "./py/%E5%9D%9A%E6%9E%9C%E8%A7%86%E9%A2%91.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1439,7 +1439,7 @@
       "key": "yiyingshi",
       "name": "壹影视",
       "type": 3,
-      "api": "https://wget.la/raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/%E5%A3%B9%E5%BD%B1%E8%A7%86.py",
+      "api": "./py/%E5%A3%B9%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1449,7 +1449,7 @@
             "key": "kkys",
             "name": "新端木影视",
             "type": 3,
-            "api": "https://wget.la/raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/%E6%96%B0%E7%AB%AF%E6%9C%A8%E8%A7%86%E9%A2%913.4%E5%8D%95%E7%BA%BF.py",
+            "api": "./py/%E6%96%B0%E7%AB%AF%E6%9C%A8%E8%A7%86%E9%A2%913.4%E5%8D%95%E7%BA%BF.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1460,7 +1460,7 @@
             "key": "4KYS",
             "name": "4K影视",
             "type": 3,
-            "api": "https://wget.la/raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/4K%E5%BD%B1%E8%A7%86.py",
+            "api": "./py/4K%E5%BD%B1%E8%A7%86.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1471,7 +1471,7 @@
             "key": "xdmys",
             "name": "看客影视",
             "type": 3,
-            "api": "https://wget.la/raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/%E7%9C%8B%E5%AE%A2TV.py",
+            "api": "./py/%E7%9C%8B%E5%AE%A2TV.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1482,7 +1482,7 @@
             "key": "xxpgys",
             "name": "小苹果影视(备用)",
             "type": 3,
-            "api": "https://wget.la/raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/LiteApple.py",
+            "api": "./py/LiteApple.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1616,7 +1616,7 @@
             "key": "锦鲤短剧",
             "name": "锦鲤短剧",
             "type": 3,
-            "api": "https://wget.la/raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/web/%E9%94%A6%E9%B2%A4%E7%9F%AD%E5%89%A7.py",
+            "api": "./py/%E9%94%A6%E9%B2%A4%E7%9F%AD%E5%89%A7.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1695,7 +1695,7 @@
       "key": "spys",
       "name": "碎片剧场",
       "type": 3,
-      "api": "https://wget.la/raw.githubusercontent.com/engd66/PyramidStore/refs/heads/main/plugin/app/%E7%A2%8E%E7%89%87%E5%89%A7%E5%9C%BA.py",
+      "api": "./py/%E7%A2%8E%E7%89%87%E5%89%A7%E5%9C%BA.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -2460,6 +2460,7 @@
  
 
      
+
 
 
 
