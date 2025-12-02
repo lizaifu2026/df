@@ -983,53 +983,7 @@
       "api": "csp_XBPQ",
       "ext": "./lib/YLYS.json"
     },        
-    {
-      "name": "杜北影视",
-      "key": "杜北",
-      "type": 3,
-      "api": "csp_DubkAmns",
-      "jar": "./custom_spider.jar",
-	  "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./lib/dubk.json"
-    },	  
-    {
-      "name": "春天影视",
-      "key": "春天",
-      "type": 3,
-      "api": "csp_NewGrAmns",
-      "jar": "./custom_spider.jar",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "PnUH1ANGAUTUF9HVgAAHARACF0cRFwdCx0TGwlcBggZSlhIVlFtBFZDAQ0dC1VMR1BUV1ZEVEofVktQCRFQPSQKQjwgBjMpJz4MOyBQCxdmfAs0KhU+Ow48CzMgKjULMlQBKl1VNSlAIEpUS1JHDgJKTkhWUnQZSnscNj0oRkcVIA8EBzIxH0djY08OE15EUAgTQxQGF0VOSFYJEgFGBwJQMQsqEjM/MgIkITYeQwFMQHYaQ1hBByEXBVRLUkcGBBgrARARCFIRVRMMEwwZExBQSUdWCxwJGl1XHmxSHQAXR01WRRYCOAcYRFlWHxJQV1QEDREAKB8DUF9HVlFHW01XBkFSCRdTE1JORgRQSUdWGBULH1JVF2xfEwkXR01WRREKCloNGAkaVhwDWlAcBxcLEAIGXAkPFw1WRFQRQQtAbgIIExERGRUfR11USkZKWBMQAUpCAAEeABYFAlBfR1ZZRUpYExAEVkMBDR0LVUxHUFFXRFhESgk="
-    },
-    {
-      "name": "伊外影视",
-      "key": "伊外",
-      "type": 3,
-      "api": "csp_YIysAmns",
-      "jar": "./custom_spider.jar",
-	  "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },	  
-    {
-      "name": "哔嘀影视",
-      "key": "哔嘀",
-      "type": 3,
-      "jar": "./custom_spider.jar",
-	  "api": "csp_BidysAmns",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },	  
-	  {
+      {
             "key": "麦田影视",
             "name": "麦田影视",
             "type": 3,
@@ -1752,84 +1706,7 @@
             "filterable": 1,
             "ext": "./lib/热播短剧.json"
         },	  
-    {
-      "name": "🎦豪堪短剧",
-      "key": "豪堪短剧",
-      "type": 3,
-      "api": "csp_HHkkAmns",
-      "jar": "./custom_spider.jar",
-	  "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "name": "📺盒马短剧",
-      "key": "盒马短剧",
-      "type": 3,
-      "api": "csp_HemaAmns",
-      "jar": "./custom_spider.jar",
-	  "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "name": "🎞️拜拜短剧",
-      "key": "rgokofw",
-      "type": 3,
-      "api": "csp_BddjAmns",
-      "jar": "./custom_spider.jar",
-	  "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "name": "🐠锦鲤短剧",
-      "key": "hdghgxgd",
-      "type": 3,
-      "api": "csp_JLdjAmns",
-      "jar": "./custom_spider.jar",
-	  "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "name": "🍩甜圈短剧",
-      "key": "fjghcn",
-      "type": 3,
-      "api": "csp_TQdjAmns",
-      "jar": "./custom_spider.jar",
-	  "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "name": "🐱喵喵短剧",
-      "key": "喵喵短剧",
-      "type": 3,
-      "api": "csp_QmdjAmns",
-      "jar": "./custom_spider.jar",
-	  "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "name": "⭐星星短剧",
-      "key": "星星短剧",
-      "type": 3,
-      "api": "csp_XydjAmns",
-      "jar": "./custom_spider.jar",
-	  "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },	  
-	  {
+	   {
             "key": "微云影视",
             "name": "微云短剧",
             "type": 3,
@@ -2551,6 +2428,7 @@
  
 
      
+
 
 
 
