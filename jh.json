@@ -36,6 +36,10 @@
       "name": "林中小屋影视",
       "url": "https://8815.kstore.vip/tvbox/Ace"
     },
+     {
+      "name": "嗷呜影视",
+      "url": "assets://嗷呜/config.json"
+    },   
     {
       "name": "天微影视",
       "url": "https://7337.kstore.vip/tw.json"
@@ -79,6 +83,7 @@
  
 
    
+
 
 
 
