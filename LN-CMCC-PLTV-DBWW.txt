@@ -697,7 +697,7 @@ CCTV17,http://cc2022.ifengli.com:2000/live/cctv-17hd/2500.m3u8?innersid=43084733
 西藏卫视,http://cc2022.ifengli.com:2000/live/xzws-sd/1500.m3u8?innersid=4308473363915923491
 内蒙古卫视,http://cc2022.ifengli.com:2000/live/nmws-sd/1500.m3u8?innersid=4308473363915923491
 宁夏卫视,http://cc2022.ifengli.com:2000/live/nxws-sd/1500.m3u8?innersid=4308473363915923491
-斯玛特,#genre#
+斯玛特（随时挂掉),#genre#
 翡翠台,https://zb.kklive.top/smt.php?id=jade_twn
 翡翠台 backup,https://zb.kklive.top/smt.php?id=Jade_xue
 翡翠4K,http://cdn6.163189.xyz/163189/fct4k
