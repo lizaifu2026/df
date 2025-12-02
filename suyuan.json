@@ -988,7 +988,8 @@
       "key": "杜北",
       "type": 3,
       "api": "csp_DubkAmns",
-      "searchable": 1,
+      "jar": "./custom_spider.jar",
+	  "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -999,6 +1000,7 @@
       "key": "春天",
       "type": 3,
       "api": "csp_NewGrAmns",
+      "jar": "./custom_spider.jar",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
@@ -1010,7 +1012,8 @@
       "key": "伊外",
       "type": 3,
       "api": "csp_YIysAmns",
-      "searchable": 1,
+      "jar": "./custom_spider.jar",
+	  "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -1019,7 +1022,8 @@
       "name": "哔嘀影视",
       "key": "哔嘀",
       "type": 3,
-      "api": "csp_BidysAmns",
+      "jar": "./custom_spider.jar",
+	  "api": "csp_BidysAmns",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
@@ -1753,7 +1757,8 @@
       "key": "豪堪短剧",
       "type": 3,
       "api": "csp_HHkkAmns",
-      "searchable": 1,
+      "jar": "./custom_spider.jar",
+	  "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -1763,7 +1768,8 @@
       "key": "盒马短剧",
       "type": 3,
       "api": "csp_HemaAmns",
-      "searchable": 1,
+      "jar": "./custom_spider.jar",
+	  "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -1773,7 +1779,8 @@
       "key": "rgokofw",
       "type": 3,
       "api": "csp_BddjAmns",
-      "searchable": 1,
+      "jar": "./custom_spider.jar",
+	  "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -1783,7 +1790,8 @@
       "key": "hdghgxgd",
       "type": 3,
       "api": "csp_JLdjAmns",
-      "searchable": 1,
+      "jar": "./custom_spider.jar",
+	  "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -1793,7 +1801,8 @@
       "key": "fjghcn",
       "type": 3,
       "api": "csp_TQdjAmns",
-      "searchable": 1,
+      "jar": "./custom_spider.jar",
+	  "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -1803,7 +1812,8 @@
       "key": "喵喵短剧",
       "type": 3,
       "api": "csp_QmdjAmns",
-      "searchable": 1,
+      "jar": "./custom_spider.jar",
+	  "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -1813,7 +1823,8 @@
       "key": "星星短剧",
       "type": 3,
       "api": "csp_XydjAmns",
-      "searchable": 1,
+      "jar": "./custom_spider.jar",
+	  "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -2540,6 +2551,7 @@
  
 
      
+
 
 
 
