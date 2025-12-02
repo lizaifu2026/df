@@ -1022,7 +1022,8 @@
             "filterable": 1,
             "playerType": 2
         },        
-    {
+     { "key": "龙邦影视", "name": "龙邦影视", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","数组":"mo-paxs-5px mo-pamd-10px mo-cols-info mo-cols-xs4 mo-cols-sm3 mo-cols-lg2\">&&</li>","图片":"data-original=\"&&\"","标题":"mo-comd-left mo-wrap-arow\" href=*>&&</a>","副标题":"mo-text-white mo-coxs-center\">&&</span>","线路数组":"mo-movs-btns mo-mrxs-5px&&</a>","播放数组":"mo-movs-item mo-sort-boxs mo-cols-rows&&</ul>","分类url":"http://www.lbex.net/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$29#电视剧$2#电影$1#动漫$4#综艺$3#伦理$20"}},    
+	  {
       "key": "360资源",
       "name": "三六零资源",
       "type": 1,
@@ -2428,6 +2429,7 @@
  
 
      
+
 
 
 
