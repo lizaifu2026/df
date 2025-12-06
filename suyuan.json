@@ -1519,7 +1519,7 @@
 			"ext": " http://v.rbotv.cn "
 		},
 		{
-			"key": "浪酷影视",
+			"key": "lkyingshi",
 			"name": "浪酷影视APP",
 			"type": 3,
 			"api": "./py/RJAPP.py",
@@ -2486,6 +2486,7 @@
  
 
      
+
 
 
 
