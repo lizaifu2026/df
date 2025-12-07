@@ -647,6 +647,16 @@ cctv17[1920x1080],http://123.184.31.206:8880/sql/2248/hls.m3u8
 辽宁经济[1920x1080],http://123.184.31.206:8880/sql/2278/hls.m3u8
 辽宁北方[785x576],http://123.184.31.206:8880/sql/2282/hls.m3u8
 辽宁都市[785x576],http://123.184.31.206:8880/sql/2283/hls.m3u8
+辽宁北方,http://113.233.136.83:3178/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁公共,http://113.233.136.83:3178/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁教育青少,http://113.233.136.83:3178/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁经济,http://113.233.136.83:3178/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁都市,http://113.233.136.83:3178/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁生活,http://113.233.136.83:3178/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁体育,http://113.233.136.83:3178/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁影视,http://113.233.136.83:3178/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://113.233.136.83:3178/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+沈阳新闻综合,http://113.233.136.83:3178/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 辽宁联通 备用2️⃣,#genre#
