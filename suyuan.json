@@ -211,50 +211,6 @@
             "changeable": 1,
             "ext": "PnUH1ANGAUTUF9HVgAAHARACF0cRFwdCx0TGwlcBggZSlhIVlFtBFZDAQ0dC1VMR1BUV1ZEVEofVktQCRFQPSQKQjwgBjMpJz4MOyBQCxdmfAs0KhU+Ow48CzMgKjULMlQBKl1VNSlAIEpUS1JHDgJKTkhWUnQZSnscNj0oRkcVIA8EBzIxH0djY08OE15EUAgTQxQGF0VOSFYJEgFGBwJQMQsqEjM/MgIkITYeQwFMQHYaQ1hBByEXBVRLUkcGBBgrARARCFIRVRMMEwwZExBQSUdWCxwJGl1XHmxSHQAXR01WRRYCOAcYRFlWHxJQV1QEDREAKB8DUF9HVlFHW01XBkFSCRdTE1JORgRQSUdWGBULH1JVF2xfEwkXR01WRREKCloNGAkaVhwDWlAcBxcLEAIGXAkPFw1WRFQRQQtAbgIIExERGRUfR11USkZKWBMQAUpCAAEeABYFAlBfR1ZZRUpYExAEVkMBDR0LVUxHUFFXRFhESgk="
         },	  
-        {
-            "name": "喵喵短剧",
-            "key": "喵喵短剧",
-            "type": 3,
-            "api": "csp_QmdjAmns",
-            "jar": "./bdb.jar",
-			"searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "name": "星星短剧",
-            "key": "xx短剧",
-            "type": 3,
-            "api": "csp_XydjAmns",
-            "jar": "./bdb.jar",
-			"searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "name": "豪堪短剧",
-            "key": "豪堪短剧",
-            "type": 3,
-            "api": "csp_HHkkAmns",
-            "jar": "./bdb.jar",
-			"searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },	  
-        {
-            "name": "岁岁短剧",
-            "key": "岁岁短剧",
-            "type": 3,
-            "api": "csp_SpdjAmns",
-            "jar": "./bdb.jar",
-			"searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },	  
 	{
       "key": "金蝉",
       "name": "金蝉影视",
@@ -1691,7 +1647,50 @@
 		},
 { "key": "短剧网", "name": "短剧网", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+data-label\">&&</p>","副标题":"meta-post-type2\">&&</span>","分类url":"https://www.duanju2.com/show/duanju---{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#悬疑$脑洞悬疑#年代$年代穿越#古装$古装仙侠#都市$现代都市#反转$反转#爽文$爽文#其他$短剧"}},   
  { "key": "茄子短剧", "name": "番茄短剧", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+简介：</span>&&","线路标题":"panel-hd\">&&</div>","分类url":"https://www.shanhuzs.com/fqsansw/5-{area}--{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"}},       
-        
+        {
+            "name": "喵喵短剧",
+            "key": "喵喵短剧",
+            "type": 3,
+            "api": "csp_QmdjAmns",
+            "jar": "./bdb.jar",
+			"searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "name": "星星短剧",
+            "key": "xx短剧",
+            "type": 3,
+            "api": "csp_XydjAmns",
+            "jar": "./bdb.jar",
+			"searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "name": "豪堪短剧",
+            "key": "豪堪短剧",
+            "type": 3,
+            "api": "csp_HHkkAmns",
+            "jar": "./bdb.jar",
+			"searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },	  
+        {
+            "name": "岁岁短剧",
+            "key": "岁岁短剧",
+            "type": 3,
+            "api": "csp_SpdjAmns",
+            "jar": "./bdb.jar",
+			"searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },        
         {
             "key": "星阁短剧",
             "name": "星之阁短剧",
@@ -2650,6 +2649,7 @@
  
 
      
+
 
 
 
