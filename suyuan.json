@@ -176,7 +176,19 @@
         "host": "http://fox.tvmao.top"
       }
     },	  
-    {
+        {
+            "name": "杜北影视",
+            "key": "杜北",
+            "type": 3,
+            "api": "csp_DubkAmns",
+            "jar": "./bdb.jar",
+			"searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "./lib/dubk.json"
+        },   
+	{
       "key": "金蝉",
       "name": "金蝉影视",
       "type": 1,
@@ -2571,6 +2583,7 @@
  
 
      
+
 
 
 
