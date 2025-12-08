@@ -488,16 +488,16 @@
       }
     },	  
         {
-            "name": "爱瓜影视",
-            "key": "爱瓜",
+            "name": "荐片影视",
+            "key": "荐片",
             "type": 3,
-            "api": "csp_AiGuaAmns",
-            "jar": "./bdb.jar",
-			"searchable": 1,
+            "api": "csp_JPianAmns",
+            "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
-            "changeable": 1
-        },  
+            "changeable": 1,
+            "ext": "./lib/jpian.json"
+        }, 
 	  {
             "key": "紫金",
             "name": "紫金APP",
@@ -2648,6 +2648,7 @@
  
 
      
+
 
 
 
