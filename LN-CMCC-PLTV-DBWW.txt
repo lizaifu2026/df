@@ -657,6 +657,8 @@ cctv17[1920x1080],http://123.184.31.206:8880/sql/2248/hls.m3u8
 辽宁影视,http://113.233.136.83:3178/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://113.233.136.83:3178/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 沈阳新闻综合,http://113.233.136.83:3178/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
+邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 辽宁联通 备用2️⃣,#genre#
