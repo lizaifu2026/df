@@ -492,7 +492,8 @@
             "key": "荐片",
             "type": 3,
             "api": "csp_JPianAmns",
-            "searchable": 1,
+            "jar": "./bdb.jar",
+			"searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -2648,6 +2649,7 @@
  
 
      
+
 
 
 
