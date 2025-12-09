@@ -1533,17 +1533,6 @@
             "playerType": 2
         },	       
         {
-            "key": "网易云",
-            "name": "网易云",
-            "type": 3,
-            "api": "./py/网易云.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
             "key": "HIFI",
             "name": "HIFI.",
             "type": 3,
@@ -1555,30 +1544,8 @@
             "playerType": 2
         },
         {
-            "key": "听书",
-            "name": "听书",
-            "type": 3,
-            "api": "./py/听书.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "瑟瑟",
-            "name": "瑟瑟",
-            "type": 3,
-            "api": "./py/瑟瑟.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },	  
-	  {
             "key": "毒蛇",
-            "name": "🐍毒蛇影视",
+            "name": "毒蛇影视",
             "type": 3,
             "api": "./py/毒蛇.py",
             "searchable": 1,
@@ -2736,6 +2703,7 @@
  
 
      
+
 
 
 
