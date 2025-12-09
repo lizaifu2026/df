@@ -1520,6 +1520,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "playerType": 2
+        },		  
+	  {
+            "key": "麻雀视频",
+            "name": "麻雀影视",
+            "type": 3,
+            "api": "./py/麻雀视频.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },		 
     {
       "key": "剧永久",
@@ -2659,6 +2670,7 @@
  
 
      
+
 
 
 
