@@ -1525,7 +1525,7 @@
             "key": "木兮",
             "name": "木兮影视",
             "type": 3,
-            "api": "./lib/木兮.py",
+            "api": "./py/木兮.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1536,7 +1536,7 @@
             "key": "网易云",
             "name": "网易云",
             "type": 3,
-            "api": "./lib/网易云.py",
+            "api": "./py/网易云.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1547,7 +1547,7 @@
             "key": "HIFI",
             "name": "HIFI.",
             "type": 3,
-            "api": "./lib/HIFI.py",
+            "api": "./py/HIFI.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1558,7 +1558,7 @@
             "key": "听书",
             "name": "听书",
             "type": 3,
-            "api": "./lib/听书.py",
+            "api": "./py/听书.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1569,7 +1569,7 @@
             "key": "瑟瑟",
             "name": "瑟瑟",
             "type": 3,
-            "api": "./lib/瑟瑟.py",
+            "api": "./py/瑟瑟.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -2736,6 +2736,7 @@
  
 
      
+
 
 
 
