@@ -275,7 +275,16 @@
         "version": "120"
       }
     },       
-    {
+     {
+      "key": "木瓜",
+      "name": "木瓜APP",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": {
+        "host": "http://www.yezitv.top"
+      }
+    },   
+	{
       "key": "恋鱼",
       "name": "恋鱼APP",
       "type": 3,
@@ -2703,6 +2712,7 @@
  
 
      
+
 
 
 
