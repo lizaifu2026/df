@@ -248,6 +248,19 @@
         "ua": "okhttp/3.10.0"
       }
     },	  
+    {
+      "key": "椰子",
+      "name": "椰子APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://103.109.20.117:6699",
+        "dataKey": "xxm9N4P9rS2zjdyz",
+        "dataIv": "xxm9N4P9rS2zjdyz"
+      }
+    },	  
 	  {
             "key": "柒月",
             "name": "柒月APP",
@@ -2712,6 +2725,7 @@
  
 
      
+
 
 
 
