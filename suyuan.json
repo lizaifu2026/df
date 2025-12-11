@@ -2230,13 +2230,13 @@
         }
       }
     },
-{
-      "name": "娱",
+    {
+      "name": "娱乐",
       "type": 1,
       "url": "http://jx.xnftv.xyz/api/diy/?key=02wLO4jHzX2J3U7417&url="
     },	 
 	{
-      "name": "影",
+      "name": "影视",
       "type": 1,
       "url": "http://125.208.22.184:1666/api/?key=Lsthk1A7obu4Lmn4zk&url="
     },	 
@@ -2244,8 +2244,63 @@
       "name": "追忆影视V6",
       "type": 1,
       "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getV6jx&url="
-    }   
-],
+    },   
+    {
+      "name": "随",
+      "type": 1,
+      "url": "http://125.208.23.251:1314/lunxun/?url="
+    },
+    {
+      "name": "缘",
+      "type": 1,
+      "url": "http://sspa8.top:8100/api/?cat_ext=eyJmbGFnIjpbInFxIiwi6IW+6K6vIiwicWl5aSIsIueIseWlh+iJuiIsIuWlh+iJuiIsInlvdWt1Iiwi5LyY6YW3Iiwic29odSIsIuaQnOeLkCIsImxldHYiLCLkuZDop4YiLCJtZ3R2Iiwi6IqS5p6cIiwidG5tYiIsInNldmVuIiwiYmlsaWJpbGkiLCIxOTA1Il0sImhlYWRlciI6eyJVc2VyLUFnZW50Ijoib2todHRwLzQuOS4xIn19&key=星睿4k&url="
+    },
+    {
+      "name": "影",
+      "type": 1,
+      "url": "http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&url="
+    },
+    {
+      "name": "视",
+      "type": 1,
+      "url": "http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&qn=max&url="
+    },
+    {
+      "name": "HD云视解析",
+      "type": 1,
+      "url": "http://125.208.22.184:1666/api/?key=Lsthk1A7obu4Lmn4zk&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+      }
+    }
+  ],
   "flags": [
     "youku",
     "qq",
@@ -2725,6 +2780,7 @@
  
 
      
+
 
 
 
