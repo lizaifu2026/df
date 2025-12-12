@@ -2448,48 +2448,7 @@
         "短剧"
       ]
     },
-    {
-      "key": "ydapp",
-      "name": "2K全聚影视",
-      "type": 1,
-      "api": "https://gctf.tfdh.top/api.php/provide/vod",
-      "playUrl": "json:http://125.208.22.184:1666/api/?key=Lsthk1A7obu4Lmn4zk&url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "电影",
-        "电视剧",
-        "动漫",
-        "综艺"
-      ]
-    },	 
-    {
-      "key": "Max",
-      "name": "高码ᵃᵖᵖ部分⁴ᵏ",
-      "type": 3,
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "./jar/7d65c11fbd0f48d453df199ef3c04194.jar;md5;7d65c11fbd0f48d453df199ef3c04194",
-	  "api": "csp_AppYsV2",
-      "ext": {
-        "api": "http://yjyi.juyongjiu.com:80/icciu_api.php/v1.vod",
-        "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
-        "apisignkey": "lvdoutv-1.0.0"
-      },
-      "categories": [
-        "直播",
-        "电影",
-        "电视剧",
-        "全网短剧",
-        "综艺",
-        "动漫",
-        "少儿",
-        "纪录片"
-      ]
-    },	  
-	  {
+  {
             "key": "push_agent",
             "name": "手机推送",
             "type": 3,
@@ -2498,7 +2457,7 @@
             "filterable": 0,
             "changeable": 0
         } 
-  ],
+],
   "parses": [
     {
       "name": "QD4K",
@@ -3070,6 +3029,7 @@
  
 
      
+
 
 
 
