@@ -2012,7 +2012,17 @@
             "filterable": 1,
             "playerType": 2
         },         
-          {
+      {
+      "key": "csp_AppXY",
+      "name": "花语短剧",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 0,
+      "api": "csp_DuanJu",
+      "ext": "",
+      "jar": "https://img2.gelonghui.com/library/13bd3-7518cfc8-98dd-4e8f-afc1-5f697fbf01fb.png;md5;13bd3e6c4c887d3f139a347625a08bee"
+    },        
+	  {
             "key": "xtqdj",
             "name": "甜圈短剧",
             "type": 3,
@@ -3029,6 +3039,7 @@
  
 
      
+
 
 
 
