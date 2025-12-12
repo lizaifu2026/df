@@ -2464,6 +2464,30 @@
         "综艺"
       ]
     },	 
+    {
+      "key": "Max",
+      "name": "高码ᵃᵖᵖ部分⁴ᵏ",
+      "type": 3,
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_AppYsV2",
+      "ext": {
+        "api": "http://yjyi.juyongjiu.com:80/icciu_api.php/v1.vod",
+        "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
+        "apisignkey": "lvdoutv-1.0.0"
+      },
+      "categories": [
+        "直播",
+        "电影",
+        "电视剧",
+        "全网短剧",
+        "综艺",
+        "动漫",
+        "少儿",
+        "纪录片"
+      ]
+    },	  
 	  {
             "key": "push_agent",
             "name": "手机推送",
@@ -3045,6 +3069,7 @@
  
 
      
+
 
 
 
