@@ -2471,7 +2471,8 @@
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
-      "api": "csp_AppYsV2",
+      "jar": "./jar/7d65c11fbd0f48d453df199ef3c04194.jar;md5;7d65c11fbd0f48d453df199ef3c04194",
+	  "api": "csp_AppYsV2",
       "ext": {
         "api": "http://yjyi.juyongjiu.com:80/icciu_api.php/v1.vod",
         "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
@@ -3069,6 +3070,7 @@
  
 
      
+
 
 
 
