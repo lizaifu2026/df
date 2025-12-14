@@ -2417,14 +2417,14 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "danmu": true,
-      "ext": "https://pan.aa53.cn/down.php/3a0117c635c91606f1d8bb81b8013236.js&988984"
+      "ext": "./3a0117c635c91606f1d8bb81b8013236.js&988984"
     },
     {
       "key": "芒果视频",
       "name": "4K果果VIP",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "https://pan.aa53.cn/down.php/1b0a7806f1f471f5b3754cf7727358d7.js&988984"
+      "ext": "./1b0a7806f1f471f5b3754cf7727358d7.js&988984"
     },     
     {
       "key": "解析",
@@ -3040,6 +3040,7 @@
  
 
      
+
 
 
 
