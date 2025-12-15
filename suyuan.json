@@ -58,21 +58,6 @@
             "quickSearch": 1,
             "filterable": 1
         },   
-	  {
-      "key": "蓝鹰",
-      "name": "蓝鹰APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "",
-        "site": "./lib/lanyingxmy.txt",
-        "dataKey": "ca94b06ca359d80e",
-        "dataIv": "ca94b06ca359d80e",
-        "deviceId": "",
-        "version": "120"
-      }
-    },  
     {
       "key": "蔬菜",
       "name": "雪魂APP",
@@ -90,32 +75,7 @@
         "ua": ""
       }
     },
-  {
-      "key": "热剧",
-      "name": "热剧APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "https://www.rebovod.com",
-        "dataKey": "8191A7F47B37882F",
-        "dataIv": "8191A7F47B37882F"
-      }
-    },    
-	 {
-      "key": "咖啡",
-      "name": "咖啡APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
-        "dataKey": "37kj83zs1q16jk6t",
-        "dataIv": "37kj83zs1q16jk6t",
-        "version": "101"
-      }
-    },   
-    {
+   {
       "key": "鲸鱼",
       "name": "鲸鱼APP",
       "type": 3,
@@ -157,17 +117,7 @@
       "quickSearch": 1,
       "ext": "http://m51.gotto.top/api.php/v1.vod"
     },	  
-    {
-      "key": "极兔",
-      "name": "极兔APP",
-      "type": 3,
-      "api": "csp_AppFox",
-      "ext": {
-        "host": "https://www.dhxxfhsz.top",
-        "ver": 2
-      }
-    },
- 	{
+   {
       "key": "吉米",
       "name": "吉米APP",
       "type": 3,
@@ -3040,6 +2990,7 @@
  
 
      
+
 
 
 
