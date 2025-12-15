@@ -117,16 +117,7 @@
       "quickSearch": 1,
       "ext": "http://m51.gotto.top/api.php/v1.vod"
     },	  
-   {
-      "key": "吉米",
-      "name": "吉米APP",
-      "type": 3,
-      "api": "csp_AppFox",
-      "ext": {
-        "host": "http://fox.tvmao.top"
-      }
-    },	  
-        {
+  {
             "name": "杜北影视",
             "key": "杜北",
             "type": 3,
@@ -211,20 +202,7 @@
         "dataIv": "xxm9N4P9rS2zjdyz"
       }
     },	  
-	  {
-            "key": "柒月",
-            "name": "柒月APP",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://www.ys.mk",
-                "dataKey": "mayday6770249ash",
-                "dataIv": "mayday6770249ash"
-            }
-        },       
-    {
+ {
       "key": "七星",
       "name": "七星APP",
       "type": 3,
@@ -257,20 +235,7 @@
         "ver": 2
       }
     },	  
-    {
-      "key": "幕启",
-      "name": "幕启APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
-        "dataKey": "37kj83zs1q16jk6t",
-        "dataIv": "37kj83zs1q16jk6t",
-        "version": "120"
-      }
-    },	  
-    {
+   {
       "key": "剧猫",
       "name": "剧猫APP",
       "type": 3,
@@ -383,30 +348,6 @@
                 "version": "120"
             }
         },  
-        {
-            "key": "星空",
-            "name": "星空APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://xkcms.xkgzs.xyz",
-                "site": "",
-                "dataKey": "AJcdjkAjkdJDkvcd",
-                "dataIv": "AJcdjkAjkdJDkvcd",
-                "deviceId": "",
-                "version": ""
-            }
-        },       
-     {
-      "key": "ylyshi",
-      "name": "娱乐影视APP",
-      "type": 3,
-      "api": "csp_AppFox",
-      "ext": {
-        "host": "http://fox.qwqfun.com"
-      }
-    },
     {
       "key": "云云",
       "name": "新云速APP",
@@ -577,36 +518,6 @@
       "filterable": 1
     },    
 {
-      "key": "火锅",
-      "name": "火锅APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://ios.hgyx.vip",
-        "site": "",
-        "dataKey": "062dec75d039980e",
-        "dataIv": "062dec75d039980e",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
-      "key": "爱看",
-      "name": "爱看APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.appdm.akandm.com",
-        "site": "",
-        "dataKey": "uI1TkPJC8B46AyN3",
-        "dataIv": "uI1TkPJC8B46AyN3",
-        "deviceId": "",
-        "version": ""
-      }
-    },	  
-   {
       "key": "金牌",
       "name": "金牌APP",
       "type": 3,
@@ -619,58 +530,7 @@
         "dataIv": "kecbio48dsq131ed"
       }
     },
-	  {
-            "key": "萝卜",
-            "name": "萝卜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://apiapplbys.lbys.app:5678",
-                "dataKey": "apiapplbyskey168",
-                "dataIv": "apiapplbyskey168",
-                "deviceId": "",
-                "version": "107"
-            }
-        },	  
-        {
-            "key": "魔方",
-            "name": "魔方APP",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://app.ybn-ooo.top",
-                "dataKey": "vcfgytu7654rtyui",
-                "dataIv": "vcfgytu7654rtyui"
-            }
-        },
-        {
-            "key": "鹤雪",
-            "name": "鹤雪APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://hxys.07hx.shop",
-                "dataKey": "hex200762200762.",
-                "dataIv": "hex200762200762."
-            }
-        },
-        {
-            "key": "新剧",
-            "name": "新剧APP",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://211.154.24.56:8369",
-                "dataKey": "685bf108bc47b67d",
-                "dataIv": "685bf108bc47b67d"
-            }
-        },
-        {
+      {
             "key": "小猫",
             "name": "小猫APP",
             "type": 3,
@@ -712,22 +572,6 @@
             }
         },	  
        {
-            "key": "稀饭",
-            "name": "稀饭APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://app.xifanys.com",
-                "site": "",
-                "dataKey": "HM6Ly9yeS4ya3dvL",
-                "dataIv": "HM6Ly9yeS4ya3dvL",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
-            }
-        },	  
-        {
             "key": "yunyun",
             "name": "云云APP",
             "type": 3,
@@ -775,16 +619,6 @@
                 "ua": ""
             }
         },      
-        {
-            "key": "毒舌影视",
-            "name": "毒舌APP",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/毒舌影视.json"
-        },
     {
       "key": "火猫",
       "name": "火猫APP",
@@ -816,31 +650,6 @@
      "filterable": 1,
      "ext": "http://jxfmax.juxiafan.com/icciu_api.php/v1.vod"
    },	 
-{
-      "key": "巧技",
-      "name": "巧计影视",
-      "type": 3,
-      "jar": "./jar/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662",
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
-    },	  
-    {
-      "key": "QD4K",
-      "name": "猪猪影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 0,
-      "api": "./py/AppV2.py",
-      "playerType": 2,
-      "ext": {
-        "api": "http://dmmax.kuailezhuiju2.com/icciu_api.php/v1.vod",
-        "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
-        "apisignkey": "lvdoutv-1.0.0"
-      }
-    }, 
 { "key": "饭团影视", "name": "饭团影视", "type":3,"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+<p>&&</p>","副标题":"module-item-note\">&&</div>","分类url":"https://www.fantuan.vip/vodtype/{cateId}.html","分类":"电视剧$2#电影$1#动漫$3#综艺$4"}},   
 {
            "key": "大众",
@@ -921,44 +730,7 @@
                 "version": "120"
             }
         },
-    {
-      "key": "韩圈",
-      "name": "韩圈App",
-      "type": 3,
-      "api": "csp_HanXiaoQuanGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "jar":"./kk.png;md5;b3fe8c2580f248c0931d0aff419d10f0",  
-	  "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "厂长",
-      "name": "厂长直连",
-      "type": 3,
-      "api": "csp_CzzyGuard",
-      "searchable": 1,
-      "jar":"./kk.png;md5;b3fe8c2580f248c0931d0aff419d10f0",  
-	  "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 10
-    },	   
-    {
-      "key": "一起",
-      "name": "一起秒播",
-      "type": 3,
-      "api": "csp_YqsGuard",
-      "searchable": 1,
-      "jar":"./kk.png;md5;b3fe8c2580f248c0931d0aff419d10f0",  
-	  "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 10
-    },	  
-    {
+  {
       "key": "金牌影视",
       "name": "金牌影视",
       "type": 3,
@@ -2990,6 +2762,7 @@
  
 
      
+
 
 
 
