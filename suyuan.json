@@ -225,6 +225,19 @@
         "host": "http://www.yezitv.top"
       }
     },   
+    {
+      "key": "魔方",
+      "name": "魔方APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.mfsp4k.top",
+        "dataKey": "1234567887654321",
+        "dataIv": "1234567887654321"
+      }
+    },	
 	{
       "key": "恋鱼",
       "name": "恋鱼APP",
@@ -2762,6 +2775,7 @@
  
 
      
+
 
 
 
