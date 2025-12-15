@@ -266,7 +266,16 @@
         "ver": 2
       }
     },	  
-   {
+    {
+      "key": "吉米",
+      "name": "吉米APP",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": {
+        "host": "http://fox.tvmao.top"
+      }
+    },
+	{
       "key": "剧猫",
       "name": "剧猫APP",
       "type": 3,
@@ -348,7 +357,20 @@
         "version": ""
       }
     },	  
-      {
+    {
+      "key": "爱看",
+      "name": "爱看APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://wiffxm.cn",
+        "dataKey": "AvwBFPUtGTEYPbY4",
+        "dataIv": "AvwBFPUtGTEYPbY4"
+      }
+    },      
+	  {
             "key": "小猪",
             "name": "小猪APP",
             "type": 3,
@@ -2750,6 +2772,7 @@
  
 
      
+
 
 
 
