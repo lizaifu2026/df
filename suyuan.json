@@ -1266,7 +1266,17 @@
       "searchable": 1,
       "type": 1
     },	 
-	{
+    {
+      "key": "4Kvm影视",
+      "name": "4kvm影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/4kvm.json"
+    },	
+	  {
       "key": "大师兄",
       "name": "大师兄影视",
       "type": 3,
@@ -2772,6 +2782,7 @@
  
 
      
+
 
 
 
