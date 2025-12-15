@@ -1605,6 +1605,15 @@
             "filterable": 1,
             "playerType": 2
         }, 
+    {
+      "key": "py_4KAV",
+      "name": "4K影音",
+      "type": 3,
+      "api": "./py/4KAV.py",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },	  
 	  {
             "key": "xdmys",
             "name": "看客影视",
@@ -2807,6 +2816,7 @@
  
 
      
+
 
 
 
