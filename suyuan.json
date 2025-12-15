@@ -777,21 +777,7 @@
       "playerType": 2,    
       "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
     },
-{
-            "key": "优质",
-            "name": "优质APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://apiapplbys.lbys.app:5678",
-                "dataKey": "apiapplbyskey168",
-                "dataIv": "apiapplbyskey168",
-                "deviceId": "",
-                "version": "107"
-            }
-        },
-        {
+       {
             "key": "蛋蛋",
             "name": "蛋蛋影视",
             "type": 3,
@@ -1297,22 +1283,7 @@
         "msg": "124421jh8lk39646pgruC6dATnyTtf6ewyst71opcsJfticyXxWGbU5x4zxzEQ5LWhshM7QSmwiAgf0H4RN8rjjuUPQPPsiTj8Yz48I27L5SoL/Lbg70J558Qnv6Dtdt9BeeyWciQnnqApDLzxuKF+nEHryocRY26k1efEO43zCfP69tVyTyWvQ/MT7q/J7KDiOdwg0CGUc0cPhVc3AiwU6ZXIapEVCaeJ1OkLO2LzfrGsCulTGV9LrN4N8omBYpohl4BgdDhg8SQwEh9MoFXC1M2AqzePjz+itosXK3VQ3Ch4ba88bCsZSAs56JWl570OQ5t3yuPDslC75Y1p4Y9x9OOnztqiDqRbgpaXR5KWKYWfjU9T1H2SXW3uAmq9Z2GQKDrAQT7gB35NJeagOshSRZScjiS3Ss7lf/6iMfs9NInk9DfLj/H/9HCcIDRr1AG/ZGgLLtB/doGr0l/oENwrHwu+kLjzqWcmiAPcaLdbeeK18hxlYJBvXIlfjoWgopvFnm7338rR8k7EwtnU39fRJph5WcuPdvL5ZivGdWO+EYQ47zLhX038Vcju8iF3omFTj5W6D9FEOXryKIMCBgi8G5t+I73iaFCGGzTA=="
       }
     },	 
-	  {
-            "key": "稀饭动漫",
-            "name": "稀饭动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "https://xfapp-1305390065.cos.ap-guangzhou.myqcloud.com/getapp.txt",
-                "dataKey": "1yZ2Spn9krnzVKoC",
-                "dataIv": "1yZ2Spn9krnzVKoC",
-                "deviceId": "",
-                "version": ""
-            }
-        },          
-  {
+    {
       "key": "方舟",
       "name": "方舟动漫",
       "type": 3,
@@ -1338,21 +1309,7 @@
       },
       "ext": "./lib/DLXFS.json"
     },	 
-	  {
-            "key": "派对动漫",
-            "name": "派对动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://qjappcms.acg.party",
-                "dataKey": "AmtMYFCJDPoTlK7z",
-                "dataIv": "AmtMYFCJDPoTlK7z",
-                "deviceId": "",
-                "version": ""
-            }
-        },	  
-    {
+  {
       "key": "漫国",
       "name": "漫国动漫",
       "type": 3,
@@ -2793,6 +2750,7 @@
  
 
      
+
 
 
 
