@@ -656,7 +656,20 @@
                 "ua": ""
             }
         },
-          {
+    {
+      "key": "火花",
+      "name": "火花APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "./lib/1.txt",
+        "dataKey": "PoiUytRedFghjklm",
+        "dataIv": "PoiUytRedFghjklm"
+      }
+    },          
+	  {
             "key": "火狐",
             "name": "火狐APP",
             "type": 3,
@@ -2816,6 +2829,7 @@
  
 
      
+
 
 
 
