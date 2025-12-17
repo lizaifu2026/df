@@ -328,15 +328,13 @@
       }
     },	  
     {
-      "key": "乐享影视",
-      "name": "乐享影视",
+      "key": "久久影视",
+      "name": "久久影视",
       "type": 3,
       "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://114.66.55.28:8818/api.php/app/"
-    },	  
+      "playerType": 2,
+      "ext": "http://99cms.jj99.icu:8199/api.php/app/"
+    },
 	  {
             "key": "布雷",
             "name": "布雷APP",
@@ -2839,6 +2837,7 @@
  
 
      
+
 
 
 
