@@ -327,6 +327,16 @@
         "dataIv": "q7gj4f9br3fls6nh"
       }
     },	  
+    {
+      "key": "乐享影视",
+      "name": "乐享影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://114.66.55.28:8818/api.php/app/"
+    },	  
 	  {
             "key": "布雷",
             "name": "布雷APP",
@@ -2829,6 +2839,7 @@
  
 
      
+
 
 
 
