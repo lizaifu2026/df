@@ -1709,7 +1709,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
-     {
+    {
       "key": "笒鬼短剧",
       "name": "笒鬼短剧",
       "type": 3,
@@ -1718,7 +1718,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },       
+    },
 	  {
             "name": "豪堪短剧",
             "key": "豪堪短剧",
@@ -1742,7 +1742,7 @@
             "changeable": 1
         },        
         {
-            "key": "星阁短剧",
+            "key": "星之阁短剧",
             "name": "星之阁短剧",
             "type": 3,
             "api": "csp_XBPQ",
@@ -1761,19 +1761,26 @@
             "quickSearch": 1,
             "filterable": 1
         },	  
-	  {
-            "key": "短剧AI",
-            "name": "短剧AI",
-            "type": 3,
-            "api": "csp_DuanJuCen",
-            "jar": "./vox.jar",
-			"searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "classes": "./lib/duanjucen.json"
-            }
-        },    
+    {
+      "key": "百度短剧",
+      "name": "百度短剧",
+      "type": 3,
+      "api": "csp_BaiduDJ",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "星阁短剧",
+      "name": "星阁短剧",
+      "type": 3,
+      "api": "csp_XinggeDJ",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
         {
             "key": "软软短剧",
             "name": "软鸭短剧",
@@ -1872,8 +1879,8 @@
       "filterable": 1
     },
  {
-            "key": "锦鲤短剧",
-            "name": "锦鲤短剧",
+            "key": "锦鲤短剧1",
+            "name": "锦鲤短剧1",
             "type": 3,
             "api": "./py/%E9%94%A6%E9%B2%A4%E7%9F%AD%E5%89%A7.py",
             "searchable": 1,
@@ -1882,7 +1889,17 @@
             "filterable": 1,
             "playerType": 2
         },
-       {
+        {
+      "key": "锦鲤短剧2",
+      "name": "锦鲤短剧2",
+      "type": 3,
+      "api": "csp_JinliDJ",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },  
+	  {
             "key": "星芽短剧",
             "name": "星芽短剧",
             "type": 3,
@@ -2837,6 +2854,7 @@
  
 
      
+
 
 
 
