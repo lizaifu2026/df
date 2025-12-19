@@ -97,21 +97,6 @@
         "version": ""
       }
     },	  
-   {
-            "key": "星空",
-            "name": "星空APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://xkcms.xkgzs.xyz",
-                "site": "",
-                "dataKey": "AJcdjkAjkdJDkvcd",
-                "dataIv": "AJcdjkAjkdJDkvcd",
-                "deviceId": "",
-                "version": ""
-            }
-        },       
     {
       "key": "云云",
       "name": "新云速APP",
@@ -154,16 +139,6 @@
             }
         },
     {
-      "key": "大豆",
-      "name": "大豆app",
-      "type": 3,
-      "jar": "./jar/xm.jar",
-      "quickSearch": 0,
-      "searchable": 1,
-      "api": "csp_AppQi",
-      "ext": "Ruh/okyt5lxEpcdQOao0NkSkj8M9vdB0soaZbGJldzA3817rfAzlvyWHCewZEFD4+BBCXxVVHkmAtv6gi+JRQlKwhK1WjuT8blTygReol77ICMmtZZPsmzfgjOtOXiEJ"
-    },	
-	{
       "key": "星星",
       "name": "星星APP",
       "type": 3,
@@ -520,29 +495,7 @@
                 "version": "120"
             }
         },
-{
-      "key": "韩圈",
-      "name": "韩圈App",
-      "type": 3,
-      "api": "csp_HanXiaoQuanGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "jar":"./kk.png;md5;b3fe8c2580f248c0931d0aff419d10f0",  
-	  "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-     {
-      "key": "主角",
-      "name": "主角App",
-      "type": 3,
-      "api": "csp_Muou",
-      "jar": "./fix250410.jar;md5;bb362e424047eec85220dc5aa1066896",
-      "playerType": 2,    
-      "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
-    },
-   {
+        {
             "key": "雨滴",
             "name": "雨滴APP",
             "type": 3,
@@ -554,20 +507,6 @@
                 "dataIv": "k9o3p2c8b7m3z0o8",
                 "deviceId": "",
                 "version": "100"
-            }
-        },
-   {
-            "key": "优质",
-            "name": "优质APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://apiapplbys.lbys.app:5678",
-                "dataKey": "apiapplbyskey168",
-                "dataIv": "apiapplbyskey168",
-                "deviceId": "",
-                "version": "107"
             }
         },
 { "key": "秀儿影院", "name": "秀儿影院", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+tt\" style=*>&&</div>","数组":"<a&&module-item-pic","副标题":"module-item-text\">&&</div>","影片状态":"集数：&&</div>","线路数组":"data-dropdown-value=&&</small>","播放数组":"sort-item-&&</div>","搜索url":"https://xiuer.pro/vod/search/?wd={wd}","分类url":"https://xiuer.pro/show/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/","分类":"短剧$duanju#电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi"}},   
