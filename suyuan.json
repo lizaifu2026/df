@@ -1691,7 +1691,7 @@
             "key": "PY合集",
             "name": "PY合集",
             "type": 4,
-            "api": "http://zhangqun1818.serv00.net/py.php",
+            "api": "./py/py.php",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -2867,6 +2867,7 @@
  
 
      
+
 
 
 
