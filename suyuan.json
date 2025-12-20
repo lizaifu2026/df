@@ -961,7 +961,14 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "./lib/流光影视.json"
-        },	  
+        },
+	   {
+            "key": "韩剧看看",
+            "name": "韩剧影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./lib/韩剧看看.json"
+        }, 	  
         {
             "key": "星空影视",
             "name": "星空影视",
@@ -2864,6 +2871,7 @@
  
 
      
+
 
 
 
