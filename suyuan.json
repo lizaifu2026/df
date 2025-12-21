@@ -1702,6 +1702,44 @@
 			"api": "./py/RJAPP.py",
 			"ext": " http://v.lkuys.cn"
 		},
+    {
+      "key": "酷聚搜影视",
+      "name": "番喜视频",
+      "type": 3,
+      "api": "./py/Applzxw.py",
+      "ext": "http://101.35.85.16:5555"
+    },
+    {
+      "key": "皮皮",
+      "name": "皮皮虾影视",
+      "type": 3,
+      "api": "./py/Applzxw.py",
+      "ext": "http://38.55.237.41:8762"
+    },
+    {
+      "key": "问鼎",
+      "name": "问鼎影视",
+      "type": 3,
+      "changeable": 0,
+      "api": "./py/AppV2.py",
+      "ext": {
+        "api": "http://yjer.jumianfei.com/api.php/v1.vod",
+        "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
+        "apisignkey": "lvdoutv-1.0.0"
+      }
+    },
+    {
+      "key": "古魔",
+      "name": "古妖影视",
+      "type": 3,
+      "changeable": 0,
+      "api": "./py/AppGet3.py",
+      "ext": {
+        "host": "https://www.mfsp4k.top",
+        "key": "1234567887654321",
+        "sort": "123456789321654"
+      }
+    },
 { "key": "短剧网", "name": "短剧网", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+data-label\">&&</p>","副标题":"meta-post-type2\">&&</span>","分类url":"https://www.duanju2.com/show/duanju---{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#悬疑$脑洞悬疑#年代$年代穿越#古装$古装仙侠#都市$现代都市#反转$反转#爽文$爽文#其他$短剧"}},   
  { "key": "茄子短剧", "name": "番茄短剧", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+简介：</span>&&","线路标题":"panel-hd\">&&</div>","分类url":"https://www.shanhuzs.com/fqsansw/5-{area}--{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"}},       
        {
@@ -2871,6 +2909,7 @@
  
 
      
+
 
 
 
