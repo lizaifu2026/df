@@ -175,7 +175,7 @@
       "name": "金蝉影视",
       "type": 1,
       "api": "http://zy.jinchancaiji.com/api.php/provide/vod",
-      "playUrl": "json:https://jx.yparse.com/index.php?url="
+      "playUrl": "json:https://zy.qiaoji8.com/xiafan.php?url="
     },	  
     {
       "key": "爱盈",
@@ -2275,7 +2275,7 @@
       "name": "️2K爱优腾芒",
       "type": 1,
       "api": "https://vs.okcdn100.top/api.php/provide/vod/",
-      "playUrl": "json:https://jx.yparse.com/index.php?url=",
+      "playUrl": "json:https://zy.qiaoji8.com/xiafan.php?url=",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -2909,6 +2909,7 @@
  
 
      
+
 
 
 
