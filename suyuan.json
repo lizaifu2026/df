@@ -170,14 +170,7 @@
 	  "playerType": 2,
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
     },	
-	{
-      "key": "金蝉",
-      "name": "金蝉影视",
-      "type": 1,
-      "api": "http://zy.jinchancaiji.com/api.php/provide/vod",
-      "playUrl": "json:https://zy.qiaoji8.com/xiafan.php?url="
-    },	  
-    {
+   {
       "key": "爱盈",
       "name": "爱盈APP",
       "type": 3,
@@ -2275,7 +2268,7 @@
       "name": "️2K爱优腾芒",
       "type": 1,
       "api": "https://vs.okcdn100.top/api.php/provide/vod/",
-      "playUrl": "json:https://zy.qiaoji8.com/xiafan.php?url=",
+      "playUrl": "json:http://125.208.22.184:1666/api/?key=Lsthk1A7obu4Lmn4zk&url=",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -2909,6 +2902,7 @@
  
 
      
+
 
 
 
