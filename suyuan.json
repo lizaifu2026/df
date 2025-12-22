@@ -87,19 +87,7 @@
         "dataIv": "AAdgrdghjfgswerA"
       }
     },	  
-    {
-      "key": "莱米",
-      "name": "莱米APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "site": "http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt",
-        "dataKey": "ce032244d093b3e2",
-        "dataIv": "ce032244d093b3e2"
-      }
-    },	  
-    {
+  {
       "key": "nangua",
       "name": "南瓜APP",
       "type": 3,
@@ -201,19 +189,6 @@
       }
     },	  
     {
-      "key": "椰子",
-      "name": "椰子APP",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://103.109.20.117:6699",
-        "dataKey": "xxm9N4P9rS2zjdyz",
-        "dataIv": "xxm9N4P9rS2zjdyz"
-      }
-    },	  
- {
       "key": "七星",
       "name": "七星APP",
       "type": 3,
@@ -227,15 +202,6 @@
         "version": "120"
       }
     },       
-     {
-      "key": "木瓜",
-      "name": "木瓜APP",
-      "type": 3,
-      "api": "csp_AppFox",
-      "ext": {
-        "host": "http://www.yezitv.top"
-      }
-    },   
     {
       "key": "魔方",
       "name": "魔方APP",
@@ -270,15 +236,6 @@
       }
     },	  
     {
-      "key": "吉米",
-      "name": "吉米APP",
-      "type": 3,
-      "api": "csp_AppFox",
-      "ext": {
-        "host": "http://fox.tvmao.top"
-      }
-    },
-	{
       "key": "剧猫",
       "name": "剧猫APP",
       "type": 3,
@@ -302,19 +259,6 @@
         "url": "https://www.jumengwu.com",
         "dataKey": "1f0a873caf2550a5",
         "dataIv": "1f0a873caf2550a5"
-      }
-    },
-    {
-      "key": "缘梦",
-      "name": "缘梦APP",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.zipfve.cn",
-        "dataKey": "1234567890987654",
-        "dataIv": "1234567890987654"
       }
     },
     {
@@ -502,23 +446,7 @@
       "filterable": 1,
       "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
     },	
-	{
-      "key": "星星",
-      "name": "星星APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://starani.qcanime.xyz",
-        "site": "",
-        "dataKey": "123456789StarAni",
-        "dataIv": "123456789StarAni",
-        "deviceId": "",
-        "version": "",
-        "ua": "okhttp/3.10.0 BDYS/109.0.0.8"
-      }
-    },
-{
+    {
       "key": "八天",
       "name": "八天APP",
       "type": 3,
@@ -534,21 +462,9 @@
         "ua": ""
       }
     },       
-    {
-      "key": "瑞奇影视",
-      "name": "瑞奇APP",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://rqxk.gdata.fun",
-        "dataKey": "yangruiqiYsapp00",
-        "dataIv": "yangruiqiYsapp00"
-      }
-    },   
 {"key":"柠檬","name":"柠檬影视","type":3,"api":"csp_Nmvod","playerType":2,"jar":"https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},	  
 {"key":"小鸭","name":"小鸭影视","type":3,"api":"csp_XBPQ","jar":"https://alicliimg.clewm.net/342/790/68790342/175492501342882a47a74800c50acc8fee173f0038fe31754925012.jpg;md5;4d860d06ec233dbcb891b76055f099d5","ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e","请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://777tv.ai/;;!H"}},	  
- { "key": "奇友影院", "name": "奇友影院", "type":3,"api":"csp_XBPQ","ext": {"请求头":"手机", "简介":"剧情介绍:+col-pd\">&&</p>","线路标题":"playlist-title\">&&</h4>","分类url":"https://kangluya.com/show/{cateId}-{area}-time-{class}-------{catePg}---{year}/","分类":"短剧$duanju#国产剧$guochanju#港台剧$gangtaiju#欧美剧$oumeiju#韩剧$hanguoju#日剧$ribenju#泰剧$taiguoju#其他$qitaju#动作片$dongzuo#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#喜剧片$xiju#惊悚片$jings#悬疑片$xuanyi#犯罪片$fanzui#灾难片$zainan#剧情片$juqing#奇幻片$qihuan#冒险片$maoxian#绍氏片$shaoshi#动画片$donghuadianying#其他片$qita#国产动漫$guochan#日韩动漫$rhdm#港台动漫$gtdm#欧美动漫$omdm#其他功漫$qtdm#动漫电影$dongmandianying#大陆综艺$daluzongyi#日韩综艺$rihan#港台综艺$gangtai#欧美综艺$oumei#理伦片$lilun"}},	  
+{ "key": "奇友影院", "name": "奇友影院", "type":3,"api":"csp_XBPQ","ext": {"请求头":"手机", "简介":"剧情介绍:+col-pd\">&&</p>","线路标题":"playlist-title\">&&</h4>","分类url":"https://kangluya.com/show/{cateId}-{area}-time-{class}-------{catePg}---{year}/","分类":"短剧$duanju#国产剧$guochanju#港台剧$gangtaiju#欧美剧$oumeiju#韩剧$hanguoju#日剧$ribenju#泰剧$taiguoju#其他$qitaju#动作片$dongzuo#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#喜剧片$xiju#惊悚片$jings#悬疑片$xuanyi#犯罪片$fanzui#灾难片$zainan#剧情片$juqing#奇幻片$qihuan#冒险片$maoxian#绍氏片$shaoshi#动画片$donghuadianying#其他片$qita#国产动漫$guochan#日韩动漫$rhdm#港台动漫$gtdm#欧美动漫$omdm#其他功漫$qtdm#动漫电影$dongmandianying#大陆综艺$daluzongyi#日韩综艺$rihan#港台综艺$gangtai#欧美综艺$oumei#理伦片$lilun"}},	  
   {
       "key": "灵虎",
       "name": "灵虎APP",
@@ -696,18 +612,7 @@
                 "ua": ""
             }
         },      
-    {
-      "key": "火猫",
-      "name": "火猫APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://103.23.148.70:14500",
-        "dataKey": "J6AIORKJ3PQOJKM8",
-        "dataIv": "J6AIORKJ3PQOJKM8"
-      }
-    },       
-	  {
+      {
             "key": "农牧",
             "name": "农牧APP",
             "type": 3,
@@ -766,19 +671,7 @@
                "version": "201"
            }
        },	  
-     {
-            "key": "浪酷影视",
-            "name": "浪酷APP",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "url": "http://v.lkuys.cn"
-            }
-        },	  
-      {
+       {
       "key": "淘剧",
       "name": "淘剧影视",
       "type": 3,
@@ -791,8 +684,7 @@
         "分类": "电影$1#连续剧$2#动漫$3#综艺$4"
       }
     },     
- { "key": "老王影视",  "name": "老王影视", "type": 3,"api": "csp_XBPQ", "ext": {"简介":"剧情介绍: +video-info-content vod_content\">&&</div>","数组": "<a&&module-item-pic","副标题":"module-item-text\">&&</div>","状态":"集数：&&</div>","线路数组":"module-tab-item tab-item&&</small>","播放数组":"module-blocklist scroll-box&&</div>","搜索url": "https://laowang.co/s.html?wd={wd}","搜索数组": "module-item-pic&&video-info","搜索标题": "alt=\"&&\">","搜索图片": "data-src=\"&&\"","分类url":"https://laowang.co/vs/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},       
-{
+    {
             "key": "旗星",
             "name": "旗星APP",
             "type": 3,
@@ -814,16 +706,7 @@
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
-	 {
-      "key": "主角",
-      "name": "主角App",
-      "type": 3,
-      "api": "csp_Muou",
-      "jar": "./fix250410.jar;md5;bb362e424047eec85220dc5aa1066896",
-      "playerType": 2,    
-      "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
-    },
-       {
+      {
             "key": "蛋蛋",
             "name": "蛋蛋影视",
             "type": 3,
@@ -854,16 +737,6 @@
       "api": "csp_XBPQ",
       "ext": "./lib/莫小影视.json"
     },		
-        {
-            "key": "奇优",
-            "name": "奇优APP",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/奇优.json"
-        },	  
         {
             "key": "明星影视",
             "name": "明星影视",
@@ -949,13 +822,6 @@
             "ext": "./lib/麦田影视.json"
         },	  
         {
-            "key": "流光影视",
-            "name": "流光影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./lib/流光影视.json"
-        },
-	   {
             "key": "韩剧看看",
             "name": "韩剧影视",
             "type": 3,
@@ -987,46 +853,7 @@
             "filterable": 1,
             "playerType": 2
         },        
-    {
-      "key": "360资源",
-      "name": "三六零资源",
-      "type": 1,
-      "api": "https://360zy.com/api.php/seaxml/vod/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "韩国剧",
-        "日本剧",
-        "电影片",
-        "连续剧",
-        "国产动漫",
-        "日韩动漫",
-        "综艺片",
-        "动漫片",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "香港剧",
-        "欧美剧",
-        "记录片",
-        "台湾剧",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫"
-      ]
-    },
-    {
+     {
       "key": "量子资源",
       "name": "量子资源",
       "type": 1,
@@ -1452,18 +1279,7 @@
             "filterable": 1,
             "playerType": 2
         },     
-	  {
-            "key": "天空影视",
-            "name": "天空影视",
-            "type": 3,
-            "api": "./py/天空影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },     
-	  {
+        {
             "key": "八戒影视",
             "name": "八戒影视",
             "type": 3,
@@ -1486,17 +1302,6 @@
             "playerType": 2
         },		  
         {
-            "key": "五八PY",
-            "name": "伍捌APP",
-            "type": 3,
-            "api": "./py/58%E8%A7%86%E9%A2%91.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },	  
-	  {
             "key": "kaiduan",
             "name": "开端影视",
             "type": 3,
@@ -1573,18 +1378,7 @@
         "apisignkey": "lvdoutv-1.0.0"
       }
     },
-  {
-            "key": "dytt",
-            "name": "娱乐电影天堂",
-            "type": 3,
-            "api": "./py/47%E7%94%B5%E5%BD%B1%E5%A4%A9%E5%A0%82.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },	      
-    {
+ {
       "key": "界影视",
       "name": "界影视",
       "type": 3,
@@ -1594,17 +1388,7 @@
       "filterable": 1,
       "changeable": 1
     },	 
-     {
-      "key": "jianguo",
-      "name": "坚果影视",
-      "type": 3,
-      "api": "./py/%E5%9D%9A%E6%9E%9C%E8%A7%86%E9%A2%91.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },	
-     {
+	{
       "key": "yiyingshi",
       "name": "壹影视",
       "type": 3,
@@ -1687,13 +1471,6 @@
 			"type": 3,
 			"api": "./py/RJAPP.py",
 			"ext": " http://v.rbotv.cn "
-		},
-		{
-			"key": "lkyingshi",
-			"name": "浪酷影视APP",
-			"type": 3,
-			"api": "./py/RJAPP.py",
-			"ext": " http://v.lkuys.cn"
 		},
     {
       "key": "酷聚搜影视",
@@ -2902,6 +2679,7 @@
  
 
      
+
 
 
 
