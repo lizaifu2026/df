@@ -842,6 +842,7 @@
             "api": "csp_XBPQ",
             "ext": "./lib/巴蜀影视.json"
         },	  
+   { "key": "素白影视", "name": "素白影视", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+detail-content*>&&</span>","分类url":"https://www.feiyutong.com/lookshow/{cateId}2025-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$dj#电视剧$dsj#电影$dy#动漫$dm#综艺$zy"}},	  
 	  {
             "key": "猎手影视",
             "name": "猎手影视",
@@ -2679,6 +2680,7 @@
  
 
      
+
 
 
 
