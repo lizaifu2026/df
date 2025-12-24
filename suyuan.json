@@ -1511,6 +1511,33 @@
         "sort": "123456789321654"
       }
     },
+		{
+			"key": "TVB云播",
+			"name": "TVB云播APP",
+			"type": 3,
+			"changeable": 0,
+			"api": "./py/Appfox.py",
+			"ext": "http://app.hktvyb.cc"
+		},
+		{
+			"key": "未来影视",
+			"name": "未来影视APP",
+			"type": 3,
+			"changeable": 0,
+			"api": "./py/Appfox.py",
+			"ext": "http://kumiao.yzbao.com.cn"
+		},
+		{
+			"key": "米兔影视",
+			"name": "米兔影视APP",
+			"type": 3,
+			"changeable": 0,
+			"api": "./py/Appfox.py",
+			"ext": {
+				"host": "http://115.190.136.55:1689",
+				"cms": "http://d.tv.tkbot.fun/api.php/appfox/vod?ac=videolist"
+			}
+		},
 { "key": "短剧网", "name": "短剧网", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+data-label\">&&</p>","副标题":"meta-post-type2\">&&</span>","分类url":"https://www.duanju2.com/show/duanju---{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#悬疑$脑洞悬疑#年代$年代穿越#古装$古装仙侠#都市$现代都市#反转$反转#爽文$爽文#其他$短剧"}},   
  { "key": "茄子短剧", "name": "番茄短剧", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+简介：</span>&&","线路标题":"panel-hd\">&&</div>","分类url":"https://www.shanhuzs.com/fqsansw/5-{area}--{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"}},       
        {
@@ -2678,6 +2705,7 @@
  
 
      
+
 
 
 
