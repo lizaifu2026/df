@@ -275,16 +275,12 @@
       }
     },	  
     {
-      "key": "白鸽",
-      "name": "白鸽APP",
+      "key": "木瓜",
+      "name": "木瓜APP",
       "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
+      "api": "csp_AppFox",
       "ext": {
-        "url": "https://cy.baige.asia",
-        "dataKey": "599D0FE5178642FD",
-        "dataIv": "599D0FE5178642FD"
+        "host": "http://www.yezitv.top"
       }
     },
     {
@@ -2731,6 +2727,7 @@
  
 
      
+
 
 
 
