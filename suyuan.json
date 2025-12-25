@@ -291,7 +291,8 @@
       "name": "橘子影视",
       "type": 3,
       "api": "csp_AppGetV2",
-      "timeout": 25,
+      "jar":"./xiaomi.png",
+	  "timeout": 25,
       "changeable": "1",
       "quickSearch": 0,
       "filterable": 1,
@@ -2743,6 +2744,7 @@
  
 
      
+
 
 
 
