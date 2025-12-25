@@ -129,8 +129,8 @@
             "changeable": 1
         },	
         {
-            "name": "春天",
-            "key": "春天影视",
+            "name": "春天影视",
+            "key": "春天",
             "type": 3,
             "api": "csp_NewGrAmns",
             "jar": "./bdb.png",
@@ -288,7 +288,7 @@
     },  
    {
       "key": "橘子",
-      "name": "橘子影视",
+      "name": "橘子影视APP",
       "type": 3,
       "api": "csp_AppGetV2",
       "jar":"./xiaomi.png",
@@ -2744,6 +2744,7 @@
  
 
      
+
 
 
 
