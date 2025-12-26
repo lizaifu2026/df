@@ -679,8 +679,7 @@
      "filterable": 1,
      "ext": "http://jxfmax.juxiafan.com/icciu_api.php/v1.vod"
    },	 
-{ "key": "饭团影视", "name": "饭团影视", "type":3,"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+<p>&&</p>","副标题":"module-item-note\">&&</div>","分类url":"https://www.fantuan.vip/vodtype/{cateId}.html","分类":"电视剧$2#电影$1#动漫$3#综艺$4"}},   
-{
+   {
            "key": "大众",
            "name": "大众APP",
            "type": 3,
@@ -2798,6 +2797,7 @@
  
 
      
+
 
 
 
