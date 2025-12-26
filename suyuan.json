@@ -679,18 +679,6 @@
      "filterable": 1,
      "ext": "http://jxfmax.juxiafan.com/icciu_api.php/v1.vod"
    },	 
-    {
-      "key": "juxiafan",
-      "name": "XIAFNA影视",
-      "type": 3,
-      "changeable": 0,
-      "api": "./lib/AppV2.py",
-      "ext": {
-        "api": "http://yjer.jumianfei.com/api.php/v1.vod",
-        "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
-        "apisignkey": "lvdoutv-1.0.0"
-      }
-    },
 { "key": "饭团影视", "name": "饭团影视", "type":3,"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+<p>&&</p>","副标题":"module-item-note\">&&</div>","分类url":"https://www.fantuan.vip/vodtype/{cateId}.html","分类":"电视剧$2#电影$1#动漫$3#综艺$4"}},   
 {
            "key": "大众",
@@ -1622,6 +1610,17 @@
       "api": "./lib/AppToV5.py",
       "ext": "http://118.89.203.120:8365/"
     },	  
+    {
+      "key": "新韩剧网",
+      "name": "新韩剧网",
+      "type": 3,
+      "api": "./py/新韩剧网.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {}
+    },
 { "key": "短剧网", "name": "短剧网", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+data-label\">&&</p>","副标题":"meta-post-type2\">&&</span>","分类url":"https://www.duanju2.com/show/duanju---{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#悬疑$脑洞悬疑#年代$年代穿越#古装$古装仙侠#都市$现代都市#反转$反转#爽文$爽文#其他$短剧"}},   
  { "key": "茄子短剧", "name": "番茄短剧", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+简介：</span>&&","线路标题":"panel-hd\">&&</div>","分类url":"https://www.shanhuzs.com/fqsansw/5-{area}--{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"}},       
        {
@@ -2799,6 +2798,7 @@
  
 
      
+
 
 
 
