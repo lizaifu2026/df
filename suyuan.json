@@ -1665,18 +1665,29 @@
             "quickSearch": 1,
             "changeable": 1
         },	  
-        {
-            "name": "岁岁短剧",
-            "key": "碎片剧场",
-            "type": 3,
-            "api": "csp_SpdjAmns",
-            "jar": "./bdb.jar",
-			"searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },        
-        {
+    {
+      "name": "碎片剧场",
+      "key": "岁岁短剧",
+      "type": 3,
+      "api": "csp_SpdjAmns",
+      "jar": "./bfdb--cvdvds.png",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+     {
+      "name": "拜拜短剧",
+      "key": "byebye短剧",
+      "type": 3,
+      "api": "csp_BddjAmns",
+      "jar": "./bfdb--cvdvds.png",
+	  "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },       
+	  {
             "key": "星之阁短剧",
             "name": "星之阁短剧",
             "type": 3,
@@ -2790,6 +2801,7 @@
  
 
      
+
 
 
 
