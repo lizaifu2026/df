@@ -1845,6 +1845,17 @@
       "quickSearch": 1,
       "filterable": 1
     },  
+    {
+      "name": "锦鲤短剧3",
+      "key": "锦鲤短剧3",
+      "type": 3,
+      "api": "csp_JLdjAmns",
+      "jar": "./bfdb--cvdvds.png",
+	  "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },	  
 	  {
             "key": "星芽短剧",
             "name": "星芽短剧",
@@ -2801,6 +2812,7 @@
  
 
      
+
 
 
 
