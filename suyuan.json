@@ -128,18 +128,17 @@
             "quickSearch": 1,
             "changeable": 1
         },	
-        {
-            "name": "春天影视",
-            "key": "春天",
-            "type": 3,
-            "api": "csp_NewGrAmns",
-            "jar": "./bdb.png",
-			"searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "PnUH1ANGAUTUF9HVgAAHARACF0cRFwdCx0TGwlcBggZSlhIVlFtBFZDAQ0dC1VMR1BUV1ZEVEofVktQCRFQPSQKQjwgBjMpJz4MOyBQCxdmfAs0KhU+Ow48CzMgKjULMlQBKl1VNSlAIEpUS1JHDgJKTkhWUnQZSnscNj0oRkcVIA8EBzIxH0djY08OE15EUAgTQxQGF0VOSFYJEgFGBwJQMQsqEjM/MgIkITYeQwFMQHYaQ1hBByEXBVRLUkcGBBgrARARCFIRVRMMEwwZExBQSUdWCxwJGl1XHmxSHQAXR01WRRYCOAcYRFlWHxJQV1QEDREAKB8DUF9HVlFHW01XBkFSCRdTE1JORgRQSUdWGBULH1JVF2xfEwkXR01WRREKCloNGAkaVhwDWlAcBxcLEAIGXAkPFw1WRFQRQQtAbgIIExERGRUfR11USkZKWBMQAUpCAAEeABYFAlBfR1ZZRUpYExAEVkMBDR0LVUxHUFFXRFhESgk="
-        },
+    {
+      "name": "春天影视",
+      "key": "春天",
+      "type": 3,
+      "api": "csp_NewGrAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "aRzH1ANGAUTUF9FHBwAGAcJHV1GHwsdCgEaGEkRCgpWRFYKK0VXAEBYHQpQX1VHV1BJRR8NDUpOEWskXAQ4IwYzOSUxCjYzF1ERPTlKYipDeD8NPAsjIiUzBiETWywGEHR/QHYMUEhQDAFUXVAEIR8RPgYmfH9DAkMgDhEWLTMQQTU2SVVWRFZeVkdARQBGSEcwOCQWITUeKiAMEHxjBn1rNicKVhBCAiMSJERZPgIDYhBeEVACFC0ME1RdUBYPFQYQARVdQRpaQRsKUElVFQ8TCwkRBCsLG1dXUAkTAQABFSgFF0JURVhKBAkXWFMVVm4cBR8AVUxFEQoKWhEXHxhbSFxKSAEUUElVBR4BOhcYCQAOG0FfUAkTQEZeRwQPFAAACxEJBw1WCRBDAhNeRgQABQUOHQtFTkpAWkQDAlBO"
+    },
     {
       "key": "巧技二",
       "name": "巧技影视",
@@ -2790,6 +2789,7 @@
  
 
      
+
 
 
 
