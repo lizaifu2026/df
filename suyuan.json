@@ -1856,6 +1856,17 @@
       "quickSearch": 1,
       "changeable": 1
     },	  
+    {
+      "name": "盒马短剧",
+      "key": "hema短剧",
+      "type": 3,
+      "api": "csp_HemaAmns",
+      "jar": "./bfdb--cvdvds.png",
+	  "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },	  
 	  {
             "key": "星芽短剧",
             "name": "星芽短剧",
@@ -2802,6 +2813,7 @@
  
 
      
+
 
 
 
