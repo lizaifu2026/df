@@ -2104,17 +2104,7 @@
         ]
       }
     },      
-    {
-      "key": "csp_Music",
-      "name": "MUSIC听歌",
-      "type": 3,
-      "api": "csp_Music",
-      "jar":"./xiaomi.png",
-	  "quickSearch": 0,
-      "searchable": 0,
-      "ext": ""
-    },      
-	  {
+      {
             "key": "1905",
             "name": "1905影视",
             "type": 3,
@@ -2812,6 +2802,7 @@
  
 
      
+
 
 
 
