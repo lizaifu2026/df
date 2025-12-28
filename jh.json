@@ -40,6 +40,10 @@
       "name": "嗷呜影视",
       "url": "assets://嗷呜/config.json"
     },   
+     {
+      "name": "蓝光影视",
+      "url": "assets://蓝光采集/box.json"
+    },    
     {
       "name": "天微影视",
       "url": "https://7337.kstore.vip/tw.json"
@@ -83,6 +87,7 @@
  
 
    
+
 
 
 
