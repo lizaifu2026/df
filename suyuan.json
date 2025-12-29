@@ -203,6 +203,18 @@
       }
     },       
     {
+      "key": "和友",
+      "name": "和友APP",
+      "type": 3,
+      "api": "csp_AppSy",
+      "ext": {
+        "site": "http://qcb.sxtzg.com/api.txt",
+        "siteKey": "rectangleadsadxa",
+        "listKey": "gHSLmx3JQRasgztO",
+        "parsesKey": "gHSLmx3JQRasgztO"
+      }
+    },    
+	{
       "key": "魔方",
       "name": "魔方APP",
       "type": 3,
@@ -223,6 +235,15 @@
       "ext": {
         "host": "https://www.70yyw.cc",
         "ver": 2
+      }
+    },	
+    {
+      "key": "吉米",
+      "name": "吉米APP",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": {
+        "host": "http://45.207.215.137:8006"
       }
     },	
 	{
@@ -2813,6 +2834,7 @@
  
 
      
+
 
 
 
