@@ -1507,18 +1507,7 @@
             "filterable": 1,
             "playerType": 2
         },		  
- {
-            "key": "xxpgys",
-            "name": "小苹果影视(备用)",
-            "type": 3,
-            "api": "./py/LiteApple.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },  
- {
+        {
             "key": "剧海影视",
             "name": "剧海影视APP",
             "type": 3,
@@ -2834,6 +2823,7 @@
  
 
      
+
 
 
 
