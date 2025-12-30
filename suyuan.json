@@ -804,7 +804,29 @@
       "api": "csp_XBPQ",
       "ext": "./lib/莫小影视.json"
     },		
-        {
+    {
+      "name": "哔嘀影视",
+      "key": "哔嘀",
+      "type": 3,
+      "api": "csp_BidysAmns",
+      "jar": "./bfdb--cvdvds.png",
+	  "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "name": "厂长影视",
+      "key": "厂长",
+      "type": 3,
+      "api": "csp_CzzyAmns",
+      "jar": "./bfdb--cvdvds.png",
+	  "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },        
+	  {
             "key": "明星影视",
             "name": "明星影视",
             "type": 3,
@@ -2823,6 +2845,7 @@
  
 
      
+
 
 
 
