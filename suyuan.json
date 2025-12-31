@@ -2164,13 +2164,17 @@
       "api": "csp_XBPQ",
       "ext": "./lib/MBYS.json"
     },
-        {
+     {
             "key": "cat_孜然影视",
-            "name": "孜然影视JS",
+            "name": "cat_孜然影视",
             "type": 3,
             "api": "./js/drpy2.min.js",
-			"ext": "./lib/cat_孜然影视.js"
-        },    
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./lib/cat_孜然影视.js"
+        },   
 	{
       "key": "腾讯弹幕",
       "name": "腾讯",
@@ -2853,6 +2857,7 @@
  
 
      
+
 
 
 
