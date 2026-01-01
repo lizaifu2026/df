@@ -257,6 +257,28 @@
       }
     },	  
     {
+      "key": "椰子",
+      "name": "椰子APP",
+      "type": 3,
+      "changeable": 0,
+      "api": "csp_AppFox",
+      "ext": {
+        "host": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/yzysapp.json",
+        "ver": 2
+      }
+    },    
+    {
+      "key": "雨滴",
+      "name": "雨滴APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "https://appto2-1316376600.cos.ap-beijing.myqcloud.com/gap.txt",
+        "dataKey": "685bf108bc47b67d",
+        "dataIv": "685bf108bc47b67d"
+      }
+    },	
+	{
       "key": "剧猫",
       "name": "剧猫APP",
       "type": 3,
@@ -2842,6 +2864,7 @@
  
 
      
+
 
 
 
