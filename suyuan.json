@@ -239,6 +239,19 @@
       }
     },	
     {
+      "key": "魔方",
+      "name": "魔方APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.26mf4k.top",
+        "dataKey": "1234567887654321",
+        "dataIv": "1234567887654321"
+      }
+    },    
+	{
       "key": "剧梦",
       "name": "剧梦APP",
       "type": 3,
@@ -2773,6 +2786,7 @@
  
 
      
+
 
 
 
