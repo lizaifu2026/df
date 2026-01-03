@@ -1609,10 +1609,10 @@
             "changeable": 1
         },
     {
-      "key": "笒鬼短剧",
-      "name": "笒鬼短剧",
+      "key": "3+4猫短剧",
+      "name": "3+4猫短剧",
       "type": 3,
-      "api": "csp_CenguiDJ",
+      "api": "csp_QiMaoDJ",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -2773,6 +2773,7 @@
  
 
      
+
 
 
 
