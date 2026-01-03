@@ -276,6 +276,14 @@
       "filterable": 1,
       "ext": "FNc7O3Sq/hxz7uCzbccPTwmKS9QhqbhDC5J/tBK99TWfK0aEwzyajhrUANmtu0o/w36kBG8LM77XaSazDF+/gYPfNaL4qTRYwqUKxL4cr84pssT9H168H7YT0HD1jUpcBYXSFfirex66s9O56hHTJCavdCBPyAY+K1jwYeoEEhGWSCLhW+JJBxU7rItkKh2VHMg4vh/A7M+5ydA1fIuNP8T5JR3+475o6yUWkUH7nv/8uqjmZKhq70mQZTaMPiVaBqG+SL9NKYo5Yk4vpsUBErE2uzducc78nK0PT5ShRhLv6POBMNNZZN+/O0MFX+83BqCWsbHMNipM5zOIja/xr2x14WPH7BDlUqkw9w105US6oRwZ8jtdS0cvn5u4BT9W14rSUBAMy36xrjYR3f1OUkmlIvz6sC8OAagD/CRSwFYrh9zbMvw5V2ntYK+wDdiIq6HTkXG/86MN6lYEHkEAC4sYoxBpS5KaPlDFoOo5ED4="
     },	
+    {
+      "key": "科兴",
+      "name": "科兴影视",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "7lj763gg0939790i413gi486k509jgi3ggk6j244j6j36j76041707h0lk124l0l0h867j83h576h3j66h4lk89lh5lh1jl3l170647kj09lklji74j56lg673li1h16"
+    },	
 	{
       "key": "木瓜",
       "name": "木瓜APP",
@@ -2825,6 +2833,7 @@
  
 
      
+
 
 
 
