@@ -1631,16 +1631,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "笒鬼短剧",
-      "name": "笒鬼短剧",
-      "type": 3,
-      "api": "csp_CenguiDJ",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },	  
 	  {
             "name": "豪堪短剧",
             "key": "豪堪短剧",
@@ -2796,6 +2786,7 @@
  
 
      
+
 
 
 
