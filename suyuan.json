@@ -281,7 +281,8 @@
       "name": "科兴影视",
       "type": 3,
       "api": "csp_Xdai",
-      "playerType": 2,
+      "jar": "./jar/kx.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+	  "playerType": 2,
       "ext": "7lj763gg0939790i413gi486k509jgi3ggk6j244j6j36j76041707h0lk124l0l0h867j83h576h3j66h4lk89lh5lh1jl3l170647kj09lklji74j56lg673li1h16"
     },	
 	{
@@ -2833,6 +2834,7 @@
  
 
      
+
 
 
 
