@@ -1616,7 +1616,7 @@
     },
     {
       "key": "老丫",
-      "name": "老雅影视",
+      "name": "老雅1080P",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -1624,9 +1624,8 @@
       "changeable": 1,
       "api": "./lib/fox.js",
       "ext": {
-        "host": "https://app2512.ystva.com"
+        "host": "https://cms99api.ystva.com"
       }
-    },	  
     {
       "key": "聚搜2",
       "name": "JUSOU影视",
@@ -2834,6 +2833,7 @@
  
 
      
+
 
 
 
