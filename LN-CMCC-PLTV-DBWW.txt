@@ -46,6 +46,7 @@ cctv17[1920x1080],http://123.184.31.206:8880/sql/2248/hls.m3u8
 辽宁都市[785x576],http://123.184.31.206:8880/sql/2283/hls.m3u8
 抚顺综合,https://fsgbdstzb.lnyun.com.cn/fsfb2/tvzb2.m3u8?auth_key=1800000000-0-0-567c83e6e68f69724b3d3c9a934e147c
 抚顺教育,https://fsgbdstzb.lnyun.com.cn/fsfb1/tvzb1.m3u8?auth_key=1800000000-0-0-4a9318cfc89de3265930e8db1aa63e49
+鞍山新闻,http://sh.lnott.top:880/dx99.m3u8
 辽源综合,http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
 吉林市新闻综合,http://stream2.jlntv.cn/jilin1/sd/live.m3u8
 重温经典,http://a.jun1985.cn/php/cwjd.php
