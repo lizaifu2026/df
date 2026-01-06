@@ -1602,19 +1602,6 @@
 			}
 		},
     {
-      "key": "老鸭",
-      "name": "老鸭影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "api": "./lib/fox.js",
-      "ext": {
-        "host": "http://103.109.20.117:550/"
-      }
-    },
-    {
       "key": "老丫",
       "name": "老雅1080P",
       "type": 3,
@@ -1753,17 +1740,7 @@
             "filterable": 1,
             "playerType": 2
         },         
-      {
-      "key": "csp_AppXY",
-      "name": "花语短剧",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 0,
-      "api": "csp_DuanJu",
-      "ext": "",
-      "jar": "./suiyuan.png;md5;13bd3e6c4c887d3f139a347625a08bee"
-    },        
-	  {
+        {
             "key": "xtqdj",
             "name": "甜圈短剧",
             "type": 3,
@@ -1818,17 +1795,6 @@
             "filterable": 1,
             "playerType": 2
         },       
- {
-            "key": "花生短剧",
-            "name": "花生短剧",
-            "type": 3,
-            "api": "./py/花生短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },     
     {
       "key": "甜圈短剧",
       "name": "甜圈短剧(备用)",
@@ -2834,6 +2800,7 @@
  
 
      
+
 
 
 
