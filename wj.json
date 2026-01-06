@@ -223,7 +223,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "http://cmstt.lyyytv.cn/api.php/app/"},	  
+   "ext": "http://cmstt.lyyytv.cn/api.php/app/"},		  
     {
       "key": "csp_LiteApple",
       "name": "苹果影视",
