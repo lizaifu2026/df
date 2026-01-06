@@ -331,9 +331,6 @@ CHC影迷电影,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.
 辽源综合,http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
 吉林市新闻综合,http://stream2.jlntv.cn/jilin1/sd/live.m3u8
 重温经典,http://a.jun1985.cn/php/cwjd.php
-剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
-朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
-湖南电影,http://183.215.134.239:19901/tsfile/live/1006_1.m3u8
 睛彩广场舞,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227423/index.m3u8
 睛彩竞技,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227417/index.m3u8
 睛彩篮球,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227478/index.m3u8
