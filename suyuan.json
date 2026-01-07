@@ -507,12 +507,6 @@
       "api": "https://catbox.n13.club/t9/tianfeng.php"
     },
     {
-      "key": "T4-hg",
-      "name": "影视HG(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/hg.php"
-    },
-    {
       "key": "T4-mifun",
       "name": "影视米饭(T4)",
       "type": 4,
@@ -523,12 +517,6 @@
       "name": "影视采集(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/t9/caiji.php"
-    },
-    {
-      "key": "T4-jianpian",
-      "name": "荐片(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/jianpian.php"
     },
     {
       "key": "T4-huya",
@@ -2271,6 +2259,18 @@
             "type": 3,
             "api": "./lib/cat_孜然影视.js"
         },   
+     {
+            "key": "cat_永乐视频",
+            "name": "cat_永乐视频",
+            "type": 3,
+            "api": "./lib/cat_永乐视频.js"
+        },	
+     {
+            "key": "cat_山有木兮",
+            "name": "cat_山有木兮",
+            "type": 3,
+            "api": "./lib/cat_山有木兮.js"
+        },	  
 	{
       "key": "腾讯弹幕",
       "name": "腾讯",
@@ -2953,6 +2953,7 @@
  
 
      
+
 
 
 
