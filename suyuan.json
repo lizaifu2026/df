@@ -141,36 +141,38 @@
 	  "playerType": 2,
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
     },	
-   {
-      "key": "爱盈",
-      "name": "爱盈APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "changeable": "1",
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": {
-        "site": "./lib/qj3.txt",
-        "dataKey": "sda1231sasddad21",
-        "dataIv": "sda1231sasddad21",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "顾我",
-      "name": "顾我APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "changeable": "1",
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": {
-        "site": "./lib/guwo.txt",
-        "dataKey": "ca94b06ca3c7d80e",
-        "dataIv": "ca94b06ca3c7d80e",
-        "ua": "okhttp/3.10.0"
-      }
-    },	  
+        {
+            "key": "爱盈",
+            "name": "爱盈APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "changeable": "1",
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "site": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt",
+                "dataKey": "sjvlwnhk6h9znl61",
+                "dataIv": "sjvlwnhk6h9znl61",
+                "version": "305",
+                "ua": "okhttp/3.10.0"
+            }
+        },
+        {
+            "key": "顾我",
+            "name": "顾我APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "changeable": "1",
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "site": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/guwo.txt",
+                "dataKey": "ca94b06ca3c7d80e",
+                "dataIv": "ca94b06ca3c7d80e",
+                "version": "305",
+                "ua": "okhttp/3.10.0"
+            }
+        },  
     {
       "key": "七星",
       "name": "七星APP",
@@ -185,18 +187,24 @@
         "version": "120"
       }
     },       
-    {
-      "key": "和友",
-      "name": "和友APP",
-      "type": 3,
-      "api": "csp_AppSy",
-      "ext": {
-        "site": "http://qcb.sxtzg.com/api.txt",
-        "siteKey": "rectangleadsadxa",
-        "listKey": "gHSLmx3JQRasgztO",
-        "parsesKey": "gHSLmx3JQRasgztO"
-      }
-    },    
+        {
+            "key": "金牌",
+            "name": "金牌APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "changeable": "1",
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "site": "https://dtqj.ggtvb.cc/dtjp.txt",
+                "dataKey": "eecbio48dsq131ee",
+                "dataIv": "eecbio48dsq131ee",
+                "search": "searchList4",
+                "version": "305",
+                "init": "initV122",
+                "ua": "okhttp/3.10.0"
+            }
+        },    
     {
       "key": "吉米",
       "name": "吉米APP",
@@ -216,17 +224,20 @@
         "ver": 2
       }
     },	  
-    {
-      "key": "椰子",
-      "name": "椰子APP",
-      "type": 3,
-      "changeable": 0,
-      "api": "csp_AppFox",
-      "ext": {
-        "host": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/yzysapp.json",
-        "ver": 2
-      }
-    },    
+        {
+            "key": "仓鼠影视",
+            "name": "仓鼠影视APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+            "ext": {
+                "url": "https://hk440cms.cs4k.top",
+                "dataKey": "fL7sY4zN4kB3pG4p",
+                "dataIv": "fL7sY4zN4kB3pG4p",
+                "init": "initV122",
+                "ua": "okhttp/3.10.0"
+            }
+        },  
     {
       "key": "雨滴",
       "name": "雨滴APP",
@@ -276,7 +287,40 @@
       "filterable": 1,
       "ext": "FNc7O3Sq/hxz7uCzbccPTwmKS9QhqbhDC5J/tBK99TWfK0aEwzyajhrUANmtu0o/w36kBG8LM77XaSazDF+/gYPfNaL4qTRYwqUKxL4cr84pssT9H168H7YT0HD1jUpcBYXSFfirex66s9O56hHTJCavdCBPyAY+K1jwYeoEEhGWSCLhW+JJBxU7rItkKh2VHMg4vh/A7M+5ydA1fIuNP8T5JR3+475o6yUWkUH7nv/8uqjmZKhq70mQZTaMPiVaBqG+SL9NKYo5Yk4vpsUBErE2uzducc78nK0PT5ShRhLv6POBMNNZZN+/O0MFX+83BqCWsbHMNipM5zOIja/xr2x14WPH7BDlUqkw9w105US6oRwZ8jtdS0cvn5u4BT9W14rSUBAMy36xrjYR3f1OUkmlIvz6sC8OAagD/CRSwFYrh9zbMvw5V2ntYK+wDdiIq6HTkXG/86MN6lYEHkEAC4sYoxBpS5KaPlDFoOo5ED4="
     },	
-    {
+        {
+            "key": "爆炸",
+            "name": "爆炸APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "changeable": "1",
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
+                "dataKey": "37kj83zs1q16jk6t",
+                "dataIv": "37kj83zs1q16jk6t",
+                "search": "searchList4",
+                "init": "initV122",
+                "ua": "okhttp/3.10.0"
+            }
+        },
+        {
+            "key": "橘子app",
+            "name": "橘子APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "changeable": "1",
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "url": "https://juziapp.tpmbt.cn",
+                "dataKey": "K3h6YvSU8BTUfEcb",
+                "dataIv": "K3h6YvSU8BTUfEcb",
+                "version": "305",
+                "ua": "okhttp/3.10.0"
+            }
+        },    
+	{
       "key": "科兴",
       "name": "科兴影视",
       "type": 3,
@@ -2947,6 +2991,7 @@
  
 
      
+
 
 
 
