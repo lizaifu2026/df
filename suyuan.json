@@ -1487,28 +1487,6 @@
             "filterable": 1,
             "playerType": 2
         },		  
-	  {
-            "key": "k-movies",
-            "name": "k-movies",
-            "type": 3,
-            "api": "./py/K-movie.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },		  
-        {
-            "key": "木兮",
-            "name": "木兮影视",
-            "type": 3,
-            "api": "./py/木兮.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },	       
         {
             "key": "HIFI",
             "name": "HIFI.",
@@ -2217,13 +2195,7 @@
             "type": 3,
             "api": "./lib/cat_永乐视频.js"
         },	
-     {
-            "key": "cat_山有木兮",
-            "name": "cat_山有木兮",
-            "type": 3,
-            "api": "./lib/cat_山有木兮.js"
-        },	  
-	{
+    {
       "key": "腾讯弹幕",
       "name": "腾讯",
       "type": 3,
@@ -2835,6 +2807,7 @@
  
 
      
+
 
 
 
