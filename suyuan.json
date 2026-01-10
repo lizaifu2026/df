@@ -2271,7 +2271,7 @@
       "name": "️2K爱优腾芒",
       "type": 1,
       "api": "https://vs.okcdn100.top/api.php/provide/vod/",
-      "playUrl": "json:",
+      "playUrl": "json:http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&url=",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -2835,6 +2835,7 @@
  
 
      
+
 
 
 
