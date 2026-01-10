@@ -2271,7 +2271,7 @@
       "name": "️2K爱优腾芒",
       "type": 1,
       "api": "https://vs.okcdn100.top/api.php/provide/vod/",
-      "playUrl": "json:http://125.208.22.184:1666/api/?key=Lsthk1A7obu4Lmn4zk&url=",
+      "playUrl": "json:",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -2835,6 +2835,7 @@
  
 
      
+
 
 
 
