@@ -907,15 +907,12 @@
             "ext": "./lib/明星影视.json"
          },
     {
-      "key": "nongys",
+      "key": "农民影视",
       "name": "农民影视",
       "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/农民影视.json"
-    },        
+      "api": "csp_Wwys",
+      "ext": "https://vip.wwgz.cn:5200"
+    },
     {
       "key": "农民",
       "name": "旺旺影视",
@@ -2833,6 +2830,7 @@
  
 
      
+
 
 
 
