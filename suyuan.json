@@ -913,17 +913,7 @@
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200"
     },
-    {
-      "key": "农民",
-      "name": "旺旺影视",
-      "type": 3,
-      "api": "csp_NongMin",
-      "jar": "./1e6fcfbb0b074b3ea5bb216a234162e6.png;md5;946F8772261DF60FE5F4DC30965A3BB7",
-	  "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },   
-    {
+   {
       "key": "金牌影院",
       "name": "金牌影院",
       "type": 3,
@@ -2830,6 +2820,7 @@
  
 
      
+
 
 
 
