@@ -141,7 +141,18 @@
 	  "playerType": 2,
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
     },	
-        {
+    {
+      "key": "奇奇",
+      "name": "奇奇APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": {
+        "site": "./lib/a.txt",
+        "dataKey": "123456789abcdefg",
+        "dataIv": "123456789abcdefg"
+      }
+    },       
+	  {
             "key": "爱盈",
             "name": "爱盈APP",
             "type": 3,
@@ -187,7 +198,7 @@
         "version": "120"
       }
     },       
-     {
+    {
       "key": "魔方",
       "name": "魔方APP",
       "type": 3,
@@ -199,7 +210,7 @@
         "dataKey": "1234567887654321",
         "dataIv": "1234567887654321"
       }
-    },       
+    },
 	  {
             "key": "金牌",
             "name": "金牌APP",
@@ -2820,6 +2831,7 @@
  
 
      
+
 
 
 
