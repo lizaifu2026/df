@@ -228,7 +228,8 @@
       "key": "幕启影视",
       "name": "幕启APP",
       "type": 3,
-      "api": "csp_AppGet",
+      "jar": "https://gitee.com/cpu-iy/lib/raw/master/lib/vox.png",
+	  "api": "csp_AppGet",
       "ext": {
         "host": "./lib/mqxh.txt",
         "datakey": "37kj83zs1q16jk6t",
@@ -2901,6 +2902,7 @@
  
 
      
+
 
 
 
