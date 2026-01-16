@@ -212,6 +212,31 @@
       }
     },
     {
+      "key": "假段友get",
+      "name": "段友APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://shangjihuoke.com",
+        "dataKey": "8E2DC386FD452D05",
+        "dataIv": "8E2DC386FD452D05"
+      }
+    },    
+    {
+      "key": "幕启影视",
+      "name": "幕启APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "host": "./lib/mqxh.txt",
+        "datakey": "37kj83zs1q16jk6t",
+        "ua": "okhttp/3.10.0",
+        "api": 2
+      }
+    },	
+	{
       "key": "麒麟",
       "name": "麒麟APP",
       "type": 3,
@@ -2876,6 +2901,7 @@
  
 
      
+
 
 
 
