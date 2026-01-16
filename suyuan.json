@@ -426,7 +426,21 @@
         "version": ""
       }
     },	  
-      {
+    {
+      "key": "QD4K",
+      "name": "猪猪APP",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 0,
+      "api": "https://13826.kstore.vip/AppV2.py",
+      "playerType": 2,
+      "ext": {
+        "api": "http://dmmax.kuailezhuiju2.com/icciu_api.php/v1.vod",
+        "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
+        "apisignkey": "lvdoutv-1.0.0"
+      }
+    },      
+	  {
             "key": "小猪",
             "name": "小猪APP",
             "type": 3,
@@ -2902,6 +2916,7 @@
  
 
      
+
 
 
 
