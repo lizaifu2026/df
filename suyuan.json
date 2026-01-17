@@ -509,10 +509,14 @@
       }
     },	  
     {
-      "key": "T4-mengtaiqi",
-      "name": "蒙太奇(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/mengtaiqi.php"
+      "key": "蒙太奇",
+      "name": "蒙太奇影视",
+      "type": 3,
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_AppYsV2",
+      "ext": "http://202.189.9.236:12345/mtq.php/v6"
     },
     {
       "key": "T4-xingzhige",
@@ -2916,6 +2920,7 @@
  
 
      
+
 
 
 
