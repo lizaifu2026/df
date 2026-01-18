@@ -716,6 +716,30 @@
             }
         },
         {
+            "key": "方圆",
+            "name": "方圆APP",
+            "type": 3,
+            "searchable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://fyys1.fytd.top",
+                "dataKey": "0ef6fc92a64b4ee7",
+                "dataIv": "0ef6fc92a64b4ee7"
+            }
+        },
+        {
+            "key": "看呗",
+            "name": "看呗APP",
+            "type": 3,
+            "searchable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://www.winter1.fun",
+                "dataKey": "abcdefghigklmn11",
+                "dataIv": "abcdefghigklmn11"
+            }
+        },
+    {
             "key": "丫丫",
             "name": "丫丫APP",
             "type": 3,
@@ -2905,6 +2929,7 @@
  
 
      
+
 
 
 
