@@ -354,22 +354,17 @@
                 "ua": "okhttp/3.10.0"
             }
         },
-        {
-            "key": "橘子",
-            "name": "橘子APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "changeable": "1",
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": {
-                "url": "https://juziapp.tpmbt.cn",
-                "dataKey": "K3h6YvSU8BTUfEcb",
-                "dataIv": "K3h6YvSU8BTUfEcb",
-                "version": "305",
-                "ua": "okhttp/3.10.0"
-            }
-        },    
+    {
+      "key": "爱营影视",
+      "name": "爱影APP",
+      "type": 3,
+      "api": "csp_AppGetV2",
+      "jar":"./xiaomi.png,
+	  "changeable": "1",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "pghUv+IPbIqGFEhny2nISuI5KzOEA1E0lc1jMsyog/OYwSADcPIna2eOlbOHVLkxfaciWdUITQtbDmt+qom9EMJRiVaiwwN4fq/9mc2DAAgugdkhTXND+52hgm3ggj65qar4TjeNrCTAD/U6Er0wTLydN68QCGnUP+Az4vpxMIKNJutdzRf+Z5rYQtKX8IglZ92N7G1shuFGXBEngnUmpPhCqPzJHH3gm+Q/sNjl2Camb0qGi8XDNhl4cGORH0dvvpkHLhEzZ+1+/9LwxcTPrLUUJLtYVjCfcGT/jJT24JXrJfVWm+WngZXr8IjU/Apk0ZoHUAmte8/dLlplNyNafu3Tb3FgGkrRS0eVyWUB3d8="
+    },
 	{
       "key": "科兴",
       "name": "科兴影视",
@@ -508,16 +503,6 @@
         "UMENG_CHANNEL": "guan"
       }
     },	  
-    {
-      "key": "蒙太奇",
-      "name": "蒙太奇影视",
-      "type": 3,
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_AppYsV2",
-      "ext": "http://202.189.9.236:12345/mtq.php/v6"
-    },
     {
       "key": "T4-xingzhige",
       "name": "星之海短剧(T4)",
@@ -2920,6 +2905,7 @@
  
 
      
+
 
 
 
