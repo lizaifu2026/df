@@ -359,7 +359,7 @@
       "name": "爱影APP",
       "type": 3,
       "api": "csp_AppGetV2",
-      "jar":"./xiaomi.png,
+      "jar":"./xiaomi.png",
 	  "changeable": "1",
       "quickSearch": 0,
       "filterable": 1,
@@ -2905,6 +2905,7 @@
  
 
      
+
 
 
 
