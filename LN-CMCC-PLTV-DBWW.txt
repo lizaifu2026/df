@@ -1246,30 +1246,6 @@ SMARt知识晴,mitv://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
 中视菁采频晴,mitv://147.135.39.171:9906/6867a07b0000813094960c2053bb31ec.ts
 八大优频道晴,mitv://147.135.39.171:9906/686141c600004a257bb419081c1d2844.ts
 
-🇨🇳NOW,#genre#
-NOW新闻,https://cdn.163189.xyz/163189/now
-NOW英超1台,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117457
-NOW英超1台,http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
-NOW英超2台,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117458
-NOW英超3台,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117459
-
-Now星影,http://rihou.cc:555/tv/[Hk]Now星影
-Now爆谷,http://rihou.cc:555/tv/[Hk]Now爆谷
-
-NOW新闻,http://hls.168.us.kg/u/332/master.m3u8
-NOW直播台,http://hls.168.us.kg/u/331/master.m3u8
-NOW新闻,http://hls.168.us.kg/u/332/master.m3u8
-NOW财经台,http://hls.168.us.kg/u/333/master.m3u8
-Now Sports 精選,http://hls.168.us.kg/u/630/master.m3u8
-
-
-NOW爆谷台,http://23.237.228.133/live2/baogutai.m3u8
-NOW星影台,http://23.237.228.133/live2/xingyingtai.m3u8
-NOW爆谷台备,http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow141.flv
-NOW星影台备,http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow142.flv
-🍅NOW星影台,https://dl.tv.kklive.top/live2/xingyingtai.m3u8
-🍅NOW爆谷台,https://dl.tv.kklive.top/live2/baogutai.m3u8
-
 🇨🇳BXTV,#genre#
 中天新闻台,http://bxtv.3a.ink/api.php?id=ztxw
 myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
@@ -1836,55 +1812,5 @@ TVBS精采台,http://lzo.xh.sd/gt/lgz4G.php?id=li-4gtv-4gtv067
 民視綜藝台,http://lzo.xh.sd/gt/lgz4G.php?id=li-4gtv-4gtv004 
 
 
-🇭🇰佛教-频道,#genre#
-唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-人间卫视，http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-唯心,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 
-生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 
-香港佛陀,https://sg1.amtb.de/liveedge/_definst_/smil:livetv.smil/chunklist_w1071093527_b828000.m3u8
-华藏卫视,http://61.216.67.119:1935/HZTV/HZTV/playlist.m3u8
-台湾|卍佛卫慈悲台,https://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/playlist.m3u8
-
-唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
-
-台湾|唯心WXTV2,http://61.216.67.119:1935/wxtv/wxtv.stream/playlist.m3u8
-
-华藏卫视,http://61.216.67.119:1935/HZTV/HZTV/playlist.m3u8
-华藏卫视,http://61.216.67.119:1935/HZTV/HZTV/chunklist.m3u8
-华藏卫视,https://5ddce30eb4b55.streamlock.net/HZTV/HZTV/playlist.m3u8
-悟道法师,https://tw2.amtb.de/liveedge/_definst_/smil:wdmaster.smil/playlist.m3u8
-生命电视,https://5ddce30eb4b55.streamlock.net/lifetv/lifetv.stream/playlist.m3u8
-生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
-唯心,https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8
-🇭🇰大阅兵,#genre#
-习主席2025年93阅兵完整版,https://vd3.bdstatic.com/mda-ri2b90is4f6p4shy/cae_h264/1756888200825139529/mda-ri2b90is4f6p4shy.mp4
-
-2025年93阅兵全过程(时长01:44:58/蓝光加速线路),https://vip.dytt-cine.com/20250903/54616_ce842c8a/index.m3u8
-
-2025年93大阅兵完整版(时长01:30:09/蓝光3线路),https://vvip.high26-playback.com/20250903/20785_ad349260/index.m3u8
-
-2015年抗战胜利70周年阅兵(时长02:01:34/腾讯加速线路),https://vodcnd11.rsfcxq.com/20250902/tLKkH9fN/index.m3u8
-
-2019年国庆70周年大阅兵(时长02:51:19/腾讯加速线路),https://vodcnd11.rsfcxq.com/20250902/BM9AcAeq/index.m3u8
-
-2009年国庆60周年大阅兵(时长02:41:26/腾讯加速线路),https://vodcnd11.rsfcxq.com/20250902/VPoOzOa4/index.m3u8
-
-1999年国庆50周年大阅兵(时长01:16:22/腾讯加速线路),https://vodcnd11.rsfcxq.com/20250902/nmbxS9bN/index.m3u8
-
-1984年国庆35周年大阅兵(时长01:39:56/腾讯加速线路),https://vodcnd11.rsfcxq.com/20250902/zc4ZGGYY/index.m3u8
-
-🇨🇳极限,#genre#
-极限电影台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/56332232/987.ts
-
-极限电影台(梯子),http://z88.ubtvfans.com/live/rx3/2909/1f9debc5947d5756fec2908a357427e3/index.m3u8
