@@ -1849,17 +1849,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
-    {
-      "key": "3+4猫短剧",
-      "name": "3+4猫短剧",
-      "type": 3,
-      "api": "csp_QiMaoDJ",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-	  {
+         {
             "name": "豪堪短剧",
             "key": "豪堪短剧",
             "type": 3,
@@ -1870,17 +1860,6 @@
             "quickSearch": 1,
             "changeable": 1
         },	  
-    {
-      "name": "碎片剧场",
-      "key": "岁岁短剧",
-      "type": 3,
-      "api": "csp_SpdjAmns",
-      "jar": "./bfdb--cvdvds.png",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
      {
       "name": "拜拜短剧",
       "key": "byebye短剧",
@@ -1954,13 +1933,6 @@
             "ext": "./lib/短剧粉红果.json"
         },	  
 	  {
-            "key": "擦边",
-            "name": "擦边短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./lib/擦边短剧.json"
-        },	  
-           {
             "key": "围观短剧",
             "name": "围观短剧",
             "type": 3,
@@ -2072,16 +2044,7 @@
             "filterable": 1,
             "ext": "./lib/稀饭短剧.json"
         },    
-    {
-      "api": "./py/牛牛短剧.py",
-      "filterable": 1,
-      "key": "py_牛牛短剧",
-      "name": "牛牛短剧",
-      "quickSearch": 1,
-      "searchable": 1,
-      "type": 3
-    },
-    {
+     {
       "api": "./py/七猫短剧.py",
       "filterable": 1,
       "key": "py_七猫短剧",
@@ -2929,6 +2892,7 @@
  
 
      
+
 
 
 
