@@ -3,12 +3,13 @@
 "lives": [   
           {
       "name": "辽宁联通组播",
-  "type": 3,
+  "type": 0,
   "url": "./yogurtTv.txt",
   "epg": "https://diyp4.112114.xyz"
 }
       ]
 }
+
 
 
 
