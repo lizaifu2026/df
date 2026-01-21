@@ -6,7 +6,7 @@
         {
             "name": "联通直播",
             "type": 0,
-            "url": "./xyzb.txt",
+            "url": "",
             "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
 		},
          {
@@ -2892,6 +2892,7 @@
  
 
      
+
 
 
 
