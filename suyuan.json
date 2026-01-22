@@ -6,14 +6,14 @@
         {
             "name": "联通直播",
             "type": 0,
-            "url": "",
-            "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lizaifu2026/df/refs/heads/main/lnltzby.txt",
+            "epg": "http://diyp4.112114.xyz/?ch={name}&date={date}"
 		},
          {
             "name": "咪咕直播",
             "type": 0,
             "url": "",
-            "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+            "epg": "http://diyp4.112114.xyz/?ch={name}&date={date}"
 		}
   ],
   "sites": [
@@ -2668,6 +2668,7 @@
  
 
      
+
 
 
 
