@@ -266,7 +266,8 @@
       "key": "麒麟影院",
       "name": "麒麟APP",
       "type": 3,
-      "changeable": 0,
+      "jar": "./lib/vo.jar",
+	  "changeable": 0,
       "api": "csp_Appfox",
       "ext": {
         "host": "https://qh.70qh.top",
@@ -2679,6 +2680,7 @@
  
 
      
+
 
 
 
