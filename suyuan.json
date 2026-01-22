@@ -6,7 +6,7 @@
         {
             "name": "联通直播",
             "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lizaifu2026/df/refs/heads/main/lnltzby.txt",
+            "url": "./lnltzby.txt",
             "epg": "http://diyp4.112114.xyz/?ch={name}&date={date}"
 		},
          {
@@ -2703,6 +2703,7 @@
  
 
      
+
 
 
 
