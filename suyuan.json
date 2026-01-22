@@ -334,31 +334,7 @@
         "host": "http://www.yezitv.top"
       }
     },
-     {
-      "key": "乐享影视djj",
-      "name": "乐享影视APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://114.66.55.28:8818/api.php/app/"
-    },   
     {
-      "key": "西瓜视频",
-      "name": "西瓜视频",
-      "type": 3,
-      "api": "csp_AmuXiguaV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },	
-	{
       "key": "久久影视",
       "name": "久久影视",
       "type": 3,
@@ -2727,6 +2703,7 @@
  
 
      
+
 
 
 
