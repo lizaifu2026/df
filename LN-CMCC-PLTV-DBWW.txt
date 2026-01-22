@@ -1006,364 +1006,7 @@ CHC影迷电影,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227635/index
 咪视界30,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227436/index.m3u8
 咪视界31,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227381/index.m3u8
 咪视界32,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227427/index.m3u8
-🇨🇳港台电影,#genre#
-
-美亚电影,http://74.91.26.218:82/live/mydy.m3u8
-天映频道,http://74.91.26.218:82/live/typd.m3u8
-天映经典,http://74.91.26.218:82/live/tyjd.m3u8
-中天新闻,http://74.91.26.218:82/live/ztxw.m3u8
-Z频道,http://74.91.26.218:82/live/twz.m3u8
-
-天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-天映频道,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
-天映频道,http://t.061899.xyz/tl/168.php?id=typd
-天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
-天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
-天映经典,P2p://starvod.xyz:19806/4eebafee9ada46c9b959fe48a6baf682.ts
-天映经典,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
-天映经典2,http://tl.061833.xyz/tl/null-1
-天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-
-天映频道,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
-天映经典,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
-
-天映频道,http://cdn10.163189.xyz/163189/typd
-天映经典,http://cdn10.163189.xyz/163189/ccm
-
-POPC,http://tl.061833.xyz/tl/popc
-POPC,P2p://starvod.xyz:19806/688bba7c000da6943214e2280ad91465.ts
-POPC,http://bxtv.3a.ink/api.php?id=popc
-
-美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-美亚电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
-美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-美亚电影,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
-
-千禧经典台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
-千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-美亚电影台,P2p://starvod.xyz:19806/f9cdad09f3cc47bc83ba1d94167ebe64.ts
-美亚电影(港),http://tl.061833.xyz/tl/null-5
-美亚电影(港),http://bxtv.3a.ink/api.php?id=meiya
-壹电影,P2p://starvod.xyz:19806/599f2aabecde4ed4b5fff257c229f986.ts
-
-1905电影网A,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
-1905电影网A,http://8.138.7.223/tv/1905.php?id=LIVEOYY31H24H48NE
-1905电影网B,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
-
-1905电影网A,http://php.jdshipin.com:8880/1905.php?id=1905dy
-1905电影网B,http://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5
-1905电影网A,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
-1905电影网A,http://php.jdshipin.com/1905.php
-亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
-中国电影频道,http://tl.061833.xyz/tl/null-6
-澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8$官网
-澳门莲花,http://live-hdl.macaulotustv.com/lotustv/macaulotustv.m3u8
-澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
-澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院,http://m.061899.xyz/mg/jtyy
-CHC家庭影院,http://117.174.25.254:8188/rtp/239.0.0.23:5140
-CHC家庭影院,http://gat.bkpcp.top:80/ymg.php?id=jtyy
-CHC动作电影,http://m.061899.xyz/mg/dzdy
-
-CHC动作电影,http://go.bkpcp.top/mg/dzdy
-CHC影迷电影,http://go.bkpcp.top/mg/ymdy
-CHC家庭影院,http://go.bkpcp.top/mg/jtyy
-
-CHC动作电影,http://sh.lnott.top:880/dx100.m3u8$辽宁移动
-CHC家庭影院,http://sh.lnott.top:880/dx93.m3u8$辽宁移动
-CHC影迷电影,http://sh.lnott.top:880/dx101.m3u8$辽宁移动
-
-CHC影迷电影,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8
-CHC动作电影,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8
-CHC家庭影院,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8
-
-CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
-CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
-CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
-
-
-
-CHC动作电影,http://117.174.25.254:8188/rtp/239.0.0.24:5140
-CHC动作电影,http://gat.bkpcp.top:80/ymg.php?id=dzdy
-CHC影迷电影,http://m.061899.xyz/mg/ymdy
-CHC影迷电影,http://117.174.25.254:8188/rtp/239.0.0.25:5140
-CHC影迷电影,http://gat.bkpcp.top:80/ymg.php?id=ymdy
-重温经典,http://m.061899.xyz/mg/cwjd
-重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
-重温经典,http://ygbh.site/php/bfgd.php?id=636
-重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
-重温经典,https://other.ottiptv.cc/cwjd.m3u8
-黄金华剧频道,http://tl.061833.xyz/tl/null-9
-经典电影轮播,rtmp://live.gxrb.com.cn/pull/red_movies_0501
-橙记港剧,http://zzy789.xyz/douyu1.php?id=4549169
-小毅主播Q,http://103.193.151.146/douyu1.php?id=6906628
-小毅主播e,http://103.193.151.146/douyu1.php?id=11851549
-龙祥时代,http://rihou.cc:555/tv/Hkl龙祥时代
-邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
-邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
-邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
-邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
-邵氏动作,https://stream1.freetv.fun/74ff62421aeda7787c01ed5968f3e6176a418bf608351ac8faf5c3d501c70eab.m3u8
-邵氏喜剧,https://stream1.freetv.fun/5b5db4070d49b6949aad5a643411dbcf20868919c31ec99f9881cc1e19f2eaa0.m3u8
-邵氏武侠 ,https://stream1.freetv.fun/960fbbbedcdd596709ff256d7a80286a70a6820a03e20d4d4eaa49816ba4d4c1.m3u8
-邵氏电影,https://stream1.freetv.fun/d8f66a980ecbfcf9ff9db3b098d87b06793378b6f0d84e28717bfb2da14c2124.m3u8
-经典电影二台,https://stream1.freetv.fun/13a9e71e43596740eb155ea1b840ca0848884aa34be169b42a3c3e268dce5781.m3u8
-Now星影,http://rihou.cc:555/tv/[Hk]Now星影
-Now爆谷,http://rihou.cc:555/tv/[Hk]Now爆谷
-
-
-
-
-
-
-🇭🇰香港,#genre#
-凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
-凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
-凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
-
-凤凰中文,http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
-凤凰资讯,http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
-凤凰香港,http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
-
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰香港,http://r.jdshipin.com/yDoTN
-凤凰香港,http://r.jdshipin.com/NfC0f
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://r.jdshipin.com/GeWKr
-明珠台,http://r.jdshipin.com/ZQ4kN
-明珠台,http://r.jdshipin.com/jUx8K
-TVBPlus,http://r.jdshipin.com/Nr5jq
-TVB Plus,http://r.jdshipin.com/ndGgS
-无线新闻台,http://r.jdshipin.com/CkuBd
-TVB星河,http://r.jdshipin.com/sXuuD
-TVB星河,http://r.jdshipin.com/Voac4
-华丽翡翠台,http://r.jdshipin.com/thuYX
-ViuTV,http://r.jdshipin.com/vSJvl
-ViuTV,http://r.jdshipin.com/TcKr2
-HOY77,http://r.jdshipin.com/sFw4S
-
-澳视澳门,http://r.jdshipin.com/n2YZI
-澳视卫星,http://r.jdshipin.com/QFhCq
-
-凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
-凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
-凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
-凤凰中文,http://j.s.bkpcp.top/js/fhzw
-凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
-凤凰资讯,http://j.s.bkpcp.top/js/fhzx
-凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
-凤凰香港,http://j.s.bkpcp.top/js/fhxg
-凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港,https://httop.top/fengshows-fenghk
-凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-华丽翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-
-华丽翡翠,http://cdn10.163189.xyz/163189/jade
-TVB星河国语,http://cdn10.163189.xyz/163189/xinghe
-天映频道,http://cdn10.163189.xyz/163189/typd
-天映经典,http://cdn10.163189.xyz/163189/ccm
-
-翡翠台,http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
-翡翠台 backup,http://api.kkitv.itv888.vip:8080/streams/jutaw8wu0j9/index.m3u8
-iNews 新闻台,http://api.kkitv.itv888.vip:8080/streams/o0ey7z1y0y/index.m3u8
-J 2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
-珍珠台,http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8
-凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
-HOY资讯台,http://api.kkitv.itv888.vip:8080/streams/o6fp2zqodp/index.m3u8
-RHK 31,http://api.kkitv.itv888.vip:8080/streams/au9u4ktua3t/index.m3u8
-VIUTV1,http://api.kkitv.itv888.vip:8080/streams/i76tznm59xp/index.m3u8
-RHK 32,http://api.kkitv.itv888.vip:8080/streams/emzampd6m1i/index.m3u8
-凤凰卫视,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
-凤凰资讯,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
-Viu6,http://api.kkitv.itv888.vip:8080/streams/bvdslcl5cts/index.m3u8
-
-
-
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
-美亚电影-台湾,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-凤凰电影频道,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-凤凰中文,http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
-凤凰资讯,http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
-凤凰香港,http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
-HOY76,http://hls.168.us.kg/u/76/master.m3u8
-HOY77,http://hls.168.us.kg/u/77/master.m3u8
-HOY78,http://hls.168.us.kg/u/78/master.m3u8
-HOY78,http://hls.168.us.kg/u/78/master.m3u8
-翡翠台,http://hls.168.us.kg/u/81/master.m3u8
-TVB Plus,http://hls.168.us.kg/u/82/master.m3u8
-无线新闻台,http://hls.168.us.kg/u/83/master.m3u8
-明珠台,http://hls.168.us.kg/u/84/master.m3u8
-Now新聞台,http://hls.168.us.kg/u/332/master.m3u8
-ViuTVsix,http://hls.168.us.kg/u/96/master.m3u8
-ViuTV,http://hls.168.us.kg/u/99/master.m3u8
-
-HOY76,http://hls.168.us.kg/u/76/master.m3u8
-HOY77,http://hls.168.us.kg/u/77/master.m3u8
-HOY78,http://hls.168.us.kg/u/78/master.m3u8
-HOY78,http://hls.168.us.kg/u/78/master.m3u8
-翡翠台,http://hls.168.us.kg/u/81/master.m3u8
-TVB Plus,http://hls.168.us.kg/u/82/master.m3u8
-无线新闻台,http://hls.168.us.kg/u/83/master.m3u8
-明珠台,http://hls.168.us.kg/u/84/master.m3u8
-Now新聞台,http://hls.168.us.kg/u/332/master.m3u8
-ViuTVsix,http://hls.168.us.kg/u/96/master.m3u8
-ViuTV,http://hls.168.us.kg/u/99/master.m3u8
-
-
-
-Now直播台,http://hls.168.us.kg/u/331/master.m3u8
-Now新聞台,http://hls.168.us.kg/u/332/master.m3u8
-Now財經台,http://hls.168.us.kg/u/333/master.m3u8
-Now Sports 精選,http://hls.168.us.kg/u/630/master.m3u8
-
-翡翠台,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621166.flv
-明珠台,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621167.flv
-无线新闻,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621168.flv
-TVBPUS,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621169.flv
-戲曲台,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621170.flv
-
-重温经典,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621182.flv
-龙华电影,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621183.flv
-龙华经典,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621184.flv
-龙华卡通,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621185.flv
-龙华偶像,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621186.flv
-龙华日韩,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621187.flv
-龙华戏剧,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621188.flv
-龙华洋片,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621189.flv
-TVB1,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621190.flv
-TVBJ1,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621191.flv
-TVB亚洲武侠,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621192.flv
-TVB娱乐新闻台,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621193.flv
-TVB华丽翡翠台,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621194.flv
-TVB星河,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621195.flv
-TVB星河,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621196.flv
-翡翠剧集台,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621197.flv
-天映马来西亚,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621200.flv
-天映经典频道,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621201.flv
-爱奇艺,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621202.flv
-八度空间,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621203.flv
-CH5,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621204.flv
-CH8,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621205.flv
-CHU,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621206.flv
-Astro欢喜台,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621207.flv
-Astro AOD,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621208.flv
-Astro AEC,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621209.flv
-Astro QJ,https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621210.flv
-
-
-翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
-明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
-娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-翡翠台,http://t.061899.xyz/tl/js/js.php?id=tvbfct
-Now新闻,http://cdn.163189.xyz/163189/now 
-TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVB星河,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19500.ts
-亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
-TVB娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
-无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
-无线明珠(英),http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
-千禧经典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-VIUTV粤,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
-RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
-AstroRio,http://php.jdshipin.com/PLTV/iptv.php?id=aod
-澳门Mac,http://php.jdshipin.com/PLTV/iptv.php?id=as
-澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
-明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-TVB无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
-Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
-爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
-
-Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
-Astro欢喜台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
-Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
-Astro AOD,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
-Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
-Astro AEC,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
-Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-Astro QJ,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
-
-
-凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
-凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
-凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
-无线新闻台,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
-翡翠台,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
-无线华丽台,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
-明珠台,https://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn
-星河,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
-无线娱乐台,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
-无线千禧台,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
-RTHK-31,https://smt.1678520.xyz/smt3.2.1.php?id=rhk31_twn
-RTHK-32,https://smt.1678520.xyz/smt3.2.1.php?id=rhk32_twn
-VIUTV,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
-VIU6TV,https://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
-美亚电影,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
-天映频道,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
-天映经典,https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
-Astr爱奇艺,https://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
-AstrQJ,https://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
-Astr-AoD,https://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
-Astr-AeC,https://smt.1678520.xyz/smt3.2.1.php?id=AEC
-Astr欢喜,https://smt.1678520.xyz/smt3.2.1.php?id=Huahee
-
-
-ASTRO-HD,https://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
-ASTRO-AEC,https://smt.1678520.xyz/smt3.2.1.php?id=AEC
-ASTRO-AOD,https://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
-ASTRO-欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
-ASTRO-QJ,https://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
-
-八度空间,http://php.jdshipin.com/smt.php?id=TV8
-ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
-RTHK 31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RTHK 32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-RTHK 33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-
-TVB星河,http://117.141.162.238:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0$广西联通
-星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
- 
-凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8$官网
-环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
-澳门Mac,http://php.jdshipin.com/PLTV/iptv.php?id=as
-澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
- 港台频道,#genre#
+港台频道,#genre#
 有线综合频道,http://cdn.163189.xyz/163189/hoy
 Now新闻频道,http://cdn.163189.xyz/163189/now
 VIUTV'粤频道,http://cdn.163189.xyz/163189/viu
@@ -1442,8 +1085,24 @@ ROCKAction,http://tl.061833.xyz/tl/rockaction
 ROCK綜藝娛樂,http://tl.061833.xyz/tl/rock
 SUPERKidsChannel,http://tl.061833.xyz/tl/superkidschannel
 ZooMoo,http://tl.061833.xyz/tl/zoomoo
+邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
+邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
+邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
+邵氏动作,https://stream1.freetv.fun/74ff62421aeda7787c01ed5968f3e6176a418bf608351ac8faf5c3d501c70eab.m3u8
+邵氏喜剧,https://stream1.freetv.fun/5b5db4070d49b6949aad5a643411dbcf20868919c31ec99f9881cc1e19f2eaa0.m3u8
+邵氏武侠 ,https://stream1.freetv.fun/960fbbbedcdd596709ff256d7a80286a70a6820a03e20d4d4eaa49816ba4d4c1.m3u8
+邵氏电影,https://stream1.freetv.fun/d8f66a980ecbfcf9ff9db3b098d87b06793378b6f0d84e28717bfb2da14c2124.m3u8
+经典电影二台,https://stream1.freetv.fun/13a9e71e43596740eb155ea1b840ca0848884aa34be169b42a3c3e268dce5781.m3u8
+1905电影网A,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
+1905电影网A,http://8.138.7.223/tv/1905.php?id=LIVEOYY31H24H48NE
+1905电影网B,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
+1905电影网A,http://php.jdshipin.com:8880/1905.php?id=1905dy
+1905电影网B,http://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5
+1905电影网A,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
+1905电影网A,http://php.jdshipin.com/1905.php
 
-🇨🇳港台频道,#genre#
+港台频道2,#genre#
 有线综合频道,http://cdn.163189.xyz/163189/hoy
 Now新闻频道,http://cdn.163189.xyz/163189/now
 VIUTV'粤频道,http://cdn.163189.xyz/163189/viu
@@ -1495,7 +1154,6 @@ DAZN-体育贰,rtmp://f13h.mine.nu/sat/tv741
 momo'tv频道,rtmp://f13h.mine.nu/sat/tv761
 
 港湾,#genre#
-
 POPC,http://tl.061833.xyz/tl/popc
 POPC,P2p://starvod.xyz:19806/688bba7c000da6943214e2280ad91465.ts
 美亚电影(香港),http://tl.061833.xyz/tl/null-5
@@ -1514,7 +1172,6 @@ POPC,P2p://starvod.xyz:19806/688bba7c000da6943214e2280ad91465.ts
 AstroAod,https://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
 AstroAod,http://php.jdshipin.com/smt.php?id=Aodhd
 AstroAod,http://php.jdshipin.com:8880/smt.php?id=Aodhd
-
 靖天电影,P2p://starvod.xyz:19806/7a72ea8d27d64fb9aae835c30af3b1cc.ts
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
@@ -1552,9 +1209,7 @@ CHU,http://cdn6.163189.xyz/163189/chu
 无线功夫,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 无线功夫,P2p://starvod.xyz:19806/6043814031384523bc272f4f87aeb298.ts
 星光怀旧台,http://data.3g.yy.com/live/hls/1354936134/1354936134.m3u8
-翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
-PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-
+翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbdPO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 华文八套,https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 华文七套,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 华文三套,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
