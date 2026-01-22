@@ -1,13 +1,14 @@
 {
     "lives": [
           {
-      "name": "快直播(python)",
+      "name": "辽宁联通组播",
   "type": 3,
   "url": "https://ghproxy.net/https://raw.githubusercontent.com/lizaifu2026/df/refs/heads/main/lnltzby.txt",
   "epg": "http://diyp4.112114.xyz/?ch={name}&date={date}"
 }
       ]
 }
+
 
 
 
