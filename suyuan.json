@@ -262,7 +262,18 @@
         "dataIv": "1f0a873caf2550a5"
       }
     },
-	   {
+    {
+      "key": "麒麟影院",
+      "name": "麒麟APP",
+      "type": 3,
+      "changeable": 0,
+      "api": "csp_Appfox",
+      "ext": {
+        "host": "https://qh.70qh.top",
+        "ver": 2
+      }
+    },	   
+	  {
             "key": "爆炸",
             "name": "爆炸APP",
             "type": 3,
@@ -2668,6 +2679,7 @@
  
 
      
+
 
 
 
