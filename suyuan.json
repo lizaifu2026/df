@@ -262,7 +262,21 @@
         "dataIv": "1f0a873caf2550a5"
       }
     },
-    {
+     {
+      "key": "云云",
+      "name": "云速APP",
+      "type": 3,
+      "api": "csp_YunYunGuard",
+      "jar": "./kjtw.jar",
+	  "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10
+    },   
+	{
       "key": "麒麟影院",
       "name": "麒麟APP",
       "type": 3,
@@ -2680,6 +2694,7 @@
  
 
      
+
 
 
 
