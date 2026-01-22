@@ -7,7 +7,7 @@
             "name": "联通直播",
             "type": 0,
             "url": "./lnltzby.txt",
-            "epg": "http://diyp4.112114.xyz/?ch={name}&date={date}"
+            "epg": "https://epg.myxcwh.com/t.xml/?ch={name}&date={date}"
 		},
          {
             "name": "咪咕直播",
@@ -2703,6 +2703,7 @@
  
 
      
+
 
 
 
