@@ -809,13 +809,6 @@
 { "key": "农民影视",  "name": "农民影院", "type": 3,"api": "csp_XBPQ", "ext": {"请求头": "手机","简介":"剧情介绍:+介：&&</p>","线路标题":"javascript:;\">&&</a>","状态":"red\">&&</font>","数组":"<li>&&</li>","图片": "data-echo=\"&&\"","导演":"导演:&&","主演":"主演:&&","分类url":"https://vip.wwgz.cn:5200/vod-list-id-{cateId}-pg-{catePg}-order--by-time-class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},	  
 { "key": "巨人影视", "name": "巨人影视", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+detail-content\" style=*>&&</span>","副标题":"pic-text text-right\">&&</span>","分类url":"https://www.jlsjzhyxh.com/so-show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$30#电视剧$2#电影$1#动漫$4#综艺$3#伦理$36"}},	  
 { "key": "孜然影视", "name": "孜然影视", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+<p>&&</p>","分类url":"https://www.zrys.pw/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$47#电视剧$2#电影$1#动漫$4#综艺$3"}},	  
-	  {
-      "key": "莫小影视",
-      "name": "莫小影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./lib/莫小影视.json"
-    },		
     {
       "name": "哔嘀影视",
       "key": "哔嘀",
@@ -2717,6 +2710,7 @@
  
 
      
+
 
 
 
