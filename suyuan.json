@@ -300,6 +300,17 @@
         "version": "120"
       }
     },	  
+    {
+      "key": "粉象",
+      "name": "粉象APP",
+      "type": 3,
+      "changeable": 0,
+      "api": "csp_AppFox",
+      "ext": {
+        "host": "./lib/host.json",
+        "ver": 2
+      }
+    },	  
 	  {
             "key": "爆炸",
             "name": "爆炸APP",
@@ -2706,6 +2717,7 @@
  
 
      
+
 
 
 
