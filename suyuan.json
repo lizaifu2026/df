@@ -152,6 +152,40 @@
         "dataIv": "123456789abcdefg"
       }
     },       
+{
+            "key": "顾我",
+            "name": "顾我APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/pgqj.json",
+                "dataKey": "kj37zs29q22jk96t",
+                "dataIv": "kj37zs29q22jk96t",
+                "init": "initV122",
+                "ua": "okhttp/3.10.0"
+            }
+        },	  
+{
+            "key": "至臻",
+            "name": "至臻APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "changeable": "1",
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "https://dtqj.ggtvb.cc/dtjp.txt",
+                "dataKey": "eecbio48dsq131ee",
+                "dataIv": "eecbio48dsq131ee",
+                "search": "searchList4",
+                "version": "302",
+                "init": "initV122",
+                "ua": "okhttp/3.10.0"
+            }
+        },	  
 	  {
             "key": "爱盈",
             "name": "爱盈APP",
@@ -2723,6 +2757,7 @@
  
 
      
+
 
 
 
