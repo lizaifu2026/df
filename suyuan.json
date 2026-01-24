@@ -831,6 +831,19 @@
       "quickSearch": 1,
       "changeable": 1
     },        
+    {
+      "key": "饺子影视",
+      "name": "饺子影视",
+      "type": 3,
+      "api": "csp_Jiaozi"
+    },	  
+    {
+      "key": "云播影视",
+      "name": "云播影视",
+      "type": 3,
+      "api": "csp_Tvyb",
+      "ext": "http://www.viptv05.com"
+    },	  
 	  {
             "key": "明星影视",
             "name": "明星影视",
@@ -2710,6 +2723,7 @@
  
 
      
+
 
 
 
