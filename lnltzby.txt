@@ -1297,6 +1297,134 @@ http://cc2022.ifengli.com:2000/live/xzws-sd/1500.m3u8?innersid=43084733639159234
 http://cc2022.ifengli.com:2000/live/nmws-sd/1500.m3u8?innersid=4308473363915923491
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86" group-title="酷开TV", 宁夏卫视
 http://cc2022.ifengli.com:2000/live/nxws-sd/1500.m3u8?innersid=4308473363915923491
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV1-综合
+http://fuxin.yunjifei.top:999/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV2-财经
+http://fuxin.yunjifei.top:999/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV3-综艺
+http://fuxin.yunjifei.top:999/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV4-国际
+http://fuxin.yunjifei.top:999/tsfile/live/0004_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV5-体育
+http://fuxin.yunjifei.top:999/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV6-电影
+http://fuxin.yunjifei.top:999/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV7-军农
+http://fuxin.yunjifei.top:999/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV8-电视剧
+http://fuxin.yunjifei.top:999/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV9-纪录
+http://fuxin.yunjifei.top:999/tsfile/live/0009_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV10-科教
+http://fuxin.yunjifei.top:999/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV11-戏曲
+http://fuxin.yunjifei.top:999/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV12-社会与法
+http://fuxin.yunjifei.top:999/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV13-新闻
+http://fuxin.yunjifei.top:999/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV14-少儿
+http://fuxin.yunjifei.top:999/tsfile/live/0014_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV15-音乐
+http://fuxin.yunjifei.top:999/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV5+体育赛事
+http://fuxin.yunjifei.top:999/tsfile/live/0016_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Liaoning.png",辽宁卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0121_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",北京卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0122_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Tianjin.png",天津卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0135_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Zhejiang.png",浙江卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0124_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Jiangsu.png",江苏卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0127_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Anhui.png",安徽卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0130_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Guizhou.png",贵州卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0120_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Shandong.png",山东卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0131_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Shanxi_.png",山西卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0118_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",广东卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0125_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Guangxi.png",广西卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0113_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Hubei.png",湖北卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0132_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVlogo/img/Hunan.png",湖南卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0128_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Jiangxi.png",江西卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0138_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Hebei.png",河北卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0117_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Henan.png",河南卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0139_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVlogo/img/Sichuan.png",四川卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0123_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Chongqing.png",重庆卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0142_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Dongnan.png",东南卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0137_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Qinghai.png",青海卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0140_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVlogo/img/Yunnan.png",云南卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0119_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Shanxi.png",陕西卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0136_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Neimeng.png",内蒙古卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0109_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Ningxia.png",宁夏卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0112_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Jilin.png",吉林卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0116_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Xinjiang.png",新疆卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0110_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Gansu.png",甘肃卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0141_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Xizang.png",西藏卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0111_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Heilongjiang.png",黑龙江卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0143_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVlogo/img/Shenzhen.png",深圳卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0126_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",厦门卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0129_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",兵团卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0115_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",辽宁都市
+http://fuxin.yunjifei.top:999/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Liaoning2.png",辽宁影视剧
+http://fuxin.yunjifei.top:999/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",辽宁体育
+http://fuxin.yunjifei.top:999/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",辽宁生活
+http://fuxin.yunjifei.top:999/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",辽宁教育青少
+http://fuxin.yunjifei.top:999/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",辽宁北方
+http://fuxin.yunjifei.top:999/tsfile/live/1006_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",辽宁公共
+http://fuxin.yunjifei.top:999/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",辽宁经济
+http://fuxin.yunjifei.top:999/tsfile/live/1008_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",辽宁移动电视
+http://fuxin.yunjifei.top:999/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Hainan.png",海南卫视
+http://fuxin.yunjifei.top:999/tsfile/live/1010_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVlogo/img/Yanbian.png",延边卫视
+http://fuxin.yunjifei.top:999/tsfile/live/1011_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVlogo/img/jykt.png",金鹰卡通
+http://fuxin.yunjifei.top:999/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",优漫卡通
+http://fuxin.yunjifei.top:999/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",家庭影院
+http://fuxin.yunjifei.top:999/tsfile/live/1014_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",动作电影
+http://fuxin.yunjifei.top:999/tsfile/live/1015_1.m3u8
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",高清电影
+http://fuxin.yunjifei.top:999/tsfile/live/1016_1.m3u8
 
 
 
