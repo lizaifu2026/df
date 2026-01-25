@@ -900,7 +900,22 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
+        {
+            "key": "木兮影视",
+            "name": "木兮影视",
+            "type": 3,
+            "api": "csp_Symx",
+            "ext": "https://film.symx.club"
+        },       
+	  {
+            "key": "零度影视",
+            "name": "零度影视",
+            "type": 3,
+            "api": "csp_Lingdu",
+            "searchable": 1,
+            "filterable": 1
+        },    
+	{
       "name": "厂长影视",
       "key": "厂长",
       "type": 3,
@@ -2803,6 +2818,7 @@
  
 
      
+
 
 
 
