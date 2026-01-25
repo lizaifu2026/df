@@ -453,35 +453,7 @@
         "dataIv": "5a9w6x58dsq6z3a6"
       }
     },	  
-    {
-      "key": "小白",
-      "name": "小白APP",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://uutu.efjhl.cn",
-        "dataKey": "uXVVRRuaPnjEfsX5",
-        "dataIv": "uXVVRRuaPnjEfsX5"
-      }
-    },	  
-	  {
-            "key": "小猪",
-            "name": "小猪APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppQi",
-            "ext": {
-                "url": "",
-                "site": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt",
-                "dataKey": "seb5tq9mykp2w9ry",
-                "dataIv": "seb5tq9mykp2w9ry",
-                "deviceId": "",
-                "version": "",
-                "ua": "okhttp/3.10.0"
-            }
-        },        
- {
+	{
       "key": "茉莉",
       "name": "茉莉APP",
       "type": 3,
@@ -1615,6 +1587,13 @@
             "filterable": 1,
             "playerType": 2
         },	  
+		{
+			"key": "森林动漫",
+			"name": "森林动漫APP",
+			"type": 3,
+			"api": "./py/FeiApp.py",
+			"ext": "https://ysa.yy-fun.cc/feiapp"
+		},  
 	  {
             "key": "4KYS",
             "name": "4K影视",
@@ -2818,6 +2797,7 @@
  
 
      
+
 
 
 
