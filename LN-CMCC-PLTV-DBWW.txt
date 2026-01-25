@@ -166,6 +166,12 @@ CCTV5+体育赛事,http://fuxin.yunjifei.top:999/tsfile/live/0016_1.m3u8
 家庭影院,http://fuxin.yunjifei.top:999/tsfile/live/1014_1.m3u8
 动作电影,http://fuxin.yunjifei.top:999/tsfile/live/1015_1.m3u8
 高清电影,http://fuxin.yunjifei.top:999/tsfile/live/1016_1.m3u8
+抚顺综合,rtp://232.0.0.143:1234
+抚顺教育,rtp://232.0.0.145:1234
+大洼综合,rtp://232.0.0.146:1234
+盘锦新闻,rtp://232.0.0.148:1234
+辽河新闻综合,rtp://232.0.0.214:1234
+辽河文化生活,rtp://232.0.0.215:1234
 辽网通（晚上5--10:30卡顿),#genre#
 CCTV1,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226721/index.m3u8
 CCTV1,http://39.135.126.62/hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227209/index.m3u8
