@@ -89,6 +89,14 @@ http://stream2.jlntv.cn/jilin1/sd/live.m3u8
 rtp://232.0.0.214:1234
 #EXTINF:-1 group-title="辽宁沈阳联通组播",营口文化生活
 rtp://232.0.0.215:1234
+#EXTINF:-1 group-title="辽宁沈阳联通组播",盘锦新闻综合
+rtp://232.0.0.120:1234
+#EXTINF:-1 group-title="辽宁沈阳联通组播",盘锦都市
+rtp://232.0.0.183:1234
+#EXTINF:-1 group-title="辽宁沈阳联通组播",CCTV4中文欧洲
+rtp://232.0.0.53:1234
+#EXTINF:-1 group-title="辽宁沈阳联通组播",CCTV4中文美洲
+rtp://232.0.0.59:1234
 #EXTINF:-1 group-title="辽宁沈阳联通组播",邵氏动作
 http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 #EXTINF:-1 group-title="辽宁沈阳联通组播",邵氏喜剧
@@ -1427,6 +1435,7 @@ http://fuxin.yunjifei.top:999/tsfile/live/1014_1.m3u8
 http://fuxin.yunjifei.top:999/tsfile/live/1015_1.m3u8
 #EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",高清电影
 http://fuxin.yunjifei.top:999/tsfile/live/1016_1.m3u8
+
 
 
 
