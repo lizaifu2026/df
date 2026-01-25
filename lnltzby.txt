@@ -7,6 +7,10 @@ rtp://232.0.0.135:1234
 rtp://232.0.0.170:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV-4%E5%9B%BD%E9%99%85" group-title="辽宁沈阳联通组播", CCTV-4国际
 rtp://232.0.0.201:1234
+#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86" group-title="辽宁沈阳联通组播",CCTV4中文欧洲
+rtp://232.0.0.53:1234
+#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86" group-title="辽宁沈阳联通组播",CCTV4中文美洲
+rtp://232.0.0.59:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV-5%E4%BD%93%E8%82%B2" group-title="辽宁沈阳联通组播", CCTV-5体育
 rtp://232.0.0.171:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV-6%E7%94%B5%E5%BD%B1" group-title="辽宁沈阳联通组播", CCTV-6电影
@@ -77,33 +81,29 @@ rtp://232.0.0.240:1234
 rtp://232.0.0.207:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E6%B2%88%E9%98%B3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88" group-title="辽宁沈阳联通组播", 沈阳新闻综合
 rtp://232.0.0.206:1234
-#EXTINF:-1 group-title="辽宁沈阳联通组播",抚顺综合
+#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86" group-title="辽宁沈阳联通组播",抚顺综合
 rtp://232.0.0.253:1234
-#EXTINF:-1 group-title="辽宁沈阳联通组播",抚顺教育
+#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86" group-title="辽宁沈阳联通组播",抚顺教育
 rtp://232.0.0.254:1234
-#EXTINF:-1 group-title="辽宁沈阳联通组播",辽源综合
+#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86" group-title="辽宁沈阳联通组播",辽源综合
 http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
-#EXTINF:-1 group-title="辽宁沈阳联通组播",吉林市新闻综合
+#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86" group-title="辽宁沈阳联通组播",吉林市新闻综合
 http://stream2.jlntv.cn/jilin1/sd/live.m3u8
-#EXTINF:-1 group-title="辽宁沈阳联通组播",营口新闻综合
+#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86" group-title="辽宁沈阳联通组播",营口新闻综合
 rtp://232.0.0.214:1234
-#EXTINF:-1 group-title="辽宁沈阳联通组播",营口文化生活
+#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86" group-title="辽宁沈阳联通组播",营口文化生活
 rtp://232.0.0.215:1234
-#EXTINF:-1 group-title="辽宁沈阳联通组播",盘锦新闻综合
+#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86" group-title="辽宁沈阳联通组播",盘锦新闻综合
 rtp://232.0.0.120:1234
-#EXTINF:-1 group-title="辽宁沈阳联通组播",盘锦都市
+#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86" group-title="辽宁沈阳联通组播",盘锦都市
 rtp://232.0.0.183:1234
-#EXTINF:-1 group-title="辽宁沈阳联通组播",CCTV4中文欧洲
-rtp://232.0.0.53:1234
-#EXTINF:-1 group-title="辽宁沈阳联通组播",CCTV4中文美洲
-rtp://232.0.0.59:1234
-#EXTINF:-1 group-title="辽宁沈阳联通组播",邵氏动作
+#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86" group-title="辽宁沈阳联通组播",邵氏动作
 http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
-#EXTINF:-1 group-title="辽宁沈阳联通组播",邵氏喜剧
+#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86" group-title="辽宁沈阳联通组播",邵氏喜剧
 http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
-#EXTINF:-1 group-title="辽宁沈阳联通组播",邵氏电影
+#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86" group-title="辽宁沈阳联通组播",邵氏电影
 http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
-#EXTINF:-1 group-title="辽宁沈阳联通组播",邵氏武侠
+#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86" group-title="辽宁沈阳联通组播",邵氏武侠
 http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E4%BC%98%E8%B4%AD%E7%89%A9" group-title="辽宁沈阳联通组播", 优购物
 rtp://232.0.0.250:1234
@@ -181,7 +181,7 @@ rtp://232.0.0.110:1234
 rtp://232.0.0.160:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8" group-title="辽宁沈阳联通组播", 重温经典
 http://tv.jun1985.cn/api/CBN.php?id=30167
-#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21" group-title="辽宁沈阳联通组播", 中国教育1
+#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21" group-title="辽宁沈阳联通组播", CETV1
 rtp://232.0.0.212:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=CETV2" group-title="辽宁沈阳联通组播", CETV2
 rtp://232.0.0.238:1234
@@ -1435,6 +1435,7 @@ http://fuxin.yunjifei.top:999/tsfile/live/1014_1.m3u8
 http://fuxin.yunjifei.top:999/tsfile/live/1015_1.m3u8
 #EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",高清电影
 http://fuxin.yunjifei.top:999/tsfile/live/1016_1.m3u8
+
 
 
 
