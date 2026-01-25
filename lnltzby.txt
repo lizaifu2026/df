@@ -78,9 +78,9 @@ rtp://232.0.0.207:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E6%B2%88%E9%98%B3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88" group-title="辽宁沈阳联通组播", 沈阳新闻综合
 rtp://232.0.0.206:1234
 #EXTINF:-1 group-title="辽宁沈阳联通组播",抚顺综合
-https://fsgbdstzb.lnyun.com.cn/fsfb2/tvzb2.m3u8?auth_key=1800000000-0-0-567c83e6e68f69724b3d3c9a934e147c
+rtp://232.0.0.253:1234
 #EXTINF:-1 group-title="辽宁沈阳联通组播",抚顺教育
-https://fsgbdstzb.lnyun.com.cn/fsfb1/tvzb1.m3u8?auth_key=1800000000-0-0-4a9318cfc89de3265930e8db1aa63e49
+rtp://232.0.0.254:1234
 #EXTINF:-1 group-title="辽宁沈阳联通组播",辽源综合
 http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
 #EXTINF:-1 group-title="辽宁沈阳联通组播",吉林市新闻综合
@@ -1435,6 +1435,7 @@ http://fuxin.yunjifei.top:999/tsfile/live/1014_1.m3u8
 http://fuxin.yunjifei.top:999/tsfile/live/1015_1.m3u8
 #EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",高清电影
 http://fuxin.yunjifei.top:999/tsfile/live/1016_1.m3u8
+
 
 
 
