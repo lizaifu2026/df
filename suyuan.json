@@ -419,6 +419,52 @@
         "apisignkey": "lvdoutv-1.0.0"
       }
     },      
+    {
+      "key": "芬奇",
+      "name": "芬奇APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "https://wsapi.dafenqi.mom/yuming.txt",
+        "dataKey": "bH5mI8iK0tK7aQ5x",
+        "dataIv": "bH5mI8iK0tK7aQ5x"
+      }
+    },	  
+    {
+      "key": "优兔",
+      "name": "优兔APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": {
+        "site": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt",
+        "dataKey": "UrWKPnmQWJA8AQzd",
+        "dataIv": "UrWKPnmQWJA8AQzd"
+      }
+    },	  
+    {
+      "key": "王子",
+      "name": "王子APP",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://app.95112475.xyz",
+        "dataKey": "5a9w6x58dsq6z3a6",
+        "dataIv": "5a9w6x58dsq6z3a6"
+      }
+    },	  
+    {
+      "key": "小白",
+      "name": "小白APP",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://uutu.efjhl.cn",
+        "dataKey": "uXVVRRuaPnjEfsX5",
+        "dataIv": "uXVVRRuaPnjEfsX5"
+      }
+    },	  
 	  {
             "key": "小猪",
             "name": "小猪APP",
@@ -2757,6 +2803,7 @@
  
 
      
+
 
 
 
