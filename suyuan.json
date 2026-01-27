@@ -182,8 +182,22 @@
         "ua": "okhttp/3.10.0"
       }
     },	  
-	  {
-            "key": "至臻",
+    {
+      "key": "汤圆",
+      "name": "汤圆APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "filterable": 1,
+      "ext": {
+        "url": "http://tangyuanapp.top",
+        "dataKey": "j519MYJAt3kk9XVA",
+        "dataIv": "j519MYJAt3kk9XVA"
+      }
+    },	 
+	    {
+		    "key": "至臻",
             "name": "至臻APP",
             "type": 3,
             "api": "csp_AppQi",
@@ -2823,6 +2837,7 @@
  
 
      
+
 
 
 
