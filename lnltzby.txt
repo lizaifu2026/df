@@ -7,10 +7,6 @@ rtp://232.0.0.135:1234
 rtp://232.0.0.170:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV-4%E5%9B%BD%E9%99%85" group-title="辽宁沈阳联通组播", CCTV-4国际
 rtp://232.0.0.201:1234
-#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86" group-title="辽宁沈阳联通组播",CCTV4中文欧洲
-rtp://232.0.0.53:1234
-#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86" group-title="辽宁沈阳联通组播",CCTV4中文美洲
-rtp://232.0.0.59:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV-5%E4%BD%93%E8%82%B2" group-title="辽宁沈阳联通组播", CCTV-5体育
 rtp://232.0.0.171:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=CCTV-6%E7%94%B5%E5%BD%B1" group-title="辽宁沈阳联通组播", CCTV-6电影
@@ -1473,6 +1469,7 @@ http://live.wuhainews.org.cn/dssh/sd/live.m3u8
 http://play1-qk.nmtv.cn/live/1735546886977046.m3u8
 #EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙锡林郭勒综合（高清）
 http://play1-qk.nmtv.cn/live/1735546994821050.m3u8
+
 
 
 
