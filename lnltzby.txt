@@ -290,7 +290,7 @@ rtp://232.0.0.36:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E5%AE%B6%E5%BA%AD%E7%90%86%E8%B4%A2" group-title="辽宁沈阳联通组播", 家庭理财
 rtp://232.0.0.39:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8" group-title="辽宁沈阳联通组播", 环球旅游
-rtp://232.0.0.65:1234
+rtp://232.0.0.239:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC" group-title="辽宁沈阳联通组播", 四海钓鱼
 rtp://232.0.0.66:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E4%B8%AD%E5%8D%8E%E7%89%B9%E4%BA%A7" group-title="辽宁沈阳联通组播", 中华特产
@@ -1473,6 +1473,7 @@ http://live.wuhainews.org.cn/dssh/sd/live.m3u8
 http://play1-qk.nmtv.cn/live/1735546886977046.m3u8
 #EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙锡林郭勒综合（高清）
 http://play1-qk.nmtv.cn/live/1735546994821050.m3u8
+
 
 
 
