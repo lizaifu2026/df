@@ -453,6 +453,18 @@
         "dataIv": "5a9w6x58dsq6z3a6"
       }
     },	  
+    {
+      "key": "小白",
+      "name": "小白APP",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://uutu.efjhl.cn",
+        "dataKey": "uXVVRRuaPnjEfsX5",
+        "dataIv": "uXVVRRuaPnjEfsX5"
+      }
+    },	
 	{
       "key": "茉莉",
       "name": "茉莉APP",
@@ -2797,6 +2809,7 @@
  
 
      
+
 
 
 
