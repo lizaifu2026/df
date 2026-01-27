@@ -1307,134 +1307,172 @@ http://cc2022.ifengli.com:2000/live/xzws-sd/1500.m3u8?innersid=43084733639159234
 http://cc2022.ifengli.com:2000/live/nmws-sd/1500.m3u8?innersid=4308473363915923491
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86" group-title="酷开TV", 宁夏卫视
 http://cc2022.ifengli.com:2000/live/nxws-sd/1500.m3u8?innersid=4308473363915923491
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV1-综合
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",CCTV1-综合
 http://fuxin.yunjifei.top:999/tsfile/live/0001_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV2-财经
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",CCTV2-财经
 http://fuxin.yunjifei.top:999/tsfile/live/0002_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV3-综艺
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",CCTV3-综艺
 http://fuxin.yunjifei.top:999/tsfile/live/0003_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV4-国际
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",CCTV4-国际
 http://fuxin.yunjifei.top:999/tsfile/live/0004_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV5-体育
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",CCTV5-体育
 http://fuxin.yunjifei.top:999/tsfile/live/0005_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV6-电影
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",CCTV6-电影
 http://fuxin.yunjifei.top:999/tsfile/live/0006_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV7-军农
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",CCTV7-军农
 http://fuxin.yunjifei.top:999/tsfile/live/0007_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV8-电视剧
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",CCTV8-电视剧
 http://fuxin.yunjifei.top:999/tsfile/live/0008_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV9-纪录
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",CCTV9-纪录
 http://fuxin.yunjifei.top:999/tsfile/live/0009_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV10-科教
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",CCTV10-科教
 http://fuxin.yunjifei.top:999/tsfile/live/0010_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV11-戏曲
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",CCTV11-戏曲
 http://fuxin.yunjifei.top:999/tsfile/live/0011_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV12-社会与法
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",CCTV12-社会与法
 http://fuxin.yunjifei.top:999/tsfile/live/0012_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV13-新闻
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",CCTV13-新闻
 http://fuxin.yunjifei.top:999/tsfile/live/0013_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV14-少儿
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",CCTV14-少儿
 http://fuxin.yunjifei.top:999/tsfile/live/0014_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV15-音乐
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",CCTV15-音乐
 http://fuxin.yunjifei.top:999/tsfile/live/0015_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",CCTV5+体育赛事
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",CCTV5+体育赛事
 http://fuxin.yunjifei.top:999/tsfile/live/0016_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Liaoning.png",辽宁卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",辽宁卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0121_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",北京卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",北京卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0122_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Tianjin.png",天津卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",天津卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0135_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Zhejiang.png",浙江卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",浙江卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0124_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Jiangsu.png",江苏卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",江苏卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0127_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Anhui.png",安徽卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",安徽卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0130_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Guizhou.png",贵州卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",贵州卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0120_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Shandong.png",山东卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",山东卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0131_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Shanxi_.png",山西卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",山西卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0118_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",广东卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",广东卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0125_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Guangxi.png",广西卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",广西卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0113_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Hubei.png",湖北卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",湖北卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0132_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVlogo/img/Hunan.png",湖南卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",湖南卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0128_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Jiangxi.png",江西卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",江西卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0138_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Hebei.png",河北卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",河北卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0117_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Henan.png",河南卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",河南卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0139_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVlogo/img/Sichuan.png",四川卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",四川卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0123_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Chongqing.png",重庆卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",重庆卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0142_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Dongnan.png",东南卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",东南卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0137_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Qinghai.png",青海卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",青海卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0140_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVlogo/img/Yunnan.png",云南卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",云南卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0119_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Shanxi.png",陕西卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",陕西卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0136_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Neimeng.png",内蒙古卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙古卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0109_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Ningxia.png",宁夏卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",宁夏卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0112_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Jilin.png",吉林卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",吉林卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0116_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Xinjiang.png",新疆卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",新疆卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0110_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Gansu.png",甘肃卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",甘肃卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0141_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Xizang.png",西藏卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",西藏卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0111_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Heilongjiang.png",黑龙江卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",黑龙江卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0143_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVlogo/img/Shenzhen.png",深圳卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",深圳卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0126_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",厦门卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",厦门卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0129_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",兵团卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",兵团卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0115_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",辽宁都市
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",辽宁都市
 http://fuxin.yunjifei.top:999/tsfile/live/1000_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Liaoning2.png",辽宁影视剧
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",辽宁影视剧
 http://fuxin.yunjifei.top:999/tsfile/live/1001_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",辽宁体育
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",辽宁体育
 http://fuxin.yunjifei.top:999/tsfile/live/1003_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",辽宁生活
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",辽宁生活
 http://fuxin.yunjifei.top:999/tsfile/live/1004_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",辽宁教育青少
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",辽宁教育青少
 http://fuxin.yunjifei.top:999/tsfile/live/1005_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",辽宁北方
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",辽宁北方
 http://fuxin.yunjifei.top:999/tsfile/live/1006_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",辽宁公共
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",辽宁公共
 http://fuxin.yunjifei.top:999/tsfile/live/1007_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",辽宁经济
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",辽宁经济
 http://fuxin.yunjifei.top:999/tsfile/live/1008_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",辽宁移动电视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",辽宁移动电视
 http://fuxin.yunjifei.top:999/tsfile/live/1009_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Hainan.png",海南卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",海南卫视
 http://fuxin.yunjifei.top:999/tsfile/live/1010_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVlogo/img/Yanbian.png",延边卫视
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",延边卫视
 http://fuxin.yunjifei.top:999/tsfile/live/1011_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo=" https://www.lysvc.cc/TVlogo/img/jykt.png",金鹰卡通
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",金鹰卡通
 http://fuxin.yunjifei.top:999/tsfile/live/1012_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",优漫卡通
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",优漫卡通
 http://fuxin.yunjifei.top:999/tsfile/live/1013_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",家庭影院
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",家庭影院
 http://fuxin.yunjifei.top:999/tsfile/live/1014_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",动作电影
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",动作电影
 http://fuxin.yunjifei.top:999/tsfile/live/1015_1.m3u8
-#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="",高清电影
+#EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",高清电影
 http://fuxin.yunjifei.top:999/tsfile/live/1016_1.m3u8
+#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙新闻综合（高清）
+http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
+#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙经济生活（高清）
+http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
+#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙少儿频道（高清）
+http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙文体娱乐（高清）
+http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
+#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙农牧频道（高清）
+http://play1-qk.nmtv.cn/live/1686561299036179.m3u8
+#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙蒙语卫视1（高清）
+http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
+#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙蒙语卫视2（高清）
+http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
+#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙呼市新闻综合（高清）
+http://play1-qk.nmtv.cn/live/1735545967595013.m3u8
+#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙包头新闻综合（高清）
+http://play1-qk.nmtv.cn/live/1735546150395017.m3u8
+#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙鄂尔多斯新闻综合（高清）
+http://play1-qk.nmtv.cn/live/1735546299241021.m3u8
+#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙巴彦淖尔新闻综合（高清）
+http://play1-qk.nmtv.cn/live/1735546423467029.m3u8
+#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙赤峰新闻综合（高清）
+http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
+#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙乌兰察布新闻综合（高清）
+http://play1-qk.nmtv.cn/live/1735546836103043.m3u8
+#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙阿拉善新闻综合（高清）
+http://play1-qk.nmtv.cn/live/1735547046115053.m3u8
+#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙辽通新闻综合（高清）
+http://play1-qk.nmtv.cn/live/1735546745882037.m3u8
+#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙乌海新闻综合（高清）
+http://play1-qk.nmtv.cn/live/1735546358166026.m3u8
+#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙乌海都市生活（高清）
+http://live.wuhainews.org.cn/dssh/sd/live.m3u8
+#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙兴安盟新闻综合（高清）
+http://play1-qk.nmtv.cn/live/1735546886977046.m3u8
+#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙锡林郭勒综合（高清）
+http://play1-qk.nmtv.cn/live/1735546994821050.m3u8
 
 
 
