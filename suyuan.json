@@ -179,7 +179,7 @@
     },
 	{
       "key": "奇奇",
-      "name": "奇奇｜APP",
+      "name": "奇奇APP",
       "type": 3,
       "api": "csp_AppQi",
       "searchable": 1,
@@ -2834,6 +2834,7 @@
  
 
      
+
 
 
 
