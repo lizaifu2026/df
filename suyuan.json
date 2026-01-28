@@ -373,6 +373,30 @@
         "ver": 2
       }
     },	  
+    {
+      "key": "永恒视频",
+      "name": "永恒APP",
+      "type": 3,
+      "api": "csp_Hmys",
+      "ext": {
+        "host": "https://dy.oogsy.com",
+        "app_id": "yongheng",
+        "deviceid": "92ec8baead8e788b",
+        "versionCode": "10000",
+        "UMENG_CHANNEL": "zhuan"
+      }
+    },
+    {
+      "key": "清雨PHP",
+      "name": "清雨APP",
+      "type": 4,
+      "api": "http://rihou.cc:88/php/xpg.php",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },	  
 	  {
             "key": "爆炸",
             "name": "爆炸APP",
@@ -434,6 +458,18 @@
       }
     },	  
     {
+      "key": "花小猪影视",
+      "name": "小花猪App",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "host": "./lib/zhuzhuxia.txt",
+        "datakey": "j8sr6d93yp49db3p",
+        "ua": "okhttp/3.10.0",
+        "api": "2"
+      }
+    },    
+	{
       "key": "QD4K",
       "name": "猪猪APP",
       "type": 3,
@@ -2837,6 +2873,7 @@
  
 
      
+
 
 
 
