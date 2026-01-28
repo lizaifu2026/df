@@ -123,30 +123,7 @@
       "changeable": 1,
       "ext": "aRzH1ANGAUTUF9FHBwAGAcJHV1GHwsdCgEaGEkRCgpWRFYKK0VXAEBYHQpQX1VHV1BJRR8NDUpOEWskXAQ4IwYzOSUxCjYzF1ERPTlKYipDeD8NPAsjIiUzBiETWywGEHR/QHYMUEhQDAFUXVAEIR8RPgYmfH9DAkMgDhEWLTMQQTU2SVVWRFZeVkdARQBGSEcwOCQWITUeKiAMEHxjBn1rNicKVhBCAiMSJERZPgIDYhBeEVACFC0ME1RdUBYPFQYQARVdQRpaQRsKUElVFQ8TCwkRBCsLG1dXUAkTAQABFSgFF0JURVhKBAkXWFMVVm4cBR8AVUxFEQoKWhEXHxhbSFxKSAEUUElVBR4BOhcYCQAOG0FfUAkTQEZeRwQPFAAACxEJBw1WCRBDAhNeRgQABQUOHQtFTkpAWkQDAlBO"
     },
-       {
-            "name": "夏天影视",
-            "key": "夏天",
-            "type": 3,
-            "api": "csp_NewGrAmns",
-            "jar": "./bdb.png",
-		    "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "BG6DUQMDRsRW0hbHAYRFwFNSUoESx4PHgAPBksaHRRWXkcFLQEDFwIMCBhEXkBZVVteWx8XHEVIVT8zHlAtMRIyLDszASEtF0sAMj8ONj0BLCofKAo2PCc4ET8TQT0JFjArVzRYRVpEDRRKX1sTPx8LLwkgOCtUQBc1HAUXOC0SSiIoSU9HS1AWFhUuDANUXEYRAAQXFhAVHBYPGwcPC1NJRRUOBQwGABUtGhsWAEVIVRUBAhU4BRZUU0pJWwIYFxkEABcoCAQcAEVMRAcNBUsAEQ4YGh9JCw4VFVNJRQUfFz0YCRgGHxsACEVIVVRHXUcUDxUWBwQAGAEcVkhHVkNVSkcHABUFDwsMSl9bRktEQlVFDw=="
-        },    
-        {
-            "name": "🎂岁岁短剧",
-            "key": "岁岁短剧",
-            "type": 3,
-            "api": "csp_SpdjAmns",
-            "jar": "./bdb.png",
-			"searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-	{
+    {
       "key": "巧技二",
       "name": "巧技影视",
       "type": 3,
@@ -1895,6 +1872,17 @@
       "quickSearch": 1,
       "changeable": 1
     },       
+        {
+            "name": "岁岁短剧",
+            "key": "岁岁短剧",
+            "type": 3,
+            "api": "csp_SpdjAmns",
+            "jar": "./bdb.png",
+			"searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },	  
 	  {
             "key": "星之阁短剧",
             "name": "星之阁短剧",
@@ -2911,6 +2899,7 @@
  
 
      
+
 
 
 
