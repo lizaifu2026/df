@@ -1815,7 +1815,31 @@
     },
 { "key": "短剧网", "name": "短剧网", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+data-label\">&&</p>","副标题":"meta-post-type2\">&&</span>","分类url":"https://www.duanju2.com/show/duanju---{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#悬疑$脑洞悬疑#年代$年代穿越#古装$古装仙侠#都市$现代都市#反转$反转#爽文$爽文#其他$短剧"}},   
  { "key": "茄子短剧", "name": "番茄短剧", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+简介：</span>&&","线路标题":"panel-hd\">&&</div>","分类url":"https://www.shanhuzs.com/fqsansw/5-{area}--{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"}},       
-       {
+     {
+      "key": "csp_Kan90",
+      "name": "最全短剧",
+      "type": 3,
+      "jar": "./vox.jar",
+	  "api": "csp_Kan90",
+      "timeout": 60,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "全能短剧",
+      "name": "短剧AI",
+      "type": 3,
+      "api": "csp_DuanJuCen",
+      "jar": "./vox.jar",
+	  "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "classes": "./lib/duanjucen.json"
+      }
+    },      
+	  {
             "name": "喵喵短剧",
             "key": "喵喵短剧",
             "type": 3,
@@ -2875,6 +2899,7 @@
  
 
      
+
 
 
 
