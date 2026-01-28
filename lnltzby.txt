@@ -239,8 +239,6 @@ rtp://232.0.0.52:1234
 rtp://232.0.0.60:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83" group-title="辽宁沈阳联通组播", 高尔夫网球
 rtp://232.0.0.243:1234
-#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E5%85%88%E9%94%8B%E4%B9%92%E7%BE%BD" group-title="辽宁沈阳联通组播", 先锋乒羽
-rtp://232.0.0.244:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C" group-title="辽宁沈阳联通组播", 武术世界
 rtp://232.0.0.252:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91" group-title="辽宁沈阳联通组播", 游戏风云
@@ -1557,6 +1555,7 @@ http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 P2p://starvod.xyz:19806/6043814031384523bc272f4f87aeb298.ts
 #EXTINF:-1 group-title="港湾" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",星光怀旧台
 http://data.3g.yy.com/live/hls/1354936134/1354936134.m3u8
+
 
 
 
