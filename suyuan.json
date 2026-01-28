@@ -377,7 +377,8 @@
       "key": "永恒视频",
       "name": "永恒APP",
       "type": 3,
-      "api": "csp_Hmys",
+      "jar": "./vox.jar",
+	  "api": "csp_Hmys",
       "ext": {
         "host": "https://dy.oogsy.com",
         "app_id": "yongheng",
@@ -461,7 +462,8 @@
       "key": "花小猪影视",
       "name": "小花猪App",
       "type": 3,
-      "api": "csp_AppGet",
+      "jar": "./vox.jar",
+	  "api": "csp_AppGet",
       "ext": {
         "host": "./lib/zhuzhuxia.txt",
         "datakey": "j8sr6d93yp49db3p",
@@ -2873,6 +2875,7 @@
  
 
      
+
 
 
 
