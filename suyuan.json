@@ -2280,7 +2280,43 @@
       "api": "csp_XBPQ",
       "ext": "./lib/MBYS.json"
     },
-     {
+    {
+      "key": "爱看机器人",
+      "name": "爱看影视",
+      "type": 3,
+      "api": "./lib/爱看机器人.js"
+    },
+    {
+      "key": "山有木兮",
+      "name": "山木影视",
+      "type": 3,
+      "api": "./lib/山有木兮.js"
+    },
+    {
+      "key": "月光影视",
+      "name": "月光┃影视",
+      "type": 3,
+      "api": "./lib/月光影视.js"
+    },
+    {
+      "key": "厂长APP",
+      "name": "厂长影音",
+      "type": 3,
+      "api": "./lib/厂长.js"
+    },
+    {
+      "key": "星辰影院",
+      "name": "星辰影视",
+      "type": 3,
+      "api": "./lib/星辰影院.js"
+    },
+    {
+      "key": "耐看",
+      "name": "耐看影视",
+      "type": 3,
+      "api": "./lib/耐看.js"
+    },    
+	  {
             "key": "cat_孜然影视",
             "name": "cat_孜然影视",
             "type": 3,
@@ -2899,6 +2935,7 @@
  
 
      
+
 
 
 
