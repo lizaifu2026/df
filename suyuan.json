@@ -462,6 +462,21 @@
       "key": "花小猪影视",
       "name": "小花猪App",
       "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/zhuzhuxia.txt",
+        "dataKey": "j8sr6d93yp49db3p",
+        "dataIv": "j8sr6d93yp49db3p",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },   
+	  {
+      "key": "花小猪影视",
+      "name": "小花猪App",
+      "type": 3,
       "jar": "./vox.jar",
 	  "api": "csp_AppGet",
       "ext": {
@@ -2935,6 +2950,7 @@
  
 
      
+
 
 
 
