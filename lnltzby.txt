@@ -1429,20 +1429,6 @@ http://fuxin.yunjifei.top:999/tsfile/live/1014_1.m3u8
 http://fuxin.yunjifei.top:999/tsfile/live/1015_1.m3u8
 #EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",高清电影
 http://fuxin.yunjifei.top:999/tsfile/live/1016_1.m3u8
-#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙新闻综合（高清）
-http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
-#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙经济生活（高清）
-http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
-#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙少儿频道（高清）
-http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
-#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙文体娱乐（高清）
-http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
-#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙农牧频道（高清）
-http://play1-qk.nmtv.cn/live/1686561299036179.m3u8
-#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙蒙语卫视1（高清）
-http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
-#EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙蒙语卫视2（高清）
-http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
 #EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙呼市新闻综合（高清）
 http://play1-qk.nmtv.cn/live/1735545967595013.m3u8
 #EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙包头新闻综合（高清）
@@ -1467,6 +1453,7 @@ http://live.wuhainews.org.cn/dssh/sd/live.m3u8
 http://play1-qk.nmtv.cn/live/1735546886977046.m3u8
 #EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙锡林郭勒综合（高清）
 http://play1-qk.nmtv.cn/live/1735546994821050.m3u8
+
 
 
 
