@@ -88,7 +88,18 @@
       "quickSearch": 1,
       "ext": "http://m51.gotto.top/api.php/v1.vod"
     },	  
-  {
+    {
+      "name": "糖心影视",
+      "key": "TnewGr",
+      "type": 3,
+      "jar": "./bdb.png",
+	  "api": "csp_TnewGrAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },  
+	  {
             "name": "杜北影视",
             "key": "杜北",
             "type": 3,
@@ -2950,6 +2961,7 @@
  
 
      
+
 
 
 
