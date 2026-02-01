@@ -9,6 +9,14 @@
       "url": "http://rihou.cc:88/demo.php"
     },      
     {
+      "url": "https://code.onedev.io/vox/~raw/master/demo.json",
+      "name": "vox线路（备用）"
+    },   
+    {
+      "url": "https://fastgit.cc/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
+      "name": "东篱线路"
+    },    
+    {
       "name": "小虎斑影视",
       "url": "http://hb.小虎斑.site:25252/仅供测试"
     },    
@@ -36,10 +44,10 @@
       "name": "林中小屋影视",
       "url": "https://gitee.com/lzxw66/lzxw9/raw/master/Ace"
     },
-     {
-      "name": "嗷呜影视",
-      "url": "assets://嗷呜/config.json"
-    },   
+    {
+      "url": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config",
+      "name": "嗷呜线路"
+    },  
     {
       "name": "天微影视",
       "url": "https://7337.kstore.vip/tw.json"
@@ -83,6 +91,7 @@
  
 
    
+
 
 
 
