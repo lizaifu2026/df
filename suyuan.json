@@ -219,21 +219,7 @@
         "ua": "okhttp/3.10.0"
       }
     },	  
-    {
-      "key": "汤圆",
-      "name": "汤圆APP",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "filterable": 1,
-      "ext": {
-        "url": "http://tangyuanapp.top",
-        "dataKey": "j519MYJAt3kk9XVA",
-        "dataIv": "j519MYJAt3kk9XVA"
-      }
-    },	 
-	    {
+     {
 		    "key": "至臻",
             "name": "至臻APP",
             "type": 3,
@@ -267,20 +253,7 @@
                 "ua": "okhttp/3.10.0"
             }
         },
-    {
-      "key": "魔方",
-      "name": "魔方APP",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "site": "./lib/mf4kzs327.txt",
-        "dataKey": "1234567887654321",
-        "dataIv": "1234567887654321"
-      }
-    },
-    {
+   {
       "key": "假段友get",
       "name": "段友APP",
       "type": 3,
@@ -305,17 +278,6 @@
         "ua": "Dart/3.5 (dart:io)"
       }
     },
-    {
-      "key": "天峰",
-      "name": "天峰APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://zxy-ys.810211.dpdns.org",
-        "dataKey": "1234567890123456",
-        "dataIv": "1234567890123456"
-      }
-    },	  
 	  {
             "key": "金牌",
             "name": "金牌APP",
@@ -403,13 +365,14 @@
       "key": "粉象",
       "name": "粉象APP",
       "type": 3,
-      "changeable": 0,
       "api": "csp_AppFox",
+      "searchable": 1,
+      "changeable": 1,
       "ext": {
-        "host": "./lib/host.json",
+        "host": "http://host1.sopython.top/host.json",
         "ver": 2
       }
-    },	  
+    },  
     {
       "key": "永恒视频",
       "name": "永恒APP",
@@ -669,12 +632,6 @@
       "name": "影视番薯(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/t9/fanshu.php"
-    },
-    {
-      "key": "T4-tianfeng",
-      "name": "影视天峰(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/tianfeng.php"
     },
     {
       "key": "T4-mifun",
@@ -2987,6 +2944,7 @@
  
 
      
+
 
 
 
