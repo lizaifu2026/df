@@ -62,12 +62,15 @@
       "key": "鲸鱼",
       "name": "鲸鱼APP",
       "type": 3,
-      "quickSearch": 1,
       "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
       "ext": {
-        "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
-        "dataKey": "AAdgrdghjfgswerA",
-        "dataIv": "AAdgrdghjfgswerA"
+        "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/juyu3.json",
+        "dataKey": "AAdgrdghjfgsABC1",
+        "dataIv": "AAdgrdghjfgsABC1",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
       }
     },	  
   {
@@ -2984,6 +2987,7 @@
  
 
      
+
 
 
 
