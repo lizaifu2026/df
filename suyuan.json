@@ -73,15 +73,6 @@
         "ua": "okhttp/3.10.0"
       }
     },	  
-  {
-      "key": "nangua",
-      "name": "南瓜APP",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "jar": "./lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
-    },	  
     {
       "key": "tvbys",
       "name": "随缘影视",
@@ -2944,6 +2935,7 @@
  
 
      
+
 
 
 
