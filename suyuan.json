@@ -7,7 +7,7 @@
             "name": "联通直播",
             "type": 0,
             "url": "./lnltzby.txt",
-            "epg": "http://tvapius.zztv.cc/api/diyp.php?ch={name}&date={date}"
+            "epg": "http://igtv.top:2132?ch={name}&date={date}"
         },
          {
             "name": "咪咕直播",
@@ -2923,6 +2923,7 @@
  
 
      
+
 
 
 
