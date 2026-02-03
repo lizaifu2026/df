@@ -353,18 +353,6 @@
       }
     },	  
     {
-      "key": "粉象",
-      "name": "粉象APP",
-      "type": 3,
-      "api": "csp_AppFox",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "host": "http://host1.sopython.top/host.json",
-        "ver": 2
-      }
-    },  
-    {
       "key": "永恒视频",
       "name": "永恒APP",
       "type": 3,
@@ -2935,6 +2923,7 @@
  
 
      
+
 
 
 
