@@ -1534,6 +1534,12 @@
         "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
       }
     },         
+		{
+			"key": "美剧侠",
+			"name": "美剧侠APP",
+			"type": 3,
+			"api": "./py/美剧侠.py"
+		},	  
 	  {
             "key": "好莱坞",
             "name": "精彩APP",
@@ -2956,6 +2962,7 @@
  
 
      
+
 
 
 
