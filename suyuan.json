@@ -1691,7 +1691,40 @@
             "filterable": 1,
             "playerType": 2
         },		  
-        {
+		{
+			"key": "嘶哩嘶哩",
+			"name": "嘶哩嘶哩APP",
+			"type": 3,
+			"api": "./py/skapp.py",
+			"ext": {
+				"host": "https://silisili-1251358327.cos.ap-shanghai.myqcloud.com/skapp/api.txt",
+				"key": "ygcnbcznazmyrbdn",
+				"iv": "6571230062143708"
+			}
+		},
+		{
+			"key": "月亮影视",
+			"name": "月亮影视APP",
+			"type": 3,
+			"api": "./py/skapp.py",
+			"ext": {
+				"host": "http://sk.13tv.top:6542/assets/dd.txt",
+				"key": "ygcnbcgeomivjoyn",
+				"iv": "8628532671143708"
+			}
+		},
+		{
+			"key": "即看影视",
+			"name": "即看影视APP",
+			"type": 3,
+			"api": "./py/skapp.py",
+			"ext": {
+				"host": "https://skyappdata-1321528676.cos.accelerate.myqcloud.com/4kapp/appipr.txt",
+				"key": "ygcnbckhcuvygdyb",
+				"iv": "4023892775143708"
+			}
+		},        
+	  {
             "key": "剧海影视",
             "name": "剧海影视APP",
             "type": 3,
@@ -2923,6 +2956,7 @@
  
 
      
+
 
 
 
