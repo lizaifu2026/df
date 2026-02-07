@@ -366,18 +366,7 @@
         "UMENG_CHANNEL": "zhuan"
       }
     },
-    {
-      "key": "清雨PHP",
-      "name": "清雨APP",
-      "type": 4,
-      "api": "http://rihou.cc:88/php/xpg.php",
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "changeable": 1
-    },	  
-    {
+	{
       "key": "韩圈",
       "name": "韩圈APP",
       "type": 3,
@@ -2969,6 +2958,7 @@
  
 
      
+
 
 
 
