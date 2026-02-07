@@ -373,6 +373,20 @@
       "api": "csp_Hxq",
       "ext": "https://fishapi.wya6.com/fish/fishhxq.php"
     },	  
+    {
+      "key": "追忆",
+      "name": "追忆APP",
+      "type": 3,
+      "api": "csp_AppNox",
+      "ext": "http://110.42.37.69:8080|7f8617d03203745a|2.0.0|20|com.recall.app|EB:19:FD:A7:8F:67:99:CD:6C:F0:6F:A4:72:3F:7A:C7:E9:2E:95:79:6F:5B:60:EA:CD:D8:05:CF:3E:06:D9:71"
+    },
+    {
+      "key": "极光",
+      "name": "极光APP",
+      "type": 3,
+      "api": "csp_AppNox",
+      "ext": "http://jgapp.myqf.asia:9090|7f8617d03203745a|1.0.6|6|com.jgsj.apk|A4:0D:A8:0A:59:D1:70:CA:A9:50:CF:15:C1:8C:45:4D:47:A3:9B:26:98:9D:8B:64:0E:CD:74:5B:A7:1B:F5:DC"
+    },	  
 	  {
             "key": "爆炸",
             "name": "爆炸APP",
@@ -2958,6 +2972,7 @@
  
 
      
+
 
 
 
