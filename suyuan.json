@@ -377,6 +377,13 @@
       },
       "changeable": 1
     },	  
+    {
+      "key": "韩圈",
+      "name": "韩圈APP",
+      "type": 3,
+      "api": "csp_Hxq",
+      "ext": "https://fishapi.wya6.com/fish/fishhxq.php"
+    },	  
 	  {
             "key": "爆炸",
             "name": "爆炸APP",
@@ -2962,6 +2969,7 @@
  
 
      
+
 
 
 
