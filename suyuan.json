@@ -420,7 +420,33 @@
         "dataIv": "1234567887654321"
       }
     },
-	{
+    {
+      "key": "缘梦",
+      "name": "缘梦APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://165.99.42.137:5432",
+        "dataKey": "1234567890987654",
+        "dataIv": "1234567890987654"
+      }
+    },	
+    {
+      "key": "茉莉",
+      "name": "茉莉APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "./lib/9.txt",
+        "dataKey": "88689667dce61725",
+        "dataIv": "88689667dce61725"
+      }
+    },	 
+	{	  
       "key": "芬奇",
       "name": "芬奇APP",
       "type": 3,
@@ -2802,6 +2828,7 @@
  
 
      
+
 
 
 
