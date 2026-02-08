@@ -407,7 +407,7 @@
         "apisignkey": "lvdoutv-1.0.0"
       }
     },      
-     {
+    {
       "key": "魔方",
       "name": "魔方APP",
       "type": 3,
@@ -415,11 +415,11 @@
       "changeable": 1,
       "api": "csp_AppGet",
       "ext": {
-        "site": "./lib/mf4kzs327.txt",
+        "url": "http://www.613mf4k12.top",
         "dataKey": "1234567887654321",
         "dataIv": "1234567887654321"
       }
-    },   
+    },
 	{
       "key": "芬奇",
       "name": "芬奇APP",
@@ -2802,6 +2802,7 @@
  
 
      
+
 
 
 
