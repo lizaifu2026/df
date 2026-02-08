@@ -2249,55 +2249,7 @@
       "api": "./js/drpy2.min.js",
       "ext": "./lib/AQYDM.js"
     },
-     {
-      "key": "腾讯视频",
-      "name": "4K腾云VIP",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "danmu": true,
-      "ext": "./3a0117c635c91606f1d8bb81b8013236.js&988984"
-    },
     {
-      "key": "芒果视频",
-      "name": "4K果果VIP",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./1b0a7806f1f471f5b3754cf7727358d7.js&988984"
-    },     
-    {
-      "key": "解析",
-      "name": "️2K爱优腾芒",
-      "type": 1,
-      "api": "https://vs.okcdn100.top/api.php/provide/vod/",
-      "playUrl": "json:http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "国产剧",
-        "动作片",
-        "冒险片",
-        "喜剧片",
-        "爱情片",
-        "动画片",
-        "记录片",
-        "灾难片",
-        "悬疑片",
-        "奇幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "武侠片",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫",
-        "海外动漫",
-        "韩剧",
-        "综艺",
-        "动漫",
-        "短剧"
-      ]
-    },
-  {
             "key": "push_agent",
             "name": "手机推送",
             "type": 3,
@@ -2828,6 +2780,7 @@
  
 
      
+
 
 
 
