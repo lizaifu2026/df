@@ -438,20 +438,6 @@
         "api": "2"
       }
     },    
-	{
-      "key": "QD4K",
-      "name": "猪猪APP",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 0,
-      "api": "https://13826.kstore.vip/AppV2.py",
-      "playerType": 2,
-      "ext": {
-        "api": "http://dmmax.kuailezhuiju2.com/icciu_api.php/v1.vod",
-        "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
-        "apisignkey": "lvdoutv-1.0.0"
-      }
-    },      
     {
       "key": "魔方",
       "name": "魔方APP",
@@ -625,16 +611,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "http://cmstt.lyyytv.cn/api.php/app/"},	  
-    {
-      "key": "csp_LiteApple",
-      "name": "苹果影视",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },    
-{
+   {
       "key": "金牌",
       "name": "金牌APP",
       "type": 3,
@@ -713,17 +690,7 @@
             "filterable": 1,
             "ext": "./lib/农牧影视.json"
         },	  
-  {
-     "key": "csp_剧下饭",
-     "name": "剧下饭4K",
-     "type": 3,
-     "api": "csp_AppYs",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 1,
-     "ext": "http://jxfmax.juxiafan.com/icciu_api.php/v1.vod"
-   },	 
-{
+     {
       "key": "气球",
       "name": "气球APP",
       "type": 3,
@@ -2797,6 +2764,7 @@
  
 
      
+
 
 
 
