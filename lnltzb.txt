@@ -34,7 +34,6 @@ CGTN-法语国际,rtp://232.0.0.8:1234
 辽宁公共,rtp://232.0.0.168:1234
 辽宁经济,rtp://232.0.0.156:1234
 辽宁移动电视,rtp://232.0.0.165:1234
-家有购物,rtp://232.0.0.225:1234
 央广购物,rtp://232.0.0.240:1234
 聚鲨环球精选,rtp://232.0.0.207:1234
 沈阳新闻综合,rtp://232.0.0.206:1234
@@ -44,7 +43,7 @@ CGTN-法语国际,rtp://232.0.0.8:1234
 吉林市新闻综合,http://stream2.jlntv.cn/jilin1/sd/live.m3u8
 营口新闻综合,rtp://232.0.0.214:1234
 营口文化生活,rtp://232.0.0.215:1234
-盘锦新闻综合,rtp://232.0.0.120:1234
+盘锦新闻综合,rtp://232.0.0.228:1234
 盘锦都市,rtp://232.0.0.183:1234
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
@@ -146,7 +145,6 @@ CHC家庭影院,rtp://232.0.0.234:1234
 中华特产,rtp://232.0.0.89:1234
 优优宝贝,rtp://232.0.0.100:1234
 生态环境,rtp://232.0.0.113:1234
-收藏天下,rtp://232.0.0.121:1234
 中国天气,rtp://232.0.0.144:1234
 财富天下,rtp://232.0.0.147:1234
 精选,rtp://232.0.0.102:1234
@@ -790,6 +788,7 @@ CHU,http://cdn6.163189.xyz/163189/chu
 华文四套,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 华文五套,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 台湾+,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+
 
 
 
