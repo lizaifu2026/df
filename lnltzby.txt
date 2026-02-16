@@ -69,8 +69,6 @@ rtp://232.0.0.168:1234
 rtp://232.0.0.156:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86" group-title="辽宁沈阳联通组播", 辽宁移动电视
 rtp://232.0.0.165:1234
-#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E5%AE%B6%E6%9C%89%E8%B4%AD%E7%89%A9" group-title="辽宁沈阳联通组播", 家有购物
-rtp://232.0.0.225:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E5%A4%AE%E5%B9%BF%E8%B4%AD%E7%89%A9" group-title="辽宁沈阳联通组播", 央广购物
 rtp://232.0.0.240:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E8%81%9A%E9%B2%A8%E7%8E%AF%E7%90%83%E7%B2%BE%E9%80%89" group-title="辽宁沈阳联通组播", 聚鲨环球精选
@@ -293,8 +291,6 @@ rtp://232.0.0.89:1234
 rtp://232.0.0.100:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83" group-title="辽宁沈阳联通组播", 生态环境
 rtp://232.0.0.113:1234
-#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E6%94%B6%E8%97%8F%E5%A4%A9%E4%B8%8B" group-title="辽宁沈阳联通组播", 收藏天下
-rtp://232.0.0.121:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E4%B8%AD%E5%9B%BD%E5%A4%A9%E6%B0%94" group-title="辽宁沈阳联通组播", 中国天气
 rtp://232.0.0.144:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B" group-title="辽宁沈阳联通组播", 财富天下
@@ -1453,6 +1449,7 @@ http://live.wuhainews.org.cn/dssh/sd/live.m3u8
 http://play1-qk.nmtv.cn/live/1735546886977046.m3u8
 #EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙锡林郭勒综合（高清）
 http://play1-qk.nmtv.cn/live/1735546994821050.m3u8
+
 
 
 
