@@ -314,20 +314,6 @@
       }
     },	  
     {
-      "key": "追影闸4K",
-      "name": "追影4K",
-      "type": 3,
-      "changeable": 1,
-      "jar": "./vox.jar",
-	  "api": "csp_AppGet",
-      "ext": {
-        "host": "./lib/pgqj.json",
-        "datakey": "kj37zs29q22jk96t",
-        "ua": "okhttp/3.10.0",
-        "api": 2
-      }
-    },
-    {
       "key": "咕噜映画",
       "name": "咕噜APP",
       "type": 3,
@@ -2838,6 +2824,7 @@
  
 
      
+
 
 
 
