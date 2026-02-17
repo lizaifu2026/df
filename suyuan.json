@@ -318,7 +318,8 @@
       "name": "追影4K",
       "type": 3,
       "changeable": 1,
-      "api": "csp_AppGet",
+      "jar": "./vox.jar",
+	  "api": "csp_AppGet",
       "ext": {
         "host": "./lib/pgqj.json",
         "datakey": "kj37zs29q22jk96t",
@@ -331,7 +332,8 @@
       "name": "咕噜APP",
       "type": 3,
       "changeable": 0,
-      "api": "csp_Appfox",
+      "jar": "./vox.jar",
+	  "api": "csp_Appfox",
       "ext": {
         "host": "http://www.yingsw.top",
         "key": "guluyinghua_123",
@@ -2836,6 +2838,7 @@
  
 
      
+
 
 
 
