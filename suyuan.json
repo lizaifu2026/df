@@ -416,6 +416,13 @@
       "ext": "4ssljNMN/eUwGSlXfYi+I+hprh/hGdq3k62oZkDdfCoPgFL1v7LNnvU48cEXkIdqRp4mMQDilPIUEsDcvCnc0TReA7hxNnYETPTnCLltUB+rg8BO3gy/H3wrRAk119hh9NPI6O1V2zBvY+dKhXlHILtrmcljJZl93in1agPAYJAfD0j8Q+8laJLxT2vncQ0yw+P+bdDehU1gf1KZgPcu4YGbgUyoGusrqxdr3+mFzOM="
     },
     {
+      "key": "聚合",
+      "name": "聚合1080P",
+      "type": 3,
+      "api": "https://13826.kstore.vip/AppToV5.py",
+      "ext": "http://118.89.203.120:8365/"
+    },    
+	{
       "key": "韩圈",
       "name": "韩圈APP",
       "type": 3,
@@ -2834,6 +2841,7 @@
  
 
      
+
 
 
 
