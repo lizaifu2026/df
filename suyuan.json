@@ -2354,11 +2354,11 @@
       "type": 1,
       "url": "http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&url="
     },
-{ "name": "蜗牛解析", "type": 1, "url": "http://175.178.118.205:3302/api/?key=nZV75E7qb8s7tktEik&url=", "ext": { "flag": [ "JSGZ", "JSXL", "JSJP" ], "header": { "User-Agent": "okhttp/4.9.1" } } },    
-{ "name": "尘墨4K", "type": 1, "url": "https://52xiaobai.cn/jx.php?name=尘墨4K&url=", "ext": { "flag": [ "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "bilibili", "1905" ], "header": { "User-Agent": "okhttp/4.1.0", "User-TOEN": "123123" } } },	
- { "name": "极速4K", "type": 1, "url": "https://52xiaobai.cn/jx.php?name=极速4K&url=", "ext": { "flag": [ "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "bilibili", "1905" ], "header": { "User-Agent": "okhttp/4.1.0", "User-TOEN": "123123" } } },	
- { "name": "备用4K-1", "type": 1, "url": "https://52xiaobai.cn/jx.php?name=备用4K-1&url=", "ext": { "flag": [ "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "bilibili", "1905" ], "header": { "User-Agent": "okhttp/4.1.0", "User-TOEN": "123123" } } },
- { "name": "Pan解4K", "type": 1, "url": "https://52xiaobai.cn/jx.php?name=Pan解4K&url=", "ext": { "flag": [ "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "bilibili", "1905" ], "header": { "User-Agent": "okhttp/4.1.0", "User-TOEN": "123123" } } },
+{ "name": "蜗牛解析", "type": 1, "url": "http://175.178.118.205:3302/api/?key=nZV75E7qb8s7tktEik&url="}, 
+{ "name": "尘墨4K", "type": 1, "url": "https://52xiaobai.cn/jx.php?name=尘墨4K&url="},
+ { "name": "极速4K", "type": 1, "url": "https://52xiaobai.cn/jx.php?name=极速4K&url="}, 
+ { "name": "备用4K-1", "type": 1, "url": "https://52xiaobai.cn/jx.php?name=备用4K-1&url="}, 
+ { "name": "Pan解4K", "type": 1, "url": "https://52xiaobai.cn/jx.php?name=Pan解4K&url="},
  { "name": "4K智家", "type": 1, "url": "http://125.208.23.251:1314/lunxun/?url=" },
  { "name": "星睿⚡4K", "type": 1, "url": "http://sspa8.top:8100/api/?cat_ext=eyJmbGFnIjpbInFxIiwi6IW+6K6vIiwicWl5aSIsIueIseWlh+iJuiIsIuWlh+iJuiIsInlvdWt1Iiwi5LyY6YW3Iiwic29odSIsIuaQnOeLkCIsImxldHYiLCLkuZDop4YiLCJtZ3R2Iiwi6IqS5p6cIiwidG5tYiIsInNldmVuIiwiYmlsaWJpbGkiLCIxOTA1Il0sImhlYWRlciI6eyJVc2VyLUFnZW50Ijoib2todHRwLzQuOS4xIn19&key=星睿4k&url=" },
  { "name": "HD⚡腾讯解析", "type": 1, "url": "http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&url=" },
@@ -2848,6 +2848,7 @@
  
 
      
+
 
 
 
