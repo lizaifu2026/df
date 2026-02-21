@@ -419,7 +419,7 @@
       "key": "聚合",
       "name": "聚合1080P",
       "type": 3,
-      "api": "https://13826.kstore.vip/AppToV5.py",
+      "api": "./PY/AppToV5无加密.py",
       "ext": "http://118.89.203.120:8365/"
     },    
 	{
@@ -2841,6 +2841,7 @@
  
 
      
+
 
 
 
