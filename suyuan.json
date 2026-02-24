@@ -358,24 +358,22 @@
         "sign": "679543610991810f19698c187e5e106e"
       }
     },	  
-	  {
-            "key": "金牌",
-            "name": "金牌APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "changeable": "1",
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": {
-                "site": "https://dtqj.ggtvb.cc/dtjp.txt",
-                "dataKey": "eecbio48dsq131ee",
-                "dataIv": "eecbio48dsq131ee",
-                "search": "searchList4",
-                "version": "305",
-                "init": "initV122",
-                "ua": "okhttp/3.10.0"
-            }
-        },    
+    {
+      "key": "金牌Nox",
+      "name": "金牌APP",
+      "type": 3,
+      "api": "csp_AppNox",
+      "ext": {
+        "url": "https://jp5.ggtvb.cc",
+        "header": {
+          "content-type": "application/json",
+          "x-app-signature": "11:05:5B:0E:DD:14:6A:96:38:28:CB:29:7D:5F:04:57:3F:D6:EC:6A:C4:54:4F:4D:44:72:0A:C1:8E:DD:A9:58",
+          "x-app-package": "cc.xzsc.user",
+          "x-app-version-code": "12",
+          "x-app-version-name": "5.2"
+        }
+      }
+    },
      {
       "key": "云云",
       "name": "云速APP",
@@ -2866,6 +2864,7 @@
  
 
      
+
 
 
 
