@@ -212,25 +212,7 @@
       "changeable": 1,
       "ext": "https://www.zjcvod.com"
     },
-	{
-		    "key": "至臻",
-            "name": "至臻APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "changeable": "1",
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "site": "https://dtqj.ggtvb.cc/dtjp.txt",
-                "dataKey": "eecbio48dsq131ee",
-                "dataIv": "eecbio48dsq131ee",
-                "search": "searchList4",
-                "version": "302",
-                "init": "initV122",
-                "ua": "okhttp/3.10.0"
-            }
-        },	  
-	  {
+    {
             "key": "爱盈",
             "name": "爱盈APP",
             "type": 3,
@@ -709,20 +691,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "http://cmstt.lyyytv.cn/api.php/app/"},	  
-   {
-      "key": "金牌",
-      "name": "金牌APP",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "site": "./lib/dtjp.txt",
-        "dataKey": "kecbio48dsq131ed",
-        "dataIv": "kecbio48dsq131ed"
-      }
-    },
-      {
+        {
             "key": "小猫",
             "name": "小猫APP",
             "type": 3,
@@ -2864,6 +2833,7 @@
  
 
      
+
 
 
 
