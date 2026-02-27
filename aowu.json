@@ -159,16 +159,6 @@
             "changeable": 1
         },
         {
-            "name": "🐠锦鲤|短剧",
-            "key": "JLdj",
-            "type": 3,
-            "api": "csp_JLdjAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "name": "🍩甜圈|短剧",
             "key": "TQdj",
             "type": 3,
