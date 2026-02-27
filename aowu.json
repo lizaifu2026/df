@@ -1,220 +1,16 @@
 {
     "spider": "./bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6",
-    "logo": "./logo.gif",
+    "logo": "./logo4.gif",
     "sites": [
         {
-            "name": "💬嗷嗚|彈幕|豆瓣",
-            "key": "GoConfig",
+            "name": "🍑糖心|秒播",
+            "key": "TnewGr",
             "type": 3,
-            "api": "csp_GoConfigAmns",
-            "indexs": 1,
-            "searchable": 0,
-            "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "name": "😈嗷嗚|短剧|导航",
-            "key": "DjHggg",
-            "type": 3,
-            "api": "csp_HgggAmns",
-            "indexs": 1,
-            "searchable": 0,
-            "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "short_play"
-        },
-        {
-            "name": "🐲嗷嗚|漫剧|导航",
-            "key": "MjHggg",
-            "type": 3,
-            "api": "csp_HgggAmns",
-            "indexs": 1,
-            "searchable": 0,
-            "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "comic_series"
-        },
-        {
-            "name": "⚙️配置|中心",
-            "key": "MyConfig",
-            "type": 3,
-            "api": "csp_MyConfigAmns",
-            "searchable": 0,
-            "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "name": "📁本地|播放",
-            "key": "MyLocal",
-            "type": 3,
-            "api": "csp_MyLocalAmns",
-            "searchable": 0,
-            "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "name": "☁️我的|挎鈳",
-            "key": "MyQuark",
-            "type": 3,
-            "api": "csp_MyQuarkAmns",
-            "searchable": 0,
-            "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "./json/quark.json"
-        },
-        {
-            "name": "☁️我的|佰渡",
-            "key": "MyBaidu",
-            "type": 3,
-            "api": "csp_MyBaiduAmns",
-            "searchable": 0,
-            "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "./json/baidu.json"
-        },
-        {
-            "name": "🎉Bili|合集",
-            "key": "Bili",
-            "type": 3,
-            "api": "csp_BiliAmns",
+            "api": "csp_TnewGrAmns",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "json": "./json/bili.json",
-                "cookie": ""
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            }
-        },
-        {
-            "name": "🎸酷狗|音乐",
-            "key": "KuGou",
-            "type": 3,
-            "api": "csp_KuGouAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "name": "🐙GHub|商店",
-            "key": "GitHub",
-            "type": 3,
-            "api": "csp_GitHubAmns",
-            "searchable": 0,
-            "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "./json/github.json"
-        },
-        {
-            "name": "🤪玩偶|4K",
-            "key": "woWogg",
-            "type": 3,
-            "api": "csp_WoggAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "sites": "http://woggpan.888484.xyz,http://woggpan.xxooo.cf,http://wogg.xxooo.cf,http://wogg4k.333232.xyz,https://www.wogg.one",
-                "filters": "./json/wogg.json"
-            }
-        },
-        {
-            "name": "😀蜡笔|4K",
-            "key": "lbWobg",
-            "type": 3,
-            "api": "csp_WobgAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "sites": "http://feimao888.fun,https://feimao666.fun",
-                "filters": "./json/wolb.json"
-            }
-        },
-        {
-            "name": "😄二小|4K",
-            "key": "exWobg",
-            "type": 3,
-            "api": "csp_WobgAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "sites": "http://erxiaofn.click,http://2xiaopan.fun,http://erxiaofn.site,https://www.erixaopan.fun,https://wexwp.cc,https://xhww.net",
-                "filters": "./json/woex.json"
-            }
-        },
-        {
-            "name": "😆虎斑|4K",
-            "key": "hbWobg",
-            "type": 3,
-            "api": "csp_WobgAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "sites": "http://103.45.162.207:20720",
-                "filters": "./json/wohb.json"
-            }
-        },
-        {
-            "name": "🤠至臻|4K",
-            "key": "zzWobg",
-            "type": 3,
-            "api": "csp_WobgAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "sites": "http://www.miqk.cc,https://www.zhizhenpan.fun,https://www.mihdr.top,https://mihdr.top",
-                "filters": "./json/wozz.json"
-            }
-        },
-        {
-            "name": "🤓多多|4K",
-            "key": "ddWobg",
-            "type": 3,
-            "api": "csp_WobgAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "sites": "https://tv.yydsys.top,https://tv.yydsys.cc,https://tv.214521.xyz",
-                "filters": "./json/wodd.json"
-            }
-        },
-        {
-            "name": "🥸欧哥|4K",
-            "key": "ogWobg",
-            "type": 3,
-            "api": "csp_WobgAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "sites": "https://woog.nxog.eu.org",
-                "filters": "./json/woog.json"
-            }
+            "changeable": 1
         },
         {
             "name": "🥔瓜子|秒播",
@@ -250,16 +46,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "BG6DUQMDRsRW0hbHAYRFwFNSUoESx4PHgAPBksaHRRWXkcFLQEDFwIMCBhEXkBZVVteWx8XHEVIVT8zHlAtMRIyLDszASEtF0sAMj8ONj0BLCofKAo2PCc4ET8TQT0JFjArVzRYRVpEDRRKX1sTPx8LLwkgOCtUQBc1HAUXOC0SSiIoSU9HS1AWFhUuDANUXEYRAAQXFhAVHBYPGwcPC1NJRRUOBQwGABUtGhsWAEVIVRUBAhU4BRZUU0pJWwIYFxkEABcoCAQcAEVMRAcNBUsAEQ4YGh9JCw4VFVNJRQUfFz0YCRgGHxsACEVIVVRHXUcUDxUWBwQAGAEcVkhHVkNVSkcHABUFDwsMSl9bRktEQlVFDw=="
-        },
-        {
-            "name": "🍑糖心|秒播",
-            "key": "TnewGr",
-            "type": 3,
-            "api": "csp_TnewGrAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "name": "🎪伊外|秒播",
@@ -315,50 +101,10 @@
             "ext": "./json/dubk.json"
         },
         {
-            "name": "🏆高端|2K",
-            "key": "Ddys",
-            "type": 3,
-            "api": "csp_DdysAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "name": "🍿哔嘀|2K",
-            "key": "Bidys",
-            "type": 3,
-            "api": "csp_BidysAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "name": "🏭厂长|2K",
             "key": "Czzy",
             "type": 3,
             "api": "csp_CzzyAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "name": "📽️LBV|2K",
-            "key": "Libvio",
-            "type": 3,
-            "api": "csp_LibvioAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "name": "📀俩BT|2K",
-            "key": "Bttwo",
-            "type": 3,
-            "api": "csp_BttwoAmns",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -453,87 +199,8 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "name": "🍈爱瓜|墙外",
-            "key": "AiGua",
-            "type": 3,
-            "api": "csp_AiGuaAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "name": "📹U视|墙外",
-            "key": "YouSP",
-            "type": 3,
-            "api": "csp_YouSPAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "name": "🍕欧乐|墙外",
-            "key": "Olyy",
-            "type": 3,
-            "api": "csp_OlyyAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "name": "⛵壹帆|墙外",
-            "key": "Aiyf",
-            "type": 3,
-            "api": "csp_AiyfAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "name": "🔍fish|盘搜",
-            "key": "FishPs",
-            "type": 3,
-            "api": "csp_FishPsAmns",
-            "searchable": 1,
-            "filterable": 0,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "name": "🔍RB|盘搜",
-            "key": "RbPs",
-            "type": 3,
-            "api": "csp_RbPsAmns",
-            "searchable": 1,
-            "filterable": 0,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "name": "🔍短剧|盘搜",
-            "key": "DuanjPs",
-            "type": 3,
-            "api": "csp_DuanjPsAmns",
-            "searchable": 1,
-            "filterable": 0,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "name": "🛴推送|播放",
-            "key": "push_agent",
-            "type": 3,
-            "api": "csp_PushAmns",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0
         }
-    ],
+      ],
     "parses": [
         {
             "name": "聚合1",
