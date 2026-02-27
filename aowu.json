@@ -1,6 +1,14 @@
 {
     "spider": "./bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6",
     "logo": "./logo4.gif",
+    "lives": [
+        {
+            "name": "联通直播",
+            "type": 0,
+            "url": "./lnltzby.txt",
+            "epg": "http://igtv.top:2132?ch={name}&date={date}"
+        }
+    ],    
     "sites": [
         {
             "name": "🍑糖心|秒播",
