@@ -119,6 +119,18 @@
             "changeable": 1
         },
     {
+      "key": "拾光视频",
+      "name": "📹拾光视频|秒播",
+      "type": 3,
+      "api": "./py/Hmys.py",
+      "ext": {
+        "host": "https://dy.jmzp.net.cn",
+        "app_id": "shiguang",
+        "versionCode": "10000",
+        "UMENG_CHANNEL": "guan"
+      }
+    },    
+	{
       "key": "巧技五",
       "name": "🎀巧计影音|秒播",
       "type": 3,
@@ -153,26 +165,6 @@
             "key": "Hema",
             "type": 3,
             "api": "csp_HemaAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "name": "🧸拜拜|短剧",
-            "key": "Bddj",
-            "type": 3,
-            "api": "csp_BddjAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "name": "🎀围观|短剧",
-            "key": "Wgdj",
-            "type": 3,
-            "api": "csp_WgdjAmns",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
