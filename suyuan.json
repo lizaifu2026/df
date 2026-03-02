@@ -383,7 +383,18 @@
         "version": "120"
       }
     },	  
-    {
+     {
+      "key": "小羊",
+      "name": "小羊APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "https://xy4k.com/url.txt",
+        "dataKey": "7SDWjknU34zqFbVr",
+        "dataIv": "7SDWjknU34zqFbVr"
+      }
+    },  
+	{
       "key": "追忆",
       "name": "追忆APP",
       "type": 3,
@@ -1820,7 +1831,8 @@
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "类型": "短剧"
     },
         {
             "key": "软软短剧",
@@ -2798,6 +2810,7 @@
  
 
      
+
 
 
 
