@@ -1803,17 +1803,7 @@
             "quickSearch": 1,
             "changeable": 1
         },	  
-	  {
-            "key": "星之阁短剧",
-            "name": "星之阁短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/星阁短剧.json"
-        },	  
-	    {
+        {
             "key": "星星短剧",
             "name": "星星短剧",
             "type": 3,
@@ -1823,29 +1813,7 @@
             "quickSearch": 1,
             "filterable": 1
         },	  
-    {
-      "key": "星阁短剧",
-      "name": "星阁短剧",
-      "type": 3,
-      "api": "csp_XinggeDJ",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "类型": "短剧"
-    },
         {
-            "key": "碎片",
-            "name": "碎片短剧",
-            "type": 3,
-            "api": "csp_SuipianDJ",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "类型": "短剧"
-        },        
-	  {
             "key": "软软短剧",
             "name": "软鸭短剧",
             "type": 3,
@@ -2821,6 +2789,7 @@
  
 
      
+
 
 
 
