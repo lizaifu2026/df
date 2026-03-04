@@ -85,7 +85,7 @@
       "name": "糖心影视",
       "key": "TnewGr",
       "type": 3,
-      "jar": "./bdb.png",
+      "jar": "./bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6",
 	  "api": "csp_TnewGrAmns",
       "searchable": 1,
       "filterable": 1,
@@ -108,7 +108,7 @@
             "key": "杜北",
             "type": 3,
             "api": "csp_DubkAmns",
-            "jar": "./bdb.jar",
+            "jar": "./bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6",
 			"searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -120,7 +120,7 @@
             "key": "伊外",
             "type": 3,
             "api": "csp_YIysAmns",
-            "jar": "./bdb.jar",
+            "jar": "./bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6",
 			"searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -131,7 +131,7 @@
       "key": "春天",
       "type": 3,
       "api": "csp_NewGrAmns",
-      "jar": "./bdb.png",
+      "jar": "./bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6",
 	  "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
@@ -837,7 +837,7 @@
       "key": "厂长",
       "type": 3,
       "api": "csp_CzzyAmns",
-      "jar": "./bfdb--cvdvds.png",
+      "jar": "./bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6",
 	  "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
@@ -2776,6 +2776,7 @@
  
 
      
+
 
 
 
