@@ -158,6 +158,14 @@
       "jar": "./qij.png;md5;eb1ed5578b0a9ac5f3e6c6ee04b813e6",
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
     },  
+    {
+      "key": "南瓜",
+	  "name": "南瓜秒播",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+    },	
 	{
       "key": "橘猫",
       "name": "橘猫APP",
@@ -2776,6 +2784,7 @@
  
 
      
+
 
 
 
