@@ -131,18 +131,6 @@
       "key": "春天",
       "type": 3,
       "api": "csp_NewGrAmns",
-      "jar": "./bfdb--cvdvds.png",
-	  "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "aRzH1ANGAUTUF9FHBwAGAcJHV1GHwsdCgEaGEkRCgpWRFYKK0VXAEBYHQpQX1VHV1BJRR8NDUpOEWskXAQ4IwYzOSUxCjYzF1ERPTlKYipDeD8NPAsjIiUzBiETWywGEHR/QHYMUEhQDAFUXVAEIR8RPgYmfH9DAkMgDhEWLTMQQTU2SVVWRFZeVkdARQBGSEcwOCQWITUeKiAMEHxjBn1rNicKVhBCAiMSJERZPgIDYhBeEVACFC0ME1RdUBYPFQYQARVdQRpaQRsKUElVFQ8TCwkRBCsLG1dXUAkTAQABFSgFF0JURVhKBAkXWFMVVm4cBR8AVUxFEQoKWhEXHxhbSFxKSAEUUElVBR4BOhcYCQAOG0FfUAkTQEZeRwQPFAAACxEJBw1WCRBDAhNeRgQABQUOHQtFTkpAWkQDAlBO"
-    },
-    {
-      "name": "春天影视",
-      "key": "春天",
-      "type": 3,
-      "api": "csp_NewGrAmns",
       "jar": "./bdb.png",
 	  "searchable": 1,
       "filterable": 1,
@@ -2788,6 +2776,7 @@
  
 
      
+
 
 
 
