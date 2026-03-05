@@ -27,15 +27,15 @@
     },
     {
       "key": "柠檬",
-      "name": "柠檬影视",
+      "name": "🍋柠檬影视",
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
-      "key": "榴莲",
-      "name": "榴莲影视",
+      "key": "西瓜",
+      "name": "🍉西瓜影视",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 2,
@@ -43,7 +43,7 @@
     },  
     {
       "key": "香蕉",
-      "name": "香蕉影视",
+      "name": "🍌香蕉影视",
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
@@ -51,7 +51,7 @@
     },  
     {
       "key": "葡萄",
-      "name": "葡萄影视",
+      "name": "🍇葡萄影视",
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
@@ -336,6 +336,7 @@
   ]
 
 }
+
 
 
 
