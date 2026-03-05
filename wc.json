@@ -41,14 +41,18 @@
       "playerType": 2,
       "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },  
-    {
-      "key": "香蕉",
-      "name": "🍌香蕉影视",
+   {
+     "key": "香蕉", 
+     "name": "🍌香蕉影视",
       "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
-    },  
+      "api": "./py/Hmys.py",
+      "ext": {
+              "host": "https://dy.jmzp.net.cn",
+              "app_id": "shiguang",
+              "versionCode": "10000",
+              "UMENG_CHANNEL": "guan"
+       }
+    }, 
     {
       "key": "葡萄",
       "name": "🍇葡萄影视",
@@ -336,6 +340,7 @@
   ]
 
 }
+
 
 
 
