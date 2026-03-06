@@ -51,6 +51,14 @@
       "quickSearch": 1,
       "filterable": 1
     },      
+  {"key": "csp_appys_天堂",
+   "name": "🌽玉米影视",
+   "type": 3,
+   "api": "csp_AppYsV2",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "http://cmstt.lyyytv.cn/api.php/app/"},    
     {
       "key": "葡萄",
       "name": "🍇葡萄影视",
@@ -338,6 +346,7 @@
   ]
 
 }
+
 
 
 
