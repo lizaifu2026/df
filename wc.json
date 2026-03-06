@@ -54,6 +54,7 @@
   {"key": "csp_appys_天堂",
    "name": "🌽玉米影视",
    "type": 3,
+   "jar": "./kuihuazi.jar",
    "api": "csp_AppYsV2",
    "searchable": 1,
    "quickSearch": 1,
@@ -346,6 +347,7 @@
   ]
 
 }
+
 
 
 
