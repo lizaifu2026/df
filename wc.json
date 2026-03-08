@@ -70,6 +70,19 @@
       "quickSearch": 1,
       "ext": "http://m51.gotto.top/api.php/v1.vod"
     },	      
+     {
+      "key": "九宵视频",
+      "name": "🍅番茄影视",
+      "type": 3,
+      "api": "csp_Hmys",
+      "ext": {
+        "host": "https://dy.stxbed.com",
+        "app_id": "jiuxiao",
+        "deviceid": "45d8c03dd76e10e1",
+        "versionCode": "10000",
+        "UMENG_CHANNEL": "share"
+      }
+    },   
     {
       "key": "葡萄",
       "name": "🍇葡萄影视",
@@ -357,6 +370,7 @@
   ]
 
 }
+
 
 
 
