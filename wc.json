@@ -70,6 +70,22 @@
       "quickSearch": 1,
       "ext": "http://m51.gotto.top/api.php/v1.vod"
     },	      
+ 	{
+      "key": "数字",
+      "name": "🥒黄瓜影视",
+      "type": 3,
+      "jar": "./kuihuazi.jar",
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://app1-0-0.87333.cc",
+        "site": "",
+        "dataKey": "VwsHxkCViDXEExWa",
+        "dataIv": "VwsHxkCViDXEExWa",
+        "deviceId": "",
+        "version": ""
+      }
+    },	     
     {
       "key": "葡萄",
       "name": "🍇葡萄影视",
@@ -357,6 +373,7 @@
   ]
 
 }
+
 
 
 
