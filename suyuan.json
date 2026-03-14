@@ -2222,28 +2222,28 @@
       "name": "腾讯",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./lib/TXDM.js"
+      "ext": "./lib/TXSP.js"
     },
     {
       "key": "优酷弹幕",
       "name": "优酷",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./lib/YKDM.js"
+      "ext": "./lib/YKSP.js"
     },
     {
       "key": "芒果弹幕",
       "name": "芒果",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./lib/MGDM.js"
+      "ext": "./lib/MGSP.js"
     },
     {
       "key": "爱奇艺弹幕",
       "name": "爱奇艺",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./lib/AQYDM.js"
+      "ext": "./lib/AQY.js"
     },
     {
             "key": "push_agent",
