@@ -301,22 +301,6 @@
       "api": "https://catbox.n13.club/t9/suishenting.php"
     },	  
     {
-            "key": "紫金",
-            "name": "紫金APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://www.zjcvod.com",
-                "site": "",
-                "dataKey": "ab4e9a421675f14b",
-                "dataIv": "ab4e9a421675f14b",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
-            }
-        },
-	 {
       "key": "闪影",
       "name": "闪影影视",
       "type": 3,
@@ -327,7 +311,6 @@
       "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
     },	
 {"key":"柠檬","name":"柠檬影视","type":3,"api":"csp_Nmvod","playerType":2,"jar":"https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},	  
-{ "key": "奇友影院", "name": "奇友影院", "type":3,"api":"csp_XBPQ","ext": {"请求头":"手机", "简介":"剧情介绍:+col-pd\">&&</p>","线路标题":"playlist-title\">&&</h4>","分类url":"https://kangluya.com/show/{cateId}-{area}-time-{class}-------{catePg}---{year}/","分类":"短剧$duanju#国产剧$guochanju#港台剧$gangtaiju#欧美剧$oumeiju#韩剧$hanguoju#日剧$ribenju#泰剧$taiguoju#其他$qitaju#动作片$dongzuo#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#喜剧片$xiju#惊悚片$jings#悬疑片$xuanyi#犯罪片$fanzui#灾难片$zainan#剧情片$juqing#奇幻片$qihuan#冒险片$maoxian#绍氏片$shaoshi#动画片$donghuadianying#其他片$qita#国产动漫$guochan#日韩动漫$rhdm#港台动漫$gtdm#欧美动漫$omdm#其他功漫$qtdm#动漫电影$dongmandianying#大陆综艺$daluzongyi#日韩综艺$rihan#港台综艺$gangtai#欧美综艺$oumei#理伦片$lilun"}},	    
 { "key": "全看网cc", "name": "全看网", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+stui-content__desc col-pd clearfix\">&&</div>","分类url":"https://www.qkwaa.com/vod/show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$28#电视剧$2#电影$1#动漫$4#综艺$3"}}, 	  
 {"key": "csp_appys_天堂",
    "name": "电影天堂",
@@ -337,20 +320,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "http://cmstt.lyyytv.cn/api.php/app/"},	  
-        {
-            "key": "小猫",
-            "name": "小猫APP",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "site": "http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt",
-                "dataKey": "xmyxmyxywlkjxywl",
-                "dataIv": "xmyxmyxywlkjxywl"
-            }
-        },
-        {
+         {
             "key": "丫丫",
             "name": "丫丫APP",
             "type": 3,
@@ -402,34 +372,9 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./lib/农牧影视.json"
-        },	  
-     {
-      "key": "气球",
-      "name": "气球APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://vv.229d.cn",
-        "dataKey": "8888888888888888",
-        "dataIv": "8888888888888888"
-      }
-    },
+     },	  
     {
-           "key": "大众",
-           "name": "大众APP",
-           "type": 3,
-           "quickSearch": 1,
-           "api": "csp_AppGet",
-           "ext": {
-               "url": "http://123.57.22.102:2025",
-               "dataKey": "9q6a3z8w52s71xe4",
-               "dataIv": "9q6a3z8w52s71xe4",
-               "deviceId": "",
-               "version": "119"
-           }
-       },	  
- {
-   "key": "小城",
+     "key": "小城",
      "name": "小城影视",
      "type": 3,
      "api": "csp_AppYs",
@@ -489,17 +434,6 @@
 { "key": "旺旺影视", "name": "旺旺影院", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+<p>&&</p>","副标题":"module-item-note\">&&</div>","分类url":"https://nmystv.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{cayePg}/year/{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},
 { "key": "农民影视",  "name": "农民影院", "type": 3,"api": "csp_XBPQ", "ext": {"请求头": "手机","简介":"剧情介绍:+介：&&</p>","线路标题":"javascript:;\">&&</a>","状态":"red\">&&</font>","数组":"<li>&&</li>","图片": "data-echo=\"&&\"","导演":"导演:&&","主演":"主演:&&","分类url":"https://vip.wwgz.cn:5200/vod-list-id-{cateId}-pg-{catePg}-order--by-time-class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},	  
 { "key": "巨人影视", "name": "巨人影视", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+detail-content\" style=*>&&</span>","副标题":"pic-text text-right\">&&</span>","分类url":"https://www.jlsjzhyxh.com/so-show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$30#电视剧$2#电影$1#动漫$4#综艺$3#伦理$36"}},	  
-{
-      "name": "哔嘀影视",
-      "key": "哔嘀",
-      "type": 3,
-      "api": "csp_BidysAmns",
-      "jar": "./bfdb--cvdvds.png",
-	  "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
         {
             "key": "木兮影视",
             "name": "木兮影视",
