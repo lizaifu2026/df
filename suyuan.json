@@ -57,22 +57,7 @@
             "quickSearch": 1,
             "filterable": 1
         },   
-    {
-      "key": "鲸鱼",
-      "name": "鲸鱼APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/juyu3.json",
-        "dataKey": "AAdgrdghjfgsABC1",
-        "dataIv": "AAdgrdghjfgsABC1",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
-      }
-    },	  
-    {
+     {
       "key": "tvbys",
       "name": "随缘影视",
       "type": 3,
@@ -158,39 +143,7 @@
       "jar": "./qij.png;md5;eb1ed5578b0a9ac5f3e6c6ee04b813e6",
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
     },  
-    {
-      "key": "橘猫",
-      "name": "橘猫APP",
-      "type": 3,
-      "api": "csp_AppNox",
-      "ext": {
-        "url": "https://nox.jm4k.top",
-        "header": {
-          "content-type": "application/json",
-          "x-app-signature": "6D:77:A5:59:EA:EA:2E:4E:CC:E3:FE:B9:5D:8D:B0:F0:12:17:11:AD:82:97:87:FA:F7:88:18:37:6A:63:4F:38",
-          "x-app-package": "com.gnzhis.nru",
-          "x-app-version-code": "2",
-          "x-app-version-name": "2.4.1"
-        }
-      }
-    },
-	  {
-            "key": "顾我",
-            "name": "顾我APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/pgqj.json",
-                "dataKey": "kj37zs29q22jk96t",
-                "dataIv": "kj37zs29q22jk96t",
-                "init": "initV122",
-                "ua": "okhttp/3.10.0"
-            }
-        },	  
-     {
+   {
       "key": "假段友get",
       "name": "段友APP",
       "type": 3,
@@ -213,182 +166,6 @@
       "filterable": 1,
       "ext": "https://www.nntv.in/api.php/v1.vod"
     },    
-    {
-      "key": "片喵",
-      "name": "片喵APP",
-      "type": 3,
-      "api": "csp_AppNox",
-      "ext": {
-        "url": "https://svip.2video.cc",
-        "header": {
-          "content-type": "application/json",
-          "x-app-signature": "70:DF:B1:2A:AE:C3:E3:73:6E:23:0F:67:B9:3B:C5:63:2D:EA:2A:2C:9E:9D:52:82:1D:3F:3C:3C:B9:10:9E:EE",
-          "x-app-package": "com.ds.wlss",
-          "x-app-version-code": "56",
-          "x-app-version-name": "1.2.6"
-        }
-      }
-    },
-  {
-      "key": "火猫",
-      "name": "火猫APP",
-      "type": 3,
-      "api": "csp_AppNox",
-      "ext": {
-        "url": "https://jp5.ggtvb.cc",
-        "header": {
-          "content-type": "application/json",
-          "x-app-signature": "11:05:5B:0E:DD:14:6A:96:38:28:CB:29:7D:5F:04:57:3F:D6:EC:6A:C4:54:4F:4D:44:72:0A:C1:8E:DD:A9:58",
-          "x-app-package": "cc.xzsc.user",
-          "x-app-version-code": "12",
-          "x-app-version-name": "5.2"
-        }
-      }
-    },
-    {
-      "key": "幕悦",
-      "name": "幕悦APP",
-      "type": 3,
-      "api": "csp_AppNox",
-      "ext": {
-        "url": "http://111.170.7.114:8989",
-        "header": {
-          "content-type": "application/json",
-          "x-app-signature": "3D:D7:7B:07:B0:81:49:AF:90:5E:39:2B:B8:59:A9:99:89:EB:D5:35:6E:06:C0:A4:BE:44:B6:16:43:33:C4:C3",
-          "x-app-package": "com.muyuesg.app",
-          "x-app-version-code": "12",
-          "x-app-version-name": "0.1.2"
-        }
-      }
-    },
-    {
-      "key": "随看",
-      "name": "随看APP",
-      "type": 3,
-      "api": "csp_AppNox",
-      "ext": {
-        "url": "https://skapp.tpmbt.cn",
-        "header": {
-          "content-type": "application/json",
-          "x-app-signature": "28:FA:41:C9:95:6D:9A:36:0A:FC:FC:22:12:78:80:10:B7:47:0B:8F:CE:AB:A9:49:85:22:B3:EA:57:35:C2:D1",
-          "x-app-package": "com.mfbrjy.aqb",
-          "x-app-version-code": "320",
-          "x-app-version-name": "3.2.0"
-        }
-      }
-    },
-    {
-      "key": "星影",
-      "name": "星影APP",
-      "type": 3,
-      "api": "csp_AppNox",
-      "ext": {
-        "url": "http://110.81.153.7:8081",
-        "header": {
-          "content-type": "application/json",
-          "x-app-signature": "65:10:73:C4:52:FE:2D:8B:88:76:C2:17:83:C1:D3:6B:E3:2D:E0:40:F4:49:05:92:02:AA:DF:C3:12:78:1C:0C",
-          "x-app-package": "com.asxkkc.jbz",
-          "x-app-version-code": "5",
-          "x-app-version-name": "1.3.9"
-        }
-      }
-    },
-    {
-      "key": "回响",
-      "name": "回响APP",
-      "type": 3,
-      "api": "csp_AppNox",
-      "ext": {
-        "url": "http://110.42.37.69:8080",
-        "header": {
-          "content-type": "application/json",
-          "x-app-signature": "EB:19:FD:A7:8F:67:99:CD:6C:F0:6F:A4:72:3F:7A:C7:E9:2E:95:79:6F:5B:60:EA:CD:D8:05:CF:3E:06:D9:71",
-          "x-app-package": "com.recall.app",
-          "x-app-version-code": "22",
-          "x-app-version-name": "2.2.0"
-        }
-      }
-    },   
-	{
-      "key": "金牌Nox",
-      "name": "金牌APP",
-      "type": 3,
-      "api": "csp_AppNox",
-      "ext": {
-        "url": "https://jp5.ggtvb.cc",
-        "header": {
-          "content-type": "application/json",
-          "x-app-signature": "11:05:5B:0E:DD:14:6A:96:38:28:CB:29:7D:5F:04:57:3F:D6:EC:6A:C4:54:4F:4D:44:72:0A:C1:8E:DD:A9:58",
-          "x-app-package": "cc.xzsc.user",
-          "x-app-version-code": "12",
-          "x-app-version-name": "5.2"
-        }
-      }
-    },
-    {
-      "key": "零度",
-      "name": "零度APP",
-      "type": 3,
-      "api": "csp_AppNox",
-      "ext": {
-        "url": "http://ld.ldysapp.cn",
-        "header": {
-          "content-type": "application/json",
-          "x-app-signature": "70:DF:B1:2A:AE:C3:E3:73:6E:23:0F:67:B9:3B:C5:63:2D:EA:2A:2C:9E:9D:52:82:1D:3F:3C:3C:B9:10:9E:EE",
-          "x-app-package": "com.mjyx.jhxq",
-          "x-app-version-code": "36",
-          "x-app-version-name": "2.2.6"
-        }
-      }
-    },
-    {
-      "key": "粉象",
-      "name": "粉象APP",
-      "type": 3,
-      "api": "csp_AppNox",
-      "ext": {
-        "url": "http://64.64.252.93:8080",
-        "header": {
-          "content-type": "application/json",
-          "x-app-signature": "DD:78:90:EA:BD:D3:C2:EA:A4:E1:42:2B:CF:3E:A2:9F:9C:0E:BF:94:1E:85:43:B5:3C:FE:4E:1B:51:39:22:98",
-          "x-app-package": "com.fenxiang.make",
-          "x-app-version-code": "1",
-          "x-app-version-name": "1.0.0"
-        }
-      }
-    },    
-	{
-      "key": "灵虎",
-      "name": "灵虎APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "site": "https://bind.315999.xyz/89.txt",
-        "dataKey": "#getapp@TMD@2025",
-        "dataIv": "#getapp@TMD@2025",
-        "version": "120"
-      }
-    },	  
-     {
-      "key": "小羊",
-      "name": "小羊APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": {
-        "site": "https://xy4k.com/url.txt",
-        "dataKey": "7SDWjknU34zqFbVr",
-        "dataIv": "7SDWjknU34zqFbVr"
-      }
-    },  
-	{
-      "key": "追忆",
-      "name": "追忆APP",
-      "type": 3,
-      "jar": "https://img2.gelonghui.com/library/c4def-29ea7616-d551-4a73-9b31-cace1447426d.png;md5;c4def4496c2e1a0959c8fedfaff41488",
-	  "api": "csp_AppNox",
-      "ext": "4ssljNMN/eUwGSlXfYi+I+hprh/hGdq3k62oZkDdfCoPgFL1v7LNnvU48cEXkIdqRp4mMQDilPIUEsDcvCnc0TReA7hxNnYETPTnCLltUB+rg8BO3gy/H3wrRAk119hh9NPI6O1V2zBvY+dKhXlHILtrmcljJZl93in1agPAYJAfD0j8Q+8laJLxT2vncQ0yw+P+bdDehU1gf1KZgPcu4YGbgUyoGusrqxdr3+mFzOM="
-    },
     {
       "key": "韩圈",
       "name": "韩圈APP",
@@ -439,47 +216,6 @@
       }
     },	  
     {
-      "key": "花小猪影视",
-      "name": "小花猪App",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/zhuzhuxia.txt",
-        "dataKey": "j8sr6d93yp49db3p",
-        "dataIv": "j8sr6d93yp49db3p",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
-      }
-    },   
-	  {
-      "key": "花小猪影视",
-      "name": "小花猪App",
-      "type": 3,
-      "jar": "./vox.jar",
-	  "api": "csp_AppGet",
-      "ext": {
-        "host": "./lib/zhuzhuxia.txt",
-        "datakey": "j8sr6d93yp49db3p",
-        "ua": "okhttp/3.10.0",
-        "api": "2"
-      }
-    },    
-    {
-      "key": "魔方",
-      "name": "魔方APP",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://www.613mf4k12.top",
-        "dataKey": "1234567887654321",
-        "dataIv": "1234567887654321"
-      }
-    },
-    {
       "key": "缘梦",
       "name": "缘梦APP",
       "type": 3,
@@ -492,20 +228,7 @@
         "dataIv": "1234567890987654"
       }
     },	
-    {
-      "key": "茉莉",
-      "name": "茉莉APP",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "site": "./lib/9.txt",
-        "dataKey": "88689667dce61725",
-        "dataIv": "88689667dce61725"
-      }
-    },	 
-	{	  
+    {	  
       "key": "芬奇",
       "name": "芬奇APP",
       "type": 3,
@@ -554,34 +277,6 @@
       }
     },	  
 	{
-      "key": "七壹",
-      "name": "七壹APP",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://qiyiys.cc",
-        "dataKey": "45452893929B40D9",
-        "dataIv": "45452893929B40D9"
-      }
-    },     
-	  {
-            "key": "梨瓜",
-            "name": "梨瓜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "./lib/getapi.txt",
-                "dataKey": "A9f3Zx7Qk2Lm8P1N",
-                "dataIv": "A9f3Zx7Qk2Lm8P1N",
-                "deviceId": "",
-                "version": ""
-            }
-        },	  
-    {
       "key": "拾光视频",
       "name": "拾光视频APP",
       "type": 3,
@@ -605,19 +300,7 @@
       "type": 4,
       "api": "https://catbox.n13.club/t9/suishenting.php"
     },	  
-	  {
-            "name": "荐片影视",
-            "key": "荐片",
-            "type": 3,
-            "api": "csp_JPianAmns",
-            "jar": "./bdb.jar",
-			"searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "./lib/jpian.json"
-        }, 
-	  {
+    {
             "key": "紫金",
             "name": "紫金APP",
             "type": 3,
