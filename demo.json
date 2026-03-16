@@ -72,18 +72,6 @@
       "类型": "短剧"
     },
     {
-      "key": "AppNox_金牌",
-      "name": "🥇金牌ⁿᵒˣ┃APP",
-      "type": 3,
-      "api": "csp_AppNox",
-      "ext": {
-        "host": "https://jp5.ggtvb.cc",
-        "vCode": "11",
-        "vName": "5.0",
-        "pkg": "cc.xzsc.user"
-      }
-    },
-    {
       "key": "mifun",
       "name": "🐸mifun｜APP",
       "type": 3,
@@ -94,32 +82,8 @@
         "host": "./lib/mifun.txt",
         "datakey": "GETMIFUNGEIMIFUN"
       }
-    },
-    {
-      "key": "次元方舟",
-      "name": "🛸方舟┃APP",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "host": "https://www.cyfz.vip",
-        "datakey": "e72cdfd629e8895d"
-      }
-    },
-    {
-      "key": "番薯动漫",
-      "name": "🌳番薯┃APP",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "host": "https://new.app.bytegooty.com",
-        "datakey": "N4yj7l7xKxHF4*gz"
-      }
     }
- ],
+  ],
   "doh": [
     {
       "name": "DNSPod",
