@@ -188,16 +188,6 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "name": "🎂岁岁|短剧",
-            "key": "Spdj",
-            "type": 3,
-            "api": "csp_SpdjAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         }
       ],
     "parses": [
