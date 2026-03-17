@@ -34,6 +34,14 @@
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
+      "key": "旺旺影视",
+      "name": "🥔马铃薯影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./lib/旺旺影视.json",
+      "jar": "./lib/xbpq.jar"
+    },    
+    {
       "key": "西瓜",
       "name": "🍉西瓜影视",
       "type": 3,
@@ -70,7 +78,7 @@
       "quickSearch": 1,
       "ext": "http://m51.gotto.top/api.php/v1.vod"
     },	      
- 	{
+ 	  {
       "key": "数字",
       "name": "🥒黄瓜影视",
       "type": 3,
