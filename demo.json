@@ -70,20 +70,8 @@
         "classes": "./lib/duanjucen.json"
       },
       "类型": "短剧"
-    },
-    {
-      "key": "mifun",
-      "name": "🐸mifun｜APP",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "host": "./lib/mifun.txt",
-        "datakey": "GETMIFUNGEIMIFUN"
-      }
     }
-  ],
+   ],
   "doh": [
     {
       "name": "DNSPod",
