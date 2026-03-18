@@ -174,7 +174,7 @@ rtp://232.0.0.110:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86" group-title="辽宁沈阳联通组播", 厦门卫视
 rtp://232.0.0.160:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8" group-title="辽宁沈阳联通组播", 重温经典
-http://tv.jun1985.cn/api/CBN.php?id=30167
+https://ott.lnitv.cn/CBN.php?id=30167
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21" group-title="辽宁沈阳联通组播", CETV1
 rtp://232.0.0.212:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=CETV2" group-title="辽宁沈阳联通组播", CETV2
