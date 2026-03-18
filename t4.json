@@ -1,42 +1,24 @@
 {
   "spider": "",  
-  
+  "logo": "./logo12.gif",
   "sites": [
-    {
-      "key": "T4-qingting",
-      "name": "音乐-蜻蜓(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/qingting.php"
-    },
-
-      {
-      "key": "rrys",
-      "name": "人人影视",
-      "type": 4,
-      "api": "https://catbox.n13.club/18/人人影视.php"
-    },
-    
-    {
-      "key": "yangshi",
-      "name": "央视影视",
-      "type": 4,
-      "api": "https://catbox.n13.club/18/央视影视.php"
-    },
     {
       "key": "yingtan",
       "name": "影探影视",
       "type": 4,
       "api": "https://catbox.n13.club/18/影探影视.php"
+    },    
+    {
+      "key": "rrys",
+      "name": "人人影视",
+      "type": 4,
+      "api": "https://catbox.n13.club/18/人人影视.php"
     },
   {"key":"瓜子影视","name":"瓜子影视","type":4,"api":"https://catbox.n13.club/ai/瓜子影视.php"},
   {"key":"喜福短剧","name":"喜福短剧","type":4,"api":"https://catbox.n13.club/ai/喜福短剧.php"},
   {"key":"甜圈短剧","name":"甜圈短剧","type":4,"api":"https://catbox.n13.club/ai/甜圈短剧.php"},
   {"key":"星芽短剧","name":"星芽短剧","type":4,"api":"https://catbox.n13.club/ai/星芽短剧.php"},
-
-  {"key":"枫叶音乐","name":"枫叶音乐","type":4,"api":"https://catbox.n13.club/ai/枫叶音乐.php"},
-
-
-
+  {"key":"枫叶音乐","name":"枫叶音乐","type":4,"api":"https://catbox.n13.club/ai/枫叶音乐.php"},   
     {
       "key": "T4-qiyi",
       "name": "影视-七壹APP(T4)",
@@ -152,6 +134,12 @@
       "api": "https://catbox.n13.club/t9/mvzb.php"
     },
     {
+      "key": "yangshi",
+      "name": "央视影视",
+      "type": 4,
+      "api": "https://catbox.n13.club/18/央视影视.php"
+    },   
+    {
       "key": "T4-feiliu",
       "name": "直播-飞流(T4)",
       "type": 4,
@@ -259,6 +247,12 @@
       "type": 4,
       "api": "https://catbox.n13.club/t9/jijiu.php"
     },
+     {
+      "key": "T4-qingting",
+      "name": "音乐-蜻蜓(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/qingting.php"
+    },   
     {
       "key": "T4-cntv",
       "name": "其他-央视2(T4)",
