@@ -427,7 +427,7 @@ http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
 #EXTINF:-1 group-title="辽宁移动华为 （支持时移和回看）" tvg-logo="",吉林市新闻综合
 http://stream2.jlntv.cn/jilin1/sd/live.m3u8
 #EXTINF:-1 group-title="辽宁移动华为 （支持时移和回看）" tvg-logo="",重温经典
-http://a.jun1985.cn/php/cwjd.php
+https://ott.lnitv.cn/CBN.php?id=30167
 #EXTINF:-1 group-title="辽宁移动华为 （支持时移和回看）" tvg-logo="",邵氏动作
 http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 #EXTINF:-1 group-title="辽宁移动华为 （支持时移和回看）" tvg-logo="",邵氏喜剧
