@@ -188,8 +188,18 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1
-        }
-      ],
+        },
+        {
+            "key": "红果",
+            "name": "🍎红果短剧",
+            "type": 3,
+            "api": "./py/红果短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }     
+	],
     "parses": [
         {
             "name": "聚合1",
