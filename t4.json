@@ -20,6 +20,12 @@
   {"key":"星芽短剧","name":"星芽短剧","type":4,"api":"https://catbox.n13.club/ai/星芽短剧.php"},
   {"key":"枫叶音乐","name":"枫叶音乐","type":4,"api":"https://catbox.n13.club/ai/枫叶音乐.php"},   
     {
+      "key": "T4-guipian360",
+      "name": "影视-鬼片之家",
+      "type": 4,
+      "api": "https://catbox.n13.club/ai/guipian360.php"
+    },    
+    {
       "key": "T4-qiyi",
       "name": "影视-七壹APP(T4)",
       "type": 4,
