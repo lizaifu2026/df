@@ -434,8 +434,6 @@ http://b.jun1985.cn:90/TVOD/fsfb.php?id=fsjy
 http://srs.beijihainews.com.cn/video/jinzhou1/index.m3u8
 #EXTINF:-1 tvg-name="锦州教育" tvg-logo="https://logo.catvod.com/锦州教育.png" group-title="辽宁移动华为 （支持时移和回看）",锦州教育
 http://srs.beijihainews.com.cn/video/jinzhou2/index.m3u8
-#EXTINF:-1 tvg-name="朝阳新闻" tvg-logo="https://logo.catvod.com/朝阳新闻.png" group-title="辽宁移动华为 （支持时移和回看）",朝阳新闻
-https://live-cl01.cyrm.app.cygbdst.com/live/cyxw.m3u8?txSecret=c9c22f29ea02009b69cc02c43db9226f&txTime=69CBEF7F
 #EXTINF:-1 group-title="辽宁移动华为 （支持时移和回看）" tvg-logo="",重温经典
 https://ott.lnitv.cn/CBN.php?id=30167
 #EXTINF:-1 group-title="辽宁移动华为 （支持时移和回看）" tvg-logo="",邵氏动作
@@ -3450,9 +3448,4 @@ http://1.94.31.214/php/hebei.php?id=nmpd
 http://1.94.31.214/php/hebei.php?id=jjsh
 #EXTINF:-1 group-title="河北地方高清" tvg-logo="",河北4k
 https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 group-title="新疆地方" tvg-logo="",卡拉玛依1
-http://klmysjtzb.rcsxzx.com/hls/klmy1.m3u8
-#EXTINF:-1 group-title="新疆地方" tvg-logo="",卡拉玛依2
-http://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
-#EXTINF:-1 group-title="新疆地方" tvg-logo="",卡拉玛依3
-http://klmysjtzb.rcsxzx.com/hls/klmy3.m3u8
+
