@@ -45,9 +45,6 @@
 营口文化生活,rtp://232.0.0.215:1234
 盘锦新闻综合,rtp://232.0.0.228:1234
 盘锦都市,rtp://232.0.0.183:1234
-锦州综合,http://srs.beijihainews.com.cn/video/jinzhou1/index.m3u8
-锦州教育,http://srs.beijihainews.com.cn/video/jinzhou2/index.m3u8
-朝阳新闻,https://live-cl01.cyrm.app.cygbdst.com/live/cyxw.m3u8?txSecret=c9c22f29ea02009b69cc02c43db9226f&txTime=69CBEF7F
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
