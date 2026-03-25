@@ -69,16 +69,6 @@
    "filterable": 1,
    "ext": "http://cmstt.lyyytv.cn/api.php/app/"},    
     {
-      "key": "tvbys",
-      "name": "🍠地瓜影视",
-      "type": 3,
-      "jar": "./kuihuazi.jar",
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "http://m51.gotto.top/api.php/v1.vod"
-    },	      
- 	  {
       "key": "数字",
       "name": "🥒黄瓜影视",
       "type": 3,
