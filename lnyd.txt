@@ -436,14 +436,6 @@ http://srs.beijihainews.com.cn/video/jinzhou1/index.m3u8
 http://srs.beijihainews.com.cn/video/jinzhou2/index.m3u8
 #EXTINF:-1 group-title="辽宁移动华为 （支持时移和回看）" tvg-logo="",重温经典
 https://ott.lnitv.cn/CBN.php?id=30167
-#EXTINF:-1 group-title="辽宁移动华为 （支持时移和回看）" tvg-logo="",邵氏动作
-http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
-#EXTINF:-1 group-title="辽宁移动华为 （支持时移和回看）" tvg-logo="",邵氏喜剧
-http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
-#EXTINF:-1 group-title="辽宁移动华为 （支持时移和回看）" tvg-logo="",邵氏电影
-http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
-#EXTINF:-1 group-title="辽宁移动华为 （支持时移和回看）" tvg-logo="",邵氏武侠
-http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 #EXTINF:-1 group-title="辽宁移动华为 （支持时移和回看）" tvg-logo="",安多卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227561/index.m3u8
 #EXTINF:-1 group-title="辽宁移动华为 （支持时移和回看）" tvg-logo="https://www.lysvc.cc/TVLogo/img/Anhui.png",安徽卫视
