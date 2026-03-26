@@ -109,6 +109,19 @@
             "ext": "./json/dubk.json"
         },
         {
+            "key": "皮皮",
+            "name": "🦐皮皮虾|秒播",
+            "type": 3,
+            "api": "./py/Applzxw.py",
+            "ext": "http://38.55.237.41:8762"
+        },    
+	    {
+            "key": "T4-xiaozhu",
+            "name": "🐖小猪影视|秒播",
+            "type": 4,
+            "api": "https://catbox.n13.club/ai/小猪APP.php"
+        },	
+		{
             "name": "🏭厂长|2K",
             "key": "Czzy",
             "type": 3,
@@ -130,6 +143,46 @@
                     "UMENG_CHANNEL": "guan"
           }
        },    
+     {
+      "key": "电影天堂",
+      "name": "🎦电影天堂|秒播",
+      "type": 1,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 0,
+      "timeout": 10,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "恐怖片",
+        "爱情片",
+        "科幻片",
+        "战争片",
+        "剧情片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "记录片",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "港台动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "海外动漫",
+        "短剧",
+        "动画片"
+      ]
+    },      
 	   {
             "name": "🎀巧计|秒播",
             "key": "巧技五",
