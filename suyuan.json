@@ -1036,6 +1036,12 @@
 			"type": 3,
 			"api": "./py/美剧侠.py"
 		},	  
+		{
+			"key": "XDYS",
+			"name": "侠盗影视",
+			"type": 3,
+			"api": "./py/xd.py"
+		},		 
 	  {
             "key": "好莱坞",
             "name": "精彩APP",
