@@ -97,6 +97,8 @@ http://srs.beijihainews.com.cn/video/jinzhou1/index.m3u8
 http://srs.beijihainews.com.cn/video/jinzhou2/index.m3u8
 #EXTINF:-1 tvg-name="朝阳新闻" tvg-logo="https://logo.catvod.com/朝阳新闻.png" group-title="辽宁沈阳联通组播",朝阳新闻
 https://live-cl01.cyrm.app.cygbdst.com/live/cyxw.m3u8?txSecret=c9c22f29ea02009b69cc02c43db9226f&txTime=69CBEF7F
+#EXTINF:-1 tvg-name="铁岭新闻综合" tvg-logo="https://logo.catvod.com/铁岭新闻综合.png" group-title="辽宁沈阳联通组播",铁岭新闻综合
+https://live-play-tlrb.newaircloud.com/tlrb/3dc36395-a7a3-4855-9bd6-8d223cf9ac30.m3u8
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E4%BC%98%E8%B4%AD%E7%89%A9" group-title="辽宁沈阳联通组播", 优购物
 rtp://232.0.0.250:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%9D%9B%E5%BD%A9%E7%AB%9E%E6%8A%80" group-title="辽宁沈阳联通组播", 睛彩竞技
