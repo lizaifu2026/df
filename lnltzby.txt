@@ -79,9 +79,9 @@ rtp://232.0.0.206:1234
 rtp://232.0.0.253:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86" group-title="辽宁沈阳联通组播",抚顺教育
 rtp://232.0.0.254:1234
-#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86" group-title="辽宁沈阳联通组播",辽源综合
+#EXTINF:-1 tvg-logo="https://logo.catvod.com/辽源综合.png" group-title="辽宁沈阳联通组播",辽源综合
 http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
-#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86" group-title="辽宁沈阳联通组播",吉林市新闻综合
+#EXTINF:-1 tvg-logo="https://logo.catvod.com/吉林市新闻综合.png" group-title="辽宁沈阳联通组播",吉林市新闻综合
 http://stream2.jlntv.cn/jilin1/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86" group-title="辽宁沈阳联通组播",营口新闻综合
 rtp://232.0.0.214:1234
