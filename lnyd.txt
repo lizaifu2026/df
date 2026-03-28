@@ -434,6 +434,8 @@ http://b.jun1985.cn:90/TVOD/fsfb.php?id=fsjy
 http://srs.beijihainews.com.cn/video/jinzhou1/index.m3u8
 #EXTINF:-1 tvg-name="锦州教育" tvg-logo="https://logo.catvod.com/锦州教育.png" group-title="辽宁移动华为",锦州教育
 http://srs.beijihainews.com.cn/video/jinzhou2/index.m3u8
+#EXTINF:-1 tvg-name="铁岭新闻综合" tvg-logo="https://logo.catvod.com/铁岭新闻综合.png" group-title="辽宁移动华为",铁岭新闻综合
+https://live-play-tlrb.newaircloud.com/tlrb/3dc36395-a7a3-4855-9bd6-8d223cf9ac30.m3u8
 #EXTINF:-1 group-title="辽宁移动华为" tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8",重温经典
 https://ott.lnitv.cn/CBN.php?id=30167
 #EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E5%AE%89%E5%A4%9A%E5%8D%AB%E8%A7%86" group-title="辽宁移动华为", 安多卫视
