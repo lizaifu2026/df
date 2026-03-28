@@ -1423,6 +1423,150 @@ http://fuxin.yunjifei.top:999/tsfile/live/1014_1.m3u8
 http://fuxin.yunjifei.top:999/tsfile/live/1015_1.m3u8
 #EXTINF:-1 group-title="辽宁省阜新市电信" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",高清电影
 http://fuxin.yunjifei.top:999/tsfile/live/1016_1.m3u8
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV1" group-title="央视频", CCTV1
+http://ysp.lnitv.cn:5050/ysp?id=2024078201&pid=600001859&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV2" group-title="央视频", CCTV2
+http://ysp.lnitv.cn:5050/ysp?id=2024075401&pid=600001800&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV3" group-title="央视频", CCTV3
+http://ysp.lnitv.cn:5050/ysp?id=2024068501&pid=600001801&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV4" group-title="央视频", CCTV4
+http://ysp.lnitv.cn:5050/ysp?id=2029797101&pid=600001814&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV5" group-title="央视频", CCTV5
+http://ysp.lnitv.cn:5050/ysp?id=2024078401&pid=600001818&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV5%2B" group-title="央视频", CCTV5+
+http://ysp.lnitv.cn:5050/ysp?id=2024078001&pid=600001817&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV6" group-title="央视频", CCTV6
+http://ysp.lnitv.cn:5050/ysp?id=2013693901&pid=600108442&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV7" group-title="央视频", CCTV7
+http://ysp.lnitv.cn:5050/ysp?id=2024072001&pid=600004092&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV8" group-title="央视频", CCTV8
+http://ysp.lnitv.cn:5050/ysp?id=2029793001&pid=600001803&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV9" group-title="央视频", CCTV9
+http://ysp.lnitv.cn:5050/ysp?id=2024078601&pid=600004078&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV10" group-title="央视频", CCTV10
+http://ysp.lnitv.cn:5050/ysp?id=2024078701&pid=600001805&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV11" group-title="央视频", CCTV11
+http://ysp.lnitv.cn:5050/ysp?id=2027248701&pid=600001806&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV12" group-title="央视频", CCTV12
+http://ysp.lnitv.cn:5050/ysp?id=2027248801&pid=600001807&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV13" group-title="央视频", CCTV13
+http://ysp.lnitv.cn:5050/ysp?id=2029797201&pid=600001811&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV14" group-title="央视频", CCTV14
+http://ysp.lnitv.cn:5050/ysp?id=2027248901&pid=600001809&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV15" group-title="央视频", CCTV15
+http://ysp.lnitv.cn:5050/ysp?id=2027249001&pid=600001815&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV16-HD" group-title="央视频", CCTV16-HD
+http://ysp.lnitv.cn:5050/ysp?id=2027249101&pid=600098637&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV16%284K%EF%BC%89" group-title="央视频", CCTV16(4K）
+http://ysp.lnitv.cn:5050/ysp?id=2027249301&pid=600099502&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV17" group-title="央视频", CCTV17
+http://ysp.lnitv.cn:5050/ysp?id=2027249401&pid=600001810&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV4K" group-title="央视频", CCTV4K
+http://ysp.lnitv.cn:5050/ysp?id=2029810301&pid=600002264&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV8K" group-title="央视频", CCTV8K
+http://ysp.lnitv.cn:5050/ysp?id=2026774101&pid=600156816&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CGTN" group-title="央视频", CGTN
+http://ysp.lnitv.cn:5050/ysp?id=2024181701&pid=600014550&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CGTN%E6%B3%95%E8%AF%AD%E9%A2%91%E9%81%93" group-title="央视频", CGTN法语频道
+http://ysp.lnitv.cn:5050/ysp?id=2024181801&pid=600084704&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CGTN%E4%BF%84%E8%AF%AD%E9%A2%91%E9%81%93" group-title="央视频", CGTN俄语频道
+http://ysp.lnitv.cn:5050/ysp?id=2024181901&pid=600084758&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CGTN%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD%E9%A2%91%E9%81%93" group-title="央视频", CGTN阿拉伯语频道
+http://ysp.lnitv.cn:5050/ysp?id=2024182001&pid=600084782&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CGTN%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD%E9%A2%91%E9%81%93" group-title="央视频", CGTN西班牙语频道
+http://ysp.lnitv.cn:5050/ysp?id=2024182101&pid=600084744&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CGTN%E5%A4%96%E8%AF%AD%E7%BA%AA%E5%BD%95%E9%A2%91%E9%81%93" group-title="央视频", CGTN外语纪录频道
+http://ysp.lnitv.cn:5050/ysp?id=2024182301&pid=600084781&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA%E9%A2%91%E9%81%93" group-title="央视频", CCTV风云剧场频道
+http://ysp.lnitv.cn:5050/ysp?id=2025637103&pid=600099658&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA%E9%A2%91%E9%81%93" group-title="央视频", CCTV第一剧场频道
+http://ysp.lnitv.cn:5050/ysp?id=2026874203&pid=600099655&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA%E9%A2%91%E9%81%93" group-title="央视频", CCTV怀旧剧场频道
+http://ysp.lnitv.cn:5050/ysp?id=2026874303&pid=600099620&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86%E9%A2%91%E9%81%93" group-title="央视频", CCTV世界地理频道
+http://ysp.lnitv.cn:5050/ysp?id=2026874403&pid=600099637&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90%E9%A2%91%E9%81%93" group-title="央视频", CCTV风云音乐频道
+http://ysp.lnitv.cn:5050/ysp?id=2026874503&pid=600099660&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80%E9%A2%91%E9%81%93" group-title="央视频", CCTV兵器科技频道
+http://ysp.lnitv.cn:5050/ysp?id=2026874603&pid=600099649&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83%E9%A2%91%E9%81%93" group-title="央视频", CCTV风云足球频道
+http://ysp.lnitv.cn:5050/ysp?id=2026966203&pid=600099636&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV%E9%AB%98%E5%B0%94%E5%A4%AB%C2%B7%E7%BD%91%E7%90%83%E9%A2%91%E9%81%93" group-title="央视频", CCTV高尔夫·网球频道
+http://ysp.lnitv.cn:5050/ysp?id=2026874703&pid=600099659&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A%E9%A2%91%E9%81%93" group-title="央视频", CCTV女性时尚频道
+http://ysp.lnitv.cn:5050/ysp?id=2026874803&pid=600099650&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV%E5%A4%AE%E8%A7%86%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81%E9%A2%91%E9%81%93" group-title="央视频", CCTV央视文化精品频道
+http://ysp.lnitv.cn:5050/ysp?id=2026874903&pid=600099653&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83%E9%A2%91%E9%81%93" group-title="央视频", CCTV央视台球频道
+http://ysp.lnitv.cn:5050/ysp?id=2026875003&pid=600099652&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97%E9%A2%91%E9%81%93" group-title="央视频", CCTV电视指南频道
+http://ysp.lnitv.cn:5050/ysp?id=2026875103&pid=600099656&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=CCTV%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7%E9%A2%91%E9%81%93" group-title="央视频", CCTV卫生健康频道
+http://ysp.lnitv.cn:5050/ysp?id=2025637003&pid=600099651&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86" group-title="央视频", 北京卫视
+http://ysp.lnitv.cn:5050/ysp?id=2024052703&pid=600002309&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86" group-title="央视频", 江苏卫视
+http://ysp.lnitv.cn:5050/ysp?id=2024171103&pid=600002521&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86" group-title="央视频", 东方卫视
+http://ysp.lnitv.cn:5050/ysp?id=2024054503&pid=600002483&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86" group-title="央视频", 浙江卫视
+http://ysp.lnitv.cn:5050/ysp?id=2024054703&pid=600002520&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86" group-title="央视频", 湖南卫视
+http://ysp.lnitv.cn:5050/ysp?id=2024054803&pid=600002475&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86" group-title="央视频", 湖北卫视
+http://ysp.lnitv.cn:5050/ysp?id=2024171203&pid=600002508&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86" group-title="央视频", 广东卫视
+http://ysp.lnitv.cn:5050/ysp?id=2024060903&pid=600002485&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86" group-title="央视频", 广西卫视
+http://ysp.lnitv.cn:5050/ysp?id=2024060703&pid=600002509&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86" group-title="央视频", 黑龙江卫视
+http://ysp.lnitv.cn:5050/ysp?id=2029797003&pid=600002498&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86" group-title="央视频", 海南卫视
+http://ysp.lnitv.cn:5050/ysp?id=2024055603&pid=600002506&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86" group-title="央视频", 重庆卫视
+http://ysp.lnitv.cn:5050/ysp?id=2024061103&pid=600002531&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86" group-title="央视频", 深圳卫视
+http://ysp.lnitv.cn:5050/ysp?id=2024061303&pid=600002481&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86" group-title="央视频", 四川卫视
+http://ysp.lnitv.cn:5050/ysp?id=2024061403&pid=600002516&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86" group-title="央视频", 河南卫视
+http://ysp.lnitv.cn:5050/ysp?id=2029797303&pid=600002525&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E7%A6%8F%E5%BB%BA%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86" group-title="央视频", 福建东南卫视
+http://ysp.lnitv.cn:5050/ysp?id=2024061503&pid=600002484&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86" group-title="央视频", 贵州卫视
+http://ysp.lnitv.cn:5050/ysp?id=2024061603&pid=600002490&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86" group-title="央视频", 江西卫视
+http://ysp.lnitv.cn:5050/ysp?id=2024061703&pid=600002503&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86" group-title="央视频", 辽宁卫视
+http://ysp.lnitv.cn:5050/ysp?id=2024171303&pid=600002505&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86" group-title="央视频", 安徽卫视
+http://ysp.lnitv.cn:5050/ysp?id=2024171403&pid=600002532&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86" group-title="央视频", 河北卫视
+http://ysp.lnitv.cn:5050/ysp?id=2024171503&pid=600002493&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86" group-title="央视频", 山东卫视
+http://ysp.lnitv.cn:5050/ysp?id=2029787903&pid=600002513&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86" group-title="央视频", 天津卫视
+http://ysp.lnitv.cn:5050/ysp?id=2019927003&pid=600152137&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86" group-title="央视频", 吉林卫视
+http://ysp.lnitv.cn:5050/ysp?id=2025561503&pid=600190405&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86" group-title="央视频", 陕西卫视
+http://ysp.lnitv.cn:5050/ysp?id=2029795103&pid=600190400&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86" group-title="央视频", 宁夏卫视
+http://ysp.lnitv.cn:5050/ysp?id=2025608503&pid=600190737&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86" group-title="央视频", 内蒙古卫视
+http://ysp.lnitv.cn:5050/ysp?id=2025561203&pid=600190401&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86" group-title="央视频", 云南卫视
+http://ysp.lnitv.cn:5050/ysp?id=2025561303&pid=600190402&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86" group-title="央视频", 山西卫视
+http://ysp.lnitv.cn:5050/ysp?id=2025560803&pid=600190407&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86" group-title="央视频", 青海卫视
+http://ysp.lnitv.cn:5050/ysp?id=2025559103&pid=600190406&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86" group-title="央视频", 西藏卫视
+http://ysp.lnitv.cn:5050/ysp?id=2025558003&pid=600190403&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2%E7%94%B5%E8%A7%86%E5%8F%B01%E9%A2%91%E9%81%93" group-title="央视频", 中国教育电视台1频道
+http://ysp.lnitv.cn:5050/ysp?id=2022823801&pid=600171827&q=fhd
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86" group-title="央视频", 新疆卫视
+http://ysp.lnitv.cn:5050/ysp?id=2019927403&pid=600152138&q=fhd
 #EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙呼市新闻综合（高清）
 http://play1-qk.nmtv.cn/live/1735545967595013.m3u8
 #EXTINF:-1 group-title="内蒙地方高清" tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86",内蒙包头新闻综合（高清）
