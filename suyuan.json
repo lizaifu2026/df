@@ -58,15 +58,6 @@
             "filterable": 1
         },   
      {
-      "key": "tvbys",
-      "name": "随缘影视",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "http://m51.gotto.top/api.php/v1.vod"
-    },	  
-    {
       "name": "糖心影视",
       "key": "TnewGr",
       "type": 3,
