@@ -2,17 +2,12 @@
   "spider": "http://tv.laohu.cool/lh250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
   "wallpaper": "https://bing.img.run/uhd.php",
   "lives": [
-    {
-      "group": "redirect",
-      "channels": [
         {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext="
-          ]
+            "name": "联通直播",
+            "type": 0,
+            "url": "./lnltzby.txt",
+            "epg": "http://igtv.top:2132?ch={name}&date={date}"
         }
-      ]
-    }
   ],
   "sites": [
      {
@@ -29,6 +24,131 @@
 
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
 
+    },
+    {
+      "key": "柠檬",
+      "name": "🍋柠檬影视",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+    },
+    {
+      "key": "旺旺影视",
+      "name": "🥔马铃薯影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./lib/旺旺影视.json",
+      "jar": "./lib/xbpq.jar"
+    },    
+    {
+      "key": "西瓜",
+      "name": "🍉西瓜影视",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 2,
+      "ext": "7lj763gg0939791h1l3888jig44gi291li"
+    },  
+    {
+      "key": "瓜子影视",
+      "name": "🌻葵瓜子影视",
+      "type": 3,
+      "jar": "./kuihuazi.jar",
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },      
+     {
+      "key": "电影天堂",
+      "name": "🌽玉米影视",
+      "type": 1,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 0,
+      "timeout": 10,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "恐怖片",
+        "爱情片",
+        "科幻片",
+        "战争片",
+        "剧情片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "记录片",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "港台动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "海外动漫",
+        "短剧",
+        "动画片"
+      ]
+    },     
+    {
+      "key": "数字",
+      "name": "🥒黄瓜影视",
+      "type": 3,
+      "jar": "./kuihuazi.jar",
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://app1-0-0.87333.cc",
+        "site": "",
+        "dataKey": "VwsHxkCViDXEExWa",
+        "dataIv": "VwsHxkCViDXEExWa",
+        "deviceId": "",
+        "version": ""
+      }
+    },	     
+    {
+      "key": "主角",
+      "name": "🍠地瓜影视",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "7lj763gg402i794246398hi3h9128893l4gji44ii5i7312k5l0k02k6l41k5509558245g38450hhj13634k58gjjgi0iiig761450hligki9j4738814gh66861j54j1g0i393g36l3k2hil10"
+    },    
+    {
+      "key": "葡萄",
+      "name": "🍇葡萄影视",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
+    },
+    {
+      "key": "趣看",
+      "name": "🍒樱桃影视(无搜索)",
+      "type": 3,
+      "api": "csp_Qiji",
+      "playerType": 2,
+      "ext": "7lj763gg402i794245238hjjg45j8295k5hji64882862l321l4215hkkg1l5g001i9k5ihkj6539l8j2208h380k5h21hk8lj2l6i57kgh8i2lj28ih29kh7hh14615kkg5i4h2g57l7h7iij17345hihkk546j27g5g86837h5i6l581j97ig966460g73329575"
+    },    
+    {
+      "key": "AI3",
+      "name": "🍐鸭梨影视(仅搜索)",
+      "type": 3,
+      "api": "csp_AI",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 2,
+      "ext": "7lj763gg0939795i037ki481k20ki2i3g3lk840883843k6k5l4354k0k10k48411g8654l9885g83ih2h0lh295lll81jg8k66l7011l8hji0l432912jhi3hk3140kghkhj3ghl7782871"
     }
   ],
   "parses": [
@@ -43,7 +163,7 @@
       "url": "Sequence"
     },
     {
-      "name": "老虎",
+      "name": "鸭梨影视一",
       "type": 1,
       "url": "https://zy.qiaoji8.com/neibu.php?url=",
       "ext": {
@@ -71,7 +191,7 @@
       }
     },
     {
-      "name": "老虎二",
+      "name": "鸭梨影视二",
       "type": 1,
       "url": "https://zy.qiaoji8.com/gouzi.php?url=",
       "ext": {
@@ -101,7 +221,7 @@
       }
     },
     {
-      "name": "老虎三",
+      "name": "QD4K影视专用",
       "type": 1,
       "url": "https://zy.qiaoji8.com/xiafan.php?url=",
       "ext": {
@@ -307,4 +427,5 @@
   "ads": [
     "43.248.128.138"
   ]
+
 }
