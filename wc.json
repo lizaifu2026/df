@@ -140,19 +140,6 @@
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
     },
     {
-      "name": "🌶辣椒影视",
-      "key": "拾光视频",
-	  "type": 3,
-      "api": "./py/Hmys.py",
-      "jar": "./kuihuazi.jar",
-	  "ext": {
-              "host": "https://dy.jmzp.net.cn",
-              "app_id": "shiguang",
-              "versionCode": "10000",
-              "UMENG_CHANNEL": "guan"
-      }
-    },     
-    {
       "key": "AI3",
       "name": "🍐鸭梨影视(仅搜索)",
       "type": 3,
