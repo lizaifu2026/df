@@ -1498,26 +1498,28 @@
             "filterable": 1,
             "ext": "./lib/甜圈短剧.js"
         },   
-      {
-            "key": "红果短剧",
+        {
+            "key": "cat_红果",
             "name": "红果短剧",
             "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/短剧粉红果.json"
-        },	  
-	  {
-            "key": "围观短剧",
+            "api": "./js/cat_红果.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "changeable": 1
+        },
+        {
+            "key": "cat_围观",
             "name": "围观短剧",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/围观短剧.js"
-        },     
+            "api": "./js/cat_围观.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "changeable": 1
+        },
 	  {
             "key": "海马短剧",
             "name": "海马短剧",
