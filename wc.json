@@ -149,29 +149,7 @@
       "filterable": 0,
       "playerType": 2,
       "ext": "7lj763gg0939795i037ki481k20ki2i3g3lk840883843k6k5l4354k0k10k48411g8654l9885g83ih2h0lh295lll81jg8k66l7011l8hji0l432912jhi3hk3140kghkhj3ghl7782871"
-    }, 
-        {
-            "key": "cat_红果",
-            "name": "🍓红果短剧",
-            "type": 3,
-            "api": "./js/cat_红果.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "changeable": 1
-        },
-        {
-            "key": "cat_围观",
-            "name": "🐟围观短剧",
-            "type": 3,
-            "api": "./js/cat_围观.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "changeable": 1
-        }
+    }
   ],
   "parses": [
     {
