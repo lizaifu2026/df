@@ -231,6 +231,20 @@
       }
     },	  
     {
+      "key": "花猪",
+      "name": "花猪APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "./lib/axiba.txt",
+        "dataKey": "h5w3d6g1j9s2h3f6",
+        "dataIv": "h5w3d6g1j9s2h3f6",
+        "ua": "okhttp/3.10.0"
+      }
+    },    
+	{
       "key": "老鹰",
       "name": "老鹰APP",
       "type": 3,
@@ -269,17 +283,16 @@
       }
     },	  
     {
-      "key": "T4-fangzhou",
-      "name": "影视方舟",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/fangzhou.php"
-    },
-    {
-      "key": "T4-suishenting",
-      "name": "随身听",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/suishenting.php"
-    },	  
+      "key": "小羊",
+      "name": "小羊APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "https://qjappcms410.xy4k.com",
+        "dataKey": "mC6kG4mI1uM8tS4o",
+        "dataIv": "mC6kG4mI1uM8tS4o"
+      }
+    }, 
     {
       "key": "闪影",
       "name": "闪影影视",
