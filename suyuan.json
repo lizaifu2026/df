@@ -232,7 +232,7 @@
     },	  
     {
       "key": "花猪",
-      "name": "花猪APP",
+      "name": "花猪｜APP",
       "type": 3,
       "api": "csp_AppQi",
       "searchable": 1,
@@ -243,7 +243,7 @@
         "dataIv": "h5w3d6g1j9s2h3f6",
         "ua": "okhttp/3.10.0"
       }
-    },    
+    },   
 	{
       "key": "老鹰",
       "name": "老鹰APP",
