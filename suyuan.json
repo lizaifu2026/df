@@ -134,7 +134,15 @@
       "jar": "./qij.png;md5;eb1ed5578b0a9ac5f3e6c6ee04b813e6",
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
     },  
-   {
+    {
+      "key": "3QQQ",
+      "name": "三球APP",
+      "type": 3,
+      "jar": "xiaomi.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3",
+	  "timeout": 15,
+      "api": "csp_App3Q"
+    },  
+	{
       "key": "假段友get",
       "name": "段友APP",
       "type": 3,
