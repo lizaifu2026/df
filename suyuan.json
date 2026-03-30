@@ -143,6 +143,32 @@
       "api": "csp_App3Q"
     },  
     {
+      "key": "爱影视",
+      "name": "爱影APP",
+      "jar": "./xiaomi.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3",
+	  "type": 3,
+      "timeout": 15,
+      "api": "csp_AppGet",
+      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q21.txt|okkfKgnc9JIBISh1|122"
+    },    
+    {
+      "key": "幕启星河",
+      "name": "星河APP",
+      "jar": "./xiaomi.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3",
+	  "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt|kj37zs29q22jk96t|122|okhttp/3.10.0|Lavf/58.12.100"
+    },	
+    {
+      "key": "金牌影院GET",
+      "name": "金牌APP",
+      "type": 3,
+      "jar": "./xiaomi.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3",
+	  "timeout": 15,
+      "api": "csp_AppGet",
+      "ext": "https://qj3.ggtvb.cc|eecbio48dsq13kkk|122"
+    },	
+	{
       "key": "爱盈",
       "name": "爱盈APP",
       "type": 3,
@@ -157,7 +183,7 @@
         "ua": "okhttp/3.10.0"
       }
     },	
-	  {
+	{
       "key": "假段友get",
       "name": "段友APP",
       "type": 3,
