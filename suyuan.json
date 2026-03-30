@@ -138,7 +138,7 @@
       "key": "3QQQ",
       "name": "三球APP",
       "type": 3,
-      "jar": "xiaomi.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3",
+      "jar": "./xiaomi.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3",
 	  "timeout": 15,
       "api": "csp_App3Q"
     },  
