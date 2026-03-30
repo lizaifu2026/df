@@ -116,12 +116,6 @@
             "ext": "http://38.55.237.41:8762"
         },    
 	    {
-            "key": "T4-xiaozhu",
-            "name": "🐖小猪影视|秒播",
-            "type": 4,
-            "api": "https://catbox.n13.club/ai/小猪APP.php"
-        },	
-		{
             "name": "🏭厂长|2K",
             "key": "Czzy",
             "type": 3,
