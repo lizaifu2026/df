@@ -3244,7 +3244,7 @@ http://111.56.90.5/000000000000/5000000002000019634/1.m3u8
 http://111.56.90.5/000000000000/5000000002000029972/1.m3u8
 #EXTINF:-1 tvg-name="SiTV-金色学堂" tvg-logo="https://logo.catvod.com/SiTV-金色学堂.png" group-title="数字电视",SiTV-金色学堂
 http://111.56.90.5/000000000000/5000000010000026105/1.m3u8
-#EXTINF:-1 tvg-name="SiTV-欢笑剧场" tvg-logo="https://logo.catvod.com/SiTV-欢笑剧场.png" group-title="数字电视",SiTV-欢笑剧场
+#EXTINF:-1 tvg-name="SiTV-欢笑剧场" tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E5%A4%9A%E5%BD%A9%E6%96%87%E4%BD%934K" group-title="数字电视",SiTV-多彩文体4K
 http://111.56.90.5/000000000000/5000000002000009455/1.m3u8
 #EXTINF:-1 tvg-name="SiTV-法治天地" tvg-logo="https://logo.catvod.com/SiTV-法治天地.png" group-title="数字电视",SiTV-法治天地
 http://111.56.90.5/000000000000/9001547084732463424/1.m3u8
