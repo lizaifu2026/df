@@ -225,7 +225,7 @@ rtp://232.0.0.29:1234
 rtp://232.0.0.38:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA" group-title="辽宁沈阳联通组播", 动漫秀场
 rtp://232.0.0.128:1234
-#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA4K" group-title="辽宁沈阳联通组播", 欢笑剧场4K
+#EXTINF:-1 tvg-logo="https://lnitv.cn:55555/logo.php?channel=%E5%A4%9A%E5%BD%A9%E6%96%87%E4%BD%934K" group-title="辽宁沈阳联通组播", 多彩文体4K
 rtp://232.0.0.98:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E8%80%81%E6%95%85%E4%BA%8B" group-title="辽宁沈阳联通组播", 老故事
 rtp://232.0.0.246:1234
@@ -259,8 +259,6 @@ rtp://232.0.0.245:1234
 rtp://232.0.0.133:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E6%A2%A8%E5%9B%AD" group-title="辽宁沈阳联通组播", 梨园
 rtp://232.0.0.247:1234
-#EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E8%8C%B6" group-title="辽宁沈阳联通组播", 茶
-rtp://232.0.0.248:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E5%9B%BD%E5%AD%A6" group-title="辽宁沈阳联通组播", 国学
 rtp://232.0.0.249:1234
 #EXTINF:-1 tvg-logo="https://tv.jun1985.cn/logo.php?channel=%E4%B9%A6%E7%94%BB" group-title="辽宁沈阳联通组播", 书画
