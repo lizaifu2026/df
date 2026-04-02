@@ -57,17 +57,6 @@
             "quickSearch": 1,
             "filterable": 1
         },   
-     {
-      "name": "糖心影视",
-      "key": "TnewGr",
-      "type": 3,
-      "jar": "./bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6",
-	  "api": "csp_TnewGrAmns",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },  
     {
       "name": "韩剧影视",
       "key": "Hxq",
