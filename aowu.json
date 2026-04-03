@@ -31,16 +31,6 @@
             "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
         },
         {
-            "name": "🍑糖心|秒播",
-            "key": "🍑糖心",
-            "type": 3,
-            "api": "csp_TnewGrAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },       
-		{
             "name": "🥔瓜子|秒播",
             "key": "Guazi",
             "type": 3,
