@@ -125,18 +125,20 @@
             "quickSearch": 1,
             "changeable": 1
         },
-        {
-            "name": "📹拾光视频|秒播",
-            "key": "拾光视频",
-			"type": 3,
-            "api": "./py/Hmys.py",
-            "ext": {
-                    "host": "https://dy.stxbed.com",
-                    "app_id": "shiguang",
-                    "versionCode": "10000",
-                    "UMENG_CHANNEL": "guan"
-          }
-       },    
+    {
+      "key": "极境视频",
+      "name": "🦠极境┃秒播",
+      "type": 3,
+      "jar": "./vox.jar;md5;ccbbaf9a8eb24e3c710884cb82b668f2",
+	  "api": "csp_Hmys",
+      "ext": {
+        "host": "https://dy.stxbed.com",
+        "app_id": "jijing",
+        "deviceid": "cf95610dfb758d63",
+        "versionCode": "10000",
+        "UMENG_CHANNEL": "zhuan"
+      }
+    },    
      {
       "key": "电影天堂",
       "name": "🎦电影天堂|秒播",
