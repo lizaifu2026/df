@@ -131,7 +131,7 @@
 			"type": 3,
             "api": "./py/Hmys.py",
             "ext": {
-                    "host": "https://dy.jmzp.net.cn",
+                    "host": "https://dy.stxbed.com",
                     "app_id": "shiguang",
                     "versionCode": "10000",
                     "UMENG_CHANNEL": "guan"
