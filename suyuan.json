@@ -281,17 +281,21 @@
         "dataIv": "1234567890987654"
       }
     },	
-    {	  
-      "key": "芬奇",
-      "name": "芬奇APP",
+    {
+      "key": "蓝鹰",
+      "name": "蓝鹰APP",
       "type": 3,
-      "api": "csp_AppGet",
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
       "ext": {
-        "site": "https://wsapi.dafenqi.mom/yuming.txt",
-        "dataKey": "bH5mI8iK0tK7aQ5x",
-        "dataIv": "bH5mI8iK0tK7aQ5x"
+        "site": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
+        "dataKey": "ca94b06ca359d80e",
+        "dataIv": "ca94b06ca359d80e",
+        "init": "initV120",
+        "ua": "okhttp/3.10.0"
       }
-    },	  
+    },  
     {
       "key": "优兔",
       "name": "优兔APP",
@@ -394,22 +398,21 @@
                 "version": ""
             }
         },
-       {
-            "key": "驿站",
-            "name": "驿站APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
-                "dataKey": "dyyztvapiappyyds",
-                "dataIv": "dyyztvapiappyyds",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
-            }
-        },
+    {
+      "key": "奇奇",
+      "name": "奇奇APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "http://110.42.67.221:8002",
+        "dataKey": "123456789abcdefg",
+        "dataIv": "123456789abcdefg",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
     {
       "key": "火花",
       "name": "火花APP",
