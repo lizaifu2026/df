@@ -193,21 +193,17 @@
       "api": "csp_AppGet",
       "ext": "https://qj3.ggtvb.cc|eecbio48dsq13kkk|122"
     },	
-	{
-      "key": "爱盈",
-      "name": "爱盈APP",
+    {
+      "key": "超前",
+      "name": "超前APP",
       "type": 3,
-      "api": "csp_AppQi",
+      "api": "csp_AppYsV2",
       "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "./lib/qiji.txt",
-        "dataKey": "sjvlwnhk6h9znl61",
-        "dataIv": "sjvlwnhk6h9znl61",
-        "version": "305",
-        "ua": "okhttp/3.10.0"
-      }
-    },	
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": "http://chaoqianys.top:91/api.php/app/"
+    },
 	{
       "key": "假段友get",
       "name": "段友APP",
@@ -239,12 +235,15 @@
       "ext": "https://fishapi.wya6.com/fish/fishhxq.php"
     },	  
     {
-      "key": "Jianguo",
-      "name": "坚果APP",
+      "key": "云播",
+      "name": "云播APP",
       "type": 3,
-      "jar": "./mi.png",
-	  "api": "csp_AppJg",
-      "ext": "http://m.bffree.cn"
+      "api": "csp_AppFox",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "host": "http://app.hktvyb.cc"
+      }
     },	  
    {
       "key": "久久影视",
