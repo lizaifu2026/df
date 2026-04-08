@@ -910,7 +910,6 @@
       "searchable": 1,
       "changeable": 1
     },	 
-     { "key": "沙雕动漫", "name": "沙雕动漫", "type":3,"style": {"type":"rect","ratio":1.433},"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+<p>&&</p>","首页":"0","线路标题":"panel-heading\">&&</div>","分类url":"http://www.jibai5.com/vodtype/{cateId}-{catePg}.html","分类":"沙雕动漫$22"}},       
     {
       "key": "沙雕",
       "name": "沙雕动漫影视",
@@ -930,22 +929,6 @@
       }
     },	 
     {
-      "key": "方舟",
-      "name": "方舟动漫",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.cyfz.vip",
-        "site": "",
-        "dataKey": "e72cdfd629e8895d",
-        "dataIv": "e72cdfd629e8895d",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },        
-    {
       "key": "哆啦新番社",
       "name": "哆啦新番社",
       "type": 3,
@@ -955,34 +938,6 @@
       },
       "ext": "./lib/DLXFS.json"
     },	 
-  {
-      "key": "漫国",
-      "name": "漫国动漫",
-      "type": 3,
-      "api": "csp_AppSy",
-      "ext": {
-        "site": "./lib/api.txt",
-        "siteKey": "rectangleadsadxa",
-        "listKey": "aassddwwxxllsx1x",
-        "parsesKey": "aassddwwxxllsx1x"
-      }
-    },	 
-    {
-      "key": "元咲",
-      "name": "元咲动漫",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://cic.aicg.fun",
-        "site": "",
-        "dataKey": "2c4h36abd96se10u",
-        "dataIv": "2c4h36abd96se10u",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },    
     {
       "key": "番薯",
       "name": "番薯动漫",
@@ -1115,29 +1070,7 @@
             "filterable": 1,
             "playerType": 2
         },  
-	  {
-            "key": "麻雀视频",
-            "name": "麻雀影视",
-            "type": 3,
-            "api": "./py/麻雀视频.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },		 
     {
-      "key": "剧永久",
-      "name": "剧永久APP",
-      "type": 3,
-      "api": "./py/APPV2.py",
-      "ext": {
-        "api": "http://yjyi.juyongjiu.com/icciu_api.php/v1.vod",
-        "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
-        "apisignkey": "lvdoutv-1.0.0"
-      }
-    },
- {
       "key": "界影视",
       "name": "界影视",
       "type": 3,
@@ -1168,34 +1101,7 @@
             "filterable": 1,
             "playerType": 2
         },	  
-		{
-			"key": "森林动漫",
-			"name": "森林动漫APP",
-			"type": 3,
-			"api": "./py/FeiApp.py",
-			"ext": "https://ysa.yy-fun.cc/feiapp"
-		},  
-	  {
-            "key": "4KYS",
-            "name": "4K影视",
-            "type": 3,
-            "api": "./py/4K%E5%BD%B1%E8%A7%86.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        }, 
-    {
-      "key": "py_4KAV",
-      "name": "4K影音",
-      "type": 3,
-      "api": "./py/4KAV.py",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },	  
-	  {
+        {
             "key": "xdmys",
             "name": "看客影视",
             "type": 3,
