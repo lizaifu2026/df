@@ -268,7 +268,34 @@
         "version": ""
       }
     },	  
+     {
+      "key": "星空",
+      "name": "星空APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://xk7.xkgzs.xyz",
+        "dataKey": "107jkcdncofcdkjk",
+        "dataIv": "107jkcdncofcdkjk"
+      }
+    },
     {
+      "key": "秒看",
+      "name": "秒看APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "./lib/get.txt",
+        "dataKey": "c60d88b2eep53za8",
+        "dataIv": "c60d88b2eep53za8",
+        "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa"
+      }
+    },   
+	{
       "key": "缘梦",
       "name": "缘梦APP",
       "type": 3,
