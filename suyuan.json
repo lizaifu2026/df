@@ -235,7 +235,7 @@
       "ext": "https://fishapi.wya6.com/fish/fishhxq.php"
     },	  
     {
-      "key": "云播",
+      "key": "yunfan",
       "name": "云播APP",
       "type": 3,
       "api": "csp_AppFox",
@@ -491,28 +491,9 @@
         "分类url": "https://www.xyxy.live/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html[]"
       }
     },  
-{ "key": "秀儿影院", "name": "秀儿影院", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+tt\" style=*>&&</div>","数组":"<a&&module-item-pic","副标题":"module-item-text\">&&</div>","影片状态":"集数：&&</div>","线路数组":"data-dropdown-value=&&</small>","播放数组":"sort-item-&&</div>","搜索url":"https://xiuer.pro/vod/search/?wd={wd}","分类url":"https://xiuer.pro/show/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/","分类":"短剧$duanju#电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi"}},   
-{ "key": "剧圈圈", "name": "剧圈圈", "type":3,"api":"csp_XBPQ","click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","ext": {"请求头":"手机","简介":"剧情介绍:+module-info-introduction-content\">&&</div>","分类url":"https://www.jqqzx.me/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$shuangju#电视剧$juji#电影$dianying#动漫$dongman#综艺$zongyi"}},	  
-{ "key": "骚火电影", "name": "骚火电影", "type":3,"api":"csp_XBPQ","ext": {"首页":"0","请求头":"User-Agent$MOBILE_UA#Accept$text/html#accept-language$zh-CN,zh;q=0.8","分类url":"https://saohuo.tv/list/{cateId}-{catePg}.html","分类":"剧集$2#电影$1#港剧$21#台剧$26#日剧$24#韩剧$22#美剧$23","数组":"class=\"v_img&&/li>","标题":"alt=\"&&\"","图片":"original=\"&&\"","链接":"href=\"&&\"","简介":"show_part\">&&<a","演员":"主演:&&<a","导演":"导演:&&/","播放二次截取":"class=\"play_list&&/ul>","播放数组":"<li&&/li>","倒序":"1"}},	  
 { "key": "旺旺影视", "name": "旺旺影院", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+<p>&&</p>","副标题":"module-item-note\">&&</div>","分类url":"https://nmystv.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{cayePg}/year/{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},
-{ "key": "农民影视",  "name": "农民影院", "type": 3,"api": "csp_XBPQ", "ext": {"请求头": "手机","简介":"剧情介绍:+介：&&</p>","线路标题":"javascript:;\">&&</a>","状态":"red\">&&</font>","数组":"<li>&&</li>","图片": "data-echo=\"&&\"","导演":"导演:&&","主演":"主演:&&","分类url":"https://vip.wwgz.cn:5200/vod-list-id-{cateId}-pg-{catePg}-order--by-time-class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},	  
 { "key": "巨人影视", "name": "巨人影视", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+detail-content\" style=*>&&</span>","副标题":"pic-text text-right\">&&</span>","分类url":"https://www.jlsjzhyxh.com/so-show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$30#电视剧$2#电影$1#动漫$4#综艺$3#伦理$36"}},	  
-        {
-            "key": "木兮影视",
-            "name": "木兮影视",
-            "type": 3,
-            "api": "csp_Symx",
-            "ext": "https://film.symx.club"
-        },       
-	  {
-            "key": "零度影视",
-            "name": "零度影视",
-            "type": 3,
-            "api": "csp_Lingdu",
-            "searchable": 1,
-            "filterable": 1
-        },    
-	{
+    {
       "name": "厂长影视",
       "key": "厂长",
       "type": 3,
@@ -523,26 +504,6 @@
       "quickSearch": 1,
       "changeable": 1
     },        
-    {
-      "key": "饺子影视",
-      "name": "饺子影视",
-      "type": 3,
-      "api": "csp_Jiaozi"
-    },	  
-    {
-      "key": "云播影视",
-      "name": "云播影视",
-      "type": 3,
-      "api": "csp_Tvyb",
-      "ext": "http://www.viptv05.com"
-    },	  
-	  {
-            "key": "明星影视",
-            "name": "明星影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./lib/明星影视.json"
-         },
     {
       "key": "nongmin影视",
       "name": "农民影视",
@@ -561,26 +522,6 @@
       "filterable": 1
     },	
     {
-      "key": "3Q",
-      "name": "三七影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/3Q.json"
-    },
-    {
-      "key": "555｜影视",
-      "name": "三五影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/xbpq_555App.json"
-	},
-	{
       "key": "永乐影视",
       "name": "永乐影视",
       "type": 3,
@@ -594,14 +535,7 @@
             "api": "csp_XBPQ",
             "ext": "./lib/麦田影视.json"
         },	  
-        {
-            "key": "韩剧看看",
-            "name": "韩剧影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./lib/韩剧看看.json"
-        }, 	  
-        {
+	    {
             "key": "星空影视",
             "name": "星空影视",
             "type": 3,
@@ -746,41 +680,6 @@
         "海外动漫"
       ]
     },    
-   {
-      "key": "量子资源",
-      "name": "量子资源",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
-    },
     {
       "key": "非凡资源",
       "name": "非凡资源",
@@ -816,32 +715,6 @@
         "欧美综艺"
       ]
     },
-   {
-      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "大陆综艺",
-        "港台综艺",
-        "香港剧",
-        "台湾剧",
-        "日本剧",
-        "欧美剧",
-        "泰国剧",
-        "日本动漫",
-        "日本综艺",
-        "综艺频道",
-        "新马泰综艺",
-        "纪录片",
-        "科幻片",
-        "喜剧片",
-        "战争片"
-      ],
-      "key": "cjzy_暴风资源",
-      "name": "暴风影视",
-      "playUrl": "json:http://121.40.174.45:299/sf/2Kshouquan/cache/IP_manager/API.php?url=",
-      "type": 1
-    },    
     {
       "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/json",
       "categories": [
@@ -1018,17 +891,7 @@
       "type": 1
     },	 
     {
-      "key": "4Kvm影视",
-      "name": "4kvm影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/4kvm.json"
-    },	
-	  {
-      "key": "大师兄",
+      "key": "dashixiong",
       "name": "大师兄影视",
       "type": 3,
       "api": "csp_XBPQ",
