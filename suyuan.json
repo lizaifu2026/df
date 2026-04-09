@@ -1214,56 +1214,13 @@
       "api": "./py/Applzxw.py",
       "ext": "http://38.55.237.41:8762"
     },
-    {
-      "key": "问鼎",
-      "name": "问鼎影视",
-      "type": 3,
-      "changeable": 0,
-      "api": "./py/AppV2.py",
-      "ext": {
-        "api": "http://yjer.jumianfei.com/api.php/v1.vod",
-        "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
-        "apisignkey": "lvdoutv-1.0.0"
-      }
-    },
-    {
-      "key": "古魔",
-      "name": "古妖影视",
-      "type": 3,
-      "changeable": 0,
-      "api": "./py/AppGet3.py",
-      "ext": {
-        "host": "https://www.mfsp4k.top",
-        "key": "1234567887654321",
-        "sort": "123456789321654"
-      }
-    },
-		{
+        {
 			"key": "TVB云播",
 			"name": "TVB云播APP",
 			"type": 3,
 			"changeable": 0,
 			"api": "./py/Appfox.py",
 			"ext": "http://app.hktvyb.cc"
-		},
-		{
-			"key": "未来影视",
-			"name": "未来影视APP",
-			"type": 3,
-			"changeable": 0,
-			"api": "./py/Appfox.py",
-			"ext": "http://kumiao.yzbao.com.cn"
-		},
-		{
-			"key": "米兔影视",
-			"name": "米兔影视APP",
-			"type": 3,
-			"changeable": 0,
-			"api": "./py/Appfox.py",
-			"ext": {
-				"host": "http://115.190.136.55:1689",
-				"cms": "http://d.tv.tkbot.fun/api.php/appfox/vod?ac=videolist"
-			}
 		},
     {
       "key": "老丫",
@@ -1278,14 +1235,7 @@
         "host": "https://cms99api.ystva.com"
       }
     },
-    {
-      "key": "聚搜2",
-      "name": "JUSOU影视",
-      "type": 3,
-      "api": "./lib/AppToV5.py",
-      "ext": "http://118.89.203.120:8365/"
-    },	  
-    {
+	{
       "key": "新韩剧网",
       "name": "新韩剧网",
       "type": 3,
@@ -1296,25 +1246,11 @@
       "changeable": 0,
       "ext": {}
     },
-{ "key": "短剧网", "name": "短剧网", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+data-label\">&&</p>","副标题":"meta-post-type2\">&&</span>","分类url":"https://www.duanju2.com/show/duanju---{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#悬疑$脑洞悬疑#年代$年代穿越#古装$古装仙侠#都市$现代都市#反转$反转#爽文$爽文#其他$短剧"}},   
 { "key": "茄子短剧", "name": "番茄短剧", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+简介：</span>&&","线路标题":"panel-hd\">&&</div>","分类url":"https://www.shanhuzs.com/fqsansw/5-{area}--{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#反转$反转爽#悬疑$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#都市$现代都市"}},       
 { "key": "花生短剧", "name": "花生短剧", "type":3,"style": {"type": "rect","ratio": 1.2},"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+stui-content__desc col-pd clearfix\">&&</div>","首页":"0","播放标题":">&&<[不包含:дрр滈凊]","分类url":"https://www.zgeooo.com/hssansw/5---{cateId}-----{catePg}---{year}.html","分类":"全部$0#恋爱$女频恋爱#反转$反转爽#脑洞$脑洞悬疑#穿越$年代穿越#古装$古装仙侠#现代$现代都市"}},	  
 { "key": "夸克短剧", "name": "夸克短剧", "type":3,"api":"csp_XBPQ","style": {"type": "rect","ratio": 1.2},"ext":{"数组":"post-list-item\">&&</li>","标题":"《&&》","图片":"url(&&);","线路标题": "《&&》","播放数组":"<p>&&</p>", "播放标题":"全集","播放链接":"href=\"&&\"[替换:http>>push://http]","免嗅":"0","分类url": "https://ys.duanjua.com/{cateId}/{catePg}/[https://ys.duanjua.com/{cateId}/]","分类":"夸克网盘$djkkwp#免费观看$mfgkdj#夸克资源$kkdjzy#在线播放$djzxbf"}},   
 { "key": "短剧狗", "name": "短剧狗", "type":3,"api":"csp_XBPQ","ext":{"数组":"a\">&&</li>","图片":"https://pic1.zhimg.com/v2-8395f898c228836be11379be675cfd5c_1440w.jpg","标题":"main\">*.&&（","副标题":"（&&）","线路标题":"夸克网盘","播放数组":"<p>&&</p>","播放链接":"href=\"&&\"[替换:http>>push://http]","免嗅":"0","分类url": "https://dj.fufulili.com/{cateId}{catePg}.html","分类":"最近最新$page_#每日热门$home-day-hot-#每周热门$home-week-hot-"}},	
-	{     
-      "key": "全能短剧",
-      "name": "短剧AI",
-      "type": 3,
-      "api": "csp_DuanJuCen",
-      "jar": "./vox.jar",
-	  "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "classes": "./lib/duanjucen.json"
-      }
-    },      
-	  {
+    {
             "name": "喵喵短剧",
             "key": "喵喵短剧",
             "type": 3,
@@ -1358,18 +1294,7 @@
       "quickSearch": 1,
       "changeable": 1
     },       
-        {
-            "name": "岁岁短剧",
-            "key": "岁岁短剧",
-            "type": 3,
-            "api": "csp_SpdjAmns",
-            "jar": "./bdb.png",
-			"searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },	  
-        {
+	    {
             "key": "星星短剧",
             "name": "星星短剧",
             "type": 3,
@@ -1391,38 +1316,6 @@
             "playerType": 2
         },         
         {
-            "key": "xtqdj",
-            "name": "甜圈短剧",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/甜圈短剧.js"
-        },   
-        {
-            "key": "cat_红果",
-            "name": "红果短剧",
-            "type": 3,
-            "api": "./js/cat_红果.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "changeable": 1
-        },
-        {
-            "key": "cat_围观",
-            "name": "围观短剧",
-            "type": 3,
-            "api": "./js/cat_围观.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "changeable": 1
-        },
-	  {
             "key": "海马短剧",
             "name": "海马短剧",
             "type": 3,
@@ -1440,17 +1333,7 @@
             "filterable": 1,
             "playerType": 2
         },       
-    {
-      "key": "甜圈短剧",
-      "name": "甜圈短剧(备用)",
-      "type": 3,
-      "api": "./lib/TQDJ.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
- {
+        {
             "key": "锦鲤短剧1",
             "name": "锦鲤短剧1",
             "type": 3,
@@ -1514,17 +1397,7 @@
             "quickSearch": 1,
             "filterable": 1
         },	  
-        {
-            "key": "西饭短剧",
-            "name": "西饭短剧1",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/稀饭短剧.json"
-        },    
-     {
+    {
       "api": "./py/七猫短剧.py",
       "filterable": 1,
       "key": "py_七猫短剧",
@@ -1535,7 +1408,7 @@
     },   
     {
       "key": "西饭",
-      "name": "西饭短剧2",
+      "name": "西饭短剧",
       "type": 3,
       "api": "csp_DuanJuXf",
       "searchable": 1,
@@ -1552,25 +1425,7 @@
         "msg": "124421jh8lk39646pgruC6dATnyTtf6ewyst71opcsJfticyXxWGbU5x4zxzEQ5LWhshM7QSmwiAgf0H4RN8rjjuUPQPPsiTj8Yz48I27L5SoL/Lbg70J558Qnv6Dtdt9BeeyWciQnnqApDLzxuKF+nEHryocRY26k1efEO43zCfP69tVyTyWvQ/MT7q/J7KDiOdwg0CGUc0cPhVc3AiwU6ZXIapEVCaeJ1OkLO2LzfrGsCulTGV9LrN4N8omBYpohl4BgdDhg8SQwEh9MoFXC1M2AqzePjz+itosXK3VQ3Ch4ba88bCsZSAs56JWl570OQ5t3yuPDslC75Y1p4Y9x9OOnztqiDqRbgpaXR5KWKYWfjU9T1H2SXW3uAmq9Z2GQKDrAQT7gB35NJeagOshSRZScjiS3Ss7lf/6iMfs9NInk9DfLj/H/9HCcIDRr1AG/ZGgLLtB/doGr0l/oENwrHwu+kLjzqWcmiAPcaLdbeeK18hxlYJBvXIlfjoWgopvFnm7338rR8k7EwtnU39fRJph5WcuPdvL5ZivGdWO+EYQ47zLhX038Vcju8iF3omFTj5W6D9FEOXryKIMCBgi8G5t+I73iaFCGGzTA=="
       }
     },	  
-	{
-      "key": "甜圈",
-      "name": "逆袭短剧",
-      "type": 3,
-      "api": "csp_DuanJuCgg",
-      "jar": "http://14.103.129.80:999/奇迹云2kmax/jar/jd.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.309
-      },
-      "ext": {
-        "siteUrl": "https://mov.cenguigui.cn",
-        "msg": "124421jh8lk39646pgruC6dATnyTtf6ewyst71opcsJfticyXxWGbU5x4zxzEQ5LWhshM7QSmwiAgf0H4RN8rjjuUPQPPsiTj8Yz48I27L5SoL/Lbg70J558Qnv6Dtdt9BeeyWciQnnqApDLzxuKF+nEHryocRY26k1efEO43zCfP69tVyTyWvQ/MT7q/J7KDiOdwg0CGUc0cPhVc3AiwU6ZXIapEVCaeJ1OkLO2LzfrGsCulTGV9LrN4N8omBYpohl4BgdDhg8SQwEh9MoFXC1M2AqzePjz+itosXK3VQ3Ch4ba88bCsZSAs56JWl570OQ5t3yuPDslC75Y1p4Y9x9OOnztqiDqRbgpaXR5KWKYWfjU9T1H2SXW3uAmq9Z2GQKDrAQT7gB35NJeagOshSRZScjiS3Ss7lf/6iMfs9NInk9DfLj/H/9HCcIDRr1AG/ZGgLLtB/doGr0l/oENwrHwu+kLjzqWcmiAPcaLdbeeK18hxlYJBvXIlfjoWgopvFnm7338rR8k7EwtnU39fRJph5WcuPdvL5ZivGdWO+EYQ47zLhX038Vcju8iF3omFTj5W6D9FEOXryKIMCBgi8G5t+I73iaFCGGzTA=="
-      }
-    },        
-	  {
+       {
             "key": "热播影院",
             "name": "热播短剧",
             "type": 3,
@@ -1706,17 +1561,7 @@
       "changeable": 0,
       "ext": "./lib/yy.json"
     },	
-	 {
-      "key": "MV大全",
-      "name": "MV音乐",
-      "type": 4,
-      "api": "http://120.53.102.254/dsp/",
-      "jar": "./ihuZV2kj97ng",
-      "searchable": 1,	    
-      "quickSearch": 1,
-      "filterable": 1
-    }, 
-      {
+    {
       "key": "酷狗",
       "name": "酷狗音乐",
       "jar": "./fm.jar",
@@ -1741,24 +1586,11 @@
             "quickSearch": 0,
             "filterable": 0
         },  
- {	 
-      "key": "面包影视",
-      "name": "面包影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./lib/MBYS.json"
-    },
-    {
+	{
       "key": "爱看机器人",
       "name": "爱看影视",
       "type": 3,
       "api": "./lib/爱看机器人.js"
-    },
-    {
-      "key": "山有木兮",
-      "name": "山木影视",
-      "type": 3,
-      "api": "./lib/山有木兮.js"
     },
     {
       "key": "月光影视",
@@ -1767,31 +1599,12 @@
       "api": "./lib/月光影视.js"
     },
     {
-      "key": "厂长APP",
-      "name": "厂长影音",
-      "type": 3,
-      "api": "./lib/厂长.js"
-    },
-    {
       "key": "星辰影院",
       "name": "星辰影视",
       "type": 3,
       "api": "./lib/星辰影院.js"
     },
-   {
-      "key": "耐看",
-      "name": "耐看影视",
-      "type": 3,
-      "api": "./lib/耐看.js"
-    }, 	  
-    {
-      "key": "人人PHP",
-      "name": "人人PHP",
-      "type": 4,
-      "api": "http://jiduo666.dpdns.org/rrsp.php",
-      "changeable": 1
-    },  
-     {
+       {
             "key": "cat_永乐视频",
             "name": "cat_永乐视频",
             "type": 3,
