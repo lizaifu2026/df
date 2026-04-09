@@ -1333,38 +1333,6 @@
             "filterable": 1,
             "playerType": 2
         },       
-        {
-            "key": "锦鲤短剧1",
-            "name": "锦鲤短剧1",
-            "type": 3,
-            "api": "./py/%E9%94%A6%E9%B2%A4%E7%9F%AD%E5%89%A7.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-      "key": "锦鲤短剧2",
-      "name": "锦鲤短剧2",
-      "type": 3,
-      "api": "csp_JinliDJ",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },  
-    {
-      "name": "锦鲤短剧3",
-      "key": "锦鲤短剧3",
-      "type": 3,
-      "api": "csp_JLdjAmns",
-      "jar": "./bfdb--cvdvds.png",
-	  "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },	  
     {
       "name": "盒马短剧",
       "key": "hema短剧",
