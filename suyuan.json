@@ -180,7 +180,8 @@
       "key": "星河",
       "name": "可以APP",
       "type": 3,
-      "searchable": 1,
+      "jar": "./xiaomi.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3",
+	  "searchable": 1,
       "changeable": 1,
       "api": "csp_AppGet",
       "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/APP.txt|kB79jPQIpDxxcy7y|122"
@@ -188,7 +189,8 @@
     {
       "key": "世界",
       "name": "世界APP",
-      "type": 3,
+      "jar": "./xiaomi.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3",
+	  "type": 3,
       "timeout": 15,
       "api": "csp_AppGet",
       "ext": "https://4ksjcms.4ksj.app|bF4fD1fC0gR0mB0b"
