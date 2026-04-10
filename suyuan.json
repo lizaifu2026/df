@@ -1078,17 +1078,12 @@
             "filterable": 1,
             "playerType": 2
         },	  
-	    {
-            "key": "独播库",
-            "name": "独播库影视",
-            "type": 3,
-            "api": "./py/%E7%8B%AC%E6%92%AD%E5%BA%93.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },		  
+    {
+      "key": "独播影视",
+      "name": "独播库影视",
+      "type": 3,
+      "api": "csp_Duboku"
+    },
         {
             "key": "kaiduan",
             "name": "开端影视",
