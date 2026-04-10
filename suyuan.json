@@ -205,6 +205,14 @@
       "ext": "https://qj3.ggtvb.cc|eecbio48dsq13kkk|122"
     },	
     {
+      "key": "幕启星河",
+      "name": "星河APP",
+      "type": 3,
+      "jar": "./xiaomi.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3",
+	  "api": "csp_AppGet",
+      "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt|kj37zs29q22jk96t|122|okhttp/3.10.0|Lavf/58.12.100"
+    },    
+	{
       "key": "超前",
       "name": "超前APP",
       "type": 3,
