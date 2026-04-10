@@ -210,7 +210,7 @@
       "type": 3,
       "jar": "./xiaomi.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3",
 	  "api": "csp_AppGet",
-      "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt|kj37zs29q22jk96t|122|okhttp/3.10.0|Lavf/58.12.100"
+      "ext": "http://117.50.204.35:8090|ca94b06ca3c7d80e|122|okhttp/3.10.0|Lavf/58.12.100"
     },    
 	{
       "key": "超前",
