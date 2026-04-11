@@ -1026,6 +1026,18 @@
         "iv": "4058263969143708"
       }
     },	
+    {
+      "key": "咕咕动漫",
+      "name": "咕咕动漫",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.gugu3.com",
+        "dataKey": "nKfZ8KX6JTNWRzTD",
+        "dataIv": "nKfZ8KX6JTNWRzTD"
+      }
+    },	  
 	  {
             "key": "曼波动漫",
             "name": "曼波动漫",
@@ -1040,7 +1052,20 @@
                 "version": ""
             }
         },
-       {
+    {
+      "key": "漫国动漫",
+      "name": "漫国动漫",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_AppSy",
+      "ext": {
+        "site": "./lib/api.txt",
+        "siteKey": "rectangleadsadxa",
+        "listKey": "aassddwwxxllsx1x",
+        "parsesKey": "aassddwwxxllsx1x"
+      }
+    }, 
+	{
       "key": "爱动漫",
       "name": "爱动漫",
       "type": 3,
