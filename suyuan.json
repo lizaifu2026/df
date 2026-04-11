@@ -1069,14 +1069,14 @@
       "key": "爱动漫",
       "name": "爱动漫",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./lib/ec67b9045d393737f073d2c9365533f0.js",
       "ext": "./lib/爱动漫.js"
     },
     {
       "key": "路漫漫",
       "name": "路漫漫动漫",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./lib/ec67b9045d393737f073d2c9365533f0.js",
       "ext": "./lib/路漫漫.js"
     }, 
 	  {
