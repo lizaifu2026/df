@@ -1256,6 +1256,28 @@
 { "key": "夸克短剧", "name": "夸克短剧", "type":3,"api":"csp_XBPQ","style": {"type": "rect","ratio": 1.2},"ext":{"数组":"post-list-item\">&&</li>","标题":"《&&》","图片":"url(&&);","线路标题": "《&&》","播放数组":"<p>&&</p>", "播放标题":"全集","播放链接":"href=\"&&\"[替换:http>>push://http]","免嗅":"0","分类url": "https://ys.duanjua.com/{cateId}/{catePg}/[https://ys.duanjua.com/{cateId}/]","分类":"夸克网盘$djkkwp#免费观看$mfgkdj#夸克资源$kkdjzy#在线播放$djzxbf"}},   
 { "key": "短剧狗", "name": "短剧狗", "type":3,"api":"csp_XBPQ","ext":{"数组":"a\">&&</li>","图片":"https://pic1.zhimg.com/v2-8395f898c228836be11379be675cfd5c_1440w.jpg","标题":"main\">*.&&（","副标题":"（&&）","线路标题":"夸克网盘","播放数组":"<p>&&</p>","播放链接":"href=\"&&\"[替换:http>>push://http]","免嗅":"0","分类url": "https://dj.fufulili.com/{cateId}{catePg}.html","分类":"最近最新$page_#每日热门$home-day-hot-#每周热门$home-week-hot-"}},	
     {
+      "key": "围观短剧",
+      "name": "围观短剧",
+      "type": 3,
+      "api": "csp_WeiguanDJ",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "genre": "shortdrama"
+    },
+    {
+      "key": "甜圈短剧",
+      "name": "甜圈短剧",
+      "type": 3,
+      "api": "csp_TianquanDJ",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "genre": "shortdrama"
+    },    
+	  {
             "name": "喵喵短剧",
             "key": "喵喵短剧",
             "type": 3,
