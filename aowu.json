@@ -245,16 +245,6 @@
             "changeable": 1
         },
         {
-            "name": "🍩甜圈|短剧",
-            "key": "TQdj",
-            "type": 3,
-            "api": "csp_TQdjAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "name": "🐱喵喵|短剧",
             "key": "Qmdj",
             "type": 3,
@@ -275,15 +265,16 @@
             "changeable": 1
         },
         {
-            "key": "红果",
-            "name": "🍎红果短剧",
+            "name": "🧣围观短剧",
+            "key": "Wgdj",
             "type": 3,
-            "api": "./py/红果短剧.py",
+            "api": "csp_WgdjAmns",
             "searchable": 1,
-            "changeable": 1,
+            "filterable": 1,
             "quickSearch": 1,
-            "filterable": 1
-        }     
+            "changeable": 1,
+            "genre": "shortdrama"
+        }
 	],
     "parses": [
         {
