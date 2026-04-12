@@ -1270,6 +1270,66 @@
         "简介": "🍁随🐳缘🍁广告勿信🍁，🍁谨防诈骗🍁"
       }
     },
+  { "key": "爱听书", "name": "爱听书", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+book-desc\">&&</p>","数组":"book-li\">&&</li>","播放数组":"novel-text-list\">&&</ol>","分类url":"https://m.itingshu.net/yousheng/{cateId}/lastupdate/1/{catePg}.html","分类":"玄幻修真$xuanhuan#相声戏曲$xiangsheng#综艺娱乐$dianying#长篇评书$pingshu#都市言情$dushi#百家讲坛$bjjt#军事历史$junshi#儿童故事$ertong#网游竞技$jingji#灵异惊悚$lingyi#官场商战$guanchangshangzhan#其他有声$qita#人物传记$chuanji#通俗文学$wenxue"}}, 
+ { "key": "百合影院", "name": "百合影院", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"小林子为您剧情介绍:+article-content\">&&</div>",
+   "副标题":"titles\">&&</span>",
+   "线路数组":"#con_playlist_&&</a>",
+  "状态":"状态：&&",
+ "年代":"年代：&&",
+"导演":"导演：&&",
+"主演":"主演：&&",
+"类型":"类型：&&",
+   "分类url":"https://www.baihetimes.com/so-show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$30#电视剧$2#电影$1#动漫$4#综艺$3#福利$36"}},  
+{
+ "key": "布袋初尘_源码版",
+ "name": "布袋初尘(源码精准)",
+ "type": 3,
+ "api": "csp_XBPQ",
+ "jar": "./jar/XBPQ.jar",
+ "searchable": 1,
+ "quickSearch": 1,
+ "filterable": 1,
+ "ext": {
+   "主页": "https://www.budaichuchen.net",
+   "请求头": "User-Agent$MOBILE_UA",
+   "编码": "UTF-8",
+   
+   "分类url": "https://www.budaichuchen.net/type/{cateId}-{catePg}.html",
+   "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5",
+   
+   "数组": "class=\"public-list-box&&</div>",
+   "标题": "title=\"&&\"",
+   
+   //  关键修复：详情页源码中图片属性为 data-src，且包含转义引号
+   "图片": "data-src=\\\"&&\\\"",
+   
+   "副标题": "ft2\">&&</span>",
+   "链接": "href=\"&&\"",
+   
+   "搜索url": "https://www.budaichuchen.net/cupfox-search/-------------.html?wd={wd}",
+   
+   "导演": "strong class=\"r6\">导演：&&</div>",
+   "主演": "strong class=\"r6\">演员：&&</div>",
+   "简介": "class=\"text cor3\">&&</div>",
+   
+   //  关键修复：源码中播放线路是 Swiper 结构
+   "线路数组": "class=\"swiper-slide&&</a>",
+   "线路标题": ">&&<",
+   
+   //  关键修复：源码中播放列表的容器是 anthology-list-play
+   "播放数组": "class=\"anthology-list-play&&</ul>",
+   "播放列表": "<li&&</li>",
+   "播放标题": ">&&</a>",
+   
+   //  关键修复：源码中的链接是 /play/ 开头
+   "播放链接": "href=\"&&\"",
+   
+   "嗅探词": ".m3u8#.mp4#.flv",
+   "过滤词": ".html#.css#.js"
+ }
+},   
+{ "key": "枫叶电影", "name": "枫叶电影", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+text cor3\">&&</div>","图片": "data-src=\"&&\"[替换:amp;>>空]","主页url":"https://www.budaichuchen.net/label/qq.html","副标题":"ft2\">&&</i>","线路数组":"<i class=\"fa ds-dianying\">&&</span>","分类url":"https://www.budaichuchen.net/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},    
+{ "key": "奇点影视", "name": "奇点影视", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+讲述的是：&&","多线数组": "solid transparent;\"&&</a>","多线链接": "href=\"&&\"","线路数组": "solid transparent;\"&&</a>","线路标题": ">&&<","分类url":"https://qidianyingshi.net/top/{cateId}-{area}-time-{class}-----{catePg}---{year}.html","分类":"短剧$6#电视剧$2#电影$1#动漫$4#综艺$3"}},    
     {
       "key": "短剧",
       "name": "短剧💝采集",
