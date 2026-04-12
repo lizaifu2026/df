@@ -21,7 +21,7 @@
   "sites": [
     {
       "key": "Notice",
-      "name": "《枫斗出品》网盘暂停使用-2026/4/2更新接口",
+      "name": "不要相信视频中的广告",
       "type": 3,
       "api": "csp_Douban",
       "ext": "./lib/douban.json"
