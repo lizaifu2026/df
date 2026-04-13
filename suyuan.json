@@ -205,6 +205,16 @@
       "ext": "http://117.50.204.35:8090|ca94b06ca3c7d80e|122|okhttp/3.10.0|Lavf/58.12.100"
     },    
     {
+      "key": "爱营",
+      "name": "爱影APP",
+      "type": 3,
+      "jar": "./xiaomi.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3",
+	  "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q22.txt|nzEqOYYH3QzHuEPl|122|Lavf/58.12.100"
+    },  
+	{
       "key": "飞飞",
       "name": "飞飞APP",
       "type": 3,
