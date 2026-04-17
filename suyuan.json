@@ -486,7 +486,7 @@
     },	  
     {
       "key": "花猪",
-      "name": "花猪APP",
+      "name": "花猪APP(不支持搜素)",
       "type": 3,
       "api": "csp_AppQi",
       "searchable": 1,
