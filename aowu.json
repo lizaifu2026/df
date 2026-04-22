@@ -57,7 +57,7 @@
             "changeable": 1,
             "ext": {
                 "sites": "",
-                "filters": "./json/guazi.json"
+                "filters": "./lib/guazi.json"
             }
         },
         {
