@@ -11,6 +11,28 @@
     ],    
     "sites": [
     {
+      "name": "💬嗷嗚|彈幕",
+      "key": "GoConfig",
+      "type": 3,
+      "api": "csp_GoConfigAmns",
+      "indexs": 1,
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/douban.json"
+    },
+    {
+      "name": "⚙️配置|中心",
+      "key": "MyConfig",
+      "type": 3,
+      "api": "csp_MyConfigAmns",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },    
+	{
       "name": "🍌小黄人|秒播",
       "key": "AppV6Xhr",
       "type": 3,
