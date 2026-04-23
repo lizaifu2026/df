@@ -10,14 +10,21 @@
         }
   ],
   "sites": [
-    {
-      "key": "葡萄",
-      "name": "🍇葡萄影视",
+     {
+      
+      "key": "南瓜",
+      
+      "name": "🎃南瓜影视",
+      
       "type": 3,
-      "api": "csp_qiao2",
+      
+      "api": "csp_NanGua",
+
       "playerType": 2,
-      "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
-    },     
+
+      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+
+    },   
     {
       "key": "巧技222",
       "name": "🥕胡萝卜影视",
@@ -120,6 +127,14 @@
       }
     },	     
     {
+      "key": "葡萄",
+      "name": "🍇葡萄影视",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
+    },    
+    {
       "key": "AI3",
       "name": "🍐鸭梨影视(仅搜索)",
       "type": 3,
@@ -129,23 +144,8 @@
       "filterable": 0,
       "playerType": 2,
       "ext": "7lj763gg0939795i037ki481k20ki2i3g3lk840883843k6k5l4354k0k10k48411g8654l9885g83ih2h0lh295lll81jg8k66l7011l8hji0l432912jhi3hk3140kghkhj3ghl7782871"
-    },
-    {
-      
-      "key": "南瓜",
-      
-      "name": "🎃南瓜影视",
-      
-      "type": 3,
-      
-      "api": "csp_NanGua",
-
-      "playerType": 2,
-
-      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
-
-    } 
-  ],
+    }
+ ],
   "parses": [
     {
       "name": "解析聚合",
