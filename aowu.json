@@ -349,7 +349,34 @@
         "data": "a44f28858d5cb13bbeeb78e3061209b61a4e7b0329d9ed43bf8b0f34026250e6f4614c5cfbcd7527a6abf057514aef45853a4e940d5ad954bd638c68faf5448e8b323e6dc4acdc1a37ed68f3d05647c6598c1f127b318aa47c8de1e13e932d612e7d964e190a294fd570ec670a8a3d11378761d395bea6cd81e2a0f118e8ee750686a9c7b78d9372ee41dd46939cbd6dceeab0179b465786db40ddb6702922e97acddf70a2359a7c00665e2a8c46efc30b366c5dc9f41e608e722c0b6b43672f0806bdd947ea6c4f5f76b63f7a69988cebf3f291555019108d62f4b9f0bffe1d0d8e77eb46a20c6678ade21f613b60c15356a5897761e2eb2a5fbb192b83fd032d4fa3278c1ea7cd39dfa77194ce4d9029a5bad9cd0c914aadab12d46701f77bb66b44f28834ca84d3c807d4c546777f6eb5c2762a2328394eaeea8ffd756a97e1f37085a78dd58a735deb97776158f8045e0de46ec39bac3cb58ad8253bf82de61bf3d7674b8784fbb3927e6249cf82638fe7df7503bfbd64ff52e4086a78effc51933034eb24f74c4c9db6183812a6b20335abf8dd63b13ad569fb389b9bac345fb307a31f898c6bed481ab32f42ae1a2e5ebc503288cc712d7663da96e3bb2c372ef59e24009683284efc8e7638875b8ca9c705ba24d1114663bbde04a1b5420c8d7e9a36d06400e6a0c7afa58e24488e17ec90647a91dba0084483bed6c4891033d3af25b2c389a072dda5dfdb6abe9bcf1e8946af75c6e8a081cf5cb71d2fddc116bb3f78c10924565aa17f2a493fcf8f30f235b21d6707539c952e2a078f1aab8107aad452358f771d795131ff0cc6a7f18eb68e2ca833b4c175296217bdeb927e121a17565fb43215110a7967ee81477a9404796706a4185a330bd7829bfa1862ac85eb23560cd5c82731827c661d753b044047ee7447e37f1a8a5328def2f8795440475e07cc9136f44d2109a529d4d81d223a619602c5ded56c788f89b272fb26d1a53df8d1b9875ffa0c40576eb6d15f7850668050257b7ab33c29e87194589b6ec80ab5816f45816e7abf62df8f703c1167877145f307093a4a76ae314402138a1ba052dc11fa46e84616a79be9d79fce1b5e258faf59a98f1d6e8090a7117321801afd5313d435bb26d9d92846ea262be2e3323feea718e22c517d95017ac496b3a3b289d936a4cd55909b88872e1a800b8671af488a55a29c6ccea058e4507a4a88a9819fb828c346960b065d2a79b2beba24076de356b093e41295e900f31d71b7043ea34111224a9e438409ec9ee64da64c141d5c4958cf72369fc84e790aa1d25c443b0de37d80bc449739bde8cdc6c2f1123c3d19796827e5110d243c1bd932389f19949f4e27b162b7789d3febbc3d3887114ce9cf0dd633bd38d3f535e2fb9ae260239c1c"
       }
     },	
-     {
+        {
+            "key": "🀄牌友",
+            "name": "🀄牌友",
+            "type": 3,
+            "timeout": 15,
+            "api": "csp_AppGet",
+            "jar": "https://gitee.com/xianluyuan/jar/raw/master/m/202604012.jpg",
+            "ext": "http://117.50.204.35:8090|ca94b06ca3c7d80e|122|okhttp/3.10.0|Lavf/58.12.100"
+        },
+        {
+            "key": "花猪",
+            "name": "🐷花猪",
+            "type": 3,
+            "api": "csp_AppGet",
+            "jar": "https://gitee.com/xianluyuan/jar/raw/master/m/202604012.jpg",
+            "ext": "https://niuhulu.oss-cn-hangzhou.aliyuncs.com/niuniu.txt|uxxDgHxsdoSgVGZZ|122|okhttp/3.10.0|Lavf/58.12.100"
+        },
+        {
+            "key": "爱营",
+            "name": "💥爱影",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "jar": "https://gitee.com/xianluyuan/jar/raw/master/m/202604012.jpg",
+            "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q22.txt|nzEqOYYH3QzHuEPl|122|Lavf/58.12.100"
+        },     
+	{
       "name": "🍿哔嘀|2K",
       "key": "Bidys",
       "type": 3,
