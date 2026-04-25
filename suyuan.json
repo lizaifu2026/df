@@ -1398,13 +1398,6 @@
 			"api": "./py/RJAPP.py",
 			"ext": " http://v.rbotv.cn "
 		},
-    {
-      "key": "皮皮",
-      "name": "皮皮虾影视",
-      "type": 3,
-      "api": "./py/Applzxw.py",
-      "ext": "http://38.55.237.41:8762"
-    },
         {
 			"key": "TVB云播",
 			"name": "TVB云播APP",
