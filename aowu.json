@@ -137,13 +137,6 @@
             "ext": "./json/dubk.json"
         },
         {
-            "key": "皮皮",
-            "name": "🦐皮皮虾|秒播",
-            "type": 3,
-            "api": "./py/Applzxw.py",
-            "ext": "http://38.55.237.41:8762"
-        },    
-	    {
             "name": "🏭厂长|2K",
             "key": "Czzy",
             "type": 3,
