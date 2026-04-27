@@ -26,17 +26,6 @@
 
     },   
     {
-      "key": "巧技222",
-      "name": "🥕胡萝卜影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "jar": "./qj.jar",
-      "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
-    }, 
-    {
       "key": "柠檬",
       "name": "🍋柠檬影视",
       "type": 3,
@@ -126,14 +115,6 @@
         "version": ""
       }
     },	     
-    {
-      "key": "葡萄",
-      "name": "🍇葡萄影视",
-      "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
-    },    
     {
       "key": "AI3",
       "name": "🍐鸭梨影视(仅搜索)",
