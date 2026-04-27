@@ -184,15 +184,6 @@
         "动画片"
       ]
     },      
-	   {
-            "name": "🎀巧计|秒播",
-            "key": "巧技五",
-		    "type": 3,
-            "api": "csp_qiao2",
-            "jar": "./qj.jar",
-	        "playerType": 2,
-            "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
-       },
     {
       "name": "🐒大师兄|秒播",
       "key": "AppV6Dxs",
