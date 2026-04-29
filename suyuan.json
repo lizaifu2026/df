@@ -330,16 +330,35 @@
       "filterable": 1,
       "ext": "https://qpcj.69mini.com/api.php/app/"
     },	
-	{
-      "key": "超前",
-      "name": "超前APP",
+    {
+      "key": "大米",
+      "name": "大米APP",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2,
-      "ext": "http://chaoqianys.top:91/api.php/app/"
+      "ext": "https://www.dmo6o1a9a3.shop/api.php/app/"
+    },
+    {
+      "key": "酷九",
+      "name": "酷九APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.55z9g0t0p3.shop/api.php/app/"
+    },
+    {
+      "key": "空气",
+      "name": "空气APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.airfun.fun/xgapp.php/v2/"
     },
 	{
       "key": "假段友get",
@@ -475,14 +494,16 @@
       }
     },  
     {
-      "key": "优兔",
-      "name": "优兔APP",
+      "key": "猎豹",
+      "name": "猎豹APP",
       "type": 3,
-      "api": "csp_AppQi",
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
       "ext": {
-        "site": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt",
-        "dataKey": "UrWKPnmQWJA8AQzd",
-        "dataIv": "UrWKPnmQWJA8AQzd"
+        "url": "https://444421.xyz",
+        "dataKey": "#getapp@TMD@2025",
+        "dataIv": "#getapp@TMD@2025"
       }
     },	  
     {
@@ -539,17 +560,6 @@
         "UMENG_CHANNEL": "zhuan"
       }
     },	  
-    {
-      "key": "小羊",
-      "name": "小羊APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "https://qjappcms410.xy4k.com",
-        "dataKey": "mC6kG4mI1uM8tS4o",
-        "dataIv": "mC6kG4mI1uM8tS4o"
-      }
-    }, 
     {
       "key": "闪影",
       "name": "闪影影视",
