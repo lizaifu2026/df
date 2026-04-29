@@ -1334,7 +1334,18 @@
             "filterable": 1,
             "playerType": 2
         },		  
-		{
+        {
+            "key": "feiyang",
+            "name": "飞扬影视",
+            "type": 3,
+            "api": "./py/fy.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },		
+	    {
 			"key": "嘶哩嘶哩",
 			"name": "嘶哩嘶哩APP",
 			"type": 3,
