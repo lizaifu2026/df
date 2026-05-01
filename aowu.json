@@ -135,16 +135,6 @@
             "changeable": 1,
             "ext": "./json/dubk.json"
         },
-        {
-            "name": "🏭厂长|2K",
-            "key": "Czzy",
-            "type": 3,
-            "api": "csp_CzzyAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
     {
       "key": "极境视频",
       "name": "🦠极境┃秒播",
