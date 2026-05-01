@@ -5,16 +5,12 @@
       "url": "https://d.kstore.dev/download/9280/wex.json"
     }, 
     {
-      "name": "VOX线路",
-      "url": "http://rihou.cc:88/demo.php"
-    },      
-    {
       "url": "https://yydsys.top/duo/config.bin",
       "name": "多多线路"
     },      
     {
       "url": "https://code.onedev.io/vox/~raw/master/demo.json",
-      "name": "vox线路（备用）"
+      "name": "vox线路"
     },   
     {
       "url": "https://fastgit.cc/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
