@@ -354,20 +354,7 @@
         "version": ""
       }
     },	  
-     {
-      "key": "星空",
-      "name": "星空APP",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://xk7.xkgzs.xyz",
-        "dataKey": "107jkcdncofcdkjk",
-        "dataIv": "107jkcdncofcdkjk"
-      }
-    },
-    {
+	{
       "key": "顾我",
       "name": "顾我APP",
       "type": 3,
