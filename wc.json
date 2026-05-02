@@ -11,19 +11,12 @@
   ],
   "sites": [
      {
-      
       "key": "南瓜",
-      
       "name": "🎃南瓜影视",
-      
       "type": 3,
-      
       "api": "csp_NanGua",
-
       "playerType": 2,
-
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
-
     },   
     {
       "key": "柠檬",
