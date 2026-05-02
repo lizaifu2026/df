@@ -43,16 +43,6 @@
       "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },  
     {
-      "key": "瓜子影视",
-      "name": "🌻葵瓜子影视",
-      "type": 3,
-      "jar": "./kuihuazi.jar",
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },      
-     {
       "key": "电影天堂",
       "name": "🌽玉米影视",
       "type": 1,
@@ -107,19 +97,8 @@
         "deviceId": "",
         "version": ""
       }
-    },	     
-    {
-      "key": "AI3",
-      "name": "🍐鸭梨影视(仅搜索)",
-      "type": 3,
-      "api": "csp_AI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 2,
-      "ext": "7lj763gg0939795i037ki481k20ki2i3g3lk840883843k6k5l4354k0k10k48411g8654l9885g83ih2h0lh295lll81jg8k66l7011l8hji0l432912jhi3hk3140kghkhj3ghl7782871"
-    }
- ],
+    }	     
+  ],
   "parses": [
     {
       "name": "解析聚合",
