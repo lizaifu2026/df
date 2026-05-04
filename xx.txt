@@ -161,7 +161,168 @@ CHC家庭影院频道,http://10.255.128.136/PLTV/88888888/224/3221226205/1000010
 睛彩竞技,http://10.255.128.136/PLTV/88888888/224/3221226300/10000100000000060000000001081178_0.smil/index.m3u8?fmt=ts2hls?fmt=ts2hls
 睛彩青少,http://10.255.128.136/PLTV/88888888/224/3221226319/10000100000000060000000001081183_0.smil/index.m3u8?fmt=ts2hls?fmt=ts2hls
 睛彩篮球,http://10.255.128.136/PLTV/88888888/224/3221226285/10000100000000060000000001081181_0.smil/index.m3u8?fmt=ts2hls?fmt=ts2hls
+央视频道(备用),#genre#
+CCTV-1 综合,http://10.255.129.26:6060/ZTE_EPG16/2/9201?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CCTV-2 财经,http://10.255.129.26:6060/ZTE_EPG16/2/9202?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CCTV-3 综艺,http://10.255.129.26:6060/ZTE_EPG16/2/9203?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CCTV-4 国际,http://10.255.129.26:6060/ZTE_EPG16/2/9239?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CCTV-4 欧洲,http://10.255.129.26:6060/ZTE_EPG16/2/9317?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CCTV-4 美洲,http://10.255.129.26:6060/ZTE_EPG16/2/9318?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CCTV-5 体育,http://10.255.129.26:6060/ZTE_EPG16/2/9204?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CCTV-5+ 体育赛事,http://10.255.129.26:6060/ZTE_EPG16/2/9205?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CCTV-6 电影,http://10.255.129.26:6060/ZTE_EPG16/2/9206?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CCTV-7 国防军事,http://10.255.129.26:6060/ZTE_EPG16/2/9271?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CCTV-8 电视剧,http://10.255.129.26:6060/ZTE_EPG16/2/9208?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CCTV-9 纪录,http://10.255.129.26:6060/ZTE_EPG16/2/9209?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CCTV-10 科教,http://10.255.129.26:6060/ZTE_EPG16/2/9210?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CCTV-11 戏曲,http://10.255.129.26:6060/ZTE_EPG16/2/9011?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CCTV-12 社会与法,http://10.255.129.26:6060/ZTE_EPG16/2/9211?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CCTV-13 新闻,http://10.255.129.26:6060/ZTE_EPG16/2/9013?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CCTV-14 少儿,http://10.255.129.26:6060/ZTE_EPG16/2/9212?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CCTV-15 音乐,http://10.255.129.26:6060/ZTE_EPG16/2/9015?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CCTV-16 奥林匹克,http://10.255.129.26:6060/ZTE_EPG16/2/9305?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CCTV-17 农业农村,http://10.255.129.26:6060/ZTE_EPG16/2/9207?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CETV1,http://10.255.129.26:6060/ZTE_EPG16/2/9244?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CETV4,http://10.255.129.26:6060/ZTE_EPG16/2/9314?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CGTN-英语新闻,http://10.255.129.26:6060/ZTE_EPG16/2/9242?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CGTN-纪录,http://10.255.129.26:6060/ZTE_EPG16/2/9243?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CGTN-俄语,http://10.255.129.26:6060/ZTE_EPG16/2/9322?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CGTN-西语,http://10.255.129.26:6060/ZTE_EPG16/2/9319?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CGTN-阿语,http://10.255.129.26:6060/ZTE_EPG16/2/9321?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CGTN-法语,http://10.255.129.26:6060/ZTE_EPG16/2/9320?virtualDomain=ZTE_EPG16.live_hls.zte.com
 
+辽宁频道(备用),#genre#
+辽宁卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9200?virtualDomain=ZTE_EPG16.live_hls.zte.com
+辽宁都市,http://10.255.129.26:6060/ZTE_EPG16/2/9330?virtualDomain=ZTE_EPG16.live_hls.zte.com
+辽宁影视剧,http://10.255.129.26:6060/ZTE_EPG16/2/9332?virtualDomain=ZTE_EPG16.live_hls.zte.com
+辽宁体育休闲,http://10.255.129.26:6060/ZTE_EPG16/2/9331?virtualDomain=ZTE_EPG16.live_hls.zte.com
+辽宁生活,http://10.255.129.26:6060/ZTE_EPG16/2/9991?virtualDomain=ZTE_EPG16.live_hls.zte.com
+辽宁教育青少,http://10.255.129.26:6060/ZTE_EPG16/2/9327?virtualDomain=ZTE_EPG16.live_hls.zte.com
+辽宁北方,http://10.255.129.26:6060/ZTE_EPG16/2/9992?virtualDomain=ZTE_EPG16.live_hls.zte.com
+辽宁公共,http://10.255.129.26:6060/ZTE_EPG16/2/9122?virtualDomain=ZTE_EPG16.live_hls.zte.com
+辽宁经济,http://10.255.129.26:6060/ZTE_EPG16/2/9121?virtualDomain=ZTE_EPG16.live_hls.zte.com
+辽宁移动电视,http://10.255.129.26:6060/ZTE_EPG16/2/9329?virtualDomain=ZTE_EPG16.live_hls.zte.com
+辽宁宜佳购物,http://10.255.129.26:6060/ZTE_EPG16/2/9333?virtualDomain=ZTE_EPG16.live_hls.zte.com
+沈阳新闻综合,http://10.255.129.26:6060/ZTE_EPG16/2/9123?virtualDomain=ZTE_EPG16.live_hls.zte.com
+铁岭新闻,http://10.255.129.26:6060/ZTE_EPG16/2/9137?virtualDomain=ZTE_EPG16.live_hls.zte.com
+铁岭生活,http://10.255.129.26:6060/ZTE_EPG16/2/9138?virtualDomain=ZTE_EPG16.live_hls.zte.com
+阜新新闻综合,http://10.255.129.26:6060/ZTE_EPG16/2/9344?virtualDomain=ZTE_EPG16.live_hls.zte.com
+阜新教育,http://10.255.129.26:6060/ZTE_EPG16/2/9343?virtualDomain=ZTE_EPG16.live_hls.zte.com
+葫芦岛新闻综合,http://10.255.129.26:6060/ZTE_EPG16/2/9140?virtualDomain=ZTE_EPG16.live_hls.zte.com
+葫芦岛生活服务,http://10.255.129.26:6060/ZTE_EPG16/2/9141?virtualDomain=ZTE_EPG16.live_hls.zte.com
+
+
+卫视频道(备用),#genre#
+北京卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9220?virtualDomain=ZTE_EPG16.live_hls.zte.com
+天津卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9221?virtualDomain=ZTE_EPG16.live_hls.zte.com
+东方卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9223?virtualDomain=ZTE_EPG16.live_hls.zte.com
+重庆卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9240?virtualDomain=ZTE_EPG16.live_hls.zte.com
+浙江卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9250?virtualDomain=ZTE_EPG16.live_hls.zte.com
+江苏卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9251?virtualDomain=ZTE_EPG16.live_hls.zte.com
+安徽卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9215?virtualDomain=ZTE_EPG16.live_hls.zte.com
+湖南卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9214?virtualDomain=ZTE_EPG16.live_hls.zte.com
+吉林卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9270?virtualDomain=ZTE_EPG16.live_hls.zte.com
+山东卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9217?virtualDomain=ZTE_EPG16.live_hls.zte.com
+四川卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9241?virtualDomain=ZTE_EPG16.live_hls.zte.com
+广东卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9218?virtualDomain=ZTE_EPG16.live_hls.zte.com
+黑龙江卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9213?virtualDomain=ZTE_EPG16.live_hls.zte.com
+湖北卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9216?virtualDomain=ZTE_EPG16.live_hls.zte.com
+江西卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9310?virtualDomain=ZTE_EPG16.live_hls.zte.com
+河北卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9311?virtualDomain=ZTE_EPG16.live_hls.zte.com
+河南卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9312?virtualDomain=ZTE_EPG16.live_hls.zte.com
+东南卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9253?virtualDomain=ZTE_EPG16.live_hls.zte.com
+海南卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9272?virtualDomain=ZTE_EPG16.live_hls.zte.com
+云南卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9313?virtualDomain=ZTE_EPG16.live_hls.zte.com
+贵州卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9269?virtualDomain=ZTE_EPG16.live_hls.zte.com
+广西卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9309?virtualDomain=ZTE_EPG16.live_hls.zte.com
+深圳卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9219?virtualDomain=ZTE_EPG16.live_hls.zte.com
+三沙卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9341?virtualDomain=ZTE_EPG16.live_hls.zte.com?virtualDomain=ZTE_EPG16.live_hls.zte.com
+青海卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9062?virtualDomain=ZTE_EPG16.live_hls.zte.com
+山西卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9046?virtualDomain=ZTE_EPG16.live_hls.zte.com
+陕西卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9059?virtualDomain=ZTE_EPG16.live_hls.zte.com
+内蒙古卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9060?virtualDomain=ZTE_EPG16.live_hls.zte.com
+宁夏卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9061?virtualDomain=ZTE_EPG16.live_hls.zte.com
+厦门卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9056?virtualDomain=ZTE_EPG16.live_hls.zte.com
+新疆卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9063?virtualDomain=ZTE_EPG16.live_hls.zte.com
+甘肃卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9064?virtualDomain=ZTE_EPG16.live_hls.zte.com
+西藏卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9065?virtualDomain=ZTE_EPG16.live_hls.zte.com
+山东教育卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9276?virtualDomain=ZTE_EPG16.live_hls.zte.com
+兵团卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9068?virtualDomain=ZTE_EPG16.live_hls.zte.com
+农林卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9069?virtualDomain=ZTE_EPG16.live_hls.zte.com
+延边卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9277?virtualDomain=ZTE_EPG16.live_hls.zte.com
+西藏藏语卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9275?virtualDomain=ZTE_EPG16.live_hls.zte.com
+安多卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9273?virtualDomain=ZTE_EPG16.live_hls.zte.com
+康巴卫视,http://10.255.129.26:6060/ZTE_EPG16/2/9274?virtualDomain=ZTE_EPG16.live_hls.zte.com
+
+数字频道(备用),#genre#
+CHC动作电影频道,http://10.255.129.26:6060/ZTE_EPG16/2/9301?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CHC影迷电影,http://10.255.129.26:6060/ZTE_EPG16/2/9303?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CHC家庭影院,http://10.255.129.26:6060/ZTE_EPG16/2/9304?virtualDomain=ZTE_EPG16.live_hls.zte.com
+都市剧场,http://10.255.129.26:6060/ZTE_EPG16/2/9292?virtualDomain=ZTE_EPG16.live_hls.zte.com
+金鹰纪实,http://10.255.129.26:6060/ZTE_EPG16/2/9225?virtualDomain=ZTE_EPG16.live_hls.zte.com
+北京纪实科教,http://10.255.129.26:6060/ZTE_EPG16/2/9224?virtualDomain=ZTE_EPG16.live_hls.zte.com
+快乐垂钓,http://10.255.129.26:6060/ZTE_EPG16/2/9267?virtualDomain=ZTE_EPG16.live_hls.zte.com
+茶频道,http://10.255.129.26:6060/ZTE_EPG16/2/9268?virtualDomain=ZTE_EPG16.live_hls.zte.com
+文物宝库,http://10.255.129.26:6060/ZTE_EPG16/2/9308?virtualDomain=ZTE_EPG16.live_hls.zte.com
+梨园频道,http://10.255.129.26:6060/ZTE_EPG16/2/9306?virtualDomain=ZTE_EPG16.live_hls.zte.com
+武术世界,http://10.255.129.26:6060/ZTE_EPG16/2/9307?virtualDomain=ZTE_EPG16.live_hls.zte.com
+先锋乒羽,http://10.255.129.26:6060/ZTE_EPG16/2/9302?virtualDomain=ZTE_EPG16.live_hls.zte.com
+乐游,http://10.255.129.26:6060/ZTE_EPG16/2/9293?virtualDomain=ZTE_EPG16.live_hls.zte.com
+第一剧场,http://10.255.129.26:6060/ZTE_EPG16/2/9090?virtualDomain=ZTE_EPG16.live_hls.zte.com
+怀旧剧场,http://10.255.129.26:6060/ZTE_EPG16/2/9093?virtualDomain=ZTE_EPG16.live_hls.zte.com
+风云剧场,http://10.255.129.26:6060/ZTE_EPG16/2/9092?virtualDomain=ZTE_EPG16.live_hls.zte.com
+风云足球,http://10.255.129.26:6060/ZTE_EPG16/2/9089?virtualDomain=ZTE_EPG16.live_hls.zte.com
+高尔夫网球,http://10.255.129.26:6060/ZTE_EPG16/2/9285?virtualDomain=ZTE_EPG16.live_hls.zte.com
+风云音乐,http://10.255.129.26:6060/ZTE_EPG16/2/9094?virtualDomain=ZTE_EPG16.live_hls.zte.com
+央视台球,http://10.255.129.26:6060/ZTE_EPG16/2/9126?virtualDomain=ZTE_EPG16.live_hls.zte.com
+央视文化精品,http://10.255.129.26:6060/ZTE_EPG16/2/9095?virtualDomain=ZTE_EPG16.live_hls.zte.com
+世界地理,http://10.255.129.26:6060/ZTE_EPG16/2/9091?virtualDomain=ZTE_EPG16.live_hls.zte.com
+兵器科技,http://10.255.129.26:6060/ZTE_EPG16/2/9125?virtualDomain=ZTE_EPG16.live_hls.zte.com
+女性时尚,http://10.255.129.26:6060/ZTE_EPG16/2/9097?virtualDomain=ZTE_EPG16.live_hls.zte.com
+电视指南,http://10.255.129.26:6060/ZTE_EPG16/2/9088?virtualDomain=ZTE_EPG16.live_hls.zte.com
+书画,http://10.255.129.26:6060/ZTE_EPG16/2/9291?virtualDomain=ZTE_EPG16.live_hls.zte.com
+国学频道,http://10.255.129.26:6060/ZTE_EPG16/2/9295?virtualDomain=ZTE_EPG16.live_hls.zte.com
+老故事,http://10.255.129.26:6060/ZTE_EPG16/2/9296?virtualDomain=ZTE_EPG16.live_hls.zte.com
+家庭理财,http://10.255.129.26:6060/ZTE_EPG16/2/9024?virtualDomain=ZTE_EPG16.live_hls.zte.com
+中华特产,http://10.255.129.26:6060/ZTE_EPG16/2/9145?virtualDomain=ZTE_EPG16.live_hls.zte.com
+睛彩竞技,http://10.255.129.26:6060/ZTE_EPG16/2/9337?virtualDomain=ZTE_EPG16.live_hls.zte.com?virtualDomain=ZTE_EPG16.live_hls.zte.com
+睛彩篮球,http://10.255.129.26:6060/ZTE_EPG16/2/9338?virtualDomain=ZTE_EPG16.live_hls.zte.com?virtualDomain=ZTE_EPG16.live_hls.zte.com
+睛彩青少,http://10.255.129.26:6060/ZTE_EPG16/2/9339?virtualDomain=ZTE_EPG16.live_hls.zte.com?virtualDomain=ZTE_EPG16.live_hls.zte.com
+睛彩广场舞,http://10.255.129.26:6060/ZTE_EPG16/2/9340?virtualDomain=ZTE_EPG16.live_hls.zte.com?virtualDomain=ZTE_EPG16.live_hls.zte.com
+新动漫,http://10.255.129.26:6060/ZTE_EPG16/2/9034?virtualDomain=ZTE_EPG16.live_hls.zte.com
+金鹰卡通,http://10.255.129.26:6060/ZTE_EPG16/2/9328?virtualDomain=ZTE_EPG16.live_hls.zte.com
+卡酷少儿,http://10.255.129.26:6060/ZTE_EPG16/2/9334?virtualDomain=ZTE_EPG16.live_hls.zte.com
+优漫卡通,http://10.255.129.26:6060/ZTE_EPG16/2/9072?virtualDomain=ZTE_EPG16.live_hls.zte.com
+嘉佳卡通,http://10.255.129.26:6060/ZTE_EPG16/2/9073?virtualDomain=ZTE_EPG16.live_hls.zte.com
+央广购物,http://10.255.129.26:6060/ZTE_EPG16/2/9130?virtualDomain=ZTE_EPG16.live_hls.zte.com
+优购物,http://10.255.129.26:6060/ZTE_EPG16/2/9336?virtualDomain=ZTE_EPG16.live_hls.zte.com
+聚鲨环球精选,http://10.255.129.26:6060/ZTE_EPG16/2/9326?virtualDomain=ZTE_EPG16.live_hls.zte.com
+
+4K超高清(备用),#genre#
+CCTV-4K超高清,http://10.255.129.26:6060/ZTE_EPG16/2/9346?virtualDomain=ZTE_EPG16.live_hls.zte.com
+CCTV-16 4K奥林匹克频道,http://10.255.129.26:6060/ZTE_EPG16/2/9299?virtualDomain=ZTE_EPG16.live_hls.zte.com
+欢笑剧场4K,http://10.255.129.26:6060/ZTE_EPG16/2/9294?virtualDomain=ZTE_EPG16.live_hls.zte.com
+北京卫视4K,http://10.255.129.26:6060/ZTE_EPG16/2/9348?virtualDomain=ZTE_EPG16.live_hls.zte.com
+广东卫视4K,http://10.255.129.26:6060/ZTE_EPG16/2/9351?virtualDomain=ZTE_EPG16.live_hls.zte.com
+深圳卫视4K,http://10.255.129.26:6060/ZTE_EPG16/2/9350?virtualDomain=ZTE_EPG16.live_hls.zte.com
+湖南卫视4K,http://10.255.129.26:6060/ZTE_EPG16/2/9356?virtualDomain=ZTE_EPG16.live_hls.zte.com
+江苏卫视4K,http://10.255.129.26:6060/ZTE_EPG16/2/9354?virtualDomain=ZTE_EPG16.live_hls.zte.com
+东方卫视4K,http://10.255.129.26:6060/ZTE_EPG16/2/9357?virtualDomain=ZTE_EPG16.live_hls.zte.com
+浙江卫视4K,http://10.255.129.26:6060/ZTE_EPG16/2/9355?virtualDomain=ZTE_EPG16.live_hls.zte.com
+山东卫视4K,http://10.255.129.26:6060/ZTE_EPG16/2/9352?virtualDomain=ZTE_EPG16.live_hls.zte.com
+四川卫视4K,http://10.255.129.26:6060/ZTE_EPG16/2/9353?virtualDomain=ZTE_EPG16.live_hls.zte.com
+
+BesTV广播(备用),#genre#
+bes tv,http://10.255.129.26:6060/ZTE_EPG16/2/9257?virtualDomain=ZTE_EPG16.live_hls.zte.com
+bes tv1,http://10.255.129.26:6060/ZTE_EPG16/2/9258?virtualDomain=ZTE_EPG16.live_hls.zte.com
+bes tv2,http://10.255.129.26:6060/ZTE_EPG16/2/9262?virtualDomain=ZTE_EPG16.live_hls.zte.com
+bes tv3,http://10.255.129.26:6060/ZTE_EPG16/2/9263?virtualDomain=ZTE_EPG16.live_hls.zte.com
+bes tv4,http://10.255.129.26:6060/ZTE_EPG16/2/9264?virtualDomain=ZTE_EPG16.live_hls.zte.com
+FM 95.9,http://10.255.129.26:6060/ZTE_EPG16/2/9996?virtualDomain=ZTE_EPG16.live_hls.zte.com
+FM 97.5,http://10.255.129.26:6060/ZTE_EPG16/2/9335?virtualDomain=ZTE_EPG16.live_hls.zte.com
+AM 999,http://10.255.129.26:6060/ZTE_EPG16/2/9994?virtualDomain=ZTE_EPG16.live_hls.zte.com
+AM 927,http://10.255.129.26:6060/ZTE_EPG16/2/9995?virtualDomain=ZTE_EPG16.live_hls.zte.com
+AM 1089,http://10.255.129.26:6060/ZTE_EPG16/2/9993?virtualDomain=ZTE_EPG16.live_hls.zte.com
 
 
 
