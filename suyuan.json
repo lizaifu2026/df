@@ -1219,8 +1219,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/番茶动漫.json",
-      "jar": "https://ncstatic.clewm.net/rsrc/2026/0416/12/9c6f4eee384d4e9184f7a751c4d10b16.png;md5;690CD77AEB20B09A8DD8E01DCBE660B6"
+      "ext": "./lib/番茶动漫.json"
     },
     {
       "key": "csp_XYQHiker_age动漫",
@@ -1230,8 +1229,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/age.json",
-      "jar": "https://ncstatic.clewm.net/rsrc/2026/0416/12/9c6f4eee384d4e9184f7a751c4d10b16.png;md5;690CD77AEB20B09A8DD8E01DCBE660B6"
+      "ext": "./lib/age.json"
     },	  
 	{
       "key": "文才影视",
