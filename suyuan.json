@@ -1211,7 +1211,29 @@
       "api": "./lib/ec67b9045d393737f073d2c9365533f0.js",
       "ext": "./lib/路漫漫.js"
     }, 
-	  {
+    {
+      "key": "csp_XYQHiker_番茶",
+      "name": "番茶动漫",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/番茶动漫.json",
+      "jar": "https://ncstatic.clewm.net/rsrc/2026/0416/12/9c6f4eee384d4e9184f7a751c4d10b16.png;md5;690CD77AEB20B09A8DD8E01DCBE660B6"
+    },
+    {
+      "key": "csp_XYQHiker_age动漫",
+      "name": "AEG动漫",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/age.json",
+      "jar": "https://ncstatic.clewm.net/rsrc/2026/0416/12/9c6f4eee384d4e9184f7a751c4d10b16.png;md5;690CD77AEB20B09A8DD8E01DCBE660B6"
+    },	  
+	{
       "key": "文才影视",
       "name": "文才影视",
       "type": 3,
