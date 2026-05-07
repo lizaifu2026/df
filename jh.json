@@ -37,6 +37,10 @@
       "url": "http://cdn.qiaoji8.com/tvbox.json"
     },     
     {
+      "name": "源力影视",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/yl.json"
+    },     
+    {
       "name": "林中小屋影视",
       "url": "https://github.catvod.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/OK/okys.json"
     },
