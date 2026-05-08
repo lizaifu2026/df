@@ -17,10 +17,6 @@
       "name": "东篱线路"
     },    
     {
-      "name": "小虎斑影视",
-      "url": "http://hb.小虎斑.site:25252/仅供测试"
-    },    
-    {
       "name": "讴歌影视",
       "url": "http://tv.nxog.top/m/"
     },    
@@ -30,12 +26,8 @@
     },      
     {
       "name": "小米影视",
-      "url": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json"
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
     },    
-    {
-      "name": "巧计影视",
-      "url": "http://cdn.qiaoji8.com/tvbox.json"
-    },     
     {
       "name": "源力影视",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/yl.json"
@@ -49,13 +41,9 @@
       "url": "http://枫斗.top/tv"
     },    
     {
-      "name": "嗷呜影视",
+      "name": "嗷呜影视"
       "url": "http://mytv6688.xyz/aowu/config.webp"
     },  
-    {
-      "name": "摸鱼影视",
-      "url": "http://我不是.摸鱼儿.com"
-    }
     ] 
   }   
   
