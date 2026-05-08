@@ -370,7 +370,7 @@
             "name": "🐷花猪|秒播",
             "type": 3,
             "api": "csp_AppGet",
-            "jar": "https://gitee.com/xianluyuan/jar/raw/master/m/202604012.jpg",
+            "jar": "./202604012.jpg",
             "ext": "https://niuhulu.oss-cn-hangzhou.aliyuncs.com/niuniu.txt|uxxDgHxsdoSgVGZZ|122|okhttp/3.10.0|Lavf/58.12.100"
         },
         {
