@@ -427,17 +427,21 @@
         "buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"
       }
     },	
-	{
-      "name": "🍿哔嘀2K|秒播",
-      "key": "Bidys",
+    {
+      "key": "csp_SaoHuo",
+      "name": "🔥火火┃秒播",
+      "jar": "./damifan.jpg",
+	  "type": 3,
+      "api": "csp_SaoHuo"
+    },
+    {
+      "key": "麦田",
+      "name": "🌾麦田┃秒播",
       "type": 3,
-      "api": "csp_BidysAmns",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.xlys02.com,https://xl02.com.de"
-    },       
+      "jar": "./damifan.jpg",
+	  "api": "csp_AppV6",
+      "ext": "http://172.247.227.203:25321/mtys.php"
+    },      
      {
             "key": "🦄动漫",
             "name": "🦄动漫|剧场",
