@@ -1360,7 +1360,17 @@
 			"api": "./py/RJAPP.py",
 			"ext": " http://v.rbotv.cn "
 		},
-        {
+    {
+      "key": "58ys",
+      "name": "58影视",
+      "type": 3,
+      "api": "https://raw.giteeusercontent.com/the-scholar-is-reckless/lib/raw/master/58ys.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1
+    },     
+	  {
 			"key": "TVB云播",
 			"name": "TVB云播APP",
 			"type": 3,
