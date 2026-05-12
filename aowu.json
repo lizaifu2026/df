@@ -11,10 +11,10 @@
     ],    
     "sites": [
     {
-      "name": "💬嗷嗚|彈幕",
-      "key": "GoConfig",
+      "name": "💬豆瓣推荐",
+      "key": "Douban",
       "type": 3,
-      "api": "csp_GoConfigAmns",
+      "api": "csp_DoubanAmns",
       "indexs": 1,
       "searchable": 0,
       "filterable": 0,
