@@ -459,6 +459,17 @@
             "changeable": 1,
             "ext": "comic_series"
         },	
+    {
+      "name": "😈嗷嗚|短剧",
+      "key": "DjHggg",
+      "type": 3,
+      "api": "csp_HgggAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "short_play"
+    },		
 		{
             "name": "🍭豪堪|短剧",
             "key": "HHkk",
@@ -489,7 +500,18 @@
             "quickSearch": 1,
             "changeable": 1
         },
-        {
+    {
+      "name": "🧸拜拜|短剧",
+      "key": "Bddj",
+      "type": 3,
+      "api": "csp_BddjAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "genre": "shortdrama"
+    },     
+		{
             "name": "⭐星星|短剧",
             "key": "Xydj",
             "type": 3,
