@@ -372,7 +372,7 @@
         },
     {
       "key": "葫芦",
-      "name": "🪽hu'lu葫芦┃1080P",
+      "name": "🪽葫芦┃1080P",
       "jar": "./damifan.jpg",
 	  "type": 3,
       "api": "csp_AppGet",
