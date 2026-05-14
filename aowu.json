@@ -11,7 +11,7 @@
     ],    
     "sites": [
     {
-      "name": "💬豆瓣推荐",
+      "name": "💬本软件于5月18日早上停止运营",
       "key": "Douban",
       "type": 3,
       "api": "csp_DoubanAmns",
