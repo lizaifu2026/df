@@ -371,6 +371,23 @@
 			"ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|V122|okhttp/3.10.0"
         },
     {
+      "key": "葫芦",
+      "name": "🪽hu'lu葫芦┃1080P",
+      "jar": "./damifan.jpg",
+	  "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt|8R33VQSxzmCaHpEX|V122|okhttp/3.10.0"
+    },    
+    {
+      "key": "csp_Wwys",
+      "name": "🌾农民┃1080P",
+      "type": 3,
+      "jar": "./damifan.jpg",
+	  "api": "csp_Wwys",
+      "timeout": 12,
+      "ext": "https://vip.wwgz.cn:5200"
+    },	
+		{
       "key": "爱营",
       "name": "💥爱影┃秒播",
       "type": 3,
@@ -513,7 +530,22 @@
             "quickSearch": 1,
             "changeable": 1,
             "genre": "shortdrama"
-        }
+        },
+    {
+      "key": "csp_Music",
+      "name": "🎵音乐┃在线",
+      "type": 3,
+      "api": "csp_Music",
+      "jar": "./damifan.jpg",
+	  "quickSearch": 0,
+      "timeout": 12,
+      "searchable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      },
+      "ext": ""
+    }	
 	],
     "parses": [
         {
