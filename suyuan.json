@@ -413,6 +413,8 @@
 {"key":"余白","name":"余白4K","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://103.236.72.182:1517","dataKey":"KsmJgfp3MVQFKWRa","dataIv":"KsmJgfp3MVQFKWRa","token":"f0b066d896dddfe6b568152586e179a25cbf3e933cd9292638401e581381cf38"}},	 
 {"key":"4K影视","name":"观影app","type":3,"api":"csp_AppQi","searchable":1,"changeable":1,"ext":{"url":"http://110.42.67.221:9002","dataKey":"FTgP4Gq8zPiqbt7M","dataIv":"FTgP4Gq8zPiqbt7M"}}, 
 {"key":"猫头鹰","name":"猫头鹰APP","type":3,"api":"https://gitee.com/monosodium-glutamate/wjwj/raw/master/lib/get.js","searchable":1,"ext":{"host":"https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt","key":"zxPtEUDGVllIUhDB","init":"V122","api":2,"ua":"okhttp/3.10.0"}},	  
+{"key":"茫茫","name":"果果4K","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js","ext":"https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"},	
+{"key":"hajim-腾讯备","name":"藤藤4K","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://fastlink.cokey.xyz/f/1MOEc5/%E8%85%BE%E8%85%BE.js"},	 
 	{
       "key": "火花",
       "name": "火花APP",
