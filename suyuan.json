@@ -407,7 +407,7 @@
       "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
     },	
 {"key":"柠檬","name":"柠檬影视","type":3,"api":"csp_Nmvod","playerType":2,"jar":"https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},	  
-{"key":"阳光彼岸","name":"️阳光app","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://38.246.249.33:30012","dataKey":"JLa1oRdL6+eK7@M","dataIv":"JLa1oRdL6+eK7@M"}},
+{"key":"阳光彼岸","name":"️阳光app","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://38.246.249.33:30012","dataKey":"JLa1oRdL6+eK7","dataIv":"JLa1oRdL6+eK7"}},
 {"key":"枫叶","name":"枫叶4K","type":4,"api":"https://199525.xyz:1111/video/%E6%9E%AB%E5%8F%B6","header":{"token":"JT"}},	
 {"key":"小鹿","name":"小鹿app","type":3,"api":"csp_AppQi","searchable":1,"changeable":1,"ext":{"site":"https://xiaolu-1319209748.cos.ap-beijing.myqcloud.com/xiaolu.txt","dataKey":"x5Bep6Q78VCeYnPS","dataIv":"x5Bep6Q78VCeYnPS","ua":"okhttp/3.10.0"}},
 {"key":"余白","name":"余白4K","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://103.236.72.182:1517","dataKey":"KsmJgfp3MVQFKWRa","dataIv":"KsmJgfp3MVQFKWRa","token":"f0b066d896dddfe6b568152586e179a25cbf3e933cd9292638401e581381cf38"}},	 
