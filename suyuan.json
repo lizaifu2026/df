@@ -242,7 +242,8 @@
         "dataIv": "bM7iC9eA3oZ1nB7z"
       }
     },	
-    {
+  {"key":"魔方","name":"魔方App","type":3,"api":"csp_AppGet","searchable":1,"changeable":1,"ext":{"url":"https://www.26mf4k.top","dataKey":"1234567887654321","dataIv":"1234567887654321"}},  
+	{
       "key": "飞飞",
       "name": "飞飞APP",
       "type": 3,
@@ -410,7 +411,9 @@
 {"key":"枫叶","name":"枫叶4K","type":4,"api":"https://199525.xyz:1111/video/%E6%9E%AB%E5%8F%B6","header":{"token":"JT"}},	
 {"key":"小鹿","name":"小鹿app","type":3,"api":"csp_AppQi","searchable":1,"changeable":1,"ext":{"site":"https://xiaolu-1319209748.cos.ap-beijing.myqcloud.com/xiaolu.txt","dataKey":"x5Bep6Q78VCeYnPS","dataIv":"x5Bep6Q78VCeYnPS","ua":"okhttp/3.10.0"}},
 {"key":"余白","name":"余白4K","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://103.236.72.182:1517","dataKey":"KsmJgfp3MVQFKWRa","dataIv":"KsmJgfp3MVQFKWRa","token":"f0b066d896dddfe6b568152586e179a25cbf3e933cd9292638401e581381cf38"}},	 
-  {
+{"key":"4K影视","name":"观影app","type":3,"api":"csp_AppQi","searchable":1,"changeable":1,"ext":{"url":"http://110.42.67.221:9002","dataKey":"FTgP4Gq8zPiqbt7M","dataIv":"FTgP4Gq8zPiqbt7M"}}, 
+{"key":"猫头鹰","name":"猫头鹰APP","type":3,"api":"https://gitee.com/monosodium-glutamate/wjwj/raw/master/lib/get.js","searchable":1,"ext":{"host":"https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt","key":"zxPtEUDGVllIUhDB","init":"V122","api":2,"ua":"okhttp/3.10.0"}},	  
+	{
       "key": "火花",
       "name": "火花APP",
       "type": 3,
