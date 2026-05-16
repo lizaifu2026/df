@@ -264,7 +264,24 @@
         "host": "http://app.hktvyb.cc"
       }
     },	  
-   {
+{
+"key":"JD4K",
+"name":"JD4K",
+"type":1,
+"api":"https://4k.jdyx.pro/api.php/provide/vod/",
+"playUrl":"json:https://json.xmi6.com/api/?key=WmGShpMKkhLHllozaw&url=",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"categories":[
+"电影",
+"电视剧",
+"综艺",
+"动漫",
+"少儿"
+]
+},  
+	 {
       "key": "久久影视",
       "name": "久久影视",
       "type": 3,
