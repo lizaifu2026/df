@@ -84,7 +84,7 @@
       }
     },		
     {"key":"魔方",
-	 "name":"魔方App",
+	 "name":"魔方|秒播",
 	 "type":3,
 	 "api":"csp_AppGet",
 	 "searchable":1,
