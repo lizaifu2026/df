@@ -56,7 +56,8 @@
       "name": "橘汁｜影视",
       "type": 3,
       "api": "csp_AppDrama",
-      "searchable": 1,
+      "jar": "./jiqimao.png;md5;2543e3c1367a15df8d3857758c6c8c5b",
+	  "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
@@ -77,7 +78,8 @@
       "name": "华谊｜影视",
       "type": 3,
       "api": "csp_AppDrama",
-      "searchable": 1,
+      "jar": "./jiqimao.png;md5;2543e3c1367a15df8d3857758c6c8c5b",
+	  "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
@@ -98,7 +100,8 @@
       "name": "苹果｜影视",
       "type": 3,
       "api": "csp_AppDrama",
-      "searchable": 1,
+      "jar": "./jiqimao.png;md5;2543e3c1367a15df8d3857758c6c8c5b",
+	  "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
@@ -119,7 +122,8 @@
       "name": "天堂｜影视",
       "type": 3,
       "api": "csp_AppDrama",
-      "searchable": 1,
+      "jar": "./jiqimao.png;md5;2543e3c1367a15df8d3857758c6c8c5b",
+	  "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
