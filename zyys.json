@@ -127,7 +127,8 @@
       "name": "🍎小苹果┃影视",
       "type": 3,
       "api": "csp_AppDrama",
-      "searchable": 1,
+      "jar": "./spider.jar",
+	  "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
