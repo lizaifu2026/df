@@ -39,7 +39,7 @@
     },
     {
       "key": "极境视频",
-      "name": "🦠极境┃秒播",
+      "name": "🦠极境｜影视",
       "type": 3,
       "jar": "./vox.jar;md5;ccbbaf9a8eb24e3c710884cb82b668f2",
 	    "api": "csp_Hmys",
@@ -52,7 +52,7 @@
       }
     },    
    {
-      "name": "🦀螃蟹|秒播",
+      "name": "🦀螃蟹｜影视",
       "key": "NewNoxPx",
       "type": 3,
       "api": "csp_NewNoxAmns",
@@ -68,7 +68,7 @@
       }
     },
     {
-      "name": "🐼熊猫|秒播",
+      "name": "🐼熊猫｜影视",
       "key": "NewNoxXm",
       "type": 3,
       "api": "csp_NewNoxAmns",
@@ -84,7 +84,7 @@
       }
     },		
     {"key":"魔方",
-	 "name":"🐎魔方|秒播",
+	 "name":"🐎魔方｜影视",
 	 "type":3,
 	 "api":"csp_AppGet",
 	 "searchable":1,
@@ -97,7 +97,7 @@
 	},	
    {
             "key": "瓜子影视",
-            "name": "🌻瓜子┃影视",
+            "name": "🌻瓜子｜影视",
             "type": 3,
             "api": "csp_Gz360",
             "searchable": 1,
@@ -106,7 +106,7 @@
         },      
     {
       "key": "大师兄",
-      "name": "💡师兄┃影视",
+      "name": "💡师兄｜影视",
       "type": 3,
       "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0416/20/1fe667cd217a0c314b8ca59310dbf45d.jpg;md5;a4f403a000bc5e4ebdd9da27fcb05852",
       "api": "csp_AppV6",
@@ -115,7 +115,7 @@
     },
     {
       "key": "南瓜",
-      "name": "🎃南瓜┃影视",
+      "name": "🎃南瓜｜影视",
       "type": 3,
       "api": "csp_NanGua",
       "jar": "./lh250711.png;md5;939FFBC2941A28CA533F2653FA4B449E",
@@ -124,7 +124,7 @@
     },
     {
       "key": "苹果",
-      "name": "🍎小苹果┃影视",
+      "name": "🍎小苹果｜影视",
       "type": 3,
       "api": "csp_AppDrama",
       "jar": "./spider.jar",
