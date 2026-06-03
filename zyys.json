@@ -148,8 +148,8 @@
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
     },
     {
-      "key": "苹果",
-      "name": "🍎小苹果｜影视",
+      "key": "小苹果",
+      "name": "🍎苹果｜影视",
       "type": 3,
       "api": "csp_AppDrama",
       "jar": "./spider.jar",
