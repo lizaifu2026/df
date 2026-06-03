@@ -99,6 +99,13 @@
         "version": "3.0.1.9"
       }
     },    
+		{
+            "key": "花猪",
+            "name": "🐷花猪|秒播",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://niuhulu.oss-cn-hangzhou.aliyuncs.com/niuniu.txt|uxxDgHxsdoSgVGZZ|122|okhttp/3.10.0|Lavf/58.12.100"
+        },	
 	{
 	 "key":"魔方",
 	 "name":"🐎魔方｜影视",
