@@ -100,12 +100,6 @@
       }
     },    
     {
-      "key": "荐片",
-      "name": "💡荐片｜影视",
-      "api": "csp_JianPian",
-      "type": 3
-    },
-	{
 	 "key":"魔方",
 	 "name":"🐎魔方｜影视",
 	 "type":3,
@@ -193,15 +187,7 @@
         "dataIv": "#getapp@TMD@2025"
       }
     },	
-        {
-            "key": "四叶草",
-            "name": "🍀四叶草｜影视",
-            "type": 3,
-            "api": "csp_AppGet",
-            "jar": "./202604012.jpg",
-			"ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|V122|okhttp/3.10.0"
-        },     
-	  {
+     {
             "key": "首发",
             "name": "🚉首发｜影视",
             "type": 3,
