@@ -99,14 +99,14 @@
         "version": "3.0.1.9"
       }
     },    
-		{
-            "key": "花猪",
-            "name": "🐷花猪｜影视",
-            "type": 3,
-            "api": "csp_AppGet",
-            "jar": "./202604012.jpg",
-            "ext": "https://niuhulu.oss-cn-hangzhou.aliyuncs.com/niuniu.txt|uxxDgHxsdoSgVGZZ|122|okhttp/3.10.0|Lavf/58.12.100"
-        },
+	{
+     "key": "花猪",
+     "name": "🐷花猪｜影视",
+     "type": 3,
+     "api": "csp_AppGet",
+     "jar": "./202604012.jpg",
+     "ext": "https://niuhulu.oss-cn-hangzhou.aliyuncs.com/niuniu.txt|uxxDgHxsdoSgVGZZ|122|okhttp/3.10.0|Lavf/58.12.100"
+    },
 	{
 	 "key":"魔方",
 	 "name":"🐎魔方｜影视",
@@ -129,6 +129,68 @@
             "quickSearch": 1,
             "filterable": 1
         },      
+    {
+      "key": "金牌影视",
+      "name": "💡金牌｜影视",
+      "type": 3,
+      "api": "csp_Jpys",
+      "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+    },    
+	{
+      "key": "金牌",
+      "name": "👑金牌｜影视",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://qj4.catbb.xyz",
+        "dataKey": "eecbio48dsq13kkk",
+        "dataIv": "eecbio48dsq13kkk",
+        "search": "searchList4",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "猎豹",
+      "name": "👑猎豹｜影视",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://444421.xyz",
+        "dataKey": "#getapp@TMD@2025",
+        "dataIv": "#getapp@TMD@2025"
+      }
+    },
+    {
+      "key": "王子",
+      "name": "👑王子｜影视",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://app.95112475.xyz",
+        "dataKey": "5a9w6x58dsq6z3a6",
+        "dataIv": "5a9w6x58dsq6z3a6"
+      }
+    },    
+    {
+      "key": "灵虎",
+      "name": "👑灵虎｜影视",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "./lib/89.txt",
+        "dataKey": "#getapp@TMD@2025",
+        "dataIv": "#getapp@TMD@2025"
+      }
+    },	
     {
       "key": "大师兄",
       "name": "💡师兄｜影视",
