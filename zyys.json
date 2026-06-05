@@ -120,15 +120,21 @@
       "playerType": 2,
       "ext": "https://shdy5.us"
     },  
-	{
-     "key": "瓜子影视",
-     "name": "🌻瓜子｜影视",
-     "type": 3,
-     "api": "csp_Gz360",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 1
-    },      
+        {
+            "name": "🥔瓜子｜影视",
+            "key": "Guazi",
+            "type": 3,
+            "api": "csp_GuaziAmns",
+            "jar": "./aowu.png;md5;10714f7811b5c344986dd280b9b65d4b",
+			"searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "sites": "",
+                "filters": "./lib/guazi.json"
+            }
+        },
     {
       "key": "金牌影视",
       "name": "💡金牌｜影视",
