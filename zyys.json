@@ -380,7 +380,7 @@
     },
    {	  
       "key": "夕云",
-      "name": "夕云｜影视",
+      "name": "🌈夕云｜影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -391,7 +391,7 @@
     },        
 	  {
             "key": "好好看App",
-            "name": "好好看｜影视",
+            "name": "👌好看｜影视",
             "type": 3,
             "jar": "./jar/hhk.jar",
             "api": "csp_XBPQ",
