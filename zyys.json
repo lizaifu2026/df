@@ -332,19 +332,6 @@
       }
     },
     {
-      "key": "灵虎",
-      "name": "👑灵虎｜影视",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "./lib/89.txt",
-        "dataKey": "#getapp@TMD@2025",
-        "dataIv": "#getapp@TMD@2025"
-      }
-    },
-    {
       "key": "剧圈99",
       "name": "👑剧圈｜影视",
       "type": 3,
@@ -390,8 +377,32 @@
         "buildNumber": "2001",
         "buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"
       }
-    }
- ],
+    },
+   {	  
+      "key": "夕云",
+      "name": "夕云｜影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "首页": "电视剧$21",
+        "分类": "电影$20#电视剧$39#动漫$46#综艺$47",
+        "分类url": "https://www.xyxy.live/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html[]"
+      }
+    },        
+	  {
+            "key": "好好看App",
+            "name": "好好看｜影视",
+            "type": 3,
+            "jar": "./jar/hhk.jar",
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://www.lyjzedu.com/;;!",
+                "简介": "水印广告勿信，谨防诈骗"
+            }
+        } 
+  ],
   "parses": [
     {
       "name": "-聚合-",
