@@ -1,6 +1,20 @@
 {
   "spider": "./zyys.png;md5;e7efb6bf5a9509d3fab657e2102561fa",
   "logo": "./logi10.gif",
+  "lives": [
+        {
+            "name": "联通直播",
+            "type": 0,
+            "url": "./lnltzby.txt",
+            "epg": "http://igtv.top:2132?ch={name}&date={date}"
+        },
+         {
+            "name": "咪咕直播",
+            "type": 0,
+            "url": "",
+            "epg": ""
+		}
+      ],
   "sites": [
     {
       "key": "豆瓣",
