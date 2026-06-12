@@ -58,7 +58,21 @@
 			"api": "https://pan.szfx.top/down.php/56ac2028f2dd8336dccad017927cbef1.py",
 			"ext": "http://43.248.117.123:4680"
 		},   
-	{
+       {
+			"key": "猫头鹰",
+			"name": "🦉夜猫┃影视",
+			"type": 3,
+			"api": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/lib/get.js",
+			"searchable": 1,
+			"ext": {
+				"host": "http://103.217.190.91:9999",
+				"key": "zxPtEUDGVllIUhDB",
+				"init": "V122",
+				"api": 2,
+				"ua": "okhttp/3.10.0"
+			}
+		},	
+	  {
       "name": "🦀螃蟹｜影视",
       "key": "NewNoxPx",
       "type": 3,
