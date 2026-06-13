@@ -258,7 +258,17 @@
       "playerType": 2,
       "ext": "http://99cms.jj99.icu:8199/api.php/app/"
     },	  
-    {
+     {
+     "key": "小城",
+     "name": "🧵小城｜影视",
+     "type": 3,
+     "api": "csp_AppYs",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "ext": "http://v.cute6.cn/api.php/v1.vod"
+   },      
+	{
       "key": "蓝鹰",
       "name": "🦅蓝鹰｜影视",
       "type": 3,
