@@ -422,7 +422,55 @@
                 "分类url": "https://www.lyjzedu.com/;;!",
                 "简介": "水印广告勿信，谨防诈骗"
             }
-        } 
+        }, 
+     {
+      "key": "七味影院",
+      "name": "✌🏻七味｜影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "防走丢": "https://www.qwmkv.com/",
+        "主页url": "https://www.pkmp4.xyz/",
+        "二次截取": "class=\"pic-list clearfix\"&&</ul>",
+        "数组": "<li>&&</li>",
+        "标题": "title=\"&&\"",
+        "图片": "src=\"&&\"",
+        "副标题": "</i>&&</span>",
+        "链接": "href=\"&&\"",
+        "播放数组": "class=\"player\"&&</ul>",
+        "播放链接": "href=\"&&\"",
+        "播放列表": "<a&&a>",
+        "播放标题": ">&&</",
+        "线路数组": "<option&&option>",
+        "线路标题": "多多专线",
+        "跳转播放链接": "var player_*\"url\":\"&&\"",
+        "分类url": "https://www.pkmp4.xyz/ms/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+        "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$30"
+      }
+    },    
+	  {
+      "key": "沙雕",
+      "name": "🚗沙雕动漫｜影视",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.309
+      },
+      "ext": {
+        "type": "沙雕综合#沙雕求生#沙雕修仙#沙雕末世#沙雕诡异#完结沙雕#动漫馆",
+        "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt",
+        "msg": "124421jh8lk39646pgruC6dATnyTtf6ewyst71opcsJfticyXxWGbU5x4zxzEQ5LWhshM7QSmwiAgf0H4RN8rjjuUPQPPsiTj8Yz48I27L5SoL/Lbg70J558Qnv6Dtdt9BeeyWciQnnqApDLzxuKF+nEHryocRY26k1efEO43zCfP69tVyTyWvQ/MT7q/J7KDiOdwg0CGUc0cPhVc3AiwU6ZXIapEVCaeJ1OkLO2LzfrGsCulTGV9LrN4N8omBYpohl4BgdDhg8SQwEh9MoFXC1M2AqzePjz+itosXK3VQ3Ch4ba88bCsZSAs56JWl570OQ5t3yuPDslC75Y1p4Y9x9OOnztqiDqRbgpaXR5KWKYWfjU9T1H2SXW3uAmq9Z2GQKDrAQT7gB35NJeagOshSRZScjiS3Ss7lf/6iMfs9NInk9DfLj/H/9HCcIDRr1AG/ZGgLLtB/doGr0l/oENwrHwu+kLjzqWcmiAPcaLdbeeK18hxlYJBvXIlfjoWgopvFnm7338rR8k7EwtnU39fRJph5WcuPdvL5ZivGdWO+EYQ47zLhX038Vcju8iF3omFTj5W6D9FEOXryKIMCBgi8G5t+I73iaFCGGzTA=="
+      }
+    } 
   ],
   "parses": [
     {
