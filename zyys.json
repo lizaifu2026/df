@@ -117,7 +117,20 @@
 		 "dataIv":"1234567887654321"
 	   }
 	},	
-     {
+  {
+			"key": "茉莉",
+			"name": "☸️魔力┃影视",
+			"type": 3,
+			"searchable": 1,
+			"api": "csp_AppGet",
+			"jar": "https://ncstatic.clewm.net/rsrc/2026/0416/12/9c6f4eee384d4e9184f7a751c4d10b16.png;md5;690CD77AEB20B09A8DD8E01DCBE660B6",
+			"ext": {
+				"site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
+				"dataKey": "88689667dce61725",
+				"dataIv": "88689667dce61725"
+			}
+		},   
+	  {
       "key": "骚火影视",
       "name": "🔥骚火｜影视",
       "type": 3,
