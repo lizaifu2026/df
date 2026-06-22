@@ -130,6 +130,39 @@
 				"dataIv": "88689667dce61725"
 			}
 		},   
+    {
+      "key": "闪影BOX",
+      "name": "🤯臻享┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchTop": true,
+      "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
+    },	  
+    {
+      "key": "HG影视",
+      "name": "🌺HG┃影视",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "host": "https://ios.hgyx.vip",
+        "datakey": "062dec75d039980e",
+        "ua": "Dart/3.5 (dart:io)"
+      }
+    },
+    {
+      "key": "八天App",
+      "name": "🐷八天┃影视",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "host": "https://dy.8ttv.cn/",
+        "datakey": "1111111111111111"
+      }
+    },	  
 	  {
       "key": "骚火影视",
       "name": "🔥骚火｜影视",
