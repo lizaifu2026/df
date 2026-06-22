@@ -217,7 +217,18 @@
         "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
       }
     },
-        {
+          {
+            "key": "dongman",
+            "name": "🌞嗷呜｜动漫",
+            "type": 3,
+            "api": "./py/嗷呜动漫.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },          
+	  {
             "key": "feiyang",
             "name": "🐏飞扬｜影视",
             "type": 3,
