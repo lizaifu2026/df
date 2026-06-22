@@ -196,6 +196,16 @@
       "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },    
     {
+            "key": "农牧",
+            "name": "📺农牧｜影视",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/农牧影视.json"
+     },	      
+	  {
       "key": "py_文才",
       "name": "🥇文才｜影视",
       "type": 3,
