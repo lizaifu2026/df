@@ -228,7 +228,16 @@
             "filterable": 1,
             "playerType": 2
         },    
-        {
+    {
+      "key": "山有木兮",
+      "name": "🌲木兮｜影视",
+      "type": 3,
+      "api": "./lib/木兮.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
+    },	       
+	  {
             "key": "八戒影视",
             "name": "🐖八戒｜影视",
             "type": 3,
