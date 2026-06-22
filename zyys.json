@@ -330,7 +330,20 @@
      "filterable": 1,
      "ext": "http://v.cute6.cn/api.php/v1.vod"
    },      
-	{
+    {
+      "key": "老丫",
+      "name": "🦅老雅｜影视",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "api": "./lib/fox.js",
+      "ext": {
+        "host": "https://cms99api.ystva.com"
+      }
+    },	
+	  {
       "key": "蓝鹰",
       "name": "🦅蓝鹰｜影视",
       "type": 3,
