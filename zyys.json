@@ -611,19 +611,7 @@
 				"分类": "国产剧$13#电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"
 			}
 		},
-    {
-      "name": "🍩甜圈｜短剧",
-      "key": "TQdj",
-      "type": 3,
-      "api": "csp_TQdjAmns",
-      "jar": "./aowu.png;md5;10714f7811b5c344986dd280b9b65d4b",
-	  "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "genre": "shortdrama"
-    },
-    {
+     {
       "name": "🎀围观｜短剧",
       "key": "Wgdj",
       "type": 3,
