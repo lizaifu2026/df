@@ -143,7 +143,8 @@
       "name": "🌺HG┃影视",
       "type": 3,
       "searchable": 1,
-      "changeable": 1,
+      "jar": "./vox.jar;md5;ccbbaf9a8eb24e3c710884cb82b668f2",
+	  "changeable": 1,
       "api": "csp_AppGet",
       "ext": {
         "host": "https://ios.hgyx.vip",
@@ -155,7 +156,8 @@
       "key": "八天App",
       "name": "🐷八天┃影视",
       "type": 3,
-      "searchable": 1,
+      "jar": "./vox.jar;md5;ccbbaf9a8eb24e3c710884cb82b668f2",
+	  "searchable": 1,
       "changeable": 1,
       "api": "csp_AppGet",
       "ext": {
