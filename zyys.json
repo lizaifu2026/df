@@ -218,6 +218,17 @@
             "filterable": 1,
             "playerType": 2
         },    
+        {
+            "key": "八戒影视",
+            "name": "🐖八戒｜影视",
+            "type": 3,
+            "api": "./py/八戒影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },	
 	{
       "key": "王子",
       "name": "👑王子｜影视",
