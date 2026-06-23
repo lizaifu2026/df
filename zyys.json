@@ -228,7 +228,17 @@
             "filterable": 1,
             "playerType": 2
         },    
-        {
+     {
+      "key": "58ys",
+      "name": "🐟五八｜影视",
+      "type": 3,
+      "api": "https://raw.giteeusercontent.com/the-scholar-is-reckless/lib/raw/master/58ys.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1
+    },            
+	  {
             "key": "八戒影视",
             "name": "🐖八戒｜影视",
             "type": 3,
