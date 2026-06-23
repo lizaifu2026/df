@@ -331,6 +331,17 @@
       "quickSearch": 1,
       "changeable": 1
     },       
+    {
+      "name": "🎯荐片｜影视",
+      "key": "JPian",
+      "type": 3,
+      "api": "csp_JPianAmns",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./lib/jpian.json"
+    },	  
 	  {
             "name": "🪁杜北｜影视",
             "key": "Dubk",
