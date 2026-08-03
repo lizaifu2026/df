@@ -1,7 +1,6 @@
 {
     "sites_count": 15,
     "logo": "./logi10.gif",
-    "homeLogo": "./img/logo.gif",
     "spider": "",
     "sites": [
         {
@@ -49,87 +48,6 @@
     ],
     "parses": [],
     "lives": [
-        {
-            "name": "📡咪咕直播",
-            "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-            "ua": "okHttp/Mod-1.1.0"
-        },
-        {
-            "name": "📡体育直播",
-            "type": 0,
-            "url": "http://82.156.243.185:33389/fwc.m3u"
-        },
-        {
-            "name": "📡裤佬直播",
-            "type": 0,
-            "url": "https://live.445569.xyz/live.m3u"
-        },
-        {
-            "name": "👖裤佬体育直播",
-            "type": 0,
-            "url": "https://sports.445569.xyz/all.m3u"
-        },
-        {
-            "name": "👖裤佬抖音直播",
-            "type": 0,
-            "url": "https://douyin.445569.xyz/live.m3u"
-        },
-        {
-            "name": "👖裤佬快手直播",
-            "type": 0,
-            "url": "https://kuaishou.445569.xyz/list.m3u"
-        },
-        {
-            "name": "👖裤佬Twitch直播",
-            "type": 0,
-            "url": "https://twitch.445569.xyz/live.m3u"
-        },
-        {
-            "name": "👖裤佬TikTok直播",
-            "type": 0,
-            "url": "https://tiktok.445569.xyz/live.m3u"
-        },
-        {
-            "name": "👖裤佬松果赛事",
-            "type": 0,
-            "url": "https://sgty.pages.dev/live.m3u"
-        },
-        {
-            "name": "🍿虎牙TV直播",
-            "type": 1,
-            "url": "http://nn.7x9d.cn/xz/虎牙.php"
-        },
-        {
-            "name": "🍿斗鱼TV直播",
-            "type": 1,
-            "url": "http://nn.7x9d.cn/xz/斗鱼.php"
-        },
-        {
-            "name": "🍿歪歪TV直播",
-            "type": 1,
-            "url": "http://nn.7x9d.cn/xz/yy.php"
-        },
-        {
-            "name": "🍿日后TV直播",
-            "type": 0,
-            "url": "http://rihou.cc:555/gggg.nzk"
-        },
-        {
-            "name": "🍿台湾4GTV直播",
-            "type": 0,
-            "url": "http://4gtv.cnlive.club/4gtv.m3u"
-        },
-        {
-            "name": "🍿俄罗斯TV直播",
-            "type": 0,
-            "url": "https://ilook.epg.one/5CM5SY98BF24PL/2"
-        },
-        {
-            "name": "🍿全球TV直播{翻}",
-            "type": 0,
-            "url": "https://seep.eu.org/iptv-org.github.io/iptv/index.m3u"
-        }
     ],
     "flags": [
         "youku",
