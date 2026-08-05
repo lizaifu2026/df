@@ -46,6 +46,17 @@
             ]
         },
         {
+            "key": "毒蛇",
+            "name": "毒蛇影视",
+            "type": 3,
+            "api": "./py/毒蛇.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },          
+        {
             "key": "电影天堂",
             "name": "天堂网",
             "type": 1,
