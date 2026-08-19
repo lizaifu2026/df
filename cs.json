@@ -1409,12 +1409,11 @@
     "parses": [],
     "lives": [
         {
-      "name": "📺 辽宁直播",
-      "type": 0,
-      "url": "assets://iptv/辽宁直播.m3u",
-      "ua": "okhttp/3.15",
-      "playerType": 2
-    }
+            "name": "📺辽宁直播",
+            "type": 0,
+            "url": "assets://iptv/辽宁直播.m3u",
+            "epg": "http://igtv.top:2132?ch={name}&date={date}"
+        }
 	],
     "flags": [
         "youku",
