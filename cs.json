@@ -1408,7 +1408,14 @@
     ],
     "parses": [],
     "lives": [
-    ],
+        {
+      "name": "📺 辽宁直播",
+      "type": 0,
+      "url": "",
+      "ua": "okhttp/3.15",
+      "playerType": 2
+    }
+	],
     "flags": [
         "youku",
         "优酷",
